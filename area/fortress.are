@@ -1,0 +1,325 @@
+#AREADATA
+Name        Generic   The Forbidden Fortress~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       151 170
+Cvnum       154
+Security    1
+Areabits    16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#151
+The preparation room~
+Some use this room to prepare for battle, however only a fool
+enters the Forbidden Fortress unprepared. Besides an old 
+rusted weapons wrack and a chair, this place is empty.
+~
+8200 0
+D2
+~
+~
+0 0 152
+S
+#152
+Hall of shame~
+Dead bodies line the hallway and blood stains almost every
+inch of the floor. Those who lost their battle remain here 
+as a reminder of how grusome death really is.
+~
+8200 0
+D0
+~
+~
+0 0 151
+D1
+~
+~
+0 0 153
+D2
+~
+~
+0 0 154
+D5
+~
+~
+0 0 162
+S
+#153
+Hallway end~
+There is nothing here but bones and bodies. Besides a small 
+stairway heading up to the tower the only other way to go is
+west.
+~
+8200 0
+D3
+~
+~
+0 0 152
+D4
+~
+~
+0 0 160
+S
+#154
+Tower base~
+Some stairs lead upwards to a small tower. A large red banner
+hangs by them tattered and bloody from the years of seeing
+combat and death. You feel some heat coming from the west.
+~
+8200 0
+D0
+~
+~
+0 0 152
+D2
+~
+~
+0 0 156
+D3
+~
+~
+0 0 157
+D4
+~
+~
+0 0 158
+S
+#155
+Field of victory~
+Those triumphiant in their battle take time to rest and enjoy
+their victory before heading back out for more. Enjoy your
+rest for you deserved it.
+~
+8236 0
+D0
+~
+~
+0 0 7802
+S
+#156
+A dead end~
+The only way you can go is back the way you came. The doorway
+out has been blocked for many, many years. There are only two
+ways out of the forbidden fortress, kill or be killed.
+~
+8200 0
+D0
+~
+~
+0 0 154
+S
+#157
+Forbiddden furnace~
+A large black furnace pumps out heat to the entire Fortress.
+This room is exceptionally hot, and a bright red fire burns
+constantly. Even here death shows its mark as the smell of
+burnt flesh overwhelms your senses.
+~
+8200 0
+D1
+~
+~
+0 0 154
+S
+#158
+Forbidden tower~
+This is a small tower on the fortress. You can see the 
+outside through a small window, but its to small for escape.
+~
+8200 0
+D0
+~
+~
+0 0 159
+D1
+~
+~
+0 0 161
+D5
+~
+~
+0 0 154
+S
+#159
+Inside the forbidden tower~
+Still in the tower there are stairs leading down to the south
+and to the east.
+~
+8200 0
+D1
+~
+~
+0 0 160
+D2
+~
+~
+0 0 158
+S
+#160
+Forbidden tower~
+You can leave the tower by heading down the stairs.
+~
+8200 0
+D2
+~
+~
+0 0 161
+D3
+~
+~
+0 0 159
+D5
+~
+~
+0 0 153
+S
+#161
+Inside the forbidden tower~
+Stairs leading down from the tower are to the north and west.
+~
+8200 0
+D0
+~
+~
+0 0 160
+D3
+~
+~
+0 0 158
+S
+#162
+The Pit~
+~
+8200 0
+D0
+~
+~
+0 0 163
+D2
+~
+~
+0 0 168
+D4
+~
+~
+0 0 152
+S
+#163
+The Pit~
+~
+8200 0
+D2
+~
+~
+0 0 162
+D3
+~
+~
+0 0 164
+S
+#164
+The Pit~
+~
+8200 0
+D1
+~
+~
+0 0 163
+D3
+~
+~
+0 0 165
+S
+#165
+The Pit~
+~
+8200 0
+D1
+~
+~
+0 0 164
+D2
+~
+~
+0 0 169
+S
+#166
+The Pit~
+~
+8200 0
+D0
+~
+~
+0 0 169
+D1
+~
+~
+0 0 167
+S
+#167
+The Pit~
+~
+8200 0
+D1
+~
+~
+0 0 168
+D3
+~
+~
+0 0 166
+S
+#168
+The Pit~
+~
+8200 0
+D0
+~
+~
+0 0 162
+D3
+~
+~
+0 0 167
+S
+#169
+The Pit~
+~
+8200 0
+D0
+~
+~
+0 0 165
+D2
+~
+~
+0 0 166
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

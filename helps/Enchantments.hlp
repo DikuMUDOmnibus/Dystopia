@@ -1,0 +1,17 @@
+ENCHANTMENTS
+ENCHANTMENTS SPHERES WARLOCK
+1
+Warlocks are able to cast several types of enchantments, some of them can
+target an entire area, and will keep runnig until the warlock dispels it
+with the disenchant command, or runs out of mana.
+
+level 1:   @@Fists of Steel@   (improved hitroll and damroll)
+level 2:   @@Earthmother@      (increase regeneration in this area)
+level 3:   @@Plague@           (decrease regeneration in this area)
+level 4:   @@Milk and Honey@   (Powerful beneficial enchantment)
+level 5:   @@Displacement@     (disrupts targetting powers)
+level 6:   @@Beacon@           (lowers cost of chain spells)
+ 
+Please notice that level 6 powers can only be gained by warlocks which have
+mastered this sphere (ie. picked this sphere when they got their mastery
+item). A warlock can only master one sphere.

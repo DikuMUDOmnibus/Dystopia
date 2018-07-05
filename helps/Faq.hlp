@@ -1,0 +1,24 @@
+FAQ
+FAQ INFORMATION
+1
+This quick helpfile will help to answer some of your questions regarding the
+MUD Calim's Cradle.
+
+Q. Why are there only 4 classes on this MUD?
+A. We are trying to create a series of very different classes, each having a
+   unique playing style, and more depth than classes normally found in a
+   GodWars MUD. As the MUD progresses, more classes will be added, and we
+   hope to follow the same standard as the 4 original classes.
+
+Q. Why is the experience at such a low level compared to other Dystopia MUDs?
+A. We don't consider the experience level to be low, rather we are trying to
+   avoid the number inflation found in many MUDs, where you gain billions of
+   experience, but has to spend several billions gaining powers. The numbers
+   have simply been lowered all around.
+
+Q. When I cast the identify spell on my weapon, it tells me that it has an
+   average damage of above 1000, how can that be true?
+A. There was a slight misinterpretation of how average damage was calculated,
+   and in fact, the old identify spell would report the damage of a weapon
+   incorrectly. The new spell just reports the actual damage dealt by the
+   weapon.

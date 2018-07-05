@@ -1,0 +1,192 @@
+
+Table of contents
+-----------------
+1. Introduction to linked lists
+2. How to use the new linked lists
+3. Benefits and drawbacks
+4. Performance
+
+
+1) Introduction to linked lists
+-------------------------------
+One of the new things in this codebase is how linked lists are handled. In 
+the older versions of Dystopia, linked lists where handled inline, and 
+each object kept track of the next object in the list.
+
+This had a few drawbacks, since each object could only be part of a single 
+list at a time, and should an object be removed from the list, it became a 
+hazzle to update the list correctly (which could lead to some problems if 
+coded incorrectly - and it is not always possibly to expect any given 
+outcome).
+
+So, instead of letting each object keep track of whatever object was next 
+(or previous) in the list, we have created a list structure, which keeps 
+track of the objects inside the list, and makes sure everything is updated 
+correctly every single time.
+
+2) How to use the new linked lists
+----------------------------------
+To loop through a linked list, we now use an iterator. First allocate the 
+iterator for whatever list it is needed, then use the iterator to loop 
+through the objects in the list. The following bit of code does a cast to 
+the type (CHAR_DATA *) - not all compilers require this, but it certainly 
+doesn't hurt, and should you ever wish to move your code to another 
+platform, it is always a good idea to have made the casts anyway :)
+
+pIter = AllocIterator(char_list);
+while ((ch = (CHAR_DATA *) NextInList(pIter)) != NULL)
+{
+  // do something with all chars in the char_list
+}
+
+If you use GCC as your compiler, you can create a macro for this purpose. 
+You will need to remove the -ansi flag in the Makefile, since this is not 
+a part of the ANSI standard. In your headerfile define the following macro.
+
+#define LOOP(v, l, i)   \
+  i = AllocIterator(l); \
+  while ((v = (typeof(v)) NextInList(i)) != NULL)
+
+Now in your code, you can simply type the following to loop through a list:
+
+LOOP(ch, char_list, pIter)
+{
+  // do something with all chars in char_list
+}
+
+Attaching something to a list, and detaching something has become much 
+easier. Simply use the following to functions:
+
+AttachToList(ch, char_list);
+DetachFromList(ch, char_list);
+
+AttachToList() will add the object to the FRONT of the list. Since this is 
+not always what you want, you can use AttachToEndOfList(), 
+AttachToListAfterItem() and AttachToListBeforeItem() instead. If you want 
+to loop through the list in reverse order, you can use 
+AllocReverseIterator() instead of AllocIterator().
+
+Other than that, simply look at some of the code in the codebase to get an 
+idea on how the linked lists work.
+
+Also, another structure called a STACK has been added to keep track of the 
+"free_lists". It is the same basic principle - so just read the code.
+
+Anyone wanting to tinker with the internals of the linked lists, please 
+do, and if you find a way to increase the performance of the linked list 
+code, I'd appreciate an email with the details.
+
+3) Benefits and drawbacks
+-------------------------
+Using the new linked lists is SAFE. Meaning there is no way you can
+accidently skip out of the list (this could happen in the old lists,
+just look at the following example
+
+for (obj = object_list; obj != NULL; obj = obj->next)
+{
+  if (Object must be destroyed)
+    extract_obj(obj);
+}
+
+When the object is extracted, its next pointer will no longer point
+to something in object_list, but rather to something in the "free list"
+for objects. Several halfcooked workarounds have been used to avoid
+this, including the following
+
+for (obj = object_list; obj != NULL; obj = obj_next)
+{
+  obj_next = obj->next;
+
+  if (Object must be destroyed)
+    extract_obj(obj);
+}
+
+Certainly now we stay within the object_list, because we know what
+object comes next in the list, and we remember this even after
+extracting the current object. But what if obj_next is inside
+the object being extracted? extract_obj() also extracts all objects
+inside the object being extracted, so again we end up in the "free
+list" for objects.... Using the Iterator in the new linked lists
+will make sure this never happens.
+
+Another benifit is that each object can be part of many linked lists
+at the same time. This was not possible with the old system.
+
+The only real drawkback is the overhead with allocating the iterator
+and free'ing it later on (this happens automatically btw, so no
+need to worry about this).
+
+4) Performance
+--------------
+currently the linked list structure has a noticable overhead over the
+ordinary inline linked lists - with noticable I mean if you allocate
+some 15.000 iterators and loop through various lists, it might take as
+much as 1-2 seconds (the 'asave world' command does exactly that). In 
+normal gametime you will not notice a difference.
+
+To avoid allocating several thousand iterators when booting the game,
+and when saving areas, the game uses something called QuickIterators.
+These iterators are allocated once, and reused over and over. The
+current gamecontrol makes sure that there is no clash of lists, so the
+what happens now is safe, but please do not use the QuickIterators for
+anything else, unless you know how the system works.
+
+If you want to improve performance, here are a few tips:
+
+1. If you want to get the first or last object in the list, and have no
+   use for all the other objects in the list, use the FirstInList()
+   and LastInList() calls. These calls work in constant time, with no
+   memory usage. For instance, wanting to find the first person in a room:
+
+   /* Version 1 */
+   ch = (CHAR_DATA *) FirstInList(pRoom->people);
+
+   /* Version 2 */
+   pIter = AllocIterator(pRoom->people);
+   ch = (CHAR_DATA *) NextInList(pIter);
+
+   Even though both versions finds the first person in the room, and they
+   both work in constant time (more or less), the second version allocates
+   memory for an iterator (and substructures), which then needs to be
+   free'd later.
+
+2. If you want to detach an object while looping over the list, do not
+   use DetachFromList() (even though you could), but instead use the call
+   DetachAtIterator(). Like this
+
+   pIter = AllocIterator(char_list);
+   while ((ch = (CHAR_DATA *) NextInList(pIter)) != NULL)
+   {
+       /* Version 1 */
+       if (!str_cmp(ch->name, "Jobo"))
+           DetachAtIterator(pIter);
+
+       /* Version 2 */
+       if (!str_cmp(ch->name, "Jobo"))
+           DetachFromList(ch, char_list);
+   }
+
+   In the above code, version 1 and version 2 will both result in the
+   character named Jobo being removed from the list, but the first
+   version works in constant time, where the second version loops through
+   the entire list to find the character to remove.
+
+
+Function                 |Running Time  |Notes               
+-------------------------------------------------------------------------------
+AttachToList             | O(1)         | attaches to the front of the list
+AttachToEndOfList        | O(1)         |
+AttachToListBeforeItem   | O(n)         |
+AttachToListAfterItem    | O(n)         |
+DetachFromList           | O(n)         |
+DetachAtIterator         | O(1)         |
+NextInList               | O(1)         |
+PeekNextInList           | O(1)         | does not move the iterator
+FirstInList              | O(1)         | does not require an iterator
+LastInList               | O(1)         | does not require an iterator
+AllocList                | O(1)         |
+AllocIterator            | O(1)         |
+AllocReverseIterator     | O(1)         |
+AllocQuickIterator       | -- NEVER --  | Do not use this - EVER!
+SizeOfList               | O(1)         |
+FreeList                 | O(n)         | does not free content

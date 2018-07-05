@@ -1,0 +1,33 @@
+PARADOX
+PARADOX POWERSCORE MIGHTRATE
+1
+When a player decaps someone not in their range, they get paradox'ed,
+which means they end up morted in Ri'on Dashor, which really isn't healthy.
+A player getting paradox'ed will also lose 10% of their MAX hps.
+
+The range works in this way :
+
+If the defender has at least 4 more @@status@ than the attacker, then the
+attack will succede without risking paradox. If the attacker cannot avoid
+paradox due to the status range, then each player has a certain powerscore 
+assigned to them, and this score will go up (or down) as this player gets
+more powerful, these are the things that affect how powerful you are in
+regard to the powerscore :
+
+* How many hitpoints you have.
+  - this is calculcated from your maximum hitpoints, unaffected
+    by your current condition, or any affects that can change
+    your hitpoints temporary.
+* Your skills at weapons, stances and spell.
+  - as the skills shown on the 'level' screen increases, so does
+    your powerscore.
+* Your evolved status has a small adjustment.
+  - mainly due to having more powers, and a higher statcap.
+* Your class abilities
+  - each class has some abilities flagged which will increase their
+    powerscore when learned. These skills are always oriented towards
+    combat, and as such should count towards your pk-range.
+
+If you decap someone which are not within your range, you get a paradoxcounter,
+should you ever get 3 of these counters you will be struck by paradox. You can
+only get rid of counters by decapping players within your range.

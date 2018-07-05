@@ -1,0 +1,8 @@
+OTRANSFER
+OTRANSFER
+7
+Syntax: otransfer [object]
+Syntax: otransfer [object] [character]
+
+This will transfer the specified object to the specified character.
+The character is defaulted to yourself.

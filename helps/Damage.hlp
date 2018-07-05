@@ -1,0 +1,19 @@
+DAMAGE
+DAMAGE INFORMATION
+1
+When dealing damage, the message changes according to how much damage you
+deal. This list of messages will help you keep track of the kind of damage
+that you will deal.
+
+    Damage           Message
+----------------------------------------------------------------------
+    1 -   50      #Clightly#n
+   51 -  250      #yhard#n
+  251 -  500      #Lvery hard#n
+  500 -  750      #Gextremely hard#n
+  751 - 1250      #9incredibly hard#n
+ 1251 - 2000      #rshredding flesh#n
+ 2001 - 3000      #osplintering bone#n
+ 3001 - 4500      #Rspraying blood like a fine red mist#n
+ 4501 - 6000      #yso hard it hurts just to see#n
+ 6001 -  ??       #G<#y*#L{#R*#L}#y*#G> #Gextracting organs #G<#y*#L{#R*#L}#y*#G>#n

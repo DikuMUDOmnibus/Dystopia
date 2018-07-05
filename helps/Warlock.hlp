@@ -1,0 +1,27 @@
+WARLOCK
+WARLOCK
+1
+The warlock class is a spellcasting class, which depends heavily on mana. The
+warlocks can cast magic from six different spheres of magic, each sphere 
+gives the caster access to five powers/spells. Using the command 'study', the
+warlock will start studying a sphere - this results in a mad exp-rush for 
+the following 30 minutes, where the warlock needs to gather a certain amount 
+of experience to gain the next sphere-level. Do not spend any of the 
+experience gained during those 30 minutes, or all the efford will be lost.
+
+The spheres used by warlocks are explained below, each of the spheres has its
+own helpfile, which explains the different powers gained in that sphere.
+
+@@NECROMANCY@     This sphere allows the caster control over death and dead 
+               things. These powers usually focus on lifeforce.
+@@INVOCATION@     This sphere is the most aggressive of all the spheres, and
+               contains spells used for destruction.
+@@DIVINATION@     This sphere contains information gathering spells.
+@@ABJURATION@     This sphere contains protective spells.
+@@ENCHANTMENT@    This sphere contains spells used for laying enchantments,
+               both on living beings and on material objects.
+@@SUMMONING@      This sphere contains spells used for summoning and controlling
+               beasts and fiends (as well as other players).
+
+Also read the help file on @@SPELLCHAINS@, it contains information on how to
+build your own spells from the gesture system.

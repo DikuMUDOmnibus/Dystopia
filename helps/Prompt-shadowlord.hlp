@@ -1,0 +1,12 @@
+PROMPT-SHADOWLORD
+PROMPT-SHADOWLORD SHADOWLORD
+1
+The shadowlord class has access to 5 special class prompts, which are
+used to keep track of inactive/active powers as well as the health of
+the person they are fighting.
+
+%k will show if the knifeshield is active (o) or inactive (-).
+%K will show if the blur power is active (o) or inactive (-).
+%c will show if the bloodrage power is active (o) or inactive (-).
+%C will show if the shadowform power is active (o) or inactive (-).
+%y will show the health of the shadowlords opponent in %.

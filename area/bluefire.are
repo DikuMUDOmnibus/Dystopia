@@ -1,0 +1,2332 @@
+#AREADATA
+Name        Archanos  The Bluefire Fields~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       8400 8499
+Cvnum       8400
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#8400
+vluefire archer~
+a Vluefire Archer~
+A Vluefire Archer is positioned here, waiting to shoot.
+~
+~
+3 0 -1000
+377 10 4 42 0 0
+1 11
+S
+#8401
+vluefire pikesman~
+a Vluefire Pikesman~
+A Vluefire Pikesman stands here, waiting for combat.
+~
+~
+3 0 -1000
+396 0 3 23 0 0
+1 9
+S
+#8402
+vluefire swordsman~
+a Vluefire Swordsman~
+A Vluefire Swordsman is here, sword in hand.
+~
+~
+3 0 -1000
+399 0 5 52 0 0
+1 3
+S
+#8403
+vlynkist archer~
+a Vlynkist Archer~
+A Vlynkist Archer aims his bow to the south, waiting to fire.
+~
+~
+3 0 1000
+396 5 5 76 0 0
+1 11
+S
+#8404
+vlynkist pikesman~
+a Vlynkist Pikesman~
+A Vlynkist Pikesman is here, with his pike in hand.
+~
+~
+3 0 1000
+388 20 5 0 0 0
+1 0
+S
+#8405
+vlynkist swordsman~
+a Vlynkist Swordsman~
+A Vlynkist Swordsman stands here, wielding his sword.
+~
+~
+3 0 1000
+450 0 5 28 0 0
+1 3
+S
+#8406
+bluefire temple warrior knight~
+Temple Warrior~
+(Aethereal) A Bluefire Knight stands here.
+~
+~
+1 0 0
+470 25 3 18 0 0
+1 1
+S
+#8407
+bluefire high priestess~
+Bluefire High Priestess~
+The Bluefire High Priestess, dressed in white robes, levitates here.
+~
+~
+3 256 0
+520 50 8 59 0 0
+2 6
+S
+#8408
+bluefire noble paladin champion defender faith~
+Defender of the Faith~
+(Aethereal) A noble paladin and defender of the Bluefire stands here.
+~
+~
+3 262144 0
+511 25 4 28 0 0
+1 1
+S
+#8409
+adept lynk~
+an Adept of Lynk~
+An Adept of Lynk stands here with a book in hand.
+~
+~
+3 256 0
+516 50 5 138 0 0
+2 12
+S
+#8410
+bluefire adept bluefire scholar~
+Bluefire Scholar~
+A Bluefire Scholar stands here studying a book.
+~
+~
+3 256 0
+480 25 7 2 0 0
+1 6
+S
+#8411
+shadow demon~
+Shadow Demon~
+A demon swirls around in the shadows here.
+~
+~
+11 128 -1000
+550 10 5 40 0 0
+1 5
+S
+#0
+
+
+
+#OBJECTS
+#8400
+water well fountain~
+#LWater Well#n~
+A #LWater Well#n sits in the center of the pathway here.~
+21 0 0
+8483 0 0 0
+1 250
+#8401
+staff firestorm~
+a staff of firestorm~
+A wooden staff rests on the floor here.~
+4 18 16385
+45 13 50 'fireball'
+1 250
+#8402
+blue stone~
+a blue stone~
+A blue stone rests on the floor here.~
+3 0 16385
+35 2 2 'chill touch'
+1 250
+#8403
+bluefire edge sword~
+a bluefire edge~
+A powerful sword rests on the floor here~
+5 0 24577
+5 10 25 3
+1 250
+#8404
+amulet silence~
+an amulet of silence~
+An amulet rests on the floor here.~
+7 0 5
+4 0 0 2
+1 250
+#8405
+boots stealth~
+some boots of stealth~
+A pair of boots rest on the floor here.~
+7 0 65
+4 0 0 0
+1 250
+A
+14 250
+A
+18 5
+A
+19 5
+#8406
+tome spirit wisdom ancient~
+the tome of spirit~
+An ancient tome of wisdom rests on the floor here.~
+7 0 16385
+2 0 0 0
+1 250
+A
+4 5
+A
+12 250
+#8407
+sacred altar shadow goddess~
+#nThe sacred altar~
+The Sacred Altar of the Shadow Goddess is here.~
+11 0 0
+10 1 0 0
+1 250
+#8408
+tome fire~
+the tome of fire~
+A red tome rests on the floor here.~
+2 0 16385
+10 'fireball' 'magic missile' 'magic missile'
+1 0
+#8409
+bookcase~
+bookcase~
+An oak bookcase is here.~
+11 0 0
+250 0 0 0
+1 250
+#8410
+tome wisdom~
+the tome of wisdom~
+A tome of wisdom is here.~
+7 0 16385
+10 0 0 0
+1 0
+#8411
+tome intelligence~
+the tome of intelligence~
+A tome of intelligence rests on the floor here.~
+7 0 16385
+10 0 0 0
+1 0
+#8412
+candle red flame~
+a candle~
+A candle is here burning with a red flame.~
+5 0 8193
+0 20 5 7
+1 0
+#8413
+bow longbow~
+a longbow~
+A longbow rests on the floor here.~
+5 0 8193
+0 50 5 11
+1 0
+#8414
+long pike~
+a pike~
+A long pike rests on the floor here.~
+5 0 8193
+0 20 6 11
+1 0
+#8415
+long sword~
+a long sword~
+A long sword rests on the floor here.~
+5 0 8193
+0 10 15 3
+1 0
+#8416
+shattered shield~
+shattered shield~
+The remains of a shattered shield is here.~
+7 0 513
+20 0 0 0
+1 0
+#8417
+broken sword~
+a broken sword~
+A broken sword is here.~
+5 0 8193
+0 1 5 3
+1 0
+#8418
+skullcap~
+a black skullcap~
+A black skullcap lies here.~
+7 0 17
+10 0 0 0
+1 0
+A
+13 -50
+A
+3 3
+#0
+
+
+
+#ROOMDATA
+#8400
+#gAn Open Field#n~
+An field opens up expanding to the east north and west. The field is
+covered with blood and it appears that numerous battles have been fought on
+this field recently. The grass on the field has been trampled and for the
+most part the grass is quailing and almost dead. It appears that the grass
+has not felt the warmth of the sun for a good deal of time. The field is
+littered with bones and corpses from a fallen army. 
+~
+0 2
+D0
+~
+~
+0 0 8407
+D1
+~
+~
+0 0 8401
+D3
+~
+~
+0 0 8403
+S
+#8401
+#gAn Open Field#n~
+During the day the sky above is blue and the sun moves on its normal path
+from the east to the west. At sundown, major battles have taken place on
+this field for the past hundreds of years. Corpses and decaying remains of
+fallen warriors litter the field. People have been dying in the Bluefire
+Fields for several centuries, as various warlords seek control of Bluefire
+Temple and the Library of the Blu. 
+~
+0 2
+D0
+~
+~
+0 0 8406
+D1
+~
+~
+0 0 8402
+D3
+~
+~
+0 0 8400
+S
+#8402
+#gAn Open Field#n~
+The scent of fresh blood is still in the air. To the east and south a
+dark and dense forest lies. The density of the forest prevents entry into
+the forest. The field opens up to the north and west. For most of its
+existance, the field has seen nothing but war and chaos, as numerous
+warmongers and warlords have come here over the centuries to battle for
+possession of this land. 
+~
+0 2
+D0
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8401
+S
+#8403
+#gAn Open Field#n~
+The remains of fallen warriors litter the field. The field opens up to
+the north east and west. To the south, there is a dense forest filled with
+massive trees. It appears that an army used this field for combat recently,
+as shattered swords and shields are scattered all over the field near the
+corpses of the fallen. Flies and worms have turned this place into a mecca,
+coming here to devour the corpses of warriors. 
+~
+0 2
+D0
+~
+~
+0 0 8408
+D1
+~
+~
+0 0 8400
+D3
+~
+~
+0 0 8404
+S
+#8404
+#gAn Open Field#n~
+Blood soaks into the floor of the field. It appears a major battle was
+fought here recently. The grass is trampled and rolled over by heavy cavalry
+and cannons. It appears that some town or a great treasure is nearby, as
+soldiers seem to come here in the thousands to die for a cause. The field
+expands to the north and the east. To the west and south, a forest is
+located an impedes movement in that direction. 
+~
+0 2
+D0
+~
+~
+0 0 8409
+D1
+~
+~
+0 0 8403
+S
+#8405
+#gAn Open Field#n~
+A blast of wind comes from the north and carries away the foul odors
+which cover this field. The odor of blood and rotting corpses is quite
+repugnant and few can bare to smell it. Flies swarm over the fallen corpses
+and lay their eggs while having a feast with the rotting tissues. To the
+east, there is a dense forest, which one can not use as an escape route. To
+the field opens up to the north west and south from here. 
+~
+0 2
+D0
+~
+~
+0 0 8410
+D2
+~
+~
+0 0 8402
+D3
+~
+~
+0 0 8406
+S
+#8406
+#gAn Open Field#n~
+The grass on the field has been rolled over and most of the flowers are
+dead. However, here or there one might find one or two dandelions or another
+strange plant. The plants on the field are stained red with blood. This
+field is frequent to bloodshed and battles, as numerous warriors come here
+to fight. Power hungry warlords and leaders send their troops here by the
+hundreds, yet few are able to decode and translate the ancient tomes within
+the Library of the Blu. 
+~
+0 2
+D0
+~
+~
+0 0 8411
+D1
+~
+~
+0 0 8405
+D2
+~
+~
+0 0 8401
+D3
+~
+~
+0 0 8407
+S
+#8407
+#gAn Open Field#n~
+The pathway towards the Bluefire Temple is here. Northwards, beyond the
+field lies the Bluefire Temple. Within the Bluefire Temple there are shrines
+to the shadow goddess. Also to the north, is the Library of the Blu, a
+library which rivals that of the Library of Astinus in Edge City. Limbs of
+fallen warriors litter the field and yet, its an amazing sight that
+dandelions and other flowers grow on this field of death and destruction. 
+~
+0 2
+D0
+~
+~
+0 0 8412
+D1
+~
+~
+0 0 8406
+D2
+~
+~
+0 0 8400
+D3
+~
+~
+0 0 8408
+S
+#8408
+#gAn Open Field#n~
+Sometimes, this place is called the field of lost hopes. For centuries
+warriors have come here to battle and fight for control of the massive stone
+buildings which lies north of the field. The Bluefire Temple and the Library
+of the Blu lie north of the field. The Library of the Blu was made hundreds
+of years ago and contain old books and tomes, which numerous sorcerors and
+sages seek. The Library of the Blu has sometimes been compared to the
+Library of Astinus. 
+~
+0 2
+D0
+~
+~
+0 0 8413
+D1
+~
+~
+0 0 8407
+D2
+~
+~
+0 0 8403
+D3
+~
+~
+0 0 8409
+S
+#8409
+#gAn Open Field#n~
+A cool wind comes from the north and carries away the odor of blood which
+remains in this area. This area has seen alot of bloodshed in the recent
+days. The red stains of blood are painted on the formerly green grass.
+Shattered pieces of metal and iron litter the floor next to corpses, which
+once may have owned the pieces of iron and metal. The field expands to the
+east north and south. All life on the field seems to be dead, or in the
+process of dying. 
+~
+0 2
+D0
+~
+~
+0 0 8414
+D1
+~
+~
+0 0 8408
+D2
+~
+~
+0 0 8404
+S
+#8410
+#gAn Open Field#n~
+North of here, in a light forest lies the Library of the Blu. The library
+is what the warlords and warmongers are after. Fueled by the thought of
+power and conquest, rulers send their armies from lands far away to take
+control of the Fields of Bluefire and to loot the bounty: the ancient tomes.
+The tomes within the library are written in a tongue long lost by commoners,
+only the shadow priests are able to translate and thus read the tomes. 
+~
+0 2
+D2
+~
+~
+0 0 8405
+D3
+~
+~
+0 0 8411
+S
+#8411
+#gAn Open Field#n~
+The Bluefire Temple and the Library of the Blu are made from limestone
+and have stood in this place for several millennia. The Bluefire Temple was
+made in honor of the shadow goddess. The Cult of Bluefire worship the shadow
+goddess and have amassed a library over the millennia of ancient tomes of
+knowledge and mastery of powerful spells and magic. It is said, during the
+the full moon, a strange spectacle occurs here and a light appears from the
+heaven above the Fields of Bluefire. 
+~
+0 2
+D1
+~
+~
+0 0 8410
+D2
+~
+~
+0 0 8406
+D3
+~
+~
+0 0 8412
+S
+#8412
+#gAn Open Field#n~
+A pathway leads north through the forest and towards the Bluefire Temple
+and the Library of the Blu. The field opens up to the east south and west.
+The field is covered with blood and the shattered weapons and armor of
+fallen warriors. Zealots have died here by the thousands. Once, long ago,
+there were many followers of the shadow goddess, but now, Cult of Bluefire
+is all that's left, except for a few isolated oddballs located throughout
+the realm. 
+~
+0 2
+D0
+~
+~
+0 0 8415
+D1
+~
+~
+0 0 8411
+D2
+~
+~
+0 0 8407
+D3
+~
+~
+0 0 8413
+S
+#8413
+#gAn Open Field#n~
+The sky over the field is usually blue and filled with one or two white
+puffy clouds. The gentle wind which comes from the north sweeps away the
+foul and rotten odor of rotting corpses which linger in the air above the
+field. The field is filled with dry grass and a few flowers. After being
+trampled and deprieved of light, it is no wonder that the grass is dying. To
+the north, there is a light forest. 
+~
+0 2
+D1
+~
+~
+0 0 8412
+D2
+~
+~
+0 0 8408
+D3
+~
+~
+0 0 8414
+S
+#8414
+#gAn Open Field#n~
+The Fields of Bluefire are frequent to battle and conquest. They have
+changed ownership many times in the last few centuries, as many warlords
+have taken over control of the land. The fields on both sides of the
+Bluefire Temple and the Library of the Blu are littered with corpses of
+fallen warriors and shatter dreams of power and conquest. The Library of the
+Blu houses ancient tomes and scrolls of great knowledge and power, however,
+most of the tomes and scrolls are written in a lost tongue, known only by
+the Bluefire priests. 
+~
+0 2
+D1
+~
+~
+0 0 8413
+D2
+~
+~
+0 0 8409
+S
+#8415
+#gForest Path#n~
+A pathway leads through the forest heading northwards, towards the
+Bluefire Pathway, which leads to the Library of the Blu and the Bluefire
+Temple. Tall trees grow to the east and west, but the forest trees here are
+sparsely spread apart. The trees in this region are coniferous and
+deciduous. The Bluefire Fields have a low temperature during the winter and
+summer. 
+~
+4 3
+D0
+~
+~
+0 0 8416
+D2
+~
+~
+0 0 8412
+S
+#8416
+#gForest Path#n~
+The pathway continues north and south, through the forest. To the north,
+a road with blue flames can be seen along with a well. The forest is
+frequent the battle with enemy forces. Opposing warlords come here to battle
+for control over the Bluefire Fields. Although, some of the warlords lack
+the brain capacity to understand the books within the library, control of
+the Bluefire Fields improves their standing among other warlords. 
+~
+0 3
+D0
+~
+~
+0 0 8417
+D2
+~
+~
+0 0 8415
+S
+#8417
+#lBlu#Lefi#9re P#Lath#lway#n~
+In the center of the pathway there is a massive well. The well is where
+members of the Bluefire Cult come to get water. The pathway continues east
+and west. To the west, the pathways leads to the Bluefire Temple and to the
+east, the pathway leads to the Library of the Blu. There is also a forest
+pathway here, which leads north and south. The Bluefire Pathway is made from
+bricks lined with blue flames. 
+~
+0 0
+D0
+~
+~
+0 0 8418
+D1
+~
+~
+0 0 8458
+D2
+~
+~
+0 0 8416
+D3
+~
+~
+0 0 8435
+S
+#8418
+#gForest Path#n~
+The forest pathway leads north and south. To the south, a road with blue
+flames can be seen. The Bluefire Pathway leads to the Library of the Blu and
+the Bluefire Temple. These forest have seen quite a deal of bloodshed and
+war. The ground is soaked with the blood of fallen warriors. Animals of the
+forest devour the corpses of the fallen. A cold wind comes from the north
+and blasts southwards. 
+~
+0 3
+D0
+~
+~
+0 0 8419
+D2
+~
+~
+0 0 8417
+S
+#8419
+#gForest Path#n~
+To the north, there is an open field where soldiers come to battle and
+camp. Warlords throughout the ages have attempted to take control of the
+Bluefire Field from each other. To the east and west, the fabled Library of
+the Blu and the Bluefire Temple are located. A cold wind comes from the
+north and the forest seems to be desolate, with few signs of animal life.
+The field to the north is filled with the remains of fallen warriors and
+appears to be a place where great danger lurks. 
+~
+4 3
+D0
+~
+~
+0 0 8420
+D2
+~
+~
+0 0 8418
+S
+#8420
+#gAn Open Field#n~
+The field opens up to the north east and west. To the south, a pathway
+leads towards the Bluefire Temple and the Library of the Blu. The field is
+littered with the corpses of fallen warriors and a malevolent odor lingers
+in the air above the field. The field is swarmed with flies who devour the
+corpses of the fallen. The grass has been trampled on and stained with
+blood. 
+~
+0 2
+D0
+~
+~
+0 0 8427
+D1
+~
+~
+0 0 8421
+D2
+~
+~
+0 0 8419
+D3
+~
+~
+0 0 8423
+S
+#8421
+#gAn Open Field#n~
+The contents within the Library of the Blu are said to rival those of the
+the Library of Astinus, which can be found within Edge City. Some say, that
+the Library of the Blu might house a collection of tomes and books, which
+followers of Astinus' sister have amassed. Either way, the tomes within the
+Library of the Blu are sought after by powerful sages and other power hungry
+beings however, the tomes were written in an archaic tongue. 
+~
+0 2
+D0
+~
+~
+0 0 8426
+D1
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8420
+S
+#8422
+#gAn Open Field#n~
+Warriors tend to come on the open field and battle their opponents.
+Warriors who chose not to make their camps in the forest make their camps in
+this open field and expose themselves to enemy onslaughts. For hundreds of
+years rulers and emperors have been fighting for control of the Bluefire
+Fields. Although the field are concealed from sight, throughout the years,
+people have memorized the pathway to the Bluefire Fields, and the magical
+cloak which veils the area only work when one looks upon the lands from
+afar. 
+~
+0 2
+D0
+~
+~
+0 0 8425
+D3
+~
+~
+0 0 8421
+S
+#8423
+#gAn Open Field#n~
+The temple buildiong lies south of here. The temple itself is made from
+limestome, which was brought to this location from afar. Limestone is very
+expensive to find, and the great weight of limestone makes it more costly,
+as laborers are needed to transport the great slabs. Blood soaks into the
+ground of the field and a cool wind comes from the north. During the day,
+sunlight is sometimes reflected from the shattered pieces of metal which lay
+on the ground. 
+~
+0 2
+D0
+~
+~
+0 0 8428
+D1
+~
+~
+0 0 8420
+D3
+~
+~
+0 0 8424
+S
+#8424
+#gAn Open Field#n~
+The field opens up and expands to the north and east. To the west and
+south, there is a light forest. The Bluefire Fields are mentioned in many of
+the ancient tomes, however few know the location of the Bluefire Fields.
+With a few exceptions, the directions to the Bluefire Fields can only be
+told by an adept of Astinus, a follower of Nuitari or by a member of the
+Bluefire Cult. Members of the Bluefire Cult are said to have an ability to
+shapeshift their body and transfigure themselves into other creatures and
+animals. 
+~
+0 2
+D0
+~
+~
+0 0 8429
+D1
+~
+~
+0 0 8423
+S
+#8425
+#gAn Open Field#n~
+Over the centuries, numerous warlords of attemtped to take control of
+these lands. Some of them have succeeded, but those who were not benevolent
+were eventually overthrown by the Bluefire Cult. The Bluefire Temple is a
+grand structure made from limestone and it appears to be a gem in the area.
+The temple is said to glow at night, but the temple can only be seen by
+people who are near it. The temple and the Bluefire Fields are cloaked in an
+ancient spell which guises the area. 
+~
+0 2
+D0
+~
+~
+0 0 8434
+D2
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8426
+S
+#8426
+#gAn Open Field#n~
+The field opens up and expands to the north east and south. The field is
+surrounded by a forest and to the south lies the jewels which most warlords
+are after. The Library of the Blu contains numerous ancient tomes of
+knowledge and power, which followers of the shadow goddess have collected
+over the centuries in her honor. The Library of the Blu is said to rival the
+Library of Astinus. 
+~
+0 2
+D0
+~
+~
+0 0 8433
+D1
+~
+~
+0 0 8425
+D2
+~
+~
+0 0 8421
+D3
+~
+~
+0 0 8427
+S
+#8427
+#gAn Open Field#n~
+The area is covered with the fallen corpses of dead warriors. Shattered
+and broken swords are scattered on the field near the corpses. The grass has
+been trampled on and is near death. The pounding and beating the grass here
+has taken is nothing compared to the beatings the fallen warriors have
+taken. There are usually fierce battles between opposing armies on the field
+to take control of the Bluefire Fields. 
+~
+0 2
+D0
+~
+~
+0 0 8432
+D1
+~
+~
+0 0 8426
+D2
+~
+~
+0 0 8420
+D3
+~
+~
+0 0 8428
+S
+#8428
+#gAn Open Field#n~
+The field is stained with blood and is covered with the corpses of fallen
+warriors. Armies come here seeking the knowledge found within the Library of
+the Blu, and instead all they find is their death. A cold wind comes from
+the north and lifts the odor from the rotting corpses and sweeps it south
+and out of the area. The field expands in all directions from here. The
+ground is soaked with blood and the trampled grass are barely alive. 
+~
+0 2
+D0
+~
+~
+0 0 8431
+D1
+~
+~
+0 0 8427
+D2
+~
+~
+0 0 8423
+D3
+~
+~
+0 0 8429
+S
+#8429
+#gAn Open Field#n~
+Corpses litter the field along with shattered shields and broken weapons.
+A number of battles have been fought in this open field and the grass is
+stained with blood. The grass has been trampled and rolled over by heavy
+artillery and cannons. Warlords have sought to take over the Bluefire Fields
+for countless centuries. Although the Bluefire Temple is guarded by many
+warriors, the warriors can easily be overwhelmed by the massive number of
+troops warlords have. 
+~
+0 2
+D0
+~
+~
+0 0 8430
+D1
+~
+~
+0 0 8428
+D2
+~
+~
+0 0 8424
+S
+#8430
+#gAn Open Field#n~
+The grass on the field has been trampled on and is near death. Everything
+in the field dies, yet a few dandelions grow within the field. The grass and
+earth here is soaked with the blood of fallen warriors and minions of
+various warlords and power hungry people. The Library of the Blu lies to the
+south, in a grand structure made from limestone. Opposing the Library of the
+Blu is the Bluefire Temple, where the Bluefire Cult have dedicated a shrine
+to the shadow goddess. 
+~
+0 2
+D1
+~
+~
+0 0 8431
+D2
+~
+~
+0 0 8429
+S
+#8431
+#gAn Open Field#n~
+The field expands to the east west and south. Flies swarm over the field
+and devour the corpses of the fallen. This field might of been beautiful
+long ago, but now it just has the memories of the fallen. Thousands of
+warriors have died on this very earth after the countless centuries of
+battle for the Bluefire Fields. The shadow goddess takes pleasure within the
+chaos that occurs here, and though she may have her own evil desires, she
+stays neutral. 
+~
+0 2
+D1
+~
+~
+0 0 8432
+D2
+~
+~
+0 0 8428
+D3
+~
+~
+0 0 8430
+S
+#8432
+#gAn Open Field#n~
+The field opens up to the east south and west. To the north, there is a
+dense forest which impedes movement in that direction. The grass on the
+field is drying and no longer is the grass green. The numerous battles
+fought on the field have caused the grass and most of the to her plant life
+to die. The denial of sunlight was especially brutal. The decaying corpses
+of the fallen also mark the landscape. In time, all the bones and weapons
+will decay and be erased out of existence, but for now, they litter the
+field. 
+~
+0 2
+D0
+~
+~
+0 0 8500
+D1
+~
+~
+0 0 8433
+D2
+~
+~
+0 0 8427
+D3
+~
+~
+0 0 8431
+S
+#8433
+#gAn Open Field#n~
+Zealots of various causes come here to die.  Leaders and rulers send
+platoons of soldiers to the Bluefire Field in hopes of capturing the
+Bluefire Temple and the Library of the Blu.  The ancient knowledge contained
+with the tomes inside the Library of the Blu would catapult anyone to power.
+The tomes contain knowledge pertaining to the mastery of various spells, and
+perhaps even knowledge of spells long lost to the mortal mages and known
+ 
+only by dead mages from several millennia ago. 
+~
+0 2
+D1
+~
+~
+0 0 8434
+D2
+~
+~
+0 0 8426
+D3
+~
+~
+0 0 8432
+S
+#8434
+#gAn Open Field#n~
+This is the northeastern corner of the field. The field expands to the
+south and west. The Bluefire Fields are known for their bloody battles.
+Although the Bluefire Fields are hard to find, so many warlords and rulers
+have fought over the Bluefire Field that its name is written in numerous
+books of history. Members of the Bluefire Cult are said to be doppelgangers
+with the ability to fuse their body with the aether and thus turn invisible
+to the naked eye. 
+~
+0 2
+D2
+~
+~
+0 0 8425
+D3
+~
+~
+0 0 8433
+S
+#8435
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway leads east and west, through the forest. The pathway
+is lined with small candles which burn with a bright blue flame. The pathway
+is made from bricks and is patrolled by temple warriors and also links up
+the Library of the Blu, to the east, with the Bluefire Temple to the west.
+To the north and south, there is a light forest, where warlords frequently
+position their armies to combat with one another. 
+~
+0 0
+D1
+~
+~
+0 0 8417
+D3
+~
+~
+0 0 8436
+S
+#8436
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads westwards to the Bluefire Temple. The Bluefire Temple
+is a temple dedicated to the shadow goddess by the Bluefire Cult. The shadow
+goddess is a powerful goddess of the realm, but she was long forgotten by
+most, Only the Bluefire and a few rare individuals worship her anymore. The
+wisdom and knowledge of the shadow goddess is said to match that of the Lord
+Astinus. The Bluefire Temple is a large structure made from limestone. 
+~
+0 0
+D1
+~
+~
+0 0 8435
+D3
+~
+~
+0 0 8437
+S
+#8437
+#lBlu#Lefi#9re P#Lath#lway#n~
+The steps of the Bluefire Temple lie to the west. The temple was
+constructed centuries ago and is made from limestone. The limestone was
+imported from lands far from here, but at the time of the temples
+construction, the Bluefire Cult were popular, and there were many who
+worshipped the shadow goddess. It is said that the shadow goddess takes the
+form of a feline, when she appears before mortals, but it is very rare that
+she leaves the shadows. A pathway circling around the temple leads to the
+north and south. 
+~
+0 0
+D0
+~
+~
+0 0 8438
+D1
+~
+~
+0 0 8436
+D2
+~
+~
+0 0 8452
+D3
+~
+~
+0 0 8453
+S
+#8438
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway surrounds the Bluefire Temple. In the pathway, noble
+paladins of the Bluefire Cult can be found, defending the temple as a last
+line of defense. The paladins are powerful and tend to hide in the shadows,
+like their goddess, however they are sometimes no match for the overwhelming
+numbers of enemy forces. There have been times in the temple history, where
+the temple has been overrun, however, the Bluefire warriors always manage to
+retake the temple. 
+~
+0 0
+D0
+~
+~
+0 0 8439
+D2
+~
+~
+0 0 8437
+S
+#8439
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads south and west. On both sides of the pathway there is a
+blue flame which rises up from small candles which line the pathway. The
+pathway is used by temple warriors to defend against invading forces. During
+the reign of benevolent rulers, the Fields of Bluefire are usually left
+alone. To the north, there is a light forest, where invading warriors
+sometimes camp. 
+~
+0 0
+D2
+~
+~
+0 0 8438
+D3
+~
+~
+0 0 8440
+S
+#8440
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway surrounds the temple and allows warriors to better defend the
+holy temple. The temple is shrouded in mist of dense fog, which allows it to
+stay within the shadows from those who spy from afar. The temple foreground
+is cold and frigid with a blast of artic air coming from the north. The
+artic air does not seem to affect the blue flames which blaze on both sides
+of the path. 
+~
+0 0
+D1
+~
+~
+0 0 8439
+D3
+~
+~
+0 0 8441
+S
+#8441
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads east and west, encircling the entire Bluefire Temple.
+Temple warriors are elite paladins who come to serve their goddess. The
+warriors also make stealthy and silence assassins and it is said that they
+have the ability to shapeshift into ethereal beings, who are untouched by
+normal weapons and invisible to the naked eye. The temple is covered with a
+magical shield which makes it invisible from the eyes of others, unless they
+are near the temple itself. 
+~
+0 0
+D1
+~
+~
+0 0 8440
+D3
+~
+~
+0 0 8442
+S
+#8442
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway is made from stone bricks and the pathway receives
+its name from the candles which burn on each side of the pathway. The
+candles which line the entire pathway burn with a blue flame. The temple is
+adorned with sculptures of felpurs, succubi and other creatures. It is said,
+that during the night of a full moon, something special occurs in the sky
+above. 
+~
+0 0
+D1
+~
+~
+0 0 8441
+D3
+~
+~
+0 0 8443
+S
+#8443
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway turns and heads east and south from here. To the
+north and west a forest is located. Temple warriors patrol the pathway
+daily, to make sure there are no intruders to their sacred temple. It is
+said, that the pathway is also patrolled by beings invisible to all, but the
+followers of Nuitari. Members of the Bluefire Cult are said to have the
+ability to infuse themselves with the aether. 
+~
+0 0
+D1
+~
+~
+0 0 8442
+D2
+~
+~
+0 0 8444
+S
+#8444
+#lBlu#Lefi#9re P#Lath#lway#n~
+The massive temple is made from limestone and the temple is adorned with
+sculptures of succubi and feline figures. The temple has stood in this place
+for hundreds of years and has been guarded by the loyal followers of the
+Bluefire Cult. Members of the Bluefire Cult keep a low profile and perhaps,
+the most famous member of the cult was the one called Starfire, who is long
+dead. 
+~
+0 0
+D0
+~
+~
+0 0 8443
+D2
+~
+~
+0 0 8445
+S
+#8445
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Temple is made from limestone, a beautiful stone which is
+not found in this part of the realm. The Bluefire Temple was built centuries
+ago, when the Bluefire Cult was more influential in the realm. In these
+days, the Bluefire Cult keep to themselves are usually hidden in the
+shadows, unless they are threatened. Members of the Bluefire Cult are
+neutral and chose not to side with the paladins of those who call themselves
+good and the warriors of those who say they are evil. 
+~
+0 0
+D0
+~
+~
+0 0 8444
+D2
+~
+~
+0 0 8446
+S
+#8446
+#lBlu#Lefi#9re P#Lath#lway#n~
+A cold artic wind comes from the north. The pathway is lined with candles
+which burn with blue flames. The temple and the Bluefire Fields are veiled
+with a magic cloak which allows them to evade notice from the naked eye of
+mortals. Bluefire warriors frequently patrol the pathway and circle the
+temple. Some of the warriors were dispatched to guard the Library of the
+Blu, which lies east of the temple. 
+~
+0 0
+D0
+~
+~
+0 0 8445
+D2
+~
+~
+0 0 8447
+S
+#8447
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway leads north and east from here. The pathway is
+patrolled by temple warriors. Bluefire warriors are said to be fierce
+combatants with the ability to shift their shape and intimidate others. By
+metamorphing and being able to imbue themselves with the aether and thus
+conceal themselves from the sight of others. A cold wind comes from the
+north and blasts southwards. 
+~
+0 0
+D0
+~
+~
+0 0 8446
+D1
+~
+~
+0 0 8448
+S
+#8448
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway leads east and west. The pathway is made from stone
+bricks and is lined with small candles which burn with blue flames. The
+Bluefire Pathway is heavily guarded in times when the priestess sense danger
+nearby. Temple warriors are elite paladins who have mastered all weapons and
+various attacks. The Bluefire Temple itself is made from limestone, which
+was brought to this location from afar. 
+~
+0 0
+D1
+~
+~
+0 0 8449
+D3
+~
+~
+0 0 8447
+S
+#8449
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway surrounding the temple continues heading west and east. The
+pathway is usually patrolled by numerous temple warriors. In times when
+danger is high or there is an elevated threat, temple warriors usually line
+up in the Bluefire Pathway, to defend the temple. The shadow goddess is a
+powerful goddess of the realm, however she is rarely seen. She moves like
+Loviatar, always with stealth and in silence. 
+~
+0 0
+D1
+~
+~
+0 0 8450
+D3
+~
+~
+0 0 8448
+S
+#8450
+#lBlu#Lefi#9re P#Lath#lway#n~
+The grand temple of the shadow goddess glows with splendor during the
+night. The temple is hidden by a veil of shadow and only one who is near
+the temple can see this phenomenon during the night time.  The Bluefire
+Temple was built by the Bluefire Cult centuries ago.  The cult is an ancient
+cult which worships the shadow goddess.  The shadow goddess is rarely seen
+and few know her true name.  Her identity is hidden to all except her
+ 
+followers and a few rare sages.   
+~
+0 0
+D1
+~
+~
+0 0 8451
+D3
+~
+~
+0 0 8449
+S
+#8451
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway turns and heads north and west from here. Candles with blue
+flames line both sides of the pathway. The area is usually dark and shrouded
+in the shadows, except for the blue flames. To the east and south, there are
+light forests filled with various coniferous trees. The temple itself looks
+magnificent from the outside, northwest there a sculpture of a felpur can be
+seen. 
+~
+0 0
+D0
+~
+~
+0 0 8452
+D3
+~
+~
+0 0 8450
+S
+#8452
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Temple is a grand structure which graces this land, however
+the temple is veiled with a magical cloak. The cloak covers the area in
+shadows, to protect the temple. However, warriors of Nuitari were able to
+find the temple and though the temple is naked to the eye from afar, when
+one is near, the temple becomes quite visible. The temple pathway continues
+north and south. The threshold to the temple lies to the north. 
+~
+0 0
+D0
+~
+~
+0 0 8437
+D2
+~
+~
+0 0 8451
+S
+#8453
+#LSteps of the #lBlu#Lefi#9re T#Lem#lple#n~
+Limestone steps lead westwards to the heart of the temple. To the north
+and south, massive and beautiful columns stand. The columns support the
+weight of the temple and above there is an arch. The columns are made from
+limestone and from the massive circular columns, sculptures of were carved.
+A pathway leads eastwards, back to the Fields of Bluefire. The temple is
+mysteriously veiled within the shadows although from within, one can see the
+sun and light, from outside and afar, this place is hidden within a dense
+mist. 
+~
+4 0
+D1
+~
+~
+0 0 8437
+D3
+~
+~
+0 0 8454
+S
+#8454
+#LWithin the #lBlu#Lefi#9re T#Lem#lple#n~
+This is the heart of the Bluefire Temple. To the north, there is a
+chamber where the Defender of the Faith calls home and to the south, the
+chamber of the High Priestess is located. To the west, there is a massive
+shrine dedicated to the shadow goddess. Torches hang from the walls of the
+temple, but unlike normal torches, these torches burn with a blue flame. In
+the center of the room, on the floor there is a massive circular mural
+depicting a scene with shadow goddess. 
+~
+0 0
+D0
+~
+~
+0 0 8455
+D1
+~
+~
+0 0 8453
+D2
+~
+~
+0 0 8456
+D3
+~
+~
+0 0 8457
+D5
+~
+secret~
+3 0 8482
+S
+#8455
+#LChamber of the Defender#n~
+This is the sanctum of the greatest warrior of the Bluefire Cult. The
+Defender of the Faith, is the full title of the Bluefire Defender. He is a
+great warrior, adept in various fighting techniques and a grandmaster at all
+weapons. His chamber is filled with incense which burn with blue flames and
+emit the scent of violets. There is a circular rug in the center of the
+chamber, however there are no beds or any place for sleeping, as the
+Bluefire Defender never rests and is always vigilant. 
+~
+0 0
+D2
+~
+~
+0 0 8454
+S
+#8456
+#LChamber of the High Priest#n~
+In this chamber, the high priestess of the Bluefire can usually be found.
+The priestess is adept in all forms of magic, offensive and defense. The
+priestess tends to the temple and performs rituals and ceremonies to the
+shadow goddess when needed. The chamber is barren, holding nothing but a
+circular rug and candles. There are also a vew incense within the chamber,
+releasing the sweet scents of violets into the air. 
+~
+0 0
+D0
+~
+~
+0 0 8454
+S
+#8457
+#LShrine of the Shadow Goddess#n~
+The shrine of the shadow goddess is massive. It is here where the sacred
+altar dedicated to the shadow goddess is located. The chamber is filled with
+sculptures of succubi and feline creatures, known as felpurs. Hundreds of
+candles are located throughout the chamber and all the candles burn with
+blue flames. One can sense a strange energy in this room, as if the divine
+were present. 
+~
+0 0
+D1
+~
+~
+0 0 8454
+S
+#8458
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway leads east and west. The pathway connects the
+Library of the Blu and the Bluefire Temple. The Library of the Blu contain
+numerous tomes and scrolls of ancient magic and lore. The pathway is
+patrolled by temple warriors who guard both the Bluefire Temple and the
+Library of the Blu. Both structures are magnificent buildings made from
+limestone and are veiled by a magical cloak of shadows, which keeps them out
+of sight from most. 
+~
+0 0
+D1
+~
+~
+0 0 8459
+D3
+~
+~
+0 0 8417
+S
+#8459
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads eastwards towards the Library of the Blu. The Library
+of the Blu is an old library which was built here by followers of the shadow
+goddess. It has long been speculated that the shadow goddess is a goddess of
+knowledge and wisdom and she has kept a large library which competes with
+the Library of Astinus. The Library of the Blu is kept and tended to by the
+Bluefire Cult, which worships the shadow goddess. 
+~
+0 0
+D1
+~
+~
+0 0 8460
+D3
+~
+~
+0 0 8458
+S
+#8460
+#lBlu#Lefi#9re P#Lath#lway#n~
+The steps leading up to the Library of the Blu lie to the east. The
+Bluefire Pathway continues to the north and south. The Bluefire Pathway
+circles around the outside of the Library of the Blu, which allows temple
+warriors to guard the library and the temple. The Bluefire Temple is located
+across from the Library of the Blu to the west. The Library of the Blu, like
+the Bluefire Temple is made from limestone and has numerous sculptures to
+adorn it. 
+~
+0 0
+D0
+~
+~
+0 0 8461
+D1
+~
+~
+0 0 8476
+D2
+~
+~
+0 0 8475
+D3
+~
+~
+0 0 8459
+S
+#8461
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads north and south, circling around the Library of the
+Blu. The pathway is lined with small candles, which burn with blue flames.
+The pathway is made from bricks and is patrolled by temple warriors, which
+guard both the Library of the Blu and the Bluefire Temple. A cold wind comes
+from the north and blasts southwards, rustling up leaves from the
+surrounding forests 
+~
+0 0
+D0
+~
+~
+0 0 8462
+D2
+~
+~
+0 0 8460
+S
+#8462
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway continues heading east and south. The pathway is lined with
+small candles, which burn with a blue flame and thus give the pathway its
+name. The pathway is frequently patrolled by temple warriors. Temple
+warriors are valiant paladins who fight in the name of the shadow goddess.
+The shadow goddess is neutral in the realm and sides with neither good nor
+evil, however she does sometimes have evil desires. And to her followers she
+is sometimes revealed as a feline creature with magenta eyes and a black
+mane. 
+~
+0 0
+D1
+~
+~
+0 0 8463
+D2
+~
+~
+0 0 8461
+S
+#8463
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads east and west. The library is made from limestone and
+has many stone sculptures on the outside. On the top of the pathway, there
+are a few gargoyles which are supposedly the defender of the library. On the
+Bluefire Pathway, which surrounds the library, temple warriors patrol to
+defend against any attacks. The Library of the Blu is usually open to all,
+however, only certain sections of the library can be seen by those who are
+not members of the Bluefire Cult. 
+~
+0 0
+D1
+~
+~
+0 0 8464
+D3
+~
+~
+0 0 8462
+S
+#8464
+#lBlu#Lefi#9re P#Lath#lway#n~
+A cold wind comes from the north, but the temple warriors who patrol this
+pathway are use to the cold. It is said that the temple warriors have the
+ability to fuse themselves within the aether and take on an ethereal form
+which makes them invisible to the naked eye. Only followers of the god
+Nuitari are able to find temple warriors, in their hidden state. Temple
+warriors make great assassins, leaving the shadows to drive a dagger in the
+back of an offender. 
+~
+0 0
+D1
+~
+~
+0 0 8465
+D3
+~
+~
+0 0 8463
+S
+#8465
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway continues heading east and west. To the north, there is a
+light forest. The Library of the Blu is surrounded by a magical veil which
+distorts its image and makes the place seem invisible to those who are not
+near. The Library of the Blu is known by all elite sages and scholars,
+however few know the location of the library. Maps leading to the library
+can be found within the Library of Astinus, if one were to search long and
+hard. 
+~
+0 0
+D1
+~
+~
+0 0 8466
+D3
+~
+~
+0 0 8464
+S
+#8466
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads west and south from here. The pathway is lined with
+small candles which burn with a blue flame. To the southwest, on the library
+there is the statue of a large succubus. Succubus are evil demons who come
+to visit the minds of men and lead them stray from their vows and promises.
+The tomes within the library are said to contain knowledge of spells long
+lost to the mortal mages. 
+~
+0 0
+D2
+~
+~
+0 0 8467
+D3
+~
+~
+0 0 8465
+S
+#8467
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway continues heading north and south. The Library of
+the Blu is a grand structure built from limestone and adorned with various
+beautiful sculptures. The library houses many ancient and long forgotten
+tomes and scrolls filled with tales and lore long lost. The temple warriors
+which guard the library are said to have the ability to metamorph themselves
+and shift shape and form. 
+~
+0 0
+D0
+~
+~
+0 0 8466
+D2
+~
+~
+0 0 8468
+S
+#8468
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway is made from stones and is lined with blue flames. Warlords
+come from far and wide seeking the knowledge found within the Library of the
+Blu. The library books, however are mostly written in an ancient tongue long
+lost to commoners. Only members of the Bluefire Cult know the ancient
+language which the books are written in. A cold wind comes from the north
+and rushes southwards, bringing chills to those who stand on the pathway. 
+~
+0 0
+D0
+~
+~
+0 0 8467
+D2
+~
+~
+0 0 8469
+S
+#8469
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway is guarded by the temple warriors. Temple warriors
+have the ability to shift shape and transform themselves into more
+intimidating beasts. The members of the Bluefire Cult worship the goddess
+Loviatar and the shadow goddess. To those who are lucky, the shadow goddess
+may appear before them, usually in the shape of a feline creature. The
+shadow goddess has been known throughout time and was one of the first
+goddess to appear in the realm. 
+~
+0 0
+D0
+~
+~
+0 0 8468
+D2
+~
+~
+0 0 8470
+S
+#8470
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway continues heading north and west. The pathway is frequently
+patrolled by temple warriors who guard the library from invading forces. The
+books within the Library of Blu have been sought after by sages for
+countless centuries and years. The Blu are an extinct races of people, who
+were alot like the clandestites and the trantu. They were people who sought
+knowledge. 
+~
+0 0
+D0
+~
+~
+0 0 8469
+D3
+~
+~
+0 0 8471
+S
+#8471
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Library of the Blu was built long ago, by a race long forgotten.
+Ancient tomes of magic and lore are contained within the library. The
+library tomes are written in a language forgotten by the common man. The
+Library of the Blu and the Bluefire Temple are guarded by the noble temple
+warriors, who are elite paladins who fight for the shadow goddess. The
+shadow goddess was one of the first immortals to appear in the realm, but
+now she has been forgotten by most. 
+~
+0 0
+D1
+~
+~
+0 0 8470
+D3
+~
+~
+0 0 8472
+S
+#8472
+#lBlu#Lefi#9re P#Lath#lway#n~
+The library is made from limestone which was imported from afar. The
+library is filled with sculptures of succubi and felpurs. On the roof of the
+library, in front of the grand dome, there are a few gargoyles, which are
+suppose to guard the library at night. During the night time, the library is
+said to glow a low blue. Legends say that during the full moon, a strange
+spectacle occurs in the sky above. 
+~
+0 0
+D1
+~
+~
+0 0 8471
+D3
+~
+~
+0 0 8473
+S
+#8473
+#lBlu#Lefi#9re P#Lath#lway#n~
+The Bluefire Pathway leads east and west. The pathway circles around the
+library and allows temple warriors a place to stand and fight against
+foreign invaders. Warlords and their armies frequently come to the Bluefire
+Field and attempt to storm the library and take possesion of the books
+within the library. Opposing warlords are frequently out on the open fields
+battling each other. Although, there have been large periods of peace. 
+~
+0 0
+D1
+~
+~
+0 0 8472
+D3
+~
+~
+0 0 8474
+S
+#8474
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway turns and heads north and east from here. The library
+building is made from limestone, but in the darkness of night, it is said to
+glow. The library is veiled in a magical cloak of shadows, which keeps it
+hidden from the eyes of most mortals, unless they are near it. The library
+was building several hundred of years ago, before the Bluefire Temple. The
+Blu are an extinct people from a different age. 
+~
+0 0
+D0
+~
+~
+0 0 8475
+D1
+~
+~
+0 0 8473
+S
+#8475
+#lBlu#Lefi#9re P#Lath#lway#n~
+The pathway leads north and south. To the east, the beautiful Library of
+the Blu stands. There are numerous sculptures of succubi, feline creatures
+and other animals adorned to the library. On the roof of the library, there
+are the sculptures of owls along with a few gargoyles. Gargoyles are
+mythical creatures that are believed to guard buildings during the night.
+The library building was built to be a gem in the eyes of others. 
+~
+0 0
+D0
+~
+~
+0 0 8460
+D2
+~
+~
+0 0 8474
+S
+#8476
+#LSteps to the Library of the #lB#Ll#9u#n~
+Imported from far away. The library houses numerous books and scrolls of
+ancient lore and magic. There are large columns to the north and souch which
+support the library roof. The top of the library is a massive dome. Although
+the library is only one floor, some speculate that the library has a hidden
+basement, leading to the rare books. 
+~
+4 0
+D1
+~
+~
+0 0 8477
+D3
+~
+~
+0 0 8460
+S
+#8477
+#LInside the Library of the #lB#Ll#9u#n~
+This is the center of the library. The library expands to the north south
+and to the east. The section to the east, however has been blocked off and
+only elder members of the Bluefire or the priests may enter the section to
+the east. The library contains numerous books. But most of the books were
+written in a dead language that few can still speak. The Adept of Lynk
+however, may be able to help those seeking to learn find a few books written
+in the common tongue. 
+~
+0 0
+D0
+~
+~
+0 0 8478
+D1
+~
+~
+0 0 8479
+D2
+~
+~
+0 0 8480
+D3
+~
+~
+0 0 8476
+D5
+~
+trapdoor~
+3 0 8481
+S
+#8478
+#LInside the Library of the #lB#Ll#9u#n~
+The library is filled with many wooden book shelves. The shelves contain
+numerous tomes of ancient magic and lore. However, the books may not leave
+the library and most of the books are written in an archaic language. The
+library is filled with paintings depicting the shadow goddess, walking among
+other feline creatures. There are a few paintings of felpurs on the walls.
+The felpurs are a race created by the god Asmodeus long ago to be his
+servants. 
+~
+0 0
+D2
+~
+~
+0 0 8477
+S
+#8479
+#LInside the Library of the #lB#Ll#9u#n~
+The books in this section are private and are for the eyes of the
+Bluefire Cult only. Those found in here usually face a swift and harsh
+death, unless they can show their amulet with the insignia of the Bluefire.
+The Bluefire are an anceint cult, dedicated to the worship of the shadow
+goddess. Most members of the Bluefire also follow the goddess Loviatar. The
+Bluefire Cult is usually stay in the shadows and knowledge about them is
+hard to find. 
+~
+0 0
+D3
+~
+~
+0 0 8477
+S
+#8480
+#LInside the Library of the #lB#Ll#9u#n~
+The library is massive and the collection of books here is qutie amazing.
+However, unlike the Library of Astinus, most of the books here are written
+in a foreign language that few know. It is said, that there are secret
+levels below the library containing the older and better books. Sages for
+the past centuries have sought to get their hands one some of these ancient
+tomes and learn the spells of their ancestors. 
+~
+0 0
+D0
+~
+~
+0 0 8477
+S
+#8481
+#LInside the Library of the #lB#Ll#9u#n~
+This appears to be a secret part of the library, which most people are
+not allowed. There are a few book cases here, which contain various tomes
+and scrolls of ancient tales and magic. The Library of the Blu is an old
+library with numerous books which are kept in the section not allowed to the
+public. Most of the books within here were written in a tongue long lost to
+most mortal men. Only the Bluefire can read and translate the texts within
+the library. But this doesn't appear to be the last floor of the library. 
+~
+0 0
+D4
+~
+trapdoor~
+3 0 8477
+S
+#8482
+#LSecret Chamber in the #lBlu#Lefi#9re T#Lem#lple#n~
+Within this chamber there is a mystical flow of energy. Only the high
+priestess of the shadow goddess is allowed in here. It is here the most
+sacred of ceremonies are performed by the high priestess. The area is
+charged with magical energy which flows through the air. The only way out of
+here is to head up. The entire room is made from limestone and glows a soft
+blue aura. 
+~
+0 0
+D4
+~
+trapdoor~
+3 0 8454
+S
+#8483
+#0Dark Well#n~
+The stone well is used daily by the priest and warriors to find water.
+The well has fresh water and above is the Bluefire Pathway. Some people say
+that demonic creatures are hidden down within the well. The well is cold and
+frigid. The walls of the well are made from grey stones and the well appears
+to go down for a few hundred feet. 
+~
+0 0
+D4
+~
+~
+0 0 8417
+D5
+~
+~
+0 0 8484
+S
+#8484
+#0Dark Well#n~
+The walls of the well are cold and frigid. The water below is gelid too.
+The water well seems to have been here for a long time. The walls are made
+from grey stone and in the center of the well there is a long rope which is
+connected to a bucket, which is used by the Bluefire to draw water from.
+During the day, light enters the well from above, otherwise the well is dark
+and cold. 
+~
+0 0
+D4
+~
+~
+0 0 8483
+D5
+~
+~
+0 0 8485
+S
+#8485
+#0Dark Well#n~
+The well water is cold and gelid. The water well is used almost daily by
+the Bluefire. Sometimes, warlords fighting for control of the lands above,
+use the water well to refresh their troops and restock their water barrels.
+The well is made from grey stones and the water gets colder as one goes
+down. Down here, there is little light and people say there are beasts which
+lurk in these shadows. 
+~
+0 0
+D4
+~
+~
+0 0 8484
+D5
+~
+~
+0 0 8486
+S
+#8486
+#0Dark Well#n~
+The water has a current pulling towards a narrow tunnel to the north.
+Water flows from a narrow tunnel too the south, but both tunnels are too
+narrow for anyone to pass through them. The water is cold and frozen. Down
+here there is little or no light. People have speculated that there are
+demons which lurk in these shadows. 
+~
+0 0
+D4
+~
+~
+0 0 8485
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 8400 3 8400
+E 0 8413 0 16
+M 0 8400 3 8400
+E 0 8413 0 16
+O 0 8417 0 8400
+M 0 8400 3 8401
+E 0 8413 0 16
+M 0 8400 3 8401
+E 0 8413 0 16
+M 0 8400 3 8402
+E 0 8413 0 16
+M 0 8400 3 8402
+E 0 8413 0 16
+M 0 8400 3 8403
+E 0 8413 0 16
+M 0 8400 3 8403
+E 0 8413 0 16
+M 0 8400 3 8404
+E 0 8413 0 16
+M 0 8401 3 8405
+E 0 8414 0 16
+M 0 8401 3 8405
+E 0 8414 0 16
+M 0 8401 3 8406
+E 0 8414 0 16
+M 0 8401 3 8406
+E 0 8414 0 16
+O 0 8416 0 8406
+M 0 8401 2 8407
+M 0 8401 2 8407
+E 0 8414 0 16
+M 0 8401 2 8408
+M 0 8401 2 8408
+E 0 8414 0 16
+O 0 8416 0 8408
+M 0 8401 2 8409
+E 0 8414 0 16
+M 0 8402 2 8410
+M 0 8402 2 8410
+E 0 8415 0 16
+M 0 8402 2 8411
+M 0 8402 2 8411
+E 0 8415 0 16
+O 0 8417 0 8411
+M 0 8402 2 8412
+M 0 8402 2 8412
+E 0 8415 0 16
+M 0 8402 2 8413
+M 0 8402 2 8413
+E 0 8415 0 16
+O 0 8417 0 8413
+M 0 8402 2 8414
+M 0 8402 2 8414
+E 0 8415 0 16
+O 0 8400 0 8417
+M 0 8406 7 8417
+M 0 8406 7 8417
+M 0 8405 2 8420
+M 0 8405 2 8420
+E 0 8415 0 16
+M 0 8405 2 8421
+M 0 8405 2 8421
+E 0 8415 0 16
+O 0 8417 0 8421
+M 0 8405 2 8422
+M 0 8405 2 8422
+E 0 8415 0 16
+M 0 8405 2 8423
+M 0 8405 2 8423
+E 0 8415 0 16
+O 0 8417 0 8423
+M 0 8405 2 8424
+E 0 8414 0 16
+M 0 8405 2 8424
+E 0 8415 0 16
+M 0 8404 2 8425
+E 0 8414 0 16
+M 0 8404 2 8425
+E 0 8414 0 16
+M 0 8404 2 8426
+E 0 8414 0 16
+M 0 8404 2 8426
+E 0 8414 0 16
+O 0 8416 0 8426
+M 0 8404 2 8427
+E 0 8414 0 16
+M 0 8404 2 8427
+E 0 8414 0 16
+M 0 8404 2 8428
+E 0 8414 0 16
+M 0 8404 2 8428
+E 0 8414 0 16
+O 0 8416 0 8428
+M 0 8404 2 8429
+E 0 8414 0 16
+M 0 8404 2 8429
+E 0 8414 0 16
+M 0 8403 3 8430
+E 0 8413 0 16
+M 0 8403 3 8430
+E 0 8413 0 16
+M 0 8403 3 8430
+E 0 8413 0 16
+M 0 8403 3 8431
+E 0 8413 0 16
+M 0 8403 3 8431
+E 0 8413 0 16
+M 0 8403 3 8431
+E 0 8413 0 16
+M 0 8403 3 8432
+M 0 8403 3 8432
+E 0 8413 0 16
+O 0 8417 0 8432
+M 0 8403 3 8433
+M 0 8403 3 8433
+E 0 8413 0 16
+M 0 8403 3 8434
+M 0 8403 3 8434
+E 0 8413 0 16
+M 0 8406 7 8435
+M 0 8406 7 8437
+M 0 8406 7 8437
+M 0 8406 7 8439
+M 0 8406 7 8439
+M 0 8406 7 8441
+M 0 8406 7 8441
+M 0 8406 7 8443
+M 0 8406 7 8443
+M 0 8406 7 8443
+M 0 8406 7 8445
+M 0 8406 7 8445
+M 0 8406 7 8447
+M 0 8406 7 8447
+M 0 8406 7 8449
+M 0 8406 7 8449
+M 0 8406 7 8451
+M 0 8406 7 8451
+M 0 8406 7 8451
+M 0 8408 1 8455
+E 0 8403 0 16
+O 0 8412 0 8455
+M 0 8407 1 8456
+E 0 8404 0 3
+O 0 8412 0 8456
+O 0 8407 0 8457
+M 0 8406 7 8458
+M 0 8406 7 8458
+M 0 8406 7 8460
+M 0 8406 7 8460
+M 0 8406 7 8462
+M 0 8406 7 8462
+M 0 8406 7 8464
+M 0 8406 7 8464
+M 0 8406 7 8466
+M 0 8406 7 8466
+M 0 8406 7 8468
+M 0 8406 7 8468
+M 0 8406 7 8470
+M 0 8406 7 8470
+M 0 8406 7 8472
+M 0 8406 7 8472
+M 0 8406 7 8472
+M 0 8406 7 8474
+M 0 8406 7 8474
+M 0 8408 1 8477
+M 0 8409 1 8477
+E 0 8406 0 17
+O 0 8409 0 8478
+P 0 8408 0 8409
+P 0 8418 0 8409
+O 0 8409 0 8479
+P 0 8411 0 8409
+O 0 8409 0 8480
+P 0 8410 0 8409
+M 0 8410 1 8481
+E 0 8405 0 8
+M 0 8407 1 8482
+G 0 8401 0
+M 0 8411 5 8483
+M 0 8411 5 8483
+M 0 8411 5 8483
+M 0 8411 5 8484
+M 0 8411 5 8484
+M 0 8411 5 8484
+M 0 8411 5 8485
+M 0 8411 5 8485
+M 0 8411 5 8485
+M 0 8411 5 8486
+E 0 8402 0 -1
+M 0 8411 5 8486
+E 0 8402 0 -1
+M 0 8411 5 8486
+M 0 8411 5 8486
+M 0 8411 5 8486
+G 0 8402 0
+S
+
+
+
+#$

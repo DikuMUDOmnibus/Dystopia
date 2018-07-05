@@ -1,0 +1,23 @@
+SKILL
+SKILL
+1
+Syntax: skill | skill [player]
+
+This shows the target player's skill with the weapon they are currently 
+wielding and the stance they are in (if it's a specialized stance).
+
+Weapon skill				 Stance skill
+
+ 1) Totally unskilled.			 1) Totally unskilled.
+ 2) Slightly skilled.			 2) An apprentice.
+ 3) Reasonable.				 3) A trainee.
+ 4) Fairly competent.			 4) A student.
+ 5) Highly skilled.			 5) Fairly experienced.
+ 6) Very dangerous.			 6) Well trained.
+ 7) Extremely deadly.			 7) Highly skilled.
+ 8) An expert.				 8) An expert.
+ 9) A master.				 9) A master.
+10) A grandmaster.			10) A grandmaster.
+
+Note that these are only rough estimates; one master might well be 
+slightly more skilled than another master, and so on.

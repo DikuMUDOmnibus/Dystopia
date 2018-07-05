@@ -1,0 +1,819 @@
+#AREADATA
+Name        Lune      The Cornfield~
+Builders    Lune~
+Music       default.mid~
+VNUMs       8701 8750
+Cvnum       8701
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#8701
+field mice~
+a field mouse~
+A field mouse is hiding here.
+~
+~
+1 32768 0
+20 0 0 45 0 0
+1 10
+S
+#8702
+furry bunny~
+a furry bunny~
+A cute furry bunny is hopping along here.
+~
+~
+1 0 0
+15 10 0 32 0 0
+2 5
+S
+#8703
+fox~
+a fox~
+A fox is stalking here.
+~
+~
+1 0 0
+30 0 2 14 0 0
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#8701
+cave entrance~
+a cave entance~
+A cave entrance is hidden between the straws.~
+21 0 0
+3501 0 0 0
+1 0
+#8702
+cave entrance~
+a cave entrance~
+A cave entrance is hidden between the straws.~
+21 0 0
+3523 0 0 0
+1 0
+#8703
+warning sign caution~
+a sign with the text '#RWarning! Under construction! Enter at your own risk!#n'~
+A sign with the text '#RWarning! Under construction! Enter at your own risk!#n' stands here.~
+9 0 0
+0 0 0 0
+1 0
+#8704
+haystack~
+a haystack~
+A haystack is hidden here.~
+11 4 0
+200 0 0 0
+1 0
+#8705
+silver coin~
+a silver coin~
+A silver coin lies here.~
+6 0 1
+0 0 0 0
+1 0
+#8706
+straw basket~
+a straw basket~
+A straw basket lies on the floor.~
+11 0 1
+750 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#8701
+A large cornfield~
+Large cornstalks for as far as the eye can see tower omniously here,
+swaying back and forth with the wind in an almost trancelike fashion.
+Occasionally the scampering of small animals can be heard, and the
+unsettling of a few branches as predators stalk their prey. 
+~
+0 2
+D0
+~
+~
+0 0 8702
+D1
+~
+~
+0 0 8704
+D3
+~
+~
+0 0 8713
+S
+#8702
+A large cornfield~
+The wind is gently swaying the cornstalks back and forth, while the
+distant noises of crickets buzzing is everpresent. Small animals are seen
+everywhere, playing, eating and making cute little noises. 
+~
+0 2
+D1
+~
+~
+0 0 8703
+D2
+~
+~
+0 0 8701
+D3
+~
+~
+0 0 8714
+S
+#8703
+A large cornfield~
+The crude path through the cornstalks ends here, the way north blocked by
+a dense foliage. The ground is dry, and the aroma of freshly harvested corn
+is in the air. The cornstalks that populate this field seem to never end,
+swaying as one in the wind. 
+~
+0 2
+D0
+~
+~
+0 0 8715
+D1
+~
+~
+0 0 8706
+D2
+~
+~
+0 0 8704
+D3
+~
+~
+0 0 8702
+S
+#8704
+A large cornfield~
+The crude path continues to the north, though it seems to become more
+difficult to traverse with every step. The large cornstalks move with a life
+of their own, swaying with the wind, hampering travellers from moving freely
+throughout their field. 
+~
+0 2
+D0
+~
+~
+0 0 8703
+D1
+~
+~
+0 0 8705
+D2
+~
+~
+0 0 8738
+D3
+~
+~
+0 0 8701
+S
+#8705
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8706
+D1
+~
+~
+0 0 8708
+D3
+~
+~
+0 0 8704
+S
+#8706
+A large cornfield~
+This area of the cornfield is extremely quiet compared to the other
+parts, and the sky always seems to be dark. Cornstalks spread out in every
+direction, but the musky scent of plague and death fills the air. 
+~
+0 2
+D1
+~
+~
+0 0 8707
+D2
+~
+~
+0 0 8705
+D3
+~
+~
+0 0 8703
+S
+#8707
+A large cornfield~
+Small animals scurry across the fields floor, either running from
+predators or stalking prey. The scent of dead carcasses fills the air, the
+corpses hidden from sight by the seemingly never-ending cornstalks. 
+~
+0 2
+D2
+~
+~
+0 0 8708
+D3
+~
+~
+0 0 8706
+S
+#8708
+A large cornfield~
+Vines burden the path with plantlife. The vines, seven or eight 
+inches thick, entangle what little path is left. A scarecrow 
+stands tall to the right of the path, but is almost completely 
+covered in leeching creeper. His deformed face would surely keep
+crows out of the vicinity.
+~
+0 2
+D0
+~
+~
+0 0 8707
+D1
+~
+~
+0 0 8709
+D3
+~
+~
+0 0 8705
+S
+#8709
+A large cornfield~
+Among the cornstalks, small rodents scurry around, battling for 
+the ears of corn that have fallen to the ground. Mosquitos and 
+horseflies buzz around the carcass of a deceased jackrabbit. Small
+mole holes can be seen on the path. A mole which was once staring
+at the dead jackrabbit scurries back into his hole.
+~
+0 2
+D1
+~
+~
+0 0 8710
+D3
+~
+~
+0 0 8708
+S
+#8710
+A large cornfield~
+The high city walls disappear from sight. Dozens of birds chirp 
+in harmony from the direction of the city. The path to the west 
+houses more dense undergrowth than the northward path. In fact,
+directly to the west stands a small house, undoubtedly the home 
+of the farmer whom owns this expansive property.
+~
+0 3
+D0
+~
+~
+0 0 8711
+D3
+~
+~
+0 0 8709
+S
+#8711
+A large cornfield~
+The proximity of the cornstalks is stifling. The arm-like 
+branches with skin-tearing claws reach out to grab any whom are 
+caught trespassing in her fields. The path becomes smaller and 
+smaller as the stalks close in more and more. One particularly
+varicose vine extends lengthwise down the path.
+~
+0 2
+D1
+~
+~
+0 0 8712
+D2
+~
+~
+0 0 8710
+S
+#8712
+Entering a cornfield~
+The cornstalks leer over the well-trodden, yellowed path as if 
+the path itself was a tunnel. Near the bottom of the stalks, 
+tiny chunks have been gnawed off. Several fallen stalks of corn 
+litter the track. The corn from these now-dead stalks is long gone.
+~
+0 2
+D1
+~
+~
+0 0 8737
+D3
+~
+~
+0 0 8711
+S
+#8713
+A large cornfield~
+This part of the field has been neatly harvested, with stacks of hay
+placed in circular patterns around the field. Small animals can be seen
+running across the now bare field, some of which have taken up homes in the
+haystacks themselves. 
+~
+0 2
+D0
+~
+~
+0 0 8714
+D1
+~
+~
+0 0 8701
+S
+#8714
+A large cornfield~
+This part of the field has been neatly harvested, and stacks of hay have
+been placed in circular patterns across the fields themselves. A few mice
+seems to have nested in these haystacks. 
+~
+0 2
+D1
+~
+~
+0 0 8702
+D2
+~
+~
+0 0 8713
+S
+#8715
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8716
+D2
+~
+~
+0 0 8703
+S
+#8716
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8729
+D1
+~
+~
+0 0 8719
+D2
+~
+~
+0 0 8715
+D3
+~
+~
+0 0 8717
+S
+#8717
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8718
+D1
+~
+~
+0 0 8716
+S
+#8718
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8730
+D1
+~
+~
+0 0 8729
+D2
+~
+~
+0 0 8717
+S
+#8719
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8720
+D1
+~
+~
+0 0 8728
+D3
+~
+~
+0 0 8716
+S
+#8720
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8732
+D1
+~
+~
+0 0 8721
+D2
+~
+~
+0 0 8719
+D3
+~
+~
+0 0 8729
+S
+#8721
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8733
+D1
+~
+~
+0 0 8722
+D2
+~
+~
+0 0 8728
+D3
+~
+~
+0 0 8720
+S
+#8722
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8734
+D1
+~
+~
+0 0 8723
+D2
+~
+~
+0 0 8727
+D3
+~
+~
+0 0 8721
+S
+#8723
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8735
+D1
+~
+~
+0 0 8724
+D2
+~
+~
+0 0 8726
+D3
+~
+~
+0 0 8722
+S
+#8724
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8736
+D2
+~
+~
+0 0 8725
+D3
+~
+~
+0 0 8723
+S
+#8725
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8724
+D3
+~
+~
+0 0 8726
+S
+#8726
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8723
+D1
+~
+~
+0 0 8725
+D3
+~
+~
+0 0 8727
+S
+#8727
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8722
+D1
+~
+~
+0 0 8726
+D3
+~
+~
+0 0 8728
+S
+#8728
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8721
+D1
+~
+~
+0 0 8727
+D3
+~
+~
+0 0 8719
+S
+#8729
+A large cornfield~
+~
+0 2
+D0
+~
+~
+0 0 8731
+D1
+~
+~
+0 0 8720
+D2
+~
+~
+0 0 8716
+D3
+~
+~
+0 0 8718
+S
+#8730
+A large cornfield~
+~
+0 2
+D1
+~
+~
+0 0 8731
+D2
+~
+~
+0 0 8718
+S
+#8731
+A large cornfield~
+~
+0 2
+D1
+~
+~
+0 0 8732
+D2
+~
+~
+0 0 8729
+D3
+~
+~
+0 0 8730
+S
+#8732
+A large cornfield~
+~
+0 2
+D1
+~
+~
+0 0 8733
+D2
+~
+~
+0 0 8720
+D3
+~
+~
+0 0 8731
+S
+#8733
+A large cornfield~
+~
+0 2
+D1
+~
+~
+0 0 8734
+D2
+~
+~
+0 0 8721
+D3
+~
+~
+0 0 8732
+S
+#8734
+A large cornfield~
+~
+0 2
+D1
+~
+~
+0 0 8735
+D2
+~
+~
+0 0 8722
+D3
+~
+~
+0 0 8733
+S
+#8735
+A large cornfield~
+~
+0 2
+D1
+~
+~
+0 0 8736
+D2
+~
+~
+0 0 8723
+D3
+~
+~
+0 0 8734
+S
+#8736
+A large cornfield~
+~
+0 2
+D2
+~
+~
+0 0 8724
+D3
+~
+~
+0 0 8735
+S
+#8737
+Approaching a large cornfield~
+The endless fields of corn stand but a few feet away from the gates of Ri'on Dashor. The steel walls of the city showcase a continuous strip of gold to show the city's power and wealth. The thick cornstalks are nearly six feet high and continue on into the horizon.
+~
+4 3
+D1
+~
+~
+0 0 7984
+D3
+~
+~
+0 0 8712
+S
+#8738
+South end of the cornfield~
+Large cornstalks sprout up from the earth, swaying gently in the breeze.
+The smell of freshly grown corn fills the air, and the ground is soft and
+moist. A crude path through the cornfield leads the way north. The
+scampering of small animals can be heard as they traverse the large field. 
+~
+0 2
+D0
+~
+~
+0 0 8704
+D2
+~
+~
+0 0 8739
+S
+#8739
+Nearing the market place~
+~
+0 2
+D0
+~
+~
+0 0 8738
+D1
+~
+~
+0 0 7301
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 8701 1 8701
+M 0 8701 1 8702
+M 0 8703 1 8703
+O 0 8701 0 8706
+M 0 8701 1 8713
+O 0 8704 0 8714
+M 0 8701 1 8714
+M 0 8701 1 8714
+P 0 8705 0 8704
+P 0 8706 0 8704
+O 0 8702 0 8718
+M 0 8702 1 8718
+M 0 8703 1 8722
+M 0 8702 1 8726
+M 0 8702 1 8729
+M 0 8703 1 8734
+O 0 8703 0 8737
+S
+
+
+
+#$

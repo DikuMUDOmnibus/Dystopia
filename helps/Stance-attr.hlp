@@ -1,0 +1,27 @@
+STANCE-ATTR
+STANCE-ATTR
+1
+Each stance gives a certain set of skills, with the monkey stance being
+special in the sense that it negates all stance skills of the opponent.
+
+#9Stance        DC   Rev-DC   3xDam  Resist  Dodge/Parry  Attacks  Bypass#n
+Viper                                          -/-         X        X
+Crane                                          -/X
+Mongoose                                       X/-
+Bull         +200             X                -/-
+Crab                -200             X         -/-
+Mantis                                         -/X         X        X
+Tiger        +150             X                -/-         X        X
+Dragon       +300   -200      X      X         -/-
+Monkey                                         -/-
+Swallow             -300             X         X/-
+Spirit       +300   -300      X      X         X/X         X
+
+NOTICE: The spirit stance can only be used by the fae class, and the numbers
+        stated above is for the normal version of spirit stance. The evolved
+        version is roughly 50% better. Also notice that the spirit stance does
+        ONLY work against mobiles, and NOT players.
+
+* DC/Rev-DC     - increase your damcap / decrease opponents damcap.
+* Dodge/Parry   - increase your dodge / parry abilities.
+* Bypass        - cancels opponents increased dodge and parry.

@@ -1,0 +1,20 @@
+POWERSHRED
+POWERSHRED 'POWER SHRED' SHADOWLORD
+1
+The 'powershred' evolve is a powerful evolve gained by the very warlike of the
+shadowlords. It requires the '@@planeshred@' evolve, and opposes the evolve
+known as '@@touch of darkness@'. Only one of these two evolves can be gained.
+
+A shadowlord with this evolve causes a temporal rift in the barrier between the
+two planes whenever he or she tries to shred someone. This rift has a chance to
+snatch both the shadowlord and the victim, transporting them somewhere else.
+
+The shadowlord can, at any time, try to cause another temporal rift, which will
+once more move the people involved in fighting the shadowlord (and the lord him
+or herself of course).
+
+The shadowlord no longer suffers any negative sideeffects when shredding 
+other players or monsters.
+
+Syntax: planeshred [victim]
+Syntax: planerift

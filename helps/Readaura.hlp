@@ -1,0 +1,8 @@
+READAURA
+READAURA FAE WARLOCK
+1
+The readaura command that both faes and warlocks can use, allows the user
+to gain information about the target of the command. More information than
+most players would willingly give away.
+
+Syntax: readaura [target]

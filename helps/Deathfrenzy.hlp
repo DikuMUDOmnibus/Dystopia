@@ -1,0 +1,14 @@
+DEATHFRENZY
+DEATHFRENZY GIANT
+1
+Deathfrenzy is a state that giants can enter when they are at awful health.
+They are more likely to hit those they are fighting, causes more damage,
+takes less damage and cannot flee from combat. Any giant which has maxed
+their growths can use this power.
+
+Giant Warriors have the choice to pick deathfrenzy as an evolve. This will
+allow them to use deathfrenzy when at poor health instead of just awful.
+
+The deathfrenzy evolve opposes the '@@chopattack@' evolve.
+
+Syntax: deathfrenzy

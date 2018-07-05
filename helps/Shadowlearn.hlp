@@ -1,0 +1,9 @@
+SHADOWLEARN
+SHADOWLEARN SHADOWLORD
+1
+The shadowlearn command is used by the shadowlord class to gain new powers 
+and increase their martial fighting skill. Increasing martial costs primal 
+points, learning new powers costs shadowpoints and getting new attack 
+types costs experience points.
+
+Syntax: shadowlearn [martial|power|attack]

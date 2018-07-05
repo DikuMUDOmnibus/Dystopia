@@ -1,0 +1,13 @@
+GENERATIONS
+GENERATIONS GENSTEAL COMBAT
+1
+All new chars start at generation 6, and can improve their generation by
+stealing generation from other chars with same or better (lower) generation
+than themself. Victim must be morted and of the same class as yourself.
+
+Low generation gives a small damcap bonus.
+
+At generation 2 your max weaponskill goes up by 10% and spells by 6%.
+At generation 1 your max weaponskill goes up by 20% and spells by 12%.
+
+Syntax : gensteal [victim]

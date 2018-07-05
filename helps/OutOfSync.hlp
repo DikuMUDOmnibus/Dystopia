@@ -1,0 +1,18 @@
+OUT OF SYNC
+'OUT OF SYNC' SYNC FROZEN OUTDATED
+1
+You may encounter certain messages in your account menu, telling you that some
+of your characters are OUT OF SYNC or OUTDATED. If this is the case, you should
+connect these characters to the MUD - it will update those characters.
+
+When changes happens to the pfiles, these changes takes effect the next time
+a character enters the game (his or her pfile is then updated). If a character
+is out of syn, it basicly means that a change is pending, and that the character
+should logon to have that change made. A character becomes outdated if more than
+four changes are pending.
+
+If to many changes have been made since the character last entered the game, the
+character becomes frozen, and connot enter the game without an admin manually
+updating the characters pfile.
+
+All this said, pfile pdates are rare, so don't expect this to happen to often.

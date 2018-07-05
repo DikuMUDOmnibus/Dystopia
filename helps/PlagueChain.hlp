@@ -1,0 +1,15 @@
+PLAGUE CHAIN
+'PLAGUE CHAIN' WARLOCK
+1
+Any warlock that has gained the '@@path of space@' evolve can gain this evolve,
+which allows a warlock to cast a negative affect spell, which will reduce the
+movement, mana and hitpoints of the target player, or add similar affects to an
+object.
+
+This evolve opposes the '@@glimmer chain@' evolve, and a warlock can only gain
+one of these two evolves.
+
+To use this spell in a chain, the warlock must set the type of the
+spell to 'plague' using the 'wtype' command.
+
+Syntax: wtype plague

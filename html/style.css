@@ -1,0 +1,175 @@
+body {
+  margin: 45px;
+  padding: 0px;
+  background: #ccccff;
+  color: black;
+}
+a, a:link, a:visited {
+  text-decoration: none;
+  background: transparent;
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  background: blue;
+  color: white;
+}
+div.page {
+  background: #99ffff;
+  color: black;
+}
+div.navbar {
+  margin: 0px;
+  padding: 1px 1em;
+  background: #0099ff;
+  color: black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+div.title {
+  margin: 0px;
+  padding: 0px;
+  background: transparent;
+  float: right;
+  width: 250px;
+  color: black;
+  border-bottom: 3px solid black;
+}
+div.title h1 {
+  margin: 0px;
+  padding: 0px 10px;
+  color: black;
+  background: transparent;
+  text-align: center;
+}
+div.main {
+  padding: 0px 6px;
+  margin: 0px;
+  background: transparent;
+  color: black;
+}
+div.main p {
+  margin: 8px 0px;
+  padding: 0px;
+}
+div.main h3 {
+  margin-bottom: 2px;
+}
+div.foot {
+  margin: 0px;
+  padding: 0px 1em;
+  background: #0099ff;
+  color: black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+}
+div.foot span.modified {
+  margin: 0px;
+  padding: 2px 0px;
+  float: left;
+}
+div.foot div.validate {
+  margin: 0px;
+  padding: 0px;
+  float: right;
+}
+div.foot div.validate table {
+  margin: 0px;
+  padding: 0px;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+div.foot div.validate td.left {
+  border-right: 1px solid black;
+  margin: 0px;
+  padding-right: 1em;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 0px;
+  text-align: right;
+}
+div.foot div.validate td.right {
+  border-left: 1px solid black;
+  margin: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 1em;
+  padding-right: 0px;
+  text-align: left;
+}
+table.evolvetable {
+  border-collapse: collapse;
+  margin: 1em 6px;
+  font-size: 75%;
+  width: 90%;
+}
+table.evolvetable td.bottom {
+  border-bottom: 2px black solid;
+}
+table.evolvetable td.left {
+  border-left: 2px black solid;
+}
+table.evolvetable td.right {
+  border-right: 2px black solid;
+}
+table.evolvetable td.all {
+  border: 2px black solid;
+  padding: 4px;
+  text-align: center;
+  font-weight: bold;
+}
+span.blue    { color: blue;    font-weight: normal; }
+span.bblue   { color: blue;    font-weight: bold;   }
+span.red     { color: red;     font-weight: normal; }
+span.bred    { color: red;     font-weight: bold;   }
+span.yellow  { color: yellow;  font-weight: normal; }
+span.byellow { color: yellow;  font-weight: bold;   }
+span.black   { color: black;   font-weight: normal; }
+span.bblack  { color: black;   font-weight: bold;   }
+span.green   { color: green;   font-weight: normal; }
+span.bgreen  { color: green;   font-weight: bold;   }
+span.cyan    { color: aqua;    font-weight: normal; }
+span.bcyan   { color: aqua;    font-weight: bold;   }
+span.purple  { color: fuchsia; font-weight: normal; }
+span.bpurple { color: fuchsia; font-weight: bold;   }
+span.white   { color: gray;    font-weight: normal; }
+span.bwhite  { color: gray;    font-weight: bold;   }
+table.notes {
+  width: 550;
+  border: 1px black  solid;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+table.notes th {
+  font-size: 85%;
+  border-bottom: 1px black solid;
+  text-align: left;
+  padding-left: 1em;
+  background: rgb(51, 153, 255);
+}
+table.notes tr.odd {
+  background: rgb(223, 223, 223);
+}
+table.notes tr.even {
+  background: silver;
+}
+table.notes tr.rsel {
+  color : rgb(255, 255, 255);
+  background: rgb(51, 51, 255);
+}
+table.notes td {
+  font-size: 85%;
+  padding-left: 1em;
+}
+input.stdbutton {
+  width: 100px;
+  font: 14px verdana, sans-serif;
+  background: #999;
+  color: #fff;
+  padding: 0px;
+  border: 1px outset #000;
+}
+form.loginform {
+  padding: 0px;
+  margin: 0px;
+}

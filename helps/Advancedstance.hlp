@@ -1,0 +1,22 @@
+ADVANCEDSTANCE
+ADVANCEDSTANCE STANCE
+0
+Syntax: combat [style]
+
+Advanced stances can be learned after you have become a grand master in 
+two normal stances.  These stances are much better than the others.
+MANTIS: Requires CRANE and VIPER before it can be learned.  This stance 
+combines a very strong defense with lightning fast counter attacks.
+DRAGON: Requires BULL and CRAB before it can be learned.  This stance 
+uses very powerful attacks, as well as protecting the fighter from injury.
+TIGER: Requires BULL and VIPER before it can be learned.  Probably the 
+most aggressive of all the stances, this style utilizes very powerful and
+lightning fast attacks.
+MONKEY: Requires CRANE and MONGOOSE before it can be learned.  The only 
+affect of this stance is to completely nullify the advantages of your 
+opponent's stance.
+SWALLOW: Requires MONGOOSE and CRAB before it can be learned.  This is 
+the most defensive of all the stances, combining agile dodges with the 
+ability to 'roll' with an attack, helping prevent injury.
+
+See also help on @@stance@ and @@stancetable@

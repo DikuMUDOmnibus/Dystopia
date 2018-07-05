@@ -1,0 +1,24 @@
+ALIAS
+ALIAS CONFIGURATION
+-1
+The syntax for creating a new alias is simply :
+ALIAS [KEYWORD] [THE ALIASED STRING]
+
+When creating an alias, you can use %1, %2, %3, etc to refer to the Nth
+argument given after the alias. The @1, @2, @3, etc acts much in the same way,
+except it refers to all the arguments after the Nth argument, including the
+Nth argument itself.
+
+The ':' symbol can be used to separate commands, allowing an alias to expand
+into several commands at once.
+
+For instance, creating an alias could be done like this
+
+alias reload get ammo bag:reload %1 ammo:smile
+
+So instead of doing all of the above commands, you only have to type reload,
+and you will automatically get some ammo from your bag, and reload %1 with it.
+%1 is the first argument you give after reload, so just type 'reload gun'.
+
+The command DELALIAS can be used to delete unwanted aliases.
+Also read HELP @@ALIASEXAMPLE@ for more examples on creating aliases.

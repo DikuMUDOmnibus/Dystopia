@@ -1,0 +1,11 @@
+SACRIFICE
+SACRIFICE EQUIPMENT
+1
+Syntax: sacrifice [object]
+
+SACRIFICE drains the energy matter from an object, transferring the 
+energy to you in the form of exp.
+
+SACRIFICE takes the argument 'all' to destroy all items in the room.
+
+The number of exp gained vary according to the value of the object.

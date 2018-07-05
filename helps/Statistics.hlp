@@ -1,0 +1,22 @@
+STATISTICS
+STATISTICS STRENGTH DEXTERITY CONSTITUTION WISDOM INTELLIGENCE
+1
+Each player has 5 statistics which are shown on his or her scoresheet. They
+are known as strength, dexterity, intelligence, wisdom and consitution, or
+simply STR, DEX, INT, WIS and CON for short.
+
+The statistics can be trained as high as 25 using the train command, but can
+be further increased by certain spells and equipment. It is possible to reach
+as high as 50 points in each statistics.
+
+From 25 to 50, no change will be appearing in PK situations, but against
+monsters, each point above 25 will help in various ways mentioned below.
+
+Strength will increase damcap and damage.
+Dexterity will help a player dodge and parry.
+Wisdom will reduce the cost of move-based powers.
+Intelligence will reduce the cost of mana-based powers.
+Constitution will reduce the amount of damage taken.
+
+Please notice that only powers which are _targetted_ at a monster will have
+it's cost reduced by wisdom or intelligence.

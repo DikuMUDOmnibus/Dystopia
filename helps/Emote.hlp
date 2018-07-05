@@ -1,0 +1,10 @@
+EMOTE
+EMOTE POSE SOCIAL
+1
+Syntax: emote [action]
+Syntax: pose
+
+EMOTE is used to express emotions or actions.  Besides EMOTE, there are
+several dozen built-in social commands, such as CACKLE, HUG, and THANK.
+
+POSE is a variant of EMOTE.

@@ -1,0 +1,8 @@
+SHIELD
+SHIELD
+1
+The shield command (only open to some classes), calls forth a shield that
+prevents scrying attempts, and thus makes it harder to locate the shielded
+player.
+
+Syntax: shield

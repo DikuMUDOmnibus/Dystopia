@@ -1,0 +1,11 @@
+WATCHFUL EYE
+'WATCHFUL EYE' WATCHFULEYE FAE
+1
+The watcful eye can be created and controlled by any fae that have chosen
+the path of the arcanist (evolved in arcane). This eye will report anything
+that happens to it back to its controller, and it also possesses the ability
+to cast spells at the command of the creator. A fae does not need to be
+in the same room as the eye to control it.
+
+Syntax: watchfuleye        - create an eye.
+Syntax: nibbleeye [spell]  - order your eye to cast a spell.

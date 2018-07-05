@@ -1,0 +1,10 @@
+FORCE
+FORCE
+7
+Syntax: force [character] [command]
+Syntax: force all [command]
+
+FORCE forces one character to execute a command.
+
+FORCE 'all' forces all player characters to execute a command.
+This is typically used for 'force all save'.

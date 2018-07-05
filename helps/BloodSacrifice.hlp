@@ -1,0 +1,12 @@
+BLOOD SACRIFICE
+'BLOOD SACRIFICE' BLOODSACRIFICE FAE
+1
+This evolve allows a fae to substitute an instant sacrifice of health for
+a period of increased healing. Basicly the fae will sacrifice 2000 hps
+to gain 3000 hps over the next 6 seconds (500 hps per second). The command
+is lagless but can only be used once every 10 seconds.
+
+This evolve opposes the '@@prismatic wall@' evolve, and a fae can only
+gain one of these two evolves.
+
+Syntax: bloodsacrifice

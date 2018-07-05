@@ -1,0 +1,8 @@
+RUMBLE
+RUMBLE GIANT
+1
+Rumble is the class channel used by Giants. It allows them to talk to other
+giants in the game, without other classes being able to hear them. It is
+recommended that you use your class channel to ask class specific questions.
+
+Syntax: rumble [message]

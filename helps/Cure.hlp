@@ -1,0 +1,6 @@
+CURE
+CURE HEAL SPELL MAGIC
+1
+This spell cure damage on the target character.
+
+Syntax: cast 'heal'          [character]

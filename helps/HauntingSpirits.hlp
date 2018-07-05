@@ -1,0 +1,16 @@
+HAUNTING SPIRITS
+'HAUNTING SPIRITS' HSPIRITS FAE
+1
+This evolve can be gained by faes which has first gained the combat evolve
+known as '@@spirit combat@'. It opposes the '@@blastbeams@' evolve, and only
+one of these two evolves can be gained.
+
+This evolve will summon a flock of haunting spirits, which can be directed
+towards any player or monster that tries to flee. These spirits will attempt
+to stall and hinder the target as much as possible, and delay the attempt
+for a period of time.
+
+The command must be used when the victim tries to flee, it has no affect on
+players or monsters not trying to flee.
+
+Syntax: hspirits [victim]

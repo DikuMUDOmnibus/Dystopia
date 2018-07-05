@@ -1,0 +1,12 @@
+AUTOSTANCE
+AUTOSTANCE STANCE
+1
+The autostance command will enable you to choose a default stance, which
+you will always drop into when starting a new fight. You must be able
+to normally stance into a stance before you can autostance it.
+
+You can pick between two types of autostances, one for fighting monsters,
+and another for fighting players. Use the syntax below to set the right
+stance for you.
+
+Syntax : Autostance [monster|pk] [stance]

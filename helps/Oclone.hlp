@@ -1,0 +1,8 @@
+OCLONE
+OCLONE
+7
+Syntax: oclone [object]
+
+This creates an identical copy of the specified object, with the only 
+exceptions being that the cloned objects creator is the person creating 
+the clone, and the cloned objects owner is not set.

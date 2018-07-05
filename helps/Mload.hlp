@@ -1,0 +1,16 @@
+MLOAD
+MLOAD OLOAD PLOAD
+7
+Syntax: mload [vnum]
+Syntax: oload [vnum]
+Syntax: oload [vnum] [level]
+Syntax: pload [player]
+
+MLOAD loads a mobile given its vnum (virtual number).  The vnum's are just
+the #NNNN numbers that appear in world.obj.
+
+OLOAD loads an object given its vnum.  It takes an optional parameter for
+the level of the object to be loaded.
+
+PLOAD loads the specified player under your control.  To get back, simply 
+quit and log back on as your normal character.

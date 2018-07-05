@@ -1,0 +1,15 @@
+PENTAGRAM
+PENTAGRAM WARLOCK
+1
+The warlock summoning power 'pentagram' can be used to teleport an
+entire room full of mobiles (including players with their summon
+on) to the same room as the warlock. All mobiles has a chance of
+resisting this summoning, and the more powerful the mobile, the
+better the chance of resisting.
+
+Warlocks that have mastered the sphere of summoning have access to a
+more powerful pentagram spell, which works the same way as the old
+spell, except it summons more mobiles, and have a better chance of
+summoning even more powerful mobiles.
+
+Syntax: Pentagram [mobile]

@@ -1,0 +1,896 @@
+#AREADATA
+Name        Jobo      Durgaard Halls~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       8161 8199
+Cvnum       8161
+Security    1
+Areabits    81
+End
+
+
+
+#MOBILES
+#8161
+grimnir dwarf~
+Grimnir the Dwarven God~
+Grimnir the Dwarven God stands here.
+~
+~
+3 184 0
+1351 25 4 60 0 0
+1 3
+S
+#8162
+valaya dwarf~
+Valaya the Dwarven Goddess~
+Valaya the Dwarven Goddess stands here.
+~
+~
+3 184 0
+1204 20 2 93 0 0
+2 7
+S
+#8163
+moradin dwarf~
+Moradin the Soul-Forger~
+Moradin the Soul-Forger stands here.
+~
+~
+3 184 0
+1403 25 3 83 0 0
+1 3
+S
+#8164
+Gamesh dwarf duegar~
+Gamesh the Depraved~
+Gamesh the Depraved stands here.
+~
+~
+3 184 -500
+1351 0 0 0 0 0
+1 6
+S
+#8165
+dwarf prisina~
+Prisina the Dwarven Skjald~
+Prisina the Dwarven Skjald stands here.
+~
+~
+3 184 500
+1449 20 4 73 0 0
+2 1
+S
+#8166
+duegar dwarf~
+a duegar dwarf~
+A duegar dwarf stands here.
+~
+~
+9 40 -300
+544 25 2 48 0 0
+1 3
+S
+#8167
+dwarven dwarf warrior~
+a dwarven warrior~
+A dwarven warrior stands here.
+~
+~
+9 40 0
+548 25 2 45 0 0
+1 3
+S
+#0
+
+
+
+#OBJECTS
+#8161
+shield tornwall~
+the Tornwall Shield~
+The Tornwall Shield lies here.~
+7 0 513
+15 0 0 0
+25 0
+A
+18 5
+A
+19 5
+#8162
+battleaxe axe~
+a battleaxe~
+A great battleaxe lies here.~
+5 0 8193
+0 10 20 3
+40 0
+A
+19 3
+A
+18 2
+#8163
+mallet~
+a huge mallet~
+A huge mallet lies on the floor.~
+5 0 8193
+0 15 18 7
+60 0
+A
+19 5
+A
+18 -10
+#8164
+shortsword rankor~
+the shortsword 'Rankor'~
+The shortsword 'Rankor' lies here.~
+5 0 8193
+0 12 22 1
+15 0
+A
+18 2
+A
+19 2
+#8165
+hammer thunderbolts~
+a hammer of thunderbolts~
+A huge hammer of thunderbolts lies here.~
+5 0 8193
+0 15 25 6
+100 0
+A
+18 5
+A
+19 5
+#8166
+small axe~
+a small axe~
+A small axe lies on the floor.~
+5 0 8193
+0 5 20 3
+1 0
+A
+18 3
+#8167
+platemail dwarven~
+dwarven platemail~
+A suit of dwarven platemail lies here.~
+7 0 9
+25 0 0 0
+1 0
+A
+17 -20
+A
+18 2
+A
+19 2
+A
+1 4
+#8168
+durgaar castle key~
+the Durgaard Castle Key~
+The Durgaard Castle Key lies here.~
+13 0 1
+0 0 0 0
+1 0
+#8169
+tinsoldier soldier~
+a small tinsoldier~
+A small tinsoldier stands here.~
+9 0 1
+0 0 0 0
+1 0
+#8170
+torn leggings~
+a pair of torn leggings~
+A pair of torn leggings lies on the floor.~
+7 0 33
+10 0 0 0
+1 0
+A
+13 -50
+#8171
+portal~
+a shimmering portal~
+A shimmering portal floats in the air.~
+21 0 0
+6806 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#8161
+#0[#g+#0] #RThe Durgaard Halls #0[#g+#0]#n~
+These are the ancient dwarven halls; the dwarven pantheon resides here,
+combining the forces of the elder gods with the strongest dwarven warriors
+throughout time. 
+~
+8204 8
+D0
+~
+~
+0 0 8162
+D1
+~
+~
+0 0 8175
+D2
+~
+~
+0 0 8191
+D3
+~
+~
+0 0 8183
+D5
+~
+~
+0 0 8170
+S
+#8162
+#0[#g+#0] #RApproaching the Wing of Grimnir #0[#g+#0]#n~
+These halls are the home of Grimnir, the dwarven god of battle. Fierce
+and loyal dwarven warriors stand guard, ready to smash and stump on any
+intruder. 
+~
+8 8
+D0
+~
+~
+0 0 8163
+D2
+~
+~
+0 0 8161
+S
+#8163
+#0[#g+#0] #RApproaching the Wing of Grimnir #0[#g+#0]#n~
+These halls are the home of Grimnir, the dwarven god of battle. Fierce
+andloyal dwarven warriors stand guard, ready to smash and stump on any
+intruder. 
+~
+8 8
+D0
+~
+~
+0 0 8164
+D2
+~
+~
+0 0 8162
+S
+#8164
+#0[#g+#0] #RThe Wing of Grimnir #0[#g+#0]#n~
+The greatest hall in Durgaard is the tactical room that doubles as the
+throneroom for Grimnir the dwarven god of battle. Battleplans, maps and
+small tinsoldiers are scattered across several huge tables. 
+~
+8 8
+D0
+~
+~
+0 0 8165
+D1
+~
+~
+0 0 8167
+D2
+~
+~
+0 0 8163
+D3
+~
+~
+0 0 8166
+S
+#8165
+#0[#g+#0] #RThe Wing of Grimnir #0[#g+#0]#n~
+The greatest hall in Durgaard is the tactical room that doubles as
+thethroneroom for Grimnir the dwarven god of battle. Battleplans, maps
+andsmall tinsoldiers are scattered across several huge tables. 
+~
+8 8
+D1
+~
+~
+0 0 8168
+D2
+~
+~
+0 0 8164
+D3
+~
+~
+0 0 8169
+S
+#8166
+#0[#g+#0] #RThe Wing of Grimnir #0[#g+#0]#n~
+The greatest hall in Durgaard is the tactical room that doubles as
+thethroneroom for Grimnir the dwarven god of battle. Battleplans, maps
+andsmall tinsoldiers are scattered across several huge tables. 
+~
+8 8
+D0
+~
+~
+0 0 8169
+D1
+~
+~
+0 0 8164
+S
+#8167
+#0[#g+#0] #RThe Wing of Grimnir #0[#g+#0]#n~
+The greatest hall in Durgaard is the tactical room that doubles as
+thethroneroom for Grimnir the dwarven god of battle. Battleplans, maps
+andsmall tinsoldiers are scattered across several huge tables. 
+~
+8 8
+D0
+~
+~
+0 0 8168
+D3
+~
+~
+0 0 8164
+S
+#8168
+#0[#g+#0] #RThe Wing of Grimnir #0[#g+#0]#n~
+The greatest hall in Durgaard is the tactical room that doubles as
+thethroneroom for Grimnir the dwarven god of battle. Battleplans, maps
+andsmall tinsoldiers are scattered across several huge tables. 
+~
+8 8
+D2
+~
+~
+0 0 8167
+D3
+~
+~
+0 0 8165
+S
+#8169
+#0[#g+#0] #RThe Wing of Grimnir #0[#g+#0]#n~
+The greatest hall in Durgaard is the tactical room that doubles as
+thethroneroom for Grimnir the dwarven god of battle. Battleplans, maps
+andsmall tinsoldiers are scattered across several huge tables. 
+~
+8 8
+D1
+~
+~
+0 0 8165
+D2
+~
+~
+0 0 8166
+S
+#8170
+#0[#g+#0] #RThe Caverns Below Durgaard #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8171
+D4
+~
+~
+0 0 8161
+S
+#8171
+#0[#g+#0] #RCaverns of Gamesh #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8172
+D1
+~
+~
+0 0 8173
+D3
+~
+~
+0 0 8170
+S
+#8172
+#0[#g+#0] #RCaverns of Gamesh  #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8174
+D2
+~
+~
+0 0 8171
+S
+#8173
+#0[#g+#0] #RCaverns of Gamesh  #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8174
+D3
+~
+~
+0 0 8171
+S
+#8174
+#0[#g+#0] #RCaverns of Gamesh  #0[#g+#0]#n~
+~
+8 8
+D2
+~
+~
+0 0 8173
+D3
+~
+~
+0 0 8172
+S
+#8175
+#0[#g+#0] #RApproaching the Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8176
+D3
+~
+~
+0 0 8161
+S
+#8176
+#0[#g+#0] #RApproaching the Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8177
+D3
+~
+~
+0 0 8175
+S
+#8177
+#0[#g+#0] #RThe Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8181
+D1
+~
+~
+0 0 8178
+D2
+~
+~
+0 0 8182
+D3
+~
+~
+0 0 8176
+S
+#8178
+#0[#g+#0] #RThe Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8179
+D2
+~
+~
+0 0 8180
+D3
+~
+~
+0 0 8177
+S
+#8179
+#0[#g+#0] #RThe Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D2
+~
+~
+0 0 8178
+D3
+~
+~
+0 0 8181
+S
+#8180
+#0[#g+#0] #RThe Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8178
+D3
+~
+~
+0 0 8182
+S
+#8181
+#0[#g+#0] #RThe Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8179
+D2
+~
+~
+0 0 8177
+S
+#8182
+#0[#g+#0] #RThe Wing of Valaya #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8177
+D1
+~
+~
+0 0 8180
+S
+#8183
+#0[#g+#0] #RApproaching the Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8161
+D3
+~
+~
+0 0 8184
+S
+#8184
+#0[#g+#0] #RApproaching the Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8183
+D3
+~
+~
+0 0 8185
+S
+#8185
+#0[#g+#0] #RThe Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8190
+D1
+~
+~
+0 0 8184
+D2
+~
+~
+0 0 8189
+D3
+~
+~
+0 0 8186
+S
+#8186
+#0[#g+#0] #RThe Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8187
+D1
+~
+~
+0 0 8185
+D2
+~
+~
+0 0 8188
+S
+#8187
+#0[#g+#0] #RThe Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D1
+~
+~
+0 0 8190
+D2
+~
+~
+0 0 8186
+S
+#8188
+#0[#g+#0] #RThe Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8186
+D1
+~
+~
+0 0 8189
+S
+#8189
+#0[#g+#0] #RThe Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D0
+~
+~
+0 0 8185
+D3
+~
+~
+0 0 8188
+S
+#8190
+#0[#g+#0] #RThe Wing of Prisina #0[#g+#0]#n~
+~
+8 8
+D2
+~
+~
+0 0 8185
+D3
+~
+~
+0 0 8187
+S
+#8191
+#0[#g+#0] #RApproaching the Wing of Moradin #0[#g+#0]#n~
+This part of Castle Durgaard is home to the ancient smith Moradin the
+Soul-Forger. He is said to be keeper of the destinies of all dwarvenkin, and
+the last hope for the short people at the end of times. 
+~
+8 8
+D0
+~
+~
+0 0 8161
+D2
+~
+~
+0 0 8192
+S
+#8192
+#0[#g+#0] #RApproaching the Wing of Moradin #0[#g+#0]#n~
+This part of Castle Durgaard is home to the ancient smith Moradin the
+Soul-Forger. He is said to be keeper of the destinies of all dwarvenkin, and
+the last hope for the short people at the end of times. 
+~
+8 8
+D0
+~
+~
+0 0 8191
+D2
+~
+~
+0 0 8193
+S
+#8193
+#0[#g+#0] #RThe Wing of Moradin #0[#g+#0]#n~
+This forge is the home of Moradin the Soul-Forger, greater god of the
+dwarfs. In this godsized smithy, he is said be forging the future and
+polishing the past of all dwarfs. 
+~
+8 8
+D0
+~
+~
+0 0 8192
+D1
+~
+~
+0 0 8197
+D2
+~
+~
+0 0 8194
+D3
+~
+~
+0 0 8198
+S
+#8194
+#0[#g+#0] #RThe Wing of Moradin #0[#g+#0]#n~
+This forge is the home of Moradin the Soul-Forger, greater god of the
+dwarfs. In this godsized smithy, he is said be forging the future and
+polishing thepast of all dwarfs. 
+~
+8 8
+D0
+~
+~
+0 0 8193
+D1
+~
+~
+0 0 8196
+D3
+~
+~
+0 0 8195
+S
+#8195
+#0[#g+#0] #RThe Wing of Moradin #0[#g+#0]#n~
+This forge is the home of Moradin the Soul-Forger, greater god of the
+dwarfs. In this godsized smithy, he is said be forging the future and
+polishing thepast of all dwarfs. 
+~
+8 8
+D0
+~
+~
+0 0 8198
+D1
+~
+~
+0 0 8194
+S
+#8196
+#0[#g+#0] #RThe Wing of Moradin #0[#g+#0]#n~
+This forge is the home of Moradin the Soul-Forger, greater god of the
+dwarfs. In this godsized smithy, he is said be forging the future and
+polishing thepast of all dwarfs. 
+~
+8 8
+D0
+~
+~
+0 0 8197
+D3
+~
+~
+0 0 8194
+S
+#8197
+#0[#g+#0] #RThe Wing of Moradin #0[#g+#0]#n~
+This forge is the home of Moradin the Soul-Forger, greater god of the
+dwarfs. In this godsized smithy, he is said be forging the future and
+polishing thepast of all dwarfs. 
+~
+8 8
+D2
+~
+~
+0 0 8196
+D3
+~
+~
+0 0 8193
+S
+#8198
+#0[#g+#0] #RThe Wing of Moradin #0[#g+#0]#n~
+This forge is the home of Moradin the Soul-Forger, greater god of the
+dwarfs. In this godsized smithy, he is said be forging the future and
+polishing thepast of all dwarfs. 
+~
+8 8
+D1
+~
+~
+0 0 8193
+D2
+~
+~
+0 0 8195
+S
+#0
+
+
+
+#SPECIALS
+M 8161 spec_dwarf_grimnir
+M 8162 spec_dwarf_valaya
+M 8163 spec_dwarf_moradin
+M 8164 spec_dwarf_gamesh
+M 8165 spec_dwarf_prisina
+D 8166 deathspec_duegar
+D 8167 deathspec_dwarven
+S
+
+
+
+#RESETS
+O 0 8171 0 8161
+M 0 8167 1 8163
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8161 1 8165
+E 0 8161 0 11
+E 0 8162 0 16
+M 0 8167 1 8166
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8167
+E 0 8166 0 16
+E 0 8167 0 5
+O 0 8169 0 8168
+O 0 8169 0 8168
+M 0 8166 1 8171
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8166 1 8172
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8166 1 8173
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8164 1 8174
+E 0 8165 0 16
+E 0 8170 0 7
+M 0 8167 1 8175
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8176
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8162 1 8178
+E 0 8163 0 16
+M 0 8167 1 8181
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8182
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8183
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8165 1 8186
+E 0 8164 0 16
+M 0 8167 1 8189
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8190
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8192
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8163 1 8194
+E 0 8162 0 16
+M 0 8167 1 8197
+E 0 8166 0 16
+E 0 8167 0 5
+M 0 8167 1 8198
+E 0 8166 0 16
+E 0 8167 0 5
+S
+
+
+
+#$

@@ -1,0 +1,920 @@
+#AREADATA
+Name        Lune      Troll Encampment~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       7000 7099
+Cvnum       7003
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#7000
+Slakk, The Troll Leader~
+Slakk, The Troll Leader~
+Slakk, the troll leader, sits upon his mighty throne here.
+~
+~
+27 128 1000
+209 2 2 0 0 0
+1 7
+S
+#7001
+An elite Troll Guard~
+An elite troll guard~
+An elite troll guard stands on duty here.
+~
+~
+19 0 500
+90 0 1 80 0 0
+1 7
+S
+#7002
+A Mighty Troll~
+A mighty troll~
+A mighty troll awaits battle readily.
+~
+~
+19 0 200
+99 0 0 0 0 0
+1 7
+S
+#7003
+A Troll Scout~
+A troll scout~
+A troll scout silently sneaks about here.
+~
+~
+17 32768 100
+78 0 2 0 0 0
+1 7
+S
+#7004
+A Giant Troll~
+A giant troll~
+A giant troll towers above the rest.
+~
+~
+17 0 200
+113 0 0 0 0 0
+1 7
+S
+#7005
+A Troll Warrior~
+A troll warrior~
+A troll warrior awaits the next battle here.
+~
+~
+17 0 100
+82 0 0 0 0 0
+1 7
+S
+#0
+
+
+
+#OBJECTS
+#7000
+A Giant Battleaxe~
+a giant battleaxe~
+A giant battleaxe slowly rusts on the floor.~
+5 2 8193
+0 10 20 3
+1 0
+#7001
+a weapon rack~
+a weapon rack~
+A large weapon rack sits upon the ground here, filled with weapons.~
+11 131584 0
+5000 0 0 0
+5000 0
+#7002
+a troll battle axe~
+a large troll battleaxe~
+A large troll battleaxe is here, slowly rusting away.~
+5 512 8193
+0 10 20 3
+3 0
+#7003
+a well-crafted longsword~
+a well-crafted longsword~
+A well-crafted longsword reflects the light.~
+5 0 8193
+0 10 20 1
+3 0
+#7004
+a giant jagged-edged spear~
+a giant jagged-edged spear~
+A spear with a jagged edge juts out from the ground.~
+5 0 8193
+0 15 15 2
+3 0
+#7005
+a dead animal carcass~
+a dead animal carcass~
+A dead animal carcass slowly rots away on the ground.~
+10 0 0
+0 0 0 0
+1 0
+#7006
+a rabbit corpse~
+a savagely mutilated rabbit corpse~
+The mutilated corpse of a rabbit is here.~
+10 0 0
+0 0 0 0
+1 0
+#7007
+a deer corpse~
+the corpse of a half-eaten deer~
+A half-eaten corpse of a deer lies here, attracting flies.~
+10 0 0
+0 0 0 0
+1 0
+#7008
+a shimmering longsword~
+a shimmering longsword~
+A shimmering longsword lies here.~
+5 1 8193
+0 8 20 1
+1 0
+#0
+
+
+
+#ROOMDATA
+#7000
+Dirt Road~
+This is beginning of a long dirt path, that seems to lead over the hills and across the land. Loud war chants can be heard comming from the north, and small speckles of blood can be seen drying up on the ground. There are no trees here to provide protection from the sun, making the heat nearly unbareable.
+~
+0 4
+D0
+~
+~
+0 0 7001
+D3
+~
+~
+0 0 8682
+S
+#7001
+Dirt Road~
+This is beginning of a long dirt path, that seems to lead over the hills and across the land. Loud war chants can be heard comming from the north, and small speckles of blood can be seen drying up on the ground. There are no trees here to provide protection from the sun, making the heat nearly unbareable.
+~
+0 4
+D0
+~
+~
+0 0 7002
+D2
+~
+~
+0 0 7000
+S
+#7002
+Dirt Road~
+The dirt pathway becomes an intersection, as it leads off to the east and
+west towards troll barracks tents. The stench of the troll warriors plagues
+this area, as it is a well traveled road. Blood and rotting carcases of
+small animals are strewn about the floor, slowly decaying. 
+~
+0 4
+D0
+~
+~
+0 0 7003
+D1
+~
+~
+0 0 7005
+D2
+~
+~
+0 0 7001
+D3
+~
+~
+0 0 7006
+S
+#7003
+Dirt Road~
+The dirt pathway becomes an intersection, as it leads off to the east and
+west towards troll barracks tents. The stench of the troll warriors plagues
+this area, as it is a well traveled road. Blood and rotting carcases of
+small animals are strewn about the floor, slowly decaying. 
+~
+0 4
+D0
+~
+~
+0 0 7004
+D1
+~
+~
+0 0 7009
+D2
+~
+~
+0 0 7002
+D3
+~
+~
+0 0 7011
+S
+#7004
+Dirt Road~
+The dirt pathway becomes an intersection, as it leads off to the east and
+west towards troll barracks tents. The stench of the troll warriors plagues
+this area, as it is a well traveled road. Blood and rotting carcases of
+small animals are strewn about the floor, slowly decaying. 
+~
+0 4
+D0
+~
+~
+0 0 7017
+D1
+~
+~
+0 0 7013
+D2
+~
+~
+0 0 7003
+D3
+~
+~
+0 0 7015
+S
+#7005
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7008
+D3
+~
+~
+0 0 7002
+S
+#7006
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7002
+D3
+~
+~
+0 0 7007
+S
+#7007
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7006
+S
+#7008
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D3
+~
+~
+0 0 7005
+S
+#7009
+Troll Barracks Tent~
+This troll barracks tent is slightly different from the rest, two large
+wooden weaponracks are situated right beside the entrance, allowing for easy
+access to weapons should the need arise. The floor is nearly completely
+blanketed with leaves and branches from trees. 
+~
+0 0
+D1
+~
+~
+0 0 7010
+D3
+~
+~
+0 0 7003
+S
+#7010
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D3
+~
+~
+0 0 7009
+S
+#7011
+Troll Barracks Tent~
+This troll barracks tent is slightly different from the rest, two large
+wooden weaponracks are situated right beside the entrance, allowing for easy
+access to weapons should the need arise. The floor is nearly completely
+blanketed with leaves and branches from trees. 
+~
+0 0
+D1
+~
+~
+0 0 7003
+D3
+~
+~
+0 0 7012
+S
+#7012
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7011
+S
+#7013
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7014
+D3
+~
+~
+0 0 7004
+S
+#7014
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D3
+~
+~
+0 0 7013
+S
+#7015
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7004
+D3
+~
+~
+0 0 7016
+S
+#7016
+Troll Barracks Tent~
+The troll barracks tent has no beds or anything that looks even remotely
+comfortable to sleep on, instead, the entire floor is covered with a large
+amount of leaves and branches. 
+~
+0 0
+D1
+~
+~
+0 0 7015
+S
+#7017
+Dirt Road -- Intersection~
+The dirt path now splits off into a four-way intersection, leading off in
+all different directions. To the north is a huge tent, obiviously where the
+troll leader resides. To the east and west are the kitchen and storage tents
+of the troll encampment, where they keep all of their supplies. 
+~
+0 4
+D0
+~
+~
+0 0 7018
+D1
+~
+~
+0 0 7019
+D2
+~
+~
+0 0 7004
+D3
+~
+~
+0 0 7020
+S
+#7018
+Before the Troll Leader's Tent~
+The troll leader's tent is massive, almost as big as most medieval
+castles. It is painted dark green, and the familiar stench of death floats
+in the air. You can see from the skeletons and various pieces of weapon and
+armor lying on the floor that many have fought their way to this very
+entrance, but none survived to venture forth. 
+~
+0 4
+D0
+~
+~
+0 0 7031
+D2
+~
+~
+0 0 7017
+S
+#7019
+Dirt Road~
+The dirt road branches off to the east, leading to the troll supply
+tents. The road here is relatively more clean than the rest of the troll
+encampment, as it is not littered with the dead carcases of animals and
+blood is not splattered everywhere. 
+~
+0 4
+D0
+~
+~
+0 0 7029
+D1
+~
+~
+0 0 7021
+D2
+~
+~
+0 0 7030
+D3
+~
+~
+0 0 7017
+S
+#7020
+Dirt Road~
+The dirt road branches off to the west, leading to the troll supply
+tents. The road here is relatively more clean than the rest of the troll
+encampment, as it is not littered with the dead carcases of animals and
+blood is not splattered everywhere. 
+~
+0 4
+D0
+~
+~
+0 0 7027
+D1
+~
+~
+0 0 7017
+D2
+~
+~
+0 0 7028
+D3
+~
+~
+0 0 7024
+S
+#7021
+Dirt Road~
+The dirt road branches off to the east, leading to the troll supply
+tents. The road here is relatively more clean than the rest of the troll
+encampment, as it is not littered with the dead carcases of animals and
+blood is not splattered everywhere. 
+~
+0 4
+D0
+~
+~
+0 0 7022
+D2
+~
+~
+0 0 7023
+D3
+~
+~
+0 0 7019
+S
+#7022
+Weapons Tent~
+An assortment of many different weapons are placed upon giant weaponracks
+here. Huge cutlasses are placed on a large round table in the center of the
+room providing tools for the trolls to sharpen their weapons. 
+~
+0 0
+D2
+~
+~
+0 0 7021
+S
+#7023
+Weapons Tent~
+An assortment of many different weapons are placed upon giant weaponracks
+here. Huge cutlasses are placed on a large round table in the center of the
+room providing tools for the trolls to sharpen their weapons. 
+~
+0 0
+D0
+~
+~
+0 0 7021
+S
+#7024
+Dirt Road~
+The dirt road branches off to the west, leading to the troll supply
+tents. The road here is relatively more clean than the rest of the troll
+encampment, as it is not littered with the dead carcases of animals and
+blood is not splattered everywhere. 
+~
+0 4
+D0
+~
+~
+0 0 7025
+D1
+~
+~
+0 0 7020
+D2
+~
+~
+0 0 7026
+S
+#7025
+Weapons Tent~
+An assortment of many different weapons are placed upon giant weaponracks
+here. Huge cutlasses are placed on a large round table in the center of the
+room providing tools for the trolls to sharpen their weapons. 
+~
+0 0
+D2
+~
+~
+0 0 7024
+S
+#7026
+Weapons Tent~
+An assortment of many different weapons are placed upon giant weaponracks
+here. Huge cutlasses are placed on a large round table in the center of the
+room providing tools for the trolls to sharpen their weapons. 
+~
+0 0
+D0
+~
+~
+0 0 7024
+S
+#7027
+Feasting Tent~
+The feasting tent resembles a slaughterhouse -- dead, or dying animals
+cry out for help, trying desperately to escape being the next meal. Trolls
+seem to just walk in, choose a meal, eat it and then walk out. It seems like
+there is enough food in here to feed a small village. 
+~
+0 0
+D2
+~
+~
+0 0 7020
+S
+#7028
+Feasting Tent~
+The feasting tent resembles a slaughterhouse -- dead, or dying animals
+cry out for help, trying desperately to escape being the next meal. Trolls
+seem to just walk in, choose a meal, eat it and then walk out. It seems like
+there is enough food in here to feed a small village. 
+~
+0 0
+D0
+~
+~
+0 0 7020
+S
+#7029
+Feasting Tent~
+The feasting tent resembles a slaughterhouse -- dead, or dying animals
+cry out for help, trying desperately to escape being the next meal. Trolls
+seem to just walk in, choose a meal, eat it and then walk out. It seems like
+there is enough food in here to feed a small village. 
+~
+0 0
+D2
+~
+~
+0 0 7019
+S
+#7030
+Feasting Tent~
+The feasting tent resembles a slaughterhouse -- dead, or dying animals
+cry out for help, trying desperately to escape being the next meal. Trolls
+seem to just walk in, choose a meal, eat it and then walk out. It seems like
+there is enough food in here to feed a small village. 
+~
+0 0
+D0
+~
+~
+0 0 7019
+S
+#7031
+Leader's Tent~
+Inside the leader's tent it is massive, and many trolls are here,
+standing guard as their leader plots their next plan of attack. The tent is
+neither lavishly furnished nor well kept, as carcases of small animals and
+blood are splattered all about. To the north the gleaming gold of the
+leader's throne can be seen. 
+
+~
+0 0
+D0
+~
+~
+0 0 7035
+D1
+~
+~
+0 0 7032
+D2
+~
+~
+0 0 7018
+D3
+~
+~
+0 0 7033
+S
+#7032
+Leader's Tent~
+Inside the leader's tent it is massive, and many trolls are here,
+standing guard as their leader plots their next plan of attack. The tent is
+neither lavishly furnished nor well kept, as carcases of small animals and
+blood are splattered all about. To the north the gleaming gold of the
+leader's throne can be seen. 
+~
+0 0
+D0
+~
+~
+0 0 7036
+D3
+~
+~
+0 0 7031
+S
+#7033
+Leader's Tent~
+Inside the leader's tent it is massive, and many trolls are here,
+standing guard as their leader plots their next plan of attack. The tent is
+neither lavishly furnished nor well kept, as carcases of small animals and
+blood are splattered all about. To the north the gleaming gold of the
+leader's throne can be seen. 
+~
+0 0
+D0
+~
+~
+0 0 7034
+D1
+~
+~
+0 0 7031
+S
+#7034
+Leader's Tent~
+Inside the leader's tent it is massive, and many trolls are here,
+standing guard as their leader plots their next plan of attack. The tent is
+neither lavishly furnished nor well kept, as carcases of small animals and
+blood are splattered all about. To the north the gleaming gold of the
+leader's throne can be seen. 
+~
+0 0
+D1
+~
+~
+0 0 7035
+D2
+~
+~
+0 0 7033
+S
+#7035
+Leader's Tent~
+You stand directly before the huge, golden throne of the mighty troll
+leader. The eerie sense of death and fear fills your heart, as if the troll
+leader was ready for you. This area is quite clean, compared to the rest of
+the troll encampment. Large troll guards stand on duty here, ready to
+protect their leader with their lives. 
+~
+0 0
+D0
+~
+~
+0 0 7037
+D1
+~
+~
+0 0 7036
+D2
+~
+~
+0 0 7031
+D3
+~
+~
+0 0 7034
+S
+#7036
+Leader's Tent~
+~
+0 0
+D2
+~
+~
+0 0 7032
+D3
+~
+~
+0 0 7035
+S
+#7037
+Leader's Throne~
+Fear pierces your heart as you glance upon the huge golden throne, and
+the mighty troll leader. On either sides of his magnificent throne are
+wooden pillars, and thrusted on top of each one, are the heads of his
+defeated enemies. An odd glow seems to come from this room, a dark and evil
+one. 
+~
+0 0
+D2
+~
+~
+0 0 7035
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 7005 120 7001
+M 0 7004 120 7001
+M 0 7003 120 7001
+M 0 7005 120 7002
+M 0 7004 120 7002
+M 0 7003 120 7002
+M 0 7005 120 7003
+M 0 7004 120 7003
+M 0 7003 120 7003
+M 0 7005 120 7004
+M 0 7004 120 7004
+M 0 7003 120 7004
+O 0 7001 0 7009
+P 0 7008 0 7001
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+O 0 7001 0 7011
+P 0 7008 0 7001
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+M 0 7005 120 7017
+M 0 7004 120 7017
+M 0 7003 120 7017
+M 0 7005 120 7018
+M 0 7004 120 7018
+M 0 7003 120 7018
+M 0 7005 120 7019
+M 0 7004 120 7019
+M 0 7003 120 7019
+M 0 7005 120 7020
+M 0 7004 120 7020
+M 0 7003 120 7020
+M 0 7005 120 7021
+M 0 7004 120 7021
+M 0 7003 120 7021
+M 0 7003 120 7021
+M 0 7004 120 7021
+M 0 7005 120 7021
+O 0 7001 0 7022
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+P 0 7004 0 7001
+P 0 7004 0 7001
+O 0 7001 0 7023
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+P 0 7004 0 7001
+P 0 7004 0 7001
+M 0 7005 120 7024
+M 0 7004 120 7024
+M 0 7003 120 7024
+O 0 7001 0 7025
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+P 0 7004 0 7001
+P 0 7004 0 7001
+O 0 7001 0 7026
+P 0 7002 0 7001
+P 0 7002 0 7001
+P 0 7003 0 7001
+P 0 7003 0 7001
+P 0 7004 0 7001
+P 0 7004 0 7001
+O 0 7005 0 7027
+O 0 7006 0 7027
+O 0 7007 0 7028
+O 0 7006 0 7029
+O 0 7007 0 7029
+O 0 7005 0 7030
+M 0 7002 120 7031
+M 0 7001 120 7031
+M 0 7002 120 7031
+M 0 7001 120 7031
+M 0 7002 120 7031
+M 0 7002 120 7032
+M 0 7001 120 7032
+M 0 7002 120 7032
+M 0 7001 120 7032
+M 0 7002 120 7032
+M 0 7002 120 7033
+M 0 7001 120 7033
+M 0 7002 120 7033
+M 0 7001 120 7033
+M 0 7002 120 7033
+M 0 7002 120 7034
+M 0 7001 120 7034
+M 0 7002 120 7034
+M 0 7001 120 7034
+M 0 7002 120 7034
+M 0 7002 120 7035
+M 0 7001 120 7035
+M 0 7002 120 7035
+M 0 7001 120 7035
+M 0 7002 120 7035
+M 0 7002 120 7036
+M 0 7001 120 7036
+M 0 7002 120 7036
+M 0 7001 120 7036
+M 0 7002 120 7036
+M 0 7001 120 7037
+M 0 7000 1 7037
+M 0 7001 120 7037
+E 0 7000 0 16
+S
+
+
+
+#$

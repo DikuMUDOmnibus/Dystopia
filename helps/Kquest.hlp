@@ -1,0 +1,28 @@
+KQUEST
+KQUEST KINGDOM
+1
+To create your own kingdom, you must first complete a kingdom quest. This is
+done in teams of 3 to 5 players, all of which must participate in completing
+the quest. All team members must have at least CADET as their rank, and the
+leader of the team (who will also become the king of the new kingdom) must
+have the rank of HERO or better. The leader of the group must also have 1000
+goldcrowns, which will be spend on creating the quest.
+
+The teamleader forms a group with the group/follow commands, and initiates
+the quest by typing 'kquest gain'. A questspirit will appear and guide you
+from now on.
+
+First you must find all the questclues scattered around the world, locate them
+with the locate spell (keyword for the questclue is CLUE).
+
+As you find each clue, type 'kquest useclue clue' to absorb the clue. Once
+you have gathered all the clues, you must guess the passphrase. If you just
+type 'kquest' it will show how far you are in completing the quest, as well
+as list all the letters (ie. clues) that you have collected.
+
+You only have one guess at the passphrase, and the guess is made by typing
+'kquest passphrase [your guess]'. If you are correct, the questspirit
+will transfer your entire group to the room where the Avatar of Memnon
+resides. You will have to kill this avatar to gain your new kingdom.
+
+Good luck, you will need it.

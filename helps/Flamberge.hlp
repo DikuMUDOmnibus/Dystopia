@@ -1,0 +1,15 @@
+FLAMBERGE
+FLAMBERGE FLAMESTORM WARLOCK
+1
+Flamberge and Flamestorm are two roomwide attacks used by Warlocks that
+has studied the arts of Invocation. Flamberge is the early version of
+the spell, which strikes the entire room for medium damage.
+
+Flamestorm requires a little more mana, but will also cause more damage
+to the room - the true power behind Flamestorm, is it's ability to
+exclude certain people from being hit by the attack.
+
+The valid 'excludes' are : players, mobiles, group & nongroup
+
+For example, by typing 'flamestorm players' everyone in the room is
+struck by the flamestorm, EXCEPT players (ie. only monsters).

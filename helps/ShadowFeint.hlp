@@ -1,0 +1,24 @@
+SHADOW FEINT
+'SHADOW FEINT' BLOCKFEINT POKETRIP PLANEBIND SHADOWLORD
+1
+The 'shadow feint' evolve is a powerful evolve gained by the most wise among the
+shadowlords. This evolve requires the '@@planegrab@' evolve, and opposes the
+'@@shadow witness@' evolve, and only one of these two evolves can be gained.
+
+This evolve gives the shadowlord access to the planebind spell, a spell designed
+to prevent planeshifting through direct means. The target of the spell will be
+unable to use the planeshift command while affected, nor will or she he be able
+to leave the shadowplane by sleeping.
+
+This evolve also allows the shadowlord to use two new attacks, which can only
+be accessed inside the shadowplane. These two attacks from the backbone of
+three new shadow-combos, the effect of which are a well-kept secret by these
+old shadowlord.
+
+As a true master of the shadowplane, the lord is able to use the shadowplane
+command while fighting, effectivly shifting him or herself, along with anyone
+fighting the lord, into the shadowplane.
+
+Syntax: cast planebind [victim]
+Syntax: hthrust [victim]
+Syntax: dullcut [victim]

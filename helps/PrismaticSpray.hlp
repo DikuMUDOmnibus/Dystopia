@@ -1,0 +1,22 @@
+PRISMATIC SPRAY
+'PRISMATIC SPRAY' PSPRAY FAE
+1
+This evolve allows the fae to conjure and control a prismatic spray, which can
+be send forth to strike any monster, leaving it monster mesmerized by the
+scintillating burst of colours. The dizzying effect will last for only a short
+while, but the fae can keep blasting with the spray, for as long as the fae can
+keep paying the upkeep cost for the prismatic spray.
+
+This evolve requires the '@@prismatic wall@' evolve, and opposes the evolve known
+as the '@@prismatic chainblast@', and only one of these two evolves can be gained.
+
+The same command which summons the scintillating prismatic spray can be used to
+send it back to the sphere from which it came.
+
+If a fae is standing in a room which is covered in a sheet of prismatic energy,
+as summoned by the prismatic wall power, the fae does not need to conjure
+forth the prismatic spray, he or she can simply call for the sheet to spray
+the victim.
+
+Syntax: pspray
+Syntax: pspray [monster]

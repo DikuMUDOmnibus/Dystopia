@@ -1,0 +1,10 @@
+CHAOSSIGIL
+CHAOSSIGIL FAE
+1
+The powerful arcanists, within the ranks of the fae, have the power to paint a 
+sigil of madness and chaos upon any players forehead, causing great pain upon
+the inflicted player. How long this sigil will stay in place is a matter of
+pure chaos (ie. no one knows), but should the target ever go below 0 hitpoints,
+the sigil will fade away automatically.
+
+Syntax: chaossigil [player]

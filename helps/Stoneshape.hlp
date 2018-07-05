@@ -1,0 +1,7 @@
+STONESHAPE
+STONESHAPE GIANT
+1
+Stoneshaping is a special giant ability, which is used to enhance weapons
+and armors. It costs the giant 200 goldcrowns each time the power is used.
+
+Syntax : stoneshape [item]

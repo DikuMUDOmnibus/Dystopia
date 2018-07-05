@@ -1,0 +1,2123 @@
+#AREADATA
+Name        Willaz    Lair of the Black Dragon~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       3328 3428
+Cvnum       3370
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#3328
+black dragon~
+The Black Dragon~
+The Legendary Black Dragon stands before you in all its glory.
+~
+~
+1043 0 0
+138 0 0 0 0 0
+0 0
+S
+#3329
+Hobgoblin~
+The Hobgoblin~
+The Hobgoblin is here, dancing around a bonfire
+~
+~
+19 0 0
+29 0 0 0 0 0
+0 0
+S
+#3330
+Shaman~
+The Shaman~
+The Shaman is here, chanting arcane babble
+~
+~
+19 0 0
+17 0 0 0 0 0
+0 0
+S
+#3331
+hobgoblin~
+The Hobgoblin outcast~
+The Hobgoblin outcast is here, quivering from his peers
+~
+~
+19 0 0
+18 0 0 0 0 0
+0 0
+S
+#3332
+orc~
+The Orc~
+An orc is here, at full attention
+~
+~
+19 0 0
+58 0 0 5 0 0
+0 0
+S
+#3333
+drummer orc~
+The Orcish Drummer~
+The Orcish Drummer is thumping a war beat
+~
+~
+19 0 0
+122 0 0 0 0 0
+0 0
+S
+#3334
+rat~
+A Rat~
+A rat is nibbling on some bone
+~
+~
+3 0 0
+50 0 0 0 0 0
+0 0
+S
+#3335
+snake~
+A Snake~
+A snake is slithering between the bones
+~
+~
+3 0 0
+31 0 0 0 0 0
+0 0
+S
+#3336
+spider~
+A Spider~
+A spider is spinning its webs
+~
+~
+3 0 0
+49 0 0 0 0 0
+0 0
+S
+#3337
+firefly fly~
+A Firefly~
+The Firefly is buzzing its lights
+~
+~
+1 0 0
+8 0 0 0 0 0
+0 0
+S
+#3338
+marble gargoyle~
+A Gargoyle~
+A Marble Gargoyle is a pretender
+~
+~
+3 0 0
+46 0 0 0 0 0
+0 0
+S
+#3339
+gargoyle~
+A Jade Gargoyle~
+A Jade Gargoyle will pounce on sight
+~
+~
+3 0 0
+75 0 0 0 0 0
+0 0
+S
+#3340
+painting~
+The Living Painting~
+A Painting is hung up on the wall
+~
+~
+3 0 0
+69 0 0 0 0 0
+0 0
+S
+#0
+
+
+
+#OBJECTS
+#3328
+bonfire~
+a Bonfire~
+A Bonfire is deprived of oxygen~
+11 0 0
+0 0 0 0
+0 0
+#3329
+burning stick~
+burning stick~
+A burning stick~
+10 0 1
+0 0 0 0
+1 0
+#3331
+pike~
+a pike~
+A Pike~
+5 0 8193
+0 2 3 11
+1 0
+#3332
+Shamanic staff~
+a Shamanic Staff~
+A Shamanic Staff~
+5 0 8193
+0 4 5 7
+3 0
+#3333
+scimitar~
+a Scimitar~
+A Scimitar~
+5 0 8193
+0 1 1 1
+1 0
+#3334
+drum stick~
+a Drumstick~
+A Drumstick~
+5 0 8193
+0 0 1 7
+2 0
+#3336
+orb black dragon~
+the Orb of Darkness~
+The Orb of Darkness~
+1 2 8193
+0 0 0 0
+10 0
+#3337
+black dragon claw~
+a Black Dragon Claw~
+A Black Dragon Claw~
+5 2 8193
+0 1 4 5
+10 0
+#3338
+dragon scale dragonscale~
+dragonscale of the Black Dragon~
+Dragonscale of the Black Dragon~
+7 771 9
+10 0 0 0
+5 0
+A
+19 2
+#3339
+knuckledusters brass~
+some brass knuckledusters~
+Some brass knuckledusters lies in the dust.~
+7 0 129
+10 0 0 0
+1 0
+A
+14 -50
+#0
+
+
+
+#ROOMDATA
+#3328
+Entrance to the #0Dark #nTunnel~
+You are approaching the Legendary Black Dragon's Lair.Inside
+terrible monsters lurk about, guarding the ancient one. However
+your conquest over them and the Dragon will yield a great prize.
+~
+4 8
+D4
+~
+~
+0 0 8623
+D5
+~
+~
+0 0 3329
+S
+#3329
+Approaching the #0Dark #nCavern~
+Descending from above, you see a dim light illuminating
+beyond the damp stone walls of the corridor.
+~
+0 8
+D0
+~
+~
+0 0 3331
+D4
+~
+~
+0 0 3328
+S
+#3330
+Southeast side of the #0Dark #nCavern~
+Although this cavern has a very rough texture and seemed to be carved out
+by a shovel, the corners are in excruciatingly perfect angle.  
+~
+0 0
+D0
+~
+~
+0 0 3333
+D1
+~
+~
+0 0 3331
+S
+#3331
+Southern side of the #0Dark #nCavern~
+Looking around, you see a bonfire to the north, and walls far east and
+west of here.  
+~
+0 8
+D0
+~
+~
+0 0 3334
+D1
+~
+~
+0 0 3332
+D2
+~
+~
+0 0 3329
+D3
+~
+~
+0 0 3330
+S
+#3332
+Southwest side of the #0Dark #nCavern~
+The corners here are sharp and delicate, forming a near-perfect 90 degree
+angle between the western and northern wall.  
+~
+0 0
+D0
+~
+~
+0 0 3335
+D3
+~
+~
+0 0 3331
+S
+#3333
+Western side of the #0Dark #nCavern~
+A corridor leads west into a dark, damp corridor.
+~
+0 0
+D0
+~
+~
+0 0 3336
+D1
+~
+~
+0 0 3334
+D2
+~
+~
+0 0 3330
+D3
+~
+~
+0 0 3364
+S
+#3334
+In the Middle of the #0Dark #nCavern~
+Following the source of light you noticed earlier, it came
+from the bonfire in front of you. Crackling, snapping woods
+and flying debris startle your senses.
+~
+0 0
+D0
+~
+~
+0 0 3337
+D1
+~
+~
+0 0 3335
+D2
+~
+~
+0 0 3331
+D3
+~
+~
+0 0 3333
+S
+#3335
+Eastern side of the #0Dark #nCavern~
+To the east you see a corridor leading into layers of darkness.
+~
+0 0
+D0
+~
+~
+0 0 3338
+D1
+~
+~
+0 0 3363
+D2
+~
+~
+0 0 3332
+D3
+~
+~
+0 0 3334
+S
+#3336
+Northeast side of the #0Dark #nCavern~
+The corners here are sharp and delicate, forming a near-perfect 90 degree
+angle between the eastern and southern wall.  
+~
+0 0
+D1
+~
+~
+0 0 3337
+D2
+~
+~
+0 0 3333
+S
+#3337
+Northern side of the #0Dark #nCavern~
+A very symmetrical room, you think, you figure it be about 100 times 100
+meters almost exactly, despite seemingly rough carve-out of the cavern.  
+~
+0 0
+D0
+~
+~
+0 0 3339
+D1
+~
+~
+0 0 3338
+D2
+~
+~
+0 0 3334
+D3
+~
+~
+0 0 3336
+S
+#3338
+Northwest side of the #0Dark #nCavern~
+Although this cavern has a very rough texture and seemed to be carved out
+by a shovel, the corners are in excruciatingly perfect angle.  
+~
+0 0
+D2
+~
+~
+0 0 3335
+D3
+~
+~
+0 0 3337
+S
+#3339
+Into the #0Darkness#n~
+Leaving the only light behind your back you plunge into the dark, narrow
+corridor.  
+~
+0 0
+D0
+~
+~
+0 0 3340
+D2
+~
+~
+0 0 3337
+S
+#3340
+#0Darkness#n~
+Brushing your hands against the narrow walls are your only aid of knowing
+that you are walking forwards, as complete darkness has enveloped you.  
+~
+0 0
+D0
+~
+~
+0 0 3341
+D2
+~
+~
+0 0 3339
+S
+#3341
+Approaching a #ylight#n~
+Blinded lightly by the foreign light, you slowly gaze forward in
+confidence and see an intersection ahead.  
+~
+0 0
+D0
+~
+~
+0 0 3342
+D2
+~
+~
+0 0 3340
+S
+#3342
+A Four Way #0Intersection#n~
+Four identical paths lead off from here, and it seems like
+some sort of ceremonial torches are placed out strategically
+on the corners for maximum effect.
+To the north you hear a humming sound, like a rattling tambourine.
+~
+0 0
+D0
+~
+~
+0 0 3385
+D1
+~
+~
+0 0 3425
+D2
+~
+~
+0 0 3426
+D3
+~
+~
+0 0 3424
+S
+#3343
+Approaching a #ylight#n~
+Blinded lightly by the foreign light, you slowly gaze forward in
+confidence and see an intersection ahead.  
+~
+0 0
+D1
+~
+~
+0 0 3344
+D3
+~
+~
+0 0 3342
+S
+#3344
+#0It is pitch black#n...~
+The monotonous darkness is having a deprimental effect on you.
+~
+0 0
+D1
+~
+~
+0 0 3345
+D3
+~
+~
+0 0 3343
+S
+#3345
+#0It is pitch black#n...~
+Clip, clop goes your footsteps as you walk in partial, of not total confusion.
+~
+0 0
+D1
+~
+~
+0 0 3346
+D3
+~
+~
+0 0 3344
+S
+#3346
+Utter #0Darkness#n~
+With your eyes rendered completely useless in the lack of light, you can
+only touch and hear your way...  
+~
+0 0
+D1
+~
+~
+0 0 3347
+D3
+~
+~
+0 0 3345
+S
+#3347
+Proceeding into the Dark~
+Reluctant to yet again leave the light behind you, you keep walking...  
+~
+0 0
+D1
+~
+~
+0 0 3348
+D3
+~
+~
+0 0 3346
+S
+#3348
+A #0Turning#n.~
+A torch is here, radiating the ray of life.
+~
+0 0
+D2
+~
+~
+0 0 3427
+D3
+~
+~
+0 0 3347
+S
+#3349
+Approaching a turning~
+Ahead of you, a bright, almost flourescent light shines lonely in the
+surrounding darkness.  
+~
+0 0
+D0
+~
+~
+0 0 3348
+D2
+~
+~
+0 0 3350
+S
+#3350
+#0Darkness#n~
+Brushing your hands against the narrow walls are your only aid of knowing
+that you are walking forwards, as complete darkness has enveloped you.  
+~
+0 0
+D0
+~
+~
+0 0 3349
+D2
+~
+~
+0 0 3351
+S
+#3351
+Into the #0Darkness#n~
+Leaving the light behind you, you submerge into a long corridor of
+darkness.  
+~
+0 0
+D0
+~
+~
+0 0 3350
+D2
+~
+~
+0 0 3353
+S
+#3352
+Northwest side of a #0Big #nCavern~
+The rough cavern cannot hide the master craftmanship upon the walls, for
+they are straight and sturdy.  
+~
+0 0
+D1
+~
+~
+0 0 3353
+D2
+~
+~
+0 0 3357
+S
+#3353
+Northern side of a #0Big #nCavern~
+Looking north, you see a faint light down a passage of darkness.
+~
+0 0
+D0
+~
+~
+0 0 3351
+D1
+~
+~
+0 0 3354
+D2
+~
+~
+0 0 3356
+D3
+~
+~
+0 0 3352
+S
+#3354
+Northeast side of a #0Big #nCavern~
+As you have previously noted, the corners here are also very well dug.
+~
+0 0
+D2
+~
+~
+0 0 3355
+D3
+~
+~
+0 0 3353
+S
+#3355
+Eastern side of a #0Big #nCavern~
+Examining the walls, you notice that they have obviously been worked on
+by the most skilled of carpenters.  
+~
+0 0
+D0
+~
+~
+0 0 3354
+D2
+~
+~
+0 0 3360
+D3
+~
+~
+0 0 3356
+S
+#3356
+In the Middle of a #0Big#n Cavern.~
+A big bonfire is here, radiating the much needed light and heat.
+~
+0 0
+D0
+~
+~
+0 0 3353
+D1
+~
+~
+0 0 3355
+D2
+~
+~
+0 0 3359
+D3
+~
+~
+0 0 3357
+S
+#3357
+Western side of a #0Big #nCavern~
+Nostalgic, you notice that this cavern is very similar to the one you
+arrived from.  Bonfire in the middle, and in perfect symmetrical
+construction.  
+~
+0 0
+D0
+~
+~
+0 0 3352
+D1
+~
+~
+0 0 3356
+D2
+~
+~
+0 0 3358
+D3
+~
+~
+0 0 3422
+S
+#3358
+Southwest side of a #0Big #nCavern~
+As you have previously noted, the corners here are also very well dug.
+~
+0 0
+D0
+~
+~
+0 0 3357
+D1
+~
+~
+0 0 3359
+S
+#3359
+Southern side of a #0Big #nCavern~
+The walls are very rough, but very straight.  A good deal of work has
+been put into carving this cavern out.  
+~
+0 0
+D0
+~
+~
+0 0 3356
+D1
+~
+~
+0 0 3360
+D3
+~
+~
+0 0 3358
+S
+#3360
+Southeast side of a #0Big #nCavern~
+This corner, just like all others are in perfect symmetry with the others.  
+~
+0 0
+D0
+~
+~
+0 0 3355
+D3
+~
+~
+0 0 3359
+S
+#3361
+Approaching the #0Big #nCavern~
+Emerging from the darkness behind you, you see an light illuminating
+from the east.
+~
+0 0
+D1
+~
+~
+0 0 3357
+D3
+~
+~
+0 0 3362
+S
+#3362
+A Corridor of #0Darkness#n~
+The echoes of you footsteps walking through the narrow passage and under
+pitch black circumstances is making you scared and paranoid.  
+~
+0 0
+D1
+~
+~
+0 0 3361
+D3
+~
+~
+0 0 3363
+S
+#3363
+Narrow Corridor~
+Leaving the only light behind your back you plunge into the dark,
+narrow corridor.
+~
+0 0
+D1
+~
+~
+0 0 3362
+D3
+~
+~
+0 0 3335
+S
+#3364
+Narrow Corridor~
+Leaving the light behind you, you submerge into a long corridor
+of darkness.
+~
+0 0
+D1
+~
+~
+0 0 3333
+D3
+~
+~
+0 0 3365
+S
+#3365
+A Corridor of #0Darkness#n~
+The echoes of you footsteps walking through the narrow passage and
+under pitch black circumstances is making you scared and paranoid.
+~
+0 0
+D1
+~
+~
+0 0 3364
+D3
+~
+~
+0 0 3366
+S
+#3366
+Approaching the #0Large#n Cavern.~
+Emerging from the darkness behind you, you see a light radiating
+from the westernly direction.
+~
+0 0
+D1
+~
+~
+0 0 3365
+D3
+~
+~
+0 0 3367
+S
+#3367
+Eastern side of the #0Large #nCavern~
+Nostalgic, you notice that this cavern is very similar to the one you
+arrived from.  Bonfire in the middle, and in perfect symmetrical
+construction.  
+~
+0 0
+D0
+~
+~
+0 0 3368
+D1
+~
+~
+0 0 3423
+D2
+~
+~
+0 0 3369
+D3
+~
+~
+0 0 3370
+S
+#3368
+Northwest side of the #0Large #nCavern~
+This corner, just like all others are in perfect symmetry with the others.
+~
+0 0
+D2
+~
+~
+0 0 3367
+D3
+~
+~
+0 0 3371
+S
+#3369
+Southeast side of the #0Large #nCavern~
+As you have previously noted, the corners here are also very well dug.
+~
+0 0
+D0
+~
+~
+0 0 3367
+D3
+~
+~
+0 0 3372
+S
+#3370
+In the Middle of the #0Large#n Cavern~
+A big bonfire is here, radiating the much needed light and heat.
+~
+0 0
+D0
+~
+~
+0 0 3371
+D1
+~
+~
+0 0 3367
+D2
+~
+~
+0 0 3372
+D3
+~
+~
+0 0 3373
+S
+#3371
+Northern side of the #0Large #nCavern~
+Looking north, you see a faint light down a passage of darkness.
+~
+0 0
+D0
+~
+~
+0 0 3376
+D1
+~
+~
+0 0 3368
+D2
+~
+~
+0 0 3370
+D3
+~
+~
+0 0 3374
+S
+#3372
+Southern side of the #0Large #nCavern~
+The walls are very rough, but very straight.  A good deal of work has
+been put into carving this cavern out.  
+~
+0 0
+D0
+~
+~
+0 0 3370
+D1
+~
+~
+0 0 3369
+D3
+~
+~
+0 0 3375
+S
+#3373
+Western side of the #0Large #nCavern~
+Examining the walls, you notice that they have obviously been worked on
+by the most skilled of carpenters.  
+~
+0 0
+D0
+~
+~
+0 0 3374
+D1
+~
+~
+0 0 3370
+D2
+~
+~
+0 0 3375
+S
+#3374
+Northeast side of the #0Large #nCavern~
+As you have previously noted, the corners here are also very well dug.
+~
+0 0
+D1
+~
+~
+0 0 3371
+D2
+~
+~
+0 0 3373
+S
+#3375
+Southwest side of the #0Large #nCavern~
+This corner, just like all others are in perfect symmetry with the others.
+~
+0 0
+D0
+~
+~
+0 0 3373
+D1
+~
+~
+0 0 3372
+D2
+~
+~
+0 0 3421
+S
+#3376
+Into the #0Darkness#n~
+Leaving the light behind you, you submerge into a long corridor of
+darkness.  
+~
+0 0
+D0
+~
+~
+0 0 3377
+D2
+~
+~
+0 0 3371
+S
+#3377
+#0Darkness#n~
+Brushing your hands against the narrow walls are your only aid of knowing
+that you are walking forwards, as complete darkness has enveloped you.  
+~
+0 0
+D0
+~
+~
+0 0 3378
+D2
+~
+~
+0 0 3376
+S
+#3378
+Approaching the turning~
+Ahead of you, a bright, almost flourescent light shines lonely in the
+surrounding darkness.  
+~
+0 0
+D0
+~
+~
+0 0 3379
+D2
+~
+~
+0 0 3377
+S
+#3379
+A #0Turning#n.~
+A torch is here, radiating the ray of life.
+~
+0 0
+D1
+~
+~
+0 0 3380
+D2
+~
+~
+0 0 3428
+S
+#3380
+Proceeding into the Dark~
+Reluctant to yet again leave the light behind you, you keep walking...
+~
+0 0
+D1
+~
+~
+0 0 3381
+D3
+~
+~
+0 0 3379
+S
+#3381
+Utter #0Darkness#n~
+With your eyes rendered completely useless in the lack of light, you can
+only touch and hear your way...  
+~
+0 0
+D1
+~
+~
+0 0 3382
+D3
+~
+~
+0 0 3380
+S
+#3382
+#0It is pitch black#n...~
+Clip, clop goes your footsteps as you walk in partial, of not total confusion.
+~
+0 0
+D1
+~
+~
+0 0 3383
+D3
+~
+~
+0 0 3381
+S
+#3383
+#0It is pitch black#n...~
+The monotonous darkness is having a deprimental effect on you.
+~
+0 0
+D1
+~
+~
+0 0 3384
+D3
+~
+~
+0 0 3382
+S
+#3384
+Approaching a #ylight#n~
+Blinded lightly by the foreign light, you slowly gaze forward in
+confidence and see an intersection ahead.  
+~
+0 0
+D1
+~
+~
+0 0 3342
+D3
+~
+~
+0 0 3383
+S
+#3385
+Rough Corridor~
+This tunnel seemed to have not been used for a WHILE. Boulders and
+loose rock are strewn about, wild vines have crept out and bugs have
+emerged due to the lack of activity.
+~
+0 0
+D0
+~
+~
+0 0 3386
+D2
+~
+~
+0 0 3342
+S
+#3386
+Stone corridor~
+As a peculiar change in tileset, the walls are lined with stone,
+as opposed to rough rock.
+~
+0 0
+D0
+~
+~
+0 0 3387
+D2
+~
+~
+0 0 3385
+S
+#3387
+Descending Into the #0Darkness#n.~
+Abruptly ending to a halt, you see a gothic styled stone staircase
+leading down. Looking down it seems almost endless darkness.
+~
+0 0
+D2
+~
+~
+0 0 3386
+D5
+~
+~
+0 0 3388
+S
+#3388
+Descending down into the #0Darkness#n.~
+The light source above is now barely visible, and from the little
+you can see, the narrow way where you can move between is developing
+claustrophobia in your mind.
+~
+0 0
+D4
+~
+~
+0 0 3387
+D5
+~
+~
+0 0 3389
+S
+#3389
+Descending further down into the #0Darkness#n~
+With the light now completely gone, the only senses alive now are
+now having a maddingly effect. The chattering effect of your own
+footsteps; the moist, bitter air is depriving your nose; and the
+only thing you can touch are the walls where you move between, 
+feeling only the ridges between stones, stones, stones...
+~
+0 0
+D4
+~
+~
+0 0 3388
+D5
+~
+~
+0 0 3390
+S
+#3390
+Entrance to the #0Black Dragon's #nChambers~
+As you saw the lights finally invading your eyes, you knew that the
+cursed stairs were finally coming to an end. Relaxing, you reminisce
+the rattling sound, growing louder and louder with each further step
+you take down.
+~
+0 0
+D0
+~
+~
+0 0 3391
+D4
+~
+~
+0 0 3389
+S
+#3391
+Complete #0Darkness#n~
+After a while of walking through the darkness, you are accustumed to it
+somehow.  
+~
+0 0
+D0
+~
+~
+0 0 3392
+D2
+~
+~
+0 0 3390
+S
+#3392
+Approaching The #rGuarding Post#n~
+To the north you hear a loud thumping noise, sounds like from wardrums of
+some sort.  
+~
+0 0
+D0
+~
+~
+0 0 3393
+D2
+~
+~
+0 0 3391
+S
+#3393
+Southern side of the #rGuarding Post#n~
+There are rotting corpses and half eaten carcasses strewn about the
+ground.  
+~
+0 0
+D0
+~
+~
+0 0 3394
+D2
+~
+~
+0 0 3392
+S
+#3394
+Center of the #rGuarding Post#n~
+Standing in the center of the guarding post, there is a massive drum
+here, either for ceremonial or decorative purposes you do not know.  
+~
+0 0
+D0
+~
+~
+0 0 3400
+D2
+~
+~
+0 0 3393
+S
+#3395
+Going down into the #oLair#n~
+Lifting the heavy trapdoor from its position, its bolts creaking loudly, you
+proceed down into it. Upon settling foot, you see a skeleton, with rats going
+the through the empty armholes.
+~
+0 0
+D2
+~
+~
+0 0 3396
+D4
+~
+~
+0 0 3407
+S
+#3396
+#0Stone #nTiled Corridor~
+Leaving the old skeleton aside, you venture forth deeper into the
+dungeon, your curiosity pushing you forward.  Along the corridor the same
+kind of rock has been tiled as the staircase you went down into before.  
+~
+0 0
+D0
+~
+~
+0 0 3395
+D2
+~
+~
+0 0 3397
+S
+#3397
+A Left hand Turn~
+With numerous torches helping your passage, you easily see the turning
+and proceed with your adventure.  
+~
+0 0
+D0
+~
+~
+0 0 3396
+D1
+~
+~
+0 0 3398
+S
+#3398
+Into the #0Dark #nCorridor~
+Turning the corner, you ook into the dark corridor on front of you.  You
+judge it to be about 100 meters long, for these is a faint light at the very
+end.  
+~
+0 0
+D1
+~
+~
+0 0 3399
+D3
+~
+~
+0 0 3397
+S
+#3399
+Complete #0Darkness#n~
+Although dark, you know the sides of the corridor is lined with stone,
+passing your fingers over the deep, solid ridges.  
+~
+0 0
+D1
+~
+~
+0 0 3401
+D3
+~
+~
+0 0 3398
+S
+#3400
+Northern side of the #rGuarding Post#n~
+Straw beds are scattered all out, seems like a sleeping place for
+monsters.  
+~
+0 0
+D0
+~
+~
+0 0 3402
+D2
+~
+~
+0 0 3394
+S
+#3401
+A Change~
+As you approach the corner you see a very peculiar room.  Exactly half
+the room is rough stone, and cutting at a 45 degree angle the other side is
+covered in beautiful marble.  
+~
+0 0
+D0
+~
+~
+0 0 3408
+D3
+~
+~
+0 0 3399
+S
+#3402
+A #ylit #ncorridor~
+The first time you step into a bright corridor, a pretty strange feeling
+actually.  
+~
+0 0
+D0
+~
+~
+0 0 3403
+D2
+~
+~
+0 0 3400
+S
+#3403
+Turning~
+The sight is not pretty: skulls and bones from unknown orgin are hung up
+onto the wall for decoration.  
+~
+0 0
+D2
+~
+~
+0 0 3402
+D3
+~
+~
+0 0 3404
+S
+#3404
+Approaching the Second #rGuarding Post#n~
+Again, you hear the loud thumping of a drum to the west.
+~
+0 0
+D1
+~
+~
+0 0 3403
+D3
+~
+~
+0 0 3405
+S
+#3405
+Eastern side of the Second #rGuarding Post#n~
+Bones lay scattered all over the ground, and half eaten carcasses
+irritate your nose.  To the west there is a enormous drum sort.  
+~
+0 0
+D1
+~
+~
+0 0 3404
+D3
+~
+~
+0 0 3406
+S
+#3406
+In the Middle of the Second #rGuarding Post#n~
+Reminiscent of the previous guarding post, there is also a similar drum
+here.  
+~
+0 0
+D1
+~
+~
+0 0 3405
+D3
+~
+~
+0 0 3407
+S
+#3407
+Western side of the Second #rGuarding Post#n~
+Searching around, you see a rusty trapdoor, looks like it hasnt been
+used in decades.
+~
+0 0
+D1
+~
+~
+0 0 3406
+D5
+~
+~
+0 0 3395
+S
+#3408
+Marble Covered Room~
+Walking down the corridor is a sight to behold.  Marble of the finest
+quality covers the ceiling, floor and walls.  
+~
+0 0
+D0
+~
+~
+0 0 3409
+D2
+~
+~
+0 0 3401
+S
+#3409
+Marble Covered Room~
+Walking gently along the corridor your footsteps make solid clapping
+sounds.  Statuettes and paintings ornament the room.  Seems like some kind
+of worship for something.  
+~
+0 0
+D0
+~
+~
+0 0 3410
+D2
+~
+~
+0 0 3408
+S
+#3410
+Going Down into the Dragon's #oLair#n~
+More paintings and ornaments cover the ground, ceiling and walls than
+before.  Some stairs of stone leads downward.  You feel a light rumbling as
+you walk down stairs.  
+~
+0 0
+D2
+~
+~
+0 0 3409
+D5
+~
+~
+0 0 3411
+S
+#3411
+Nearing the Black Dragon's #oLair#n~
+As you walk down the stairs before, the rumbling has gotten heavier.  It
+is in sync with your breathing, however slower.  You fear you are reeling
+dangerously close to the master itself.  
+~
+0 0
+D3
+~
+~
+0 0 3412
+D4
+~
+~
+0 0 3410
+S
+#3412
+The #GJade #nCorridor~
+This time around the floors, ceiling and walls are covered in flourescent
+jade.  Carvings have been made directly on the jade, producing a dazzling
+effect as you walk down the bright corridor.  
+~
+0 0
+D1
+~
+~
+0 0 3411
+D3
+~
+~
+0 0 3413
+S
+#3413
+The #GJade #nCorridor~
+Walking and aweing at the magnificent rooms you have passed you realize
+this is no ordinary lair.  Someone has put in a great deal of money and time
+creating this environment.  
+~
+0 0
+D1
+~
+~
+0 0 3412
+D3
+~
+~
+0 0 3414
+S
+#3414
+A Turning~
+Going around the corner the same amount of work has put in each and every
+room.  Paintings and ornaments glorify the rooms tenfold.  
+~
+0 0
+D1
+~
+~
+0 0 3413
+D2
+~
+~
+0 0 3415
+S
+#3415
+#GJade#n-Laiden Room~
+Rounding the corner you suddenly realize you have been totally dumbstruck
+by the magnificence of the rooms and have forgotten about the deep rumbling
+noise.  Now that you are paying attention to it, it is significantly louder
+than before.  
+~
+0 0
+D0
+~
+~
+0 0 3414
+D2
+~
+~
+0 0 3416
+S
+#3416
+A Ladder~
+Finally bearing to the end, you see an ordinary ladder going very deep
+into the ground.  
+~
+0 0
+D0
+~
+~
+0 0 3415
+D5
+~
+~
+0 0 3417
+S
+#3417
+Climbing down the Ladder~
+The tunnel is getting really small now, and your body presses easily
+against the walls of the hole.  
+~
+0 0
+D4
+~
+~
+0 0 3416
+D5
+~
+~
+0 0 3418
+S
+#3418
+Approaching the bottom~
+Sore, you steadily keep climbing down the narrow hole.
+~
+0 0
+D4
+~
+~
+0 0 3417
+D5
+~
+~
+0 0 3419
+S
+#3419
+Right outside the #0Black Dragon's #nPersonal Chamber~
+The rumbling noise is incredibly loud now, and you now know it is the
+breathing of the #0Black Dragon#n.  
+~
+0 0
+D2
+~
+~
+0 0 3420
+D4
+~
+~
+0 0 3418
+S
+#3420
+The #0Black Dragon's #nPersonal Chambers~
+You have made it.  And what a sight to behold.  All around you the room
+is covered in paintings, ornaments, vases, anything of value.  The floor is
+of the smoothest marble, and walls of finest jade, and the ceilings with the
+perfect stone.  
+~
+0 0
+D0
+~
+~
+0 0 3419
+S
+#3421
+Segfault~
+~
+4 0
+D0
+~
+~
+0 0 3375
+S
+#3422
+#0Dead End#n~
+After years of tracking, somehow you have run into a dead end.
+~
+0 0
+D1
+~
+~
+0 0 3357
+S
+#3423
+#0Dead End#n~
+Hmm that's strange, you think. You were quite sure that you came from
+that direction and yet it's a dead end.
+~
+0 0
+D3
+~
+~
+0 0 3367
+S
+#3424
+#0Dead End#n~
+Fumbling under the harsh lighting conditions you realize you have
+run into a dead end.
+~
+0 0
+D1
+~
+~
+0 0 3342
+S
+#3425
+#0Dead End#n~
+Walking across the length of the wall looking for a way out, you
+realize there is none.
+~
+0 0
+D3
+~
+~
+0 0 3342
+S
+#3426
+#0Dead End#n~
+Although you were completely certain that you backtracked
+the right way, somehow you ran into a dead end.
+~
+0 0
+D0
+~
+~
+0 0 3342
+S
+#3427
+#0Dead End#n~
+Although you were completely certain that you backtracked
+the right way, somehow you ran into a dead end.
+~
+0 0
+D0
+~
+~
+0 0 3348
+S
+#3428
+#0Dead End#n~
+Although you were completely certain that you backtracked
+the right way, somehow you ran into a dead end.
+~
+4 0
+D0
+~
+~
+0 0 3379
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 3331 24 3330
+M 0 3331 24 3330
+M 0 3331 24 3332
+M 0 3331 24 3332
+O 0 3328 0 3334
+P 0 3329 0 3328
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3329 27 3334
+M 0 3330 3 3334
+E 0 3332 0 16
+M 0 3331 24 3336
+M 0 3331 24 3336
+M 0 3331 24 3338
+M 0 3331 24 3338
+M 0 3331 24 3352
+M 0 3331 24 3352
+M 0 3331 24 3354
+M 0 3331 24 3354
+O 0 3328 0 3356
+P 0 3329 0 3328
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3329 27 3356
+M 0 3330 3 3356
+E 0 3332 0 16
+M 0 3331 24 3358
+M 0 3331 24 3358
+M 0 3331 24 3360
+M 0 3331 24 3360
+O 0 3339 0 3363
+M 0 3331 24 3368
+M 0 3331 24 3368
+M 0 3331 24 3369
+M 0 3331 24 3369
+O 0 3328 0 3370
+P 0 3329 0 3328
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3329 27 3370
+M 0 3330 3 3370
+E 0 3332 0 16
+M 0 3331 24 3374
+M 0 3331 24 3374
+M 0 3331 24 3375
+M 0 3331 24 3375
+M 0 3334 20 3392
+M 0 3335 20 3392
+M 0 3336 20 3392
+M 0 3337 20 3392
+M 0 3334 20 3392
+M 0 3335 20 3392
+M 0 3336 20 3392
+M 0 3337 20 3392
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3393
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+M 0 3332 58 3394
+E 0 3333 0 16
+M 0 3333 2 3394
+E 0 3334 0 16
+M 0 3334 20 3395
+M 0 3335 20 3395
+M 0 3336 20 3395
+M 0 3337 20 3395
+M 0 3334 20 3395
+M 0 3335 20 3395
+M 0 3336 20 3395
+M 0 3337 20 3395
+M 0 3334 20 3396
+M 0 3335 20 3396
+M 0 3336 20 3396
+M 0 3337 20 3396
+M 0 3334 20 3396
+M 0 3335 20 3396
+M 0 3336 20 3396
+M 0 3337 20 3396
+M 0 3334 20 3397
+M 0 3335 20 3397
+M 0 3336 20 3397
+M 0 3337 20 3397
+M 0 3334 20 3397
+M 0 3335 20 3397
+M 0 3336 20 3397
+M 0 3337 20 3397
+M 0 3334 20 3398
+M 0 3335 20 3398
+M 0 3336 20 3398
+M 0 3337 20 3398
+M 0 3334 20 3398
+M 0 3335 20 3398
+M 0 3336 20 3398
+M 0 3337 20 3398
+M 0 3334 20 3399
+M 0 3335 20 3399
+M 0 3336 20 3399
+M 0 3337 20 3399
+M 0 3334 20 3399
+M 0 3335 20 3399
+M 0 3336 20 3399
+M 0 3337 20 3399
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+M 0 3332 58 3400
+E 0 3333 0 16
+M 0 3334 20 3401
+M 0 3334 20 3401
+M 0 3335 20 3401
+M 0 3335 20 3401
+M 0 3336 20 3401
+M 0 3336 20 3401
+M 0 3337 20 3401
+M 0 3337 20 3401
+M 0 3334 20 3402
+M 0 3335 20 3402
+M 0 3336 20 3402
+M 0 3337 20 3402
+M 0 3334 20 3402
+M 0 3335 20 3402
+M 0 3336 20 3402
+M 0 3337 20 3402
+M 0 3334 20 3403
+M 0 3335 20 3403
+M 0 3336 20 3403
+M 0 3337 20 3403
+M 0 3334 20 3403
+M 0 3335 20 3403
+M 0 3336 20 3403
+M 0 3337 20 3403
+M 0 3334 20 3404
+M 0 3335 20 3404
+M 0 3336 20 3404
+M 0 3337 20 3404
+M 0 3334 20 3404
+M 0 3335 20 3404
+M 0 3336 20 3404
+M 0 3337 20 3404
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+M 0 3332 58 3405
+E 0 3333 0 16
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3332 58 3406
+M 0 3333 2 3406
+E 0 3334 0 16
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+M 0 3332 58 3407
+E 0 3333 0 16
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3338 30 3408
+M 0 3340 12 3408
+M 0 3340 12 3408
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3338 30 3409
+M 0 3340 12 3409
+M 0 3340 12 3409
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3338 30 3410
+M 0 3340 12 3410
+M 0 3340 12 3410
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3339 30 3412
+M 0 3340 12 3412
+M 0 3340 12 3412
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3339 30 3413
+M 0 3340 12 3413
+M 0 3340 12 3413
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3339 30 3415
+M 0 3340 12 3415
+M 0 3340 12 3415
+M 0 3328 1 3420
+E 0 3337 0 16
+G 0 3336 0
+G 0 3338 0
+S
+
+
+
+#$

@@ -1,0 +1,13 @@
+SIMULACRUM
+SIMULACRUM PHYLACTORY WARLOCK
+1
+A Warlock that has mastered the sphere of necromancy is able to build a copy
+of him- or herself, a so-called simulacrum. This copy is unable to do any
+actions by itself, and is used solely as an escape route for the necromancer.
+
+At any time, the necromancer can jump from his old body into this simulacrum,
+effectivly taking control over this fake body. This leaves his or her old body
+as an empty husk.
+
+Syntax: simulacrum   (create the simulacrum)
+Syntax: phylactory   (take control over the simulacrum)

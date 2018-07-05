@@ -1,0 +1,13 @@
+CHALLENGE
+CHALLENGE FORTRESS SPAR DEATHMATCH
+1
+The mud has a forbidden fortress, which is used to fight one-on-one battles.
+
+To challenge someone to a fight type : challenge [person] [spar/death],
+it is only possible to kill someone for real in a deathmatch, the spar
+will just result in an arena loss/win.
+
+To agree to a challenge, simply type agree [challenger].
+
+Genstealing in a deathmatch is possible, but all bets are canceled
+if the fight ends in a gensteal.

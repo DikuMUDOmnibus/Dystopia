@@ -1,0 +1,18 @@
+PRISMATIC CHAINBLAST
+'PRISMATIC CHAINBLAST' PCHAIN FAE
+1
+This evolve allows the fae to blast any player or monster with a powerful spell
+known as the chainblast. This prismatic force will stay in the victims body for
+a short while, after which it will leave it's body to attack another victim. If
+no new victim is found in the room, the spell will fade. The chainblast will
+never attack a fae, unless the fae was chosen as the first target for the spell.
+
+When the spell fades it will either simply vanish, unless the room is covered
+in a prismatic sheet of energy (as summened by the prismatic wall power). If
+such a sheet is active in the room, the chainblast will fuse with the wall, and
+lend it's remaining energies to the wall.
+
+This evolve requires the '@@prismatic wall@' evolve, and opposes the evolve known
+as the '@@prismatic spray@', and only one of these two evolves can be gained.
+
+Syntax: pchain [victim]

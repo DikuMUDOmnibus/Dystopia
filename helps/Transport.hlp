@@ -1,0 +1,7 @@
+TRANSPORT
+TRANSPORT SPELL MAGIC
+0
+Syntax: cast transport [object] [character]
+
+This spell will transport the specified object from your inventory to 
+that of the specified character.

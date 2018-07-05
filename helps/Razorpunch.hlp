@@ -1,0 +1,14 @@
+RAZORPUNCH
+RAZORPUNCH SHADOWLORD
+1
+This evolve can be gained by any shadowlord that has already gained the level 1
+evolve '@@skullduggery@'. It opposes the '@@bloodtheft@' evolve, and only 
+one of these two evolves can be gained.
+
+This evolve allows the shadowlord to transform one of his or her hands into a
+razorsharp object, which can be used (once) to cut'n'steal a random piece of
+equipment from the person the shadowlord is fighting. The shadowlord must have
+a free hand to use this power. If the victim of the punch is not wearing any
+items in the wear-slot being targetted, nothing will happen.
+
+Syntax: razorpunch

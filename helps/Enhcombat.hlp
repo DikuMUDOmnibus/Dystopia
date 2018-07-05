@@ -1,0 +1,11 @@
+ENHCOMBAT
+ENHCOMBAT CONFIGURATION
+1
+When dealing damage to other players or monsters, the amount of damage dealt
+is highlighted using the green colour. In the same way, any damage dealt to you
+is highlighted using the red colour. This makes it easier to spot relevant 
+damage messages. Some might not like using red/green, and would like to pick 
+their own choice of colours. This is done using the ENHCOMBAT command.
+
+Syntax  : enhcombat [damage dealt] [damage suffered]
+Example : enhcombat blue yellow

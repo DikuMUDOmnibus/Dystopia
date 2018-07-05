@@ -1,0 +1,24 @@
+SUMMARY
+SUMMARY
+-1
+#RMOVEMENT                          GROUP#n
+north south east west up down     follow group gtell split
+exits scan spy recall
+sleep wake rest stand
+
+#ROBJECTS                           INFORMATION / COMMUNICATION#n
+get put drop give sacrifice       help areas commands socials title
+wear wield hold                   report score time where who yell
+recite quaff zap brandish         channels config description password
+lock unlock open close pick       auction chat music question answer shout
+inventory equipment look          emote pose say tell clan classes
+eat drink fill empty              bug idea typo note board
+
+#RCOMBAT                            OTHER#n
+kill flee kick rescue disarm      save quit
+backstab cast wimpy               practice train
+
+
+For more help, type 'help [topic]' for any command, skill, or spell.
+Also help on: #GCHANGES TICK WIZLIST CREDITS KINGDOM#n
+              #GGENERATION MCCP ARENA DCREDITS RARE#n

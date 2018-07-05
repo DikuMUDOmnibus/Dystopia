@@ -1,0 +1,40 @@
+Dystopia 1.4CE-2 comes with support for the Mud eXtension
+Protocol (MXP). Everything is handled by the wrapper function
+mxp_to_char(), which works much like send_to_char(), with
+one exception. It takes an additional argument, the style
+of MXP tags being send.
+
+The different styles are
+========================
+MXP_SAFE  : This style should be used for strings that players
+            can affect, like chatting, showing equipment, etc.
+            Only safe tags, like changing the font to bold,
+            underlining, etc works in this mode.
+MXP_ALL   : All tags works in this mode, and it should only
+            be used by the server when it sends strings that
+            cannot be affected by the players (like showing
+            exits or help files).
+MXP_NONE  : This style is redundant, since the server could
+            just use the normal send_to_char() instead. In
+            this mode, no MXP tags will work.
+
+The server handles player-support of MXP transparent - when a
+player connects to the mud, the server ask their client if
+it supports MXP, and will parse the MXP messages when needed.
+If the client doesn't support MXP, the server will simply
+strip the MXP tags before sending the data, so you don't have
+to worry about sending MXP tags to players that don't support
+reading the MXP tags.
+
+I have added one example of MXP stuff to the code, you can
+add more as you please. If you look in jobo_util() and find
+get_exits(), it will show the code for hyperlinking exits,
+meaning players can use their mouse to move around, by clicking
+on the exits instead of typing north, south, etc.
+
+More details about MXP can be found on zuggsofts homepage
+=========================================================
+http://www.zuggsoft.com/zmud/mxp.htm
+
+Currently only zmud 6+ and mushclient supports MXP, but more
+clients will likely support this nice feature in the future.

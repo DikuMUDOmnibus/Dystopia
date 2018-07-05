@@ -1,0 +1,27 @@
+PKREADY
+PKREADY PLAYERKILLING
+-1
+.
+  #9Are you ready to PK?#n
+
+  Before a player can start playerkilling, he or she must first use the
+  pkready command to join the rank of pk'ers. This is a one way choice,
+  and once a player has joined, there can be no return.
+
+  Before a player joins the rank, he or she cannot train any stat above
+  10000 (hitpoints, move and mana), and that player will be unabe to use
+  any global channels besides the newbie channel (ie. they can be ignored
+  simply by typing 'channel -newbie').
+
+  Before a player goes pkready, he or she cannot store more than 200 mill
+  experience points (all these limitations are simply to avoid players
+  storing up while they are safe from pk).
+
+  Please consider your choice before joining. Until you learn to use your
+  class powers (and learn to counter those of the other classes), you will
+  most likely die more often than you will kill.
+
+  If a player hasn't become pkready at his or her 24th hour of playing, he
+  or she will automatically become pkready.
+
+  Syntax: pkready [password]

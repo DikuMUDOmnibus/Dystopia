@@ -1,0 +1,13 @@
+CHOPATTACK
+CHOPATTACK 'CHOP ATTACK' GIANT
+1
+The chopattack evolve requires that the giant has first gained the warrior
+evolve, and it opposes the '@@deathfrenzy@' evolve.
+
+The command 'chopattack' will initiate a series of combo attacks, which
+will end with a special nerve attack that will paralyze the opponents
+nerve system. While so affected, the victim will be less likely to dodge
+attacks as well as parry them. This affect can be dispelled with the
+dispel magic spell.
+
+Syntax: chopattack

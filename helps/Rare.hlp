@@ -1,0 +1,21 @@
+RARE
+RARE SENTIENT EQUIPMENT
+1
+Rare and Sentient equipment is randomly scattered whenever a large monster
+dies. Much like the games Diablo and Diablo II scatters items and gold.
+
+Rare equipment is just nice equipment with good statistics, where the
+statistics and spells/enchantments depends on how large a monster that
+was killed. The larger the monster, the better the equipment.
+
+Sentient equipment is (usually) better than the rare equipment, but it
+has certain drawbacks. Sentient equipment doesn't like other sentient
+equipment, and it takes a strong mind and character to wield more than
+just a few pieces of sentient equipment. The more intelligent a piece
+of equipment is, the less likely it is to accept the presence of other
+intelligent equipment.
+
+Intelligent equipment comes in 6 catagories, ranging from higly intelligent
+to just slighly empathic, you can use the identify spell to see how
+intelligent a piece of equipment is. Only equipment with the #0(#Rsentient#0)#n
+flag has an intelligence rating.

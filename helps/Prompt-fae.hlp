@@ -1,0 +1,11 @@
+PROMPT-FAE
+PROMPT-FAE FAE
+1
+The fae class has access to 5 special class prompts, which will keep
+track of the channeled ancient energies as well as the fae shield.
+
+%k will show the amount of channeled matter.
+%K will show the amount of channeled energy.
+%c will show the amount of channeled plasma.
+%C will show the amount of channeled will.
+%y will show the current status of the fae shield.

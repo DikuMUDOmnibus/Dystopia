@@ -1,0 +1,9 @@
+MOUNT
+MOUNT DISMOUNT
+0
+Syntax: mount [creature]
+Syntax: dismount
+
+This allows the character to mount the specified creature.  Only 
+creatures such as horses and the like may be mounted, and they will aid 
+their rider in combat.

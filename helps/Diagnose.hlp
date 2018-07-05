@@ -1,0 +1,7 @@
+DIAGNOSE
+DIAGNOSE INFORMATION
+0
+Syntax: diagnose [target]
+
+This will show you any injuries received by the target player or mob.  If 
+that person is bleeding to death, this will also be shown.

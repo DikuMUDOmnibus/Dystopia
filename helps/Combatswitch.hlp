@@ -1,0 +1,7 @@
+COMBATSWITCH
+COMBATSWITCH FAVOR CONFIGURATION
+1
+These commands has the following syntax
+
+combatswitch [target] : switches the person you are fighting to the target. 
+favor [left/right/both] : choses which hand you favor in combat.

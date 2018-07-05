@@ -1,0 +1,20 @@
+DROP
+DROP GET GIVE PUT TAKE EQUIPMENT
+1
+Syntax: drop [object]
+Syntax: get  [object]
+Syntax: get  [object] [container]
+Syntax: give [object] [character]
+Syntax: put  [object] [container]
+
+DROP drops an object on the ground.
+
+GET gets an object, either lying on the ground, or from a container, or even
+from a corpse.  TAKE is a synonym for get.
+
+GIVE gives an object to another character.
+
+PUT puts an object into a container.
+
+DROP, GET and PUT understand the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.

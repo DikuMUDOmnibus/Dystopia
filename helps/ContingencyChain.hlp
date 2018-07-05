@@ -1,0 +1,18 @@
+CONTINGENCY CHAIN
+'CONTINGENCY CHAIN' WARLOCK
+1
+The contingency power can only be used by Warlocks that has gained that
+evolve - this evolve opposes the '@@homing device@' evolve, making it
+impossible to have both of these evolves.
+
+This evolve allows the warlock to create an emergency spell which will
+autocast when the warlock reaches awful health. Create the chain as
+normal, then instead of typing 'wcast', use the 'contingency' command.
+This will set the entire spellchain as your emergency spell, and allow
+you to create and cast other spells while this chain waits to be cast.
+
+If you already have one contingency spell active, and want to replace
+it with a new, simply type 'contingency override', and the old spell
+will be replaced with the new.
+
+Syntax: contingency [override]

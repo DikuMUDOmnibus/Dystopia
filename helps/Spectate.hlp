@@ -1,0 +1,16 @@
+SPECTATE
+SPECTATE CONFIGURATION
+1
+It is possible to allow other players to 'snoop' you while fighting in the
+arena or in the forbidden fortress. The 'snoop' is disallowed the instant
+you leave the fortress or arena, or at the moment you chose to disallow
+spectating.
+
+Anyone can try to spectate a player in the fortress or in the arena, by using
+the spectate command, but it will only work on those players that has allowed
+it by typing 'spectate on'. A player needs to allow spectating each time he
+or she enters the arena or fortress, since allowing it only counts for the
+specific fight.
+
+Syntax: spectate [on/off]
+Syntax: spectate [player]

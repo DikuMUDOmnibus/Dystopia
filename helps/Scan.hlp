@@ -1,0 +1,18 @@
+SCAN
+SCAN SPY THROW INFORMATION
+1
+Syntax: scan
+Syntax: spy   [direction]
+Syntax: throw [direction] [target]
+
+SCAN allows you to see all the mobs/players within 1 room of you.
+
+SPY allows you to see all the mobs/players within 3 rooms in a specified 
+direction.
+
+THROW allows you to hurl an object you are holding (in your right hand, 
+or if that's empty left hand) to a target mob/player in a specified 
+direction.  The object can be throw up to 3 rooms.  If it fails to reach 
+the target by that time it will land on the floor.
+
+For information on the SCAN spell, type HELP @@SCANSPELL@.

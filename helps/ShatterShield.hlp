@@ -1,0 +1,10 @@
+SHATTER SHIELD
+'SHATTER SHIELD' SHATTERSHIELD WARLOCK
+1
+The Warlock shattershield command will call forth a pack of glowing orbs 
+that circle around the Warlock causing attacks to hit the orbs instead.
+The orbs will break upon impact, and when the last orb is destroyed, the
+shattershield spell fades. Due to the flickering nature of these orbs, it
+is impossible to know exactly how many orbs are left.
+
+Syntax: shattershield.

@@ -1,0 +1,23 @@
+PROMPT
+PROMPT CPROMPT CONFIGURATION
+1
+This command allows you to configure your prompt.  The PROMPT command 
+will set your standard prompt.  You also have the option of having a 
+combat prompt, CPROMPT, which will appear while fighting.  If no cprompt 
+is defined, the standard prompt will be used for both conditions.
+The following options are available:
+
+%b %B = Server/Local time.          %f %F = Condition of opponent/tank. 
+%h %H = Current hp/Max hp.          %t %T = Current Fighttimer/Stance.
+%m %M = Current mana/Max mana.      %n %N = Name of opponent/tank.      
+%p %P = Hitroll/Plus Damroll.       %q %Q = Gold/Class points.
+%r %R = Room name/Rage.             %k %K = Class special 1/2 (if any)
+%x %X = Exp./Linebreak              %c %C = Class special 3/4 (if any)
+%v %V = Current move/Max move.      %y %Y = Class special 5/6 (if any)
+%a %A = Special Cond. of opponent (with or without colors)
+
+For the class specials, you should refer to the helpfiles for each class,
+for instance, the warlock helpfile is called @@PROMPT-WARLOCK@.
+
+To switch your prompt on and off, use 'prompt on' and 'prompt off'.
+For some examples, type HELP @@PROMPTS@.

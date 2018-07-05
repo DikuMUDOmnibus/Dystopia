@@ -1,0 +1,20 @@
+MCCP
+MCCP MUDPROXY CONFIGURATION
+1
+Mccp is a compression protocol, and the two main benefits of mccp are:
+
+1. lower bandwidth usage by the mud.
+2. clients (i.e. players) get large responses (such as, for example, combat
+   spam) from the mud at a higher rate - the mud will "feel" faster, despite
+   the fact that the actual round-trip times are unchanged.
+
+With a suitable client, mccp is entirely transparent to the user - it
+automatically enables itself when supported by both the server and client.
+
+If your client do not support mccp theres another way to use mccp, the 
+instructions on how to do this can be found on the following page, and it 
+takes no more than 2-3 minutes to get working.
+
+http://www.mudproxy.dk/
+
+If you use mccp, you will be rewarded by an extra 25% exp bonus.

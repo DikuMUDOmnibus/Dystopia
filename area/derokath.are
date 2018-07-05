@@ -1,0 +1,1100 @@
+#AREADATA
+Name        Raedenn   Temple of Derokath~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       7201 7300
+Cvnum       7204
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#7201
+Hooded figure~
+a hooded figure~
+A humanoid figure is covered completely in robes
+~
+~
+3 0 -500
+82 0 0 0 0 0
+1 3
+S
+#7202
+giant rat~
+a giant rat~
+An extremely large rat is crawling around.
+~
+~
+1 0 0
+89 0 0 0 0 0
+0 5
+S
+#7203
+giant spider~
+a giant spider~
+A giant spider is making a web on the wall.
+~
+~
+3 0 0
+76 0 0 0 0 0
+0 10
+S
+#7204
+wraith~
+a wraith~
+A wraith is barely visible.
+~
+~
+3 0 -750
+154 0 0 0 0 0
+0 12
+S
+#7205
+dark orc~
+a dark orc~
+A snarling dark orc advances towards you.
+~
+~
+3 0 -1000
+211 2 1 5 0 0
+1 5
+S
+#7206
+tattooist~
+the Tattooist~
+An imposing man is sorting the jars of ink.
+~
+~
+19 0 0
+517 0 0 0 0 0
+0 0
+S
+#0
+
+
+
+#OBJECTS
+#7201
+painting derokath~
+painting of derokath~
+A large elaborate painting of Derokath is hung very high and out of reach~
+9 0 0
+0 0 0 0
+1 0
+#7202
+statue of derokath~
+statue of Derokath~
+A tiny statue of Derokath lies here, surrounded by a dark shadow.~
+9 0 1
+0 0 0 0
+5 1
+#7203
+serrated black waraxe~
+a serrated black waraxe~
+A sharp black waraxe stands on its own.~
+5 0 8193
+0 5 3 3
+10 0
+A
+18 5
+A
+19 5
+#7204
+broken table~
+broken table~
+A timeworn table has been split in half.~
+9 0 0
+0 0 0 0
+1 0
+#7205
+rotten bench~
+rotten bench~
+An average-sized bench is rotting away.~
+9 0 0
+0 0 0 0
+1 0
+#7206
+tables and chairs~
+tables and chairs~
+Several sets of tables and chairs are setup neatly.~
+9 0 0
+0 0 0 0
+1 0
+#7207
+flail~
+a blood-stained flail~
+A large flail has chunks of bloodied flesh on it.~
+5 0 8193
+0 10 3 8
+10 0
+A
+18 10
+A
+19 10
+#7208
+votive candle~
+a votive candle~
+A large candle is burning brightly~
+9 0 1
+0 0 0 0
+1 0
+#7209
+symbol derokath~
+a symbol of Derokath~
+The symbol of Derokath has been carved into a small piece of granite~
+9 0 1
+0 0 0 0
+1 0
+#7210
+black robes~
+some black robes~
+Some black robes hang from the armor rack~
+7 0 9
+5 0 0 0
+3 0
+#7211
+loose brick~
+a loose brick~
+A loose brick is barely in the wall~
+9 0 1
+0 0 0 0
+5 0
+#7212
+broken statue~
+a broken statue of derokath~
+A statue of derokath has been mutilated~
+9 0 1
+0 0 0 0
+2 0
+#7213
+bottle wine~
+a bottle of wine~
+An old bottle of wine lays on a rack~
+12 0 1
+10 10 2 0
+1 0
+#7214
+the sign of Derokath~
+the sign of Derokath~
+The infamous sign of Derokath has been drawn.~
+7 0 131073
+5 0 0 0
+1 500
+A
+18 15
+A
+19 15
+A
+17 -10
+E
+symbol derokath~
+....
+                       ,od88888bo.
+                     ,d88888888888b
+                    ,dP""'   `"Y888b       ,.
+                    d'         `"Y88b     .d8b. ,
+                    '            `Y88[  , `Y8P' db
+                                  `88b  Ybo,`',d88)
+                                   ]88[ `Y888888P"
+                                  ,888)  `Y8888P'
+                                 ,d888[    `""'
+                              .od8888P          ...
+                         ..od88888888bo,      .d888b
+                              `""Y888888bo. .d888888b
+                    .             `Y88b"Y88888P"' `Y8b
+                    :.             `Y88[ `"""'     `88[
+                    |b              |88b            Y8b.
+                    `8[             :888[ ,         :88)
+                     Yb             :888) `b.       d8P'
+                     `8b.          ,d888[  `Ybo.  .d88[
+                      Y8b.        .dWARP'   `Y8888888P
+                      `Y88bo.  .od8888P'      "YWARP'
+                      `"Y8888888888P"'         `"'
+                          `"Y8888P""'
+                            `""'
+~
+~
+~
+0 0 0
+#7215
+shimmering black lootsack~
+a shimmering black lootsack~
+A shimmering black lootsack has been placed here~
+11 0 1
+999 0 0 0
+2 200
+#7216
+small replacement lens~
+replacement lens~
+A small replacement lens sits on a shelf~
+9 0 1
+0 0 0 0
+1 0
+#7285
+brick~
+a large brick~
+A large brick lies on the floor.~
+10 0 1
+0 0 0 0
+1 0
+#7286
+magic mirror~
+a magic mirror~
+A magic mirror hangs on the wall.~
+21 0 0
+8400 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#7201
+Outside the Temple~
+From what you can see, this is an average sized temple, the design is
+rather strange, some things you would see in a dream. . . Or nightmare.
+Midnight black is the dominating color for most of the temple. 
+~
+0 0
+D0
+~
+~
+0 0 7202
+D1
+~
+~
+0 0 8662
+S
+#7202
+Main Entrance~
+The inside of the temple is even worse than the outside. Horrific
+paintings and hideous life-like statues are everywhere. To the left
+is a seemingly endless corridor.
+~
+0 0
+D0
+~
+~
+0 0 7221
+D2
+~
+~
+0 0 7201
+D3
+~
+~
+0 0 7203
+S
+#7203
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D1
+~
+~
+0 0 7202
+D3
+~
+~
+0 0 7204
+S
+#7204
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D1
+~
+~
+0 0 7203
+D3
+~
+~
+0 0 7205
+S
+#7205
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D0
+~
+~
+0 0 7207
+D1
+~
+~
+0 0 7204
+D3
+~
+~
+0 0 7206
+S
+#7206
+Worship Chamber~
+Many dark robes and books are scattered throughout the room. Several
+figures are crowded around a massive granite statue chanting in an
+unfamilliar dark language. 
+~
+0 0
+D1
+~
+~
+0 0 7205
+S
+#7207
+Stairwell~
+A large tree has been gutted, and now serves as a way to the second
+floor. Somehow, the tree is still alive, and surrounded by bright green
+grass. The tree looks very old, but sturdy. 
+~
+0 0
+D2
+~
+~
+0 0 7205
+D4
+~
+~
+0 0 7208
+S
+#7208
+Top of the stairs~
+Bright brass candle holders line the walls. They are filled with
+sweet-smelling candles, shedding light and a comforting warmth down the
+corridor. Storm grey carpeting covers the length of the hall's floor leading
+its way into darkness. 
+~
+0 0
+D2
+~
+~
+0 0 7209
+D5
+~
+~
+0 0 7207
+S
+#7209
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D0
+~
+~
+0 0 7208
+D1
+~
+~
+0 0 7210
+D3
+~
+~
+0 0 7235
+S
+#7210
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor.
+~
+0 0
+D0
+~
+~
+0 0 7211
+D1
+~
+~
+0 0 7213
+D2
+~
+~
+0 0 7212
+D3
+~
+~
+0 0 7209
+S
+#7211
+Large Bedroom~
+This room is larger than the other bedrooms on this floor. Royal blue and
+bright red give this room a slightly rich touch, as if it was for somebody
+important. 
+~
+0 0
+D1
+~
+~
+0 0 7214
+D2
+~
+~
+0 0 7210
+S
+#7212
+Bedroom~
+An oakwood-framed bed stands in a corner, covered in fresh linens and
+thick down comforters. Next to it is a small nightstand. Dark curtains cover
+the windows to keep the light out. 
+~
+0 0
+D0
+~
+~
+0 0 7210
+S
+#7213
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D1
+~
+~
+0 0 7215
+D3
+~
+~
+0 0 7210
+S
+#7214
+Bathroom~
+A deep pewter tub rests on a polished dragon claw feet in the center of
+the room. Beside it stands a set of low shelves, holding all the bathroom
+accessories you can think of. Expensive towels hang from a rack along one
+wall with the name Derokath stiched onto them with gold lettering. 
+~
+0 0
+D3
+~
+~
+0 0 7211
+S
+#7215
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D0
+~
+~
+0 0 7216
+D1
+~
+~
+0 0 7218
+D2
+~
+~
+0 0 7217
+D3
+~
+~
+0 0 7213
+S
+#7216
+Bedroom~
+This cozy room has been done in various shades of blue. Cerulean curtains
+cover the windows, matching the cobolt blue comforter resting on the bed. 
+~
+0 0
+D2
+~
+~
+0 0 7215
+S
+#7217
+Empty Room~
+This room is as bare as it was when this place was built, the only
+difference is a few small blood-stains on the floor. You wonder what this
+room is for. Some obscure writing has been scrawled on the south wall. 
+~
+0 0
+E
+wall~
+Looking closer at the writing, you notice it says: "Let the spirit of the
+almighty Derokath possess me as I faithfully devote my life to the path of
+Destruction."  
+~
+~
+~
+0 0 0
+T
+&let*the*spirit*of*the*almighty*derokath*possess*me*as*i*faithfully*devote*my*life*to*the*path*of*destruction*~
+As $n finishes speaking, there is a flash of blinding light, causing you to shield your eyes.  Looking up when the light is gone, you notice the south wall has been raised, allowing passage.~
+As the word destruction rolls off your tongue, there is a flash of blinding light, causing you to shield your eyes.  Looking up when the light is gone, you notice the south wall has been raised, allowing passage.~
+all~
+16384 7230 0
+D0
+~
+~
+0 0 7215
+S
+#7218
+End of the Hallway~
+Beautiful tapestries hang from the ceiling, hiding the ugly brick walls.
+Water trickles down from a small hole in the ceiling into a large bowl
+connected to a pipe. 
+~
+0 0
+D0
+~
+~
+0 0 7219
+D2
+~
+~
+0 0 7220
+D3
+~
+~
+0 0 7215
+S
+#7219
+Shrine of Derokath~
+Candles of all different sizes are lit throughout the room, surrounding a
+life-size statue of Darokath. Low benches are seated infront of the statue,
+obviously for worship. A large plaque is set at the base of the statue. 
+~
+0 0
+E
+plaque~
+Derokath is also known as the Demon Lord, he encourages death,
+destruction, and the devouring of living prey. Common legend has it that he
+seeks others of his kind to loose upon the innocients of Calim's Cradle.
+Derokath is drawn to all manners of destruction, more than any of the other
+Gods. Derokath seems to love destruction so much that it might actually
+eliminate the world and all his worshippers in it. Derokath is the entity of
+personal destructive power.
+~
+~
+~
+0 0 0
+D2
+~
+~
+0 0 7218
+S
+#7220
+Armory~
+The walls are lined with heavy petrified racks full of the biggest
+assortment of weapons, armor, and shields you have ever seen. Every piece of
+equiptment seems to be forged of great mithril and polished to the point you
+can see your reflection perfectly. 
+~
+0 0
+D0
+~
+~
+0 0 7218
+S
+#7221
+Pantry~
+The dark oak shelves holding all sorts of food are rotting and warped. It
+doesn't seem they will last very long. The floor is covered with dirt, and
+in the northeast corner you can faintly see something beneath the dirt. 
+~
+0 0
+E
+floor cellar trapdoor dirt corner~
+Looking closer at the dirt floor reveals a trapdoor.
+~
+You pull open the trapdoor and fall inside.~
+$n pulls open the trapdoor and falls inside.~
+1 7222 1
+D2
+~
+~
+0 0 7202
+S
+#7222
+Wine Cellar~
+Underneath the pantry, is a cozy little wine cellar. Massive spider webs
+cover all four walls, and the room is full of dust. There is a trapdoor with
+a ladder attached. 
+~
+0 0
+E
+trapdoor~
+A trapdoor leads up to the pantry
+~
+You climb up the ladder and go through the trapdoor.~
+%n climbs up the ladder and goes through the trapdoor.~
+3 7221 1
+D0
+~
+~
+0 0 7223
+S
+#7223
+Dark Tunnel~
+Not much light penetrates through this musty tunnel, but there is enough
+light to tell that it hasn't been used. There are several inches of dust on
+the ground with no tracks in them other than you're own footprints. Judging
+by the poor quality of the tunnel, it must have been created by orcs. 
+~
+0 0
+D0
+~
+~
+0 0 7224
+D2
+~
+~
+0 0 7222
+S
+#7224
+Dark Tunnel~
+Decomposed corpses lay strewn everywhere, it looks like some sort of
+battle was fought here. The skeletal remains look that of orcs and some form
+of undead. Dark bloodstains are barely visible through all the dust. 
+~
+0 0
+D0
+~
+~
+0 0 7225
+D2
+~
+~
+0 0 7223
+D5
+~
+~
+0 0 7229
+S
+#7225
+Temple~
+Large pieces of mutilated statues are collected in a corner. There is
+some faded orcish writing above the statues. A mural on the wall makes it
+obvious whoever occupied this room is anti-derokath. 
+~
+0 0
+D2
+~
+~
+0 0 7224
+D3
+~
+~
+0 0 7226
+S
+#7226
+Strange Room~
+This room sticks out like a sore thumb. While all the other rooms are
+dusty and plain, the ornate black stone walls here look no more than a day
+old. Not a speck of dust can be seen. Some glowing runes are etched into the
+wall. 
+~
+0 0
+E
+wall runes~
+The runes are glowing so brightly it looks as if they were alive.
+~
+As you push on the runes, you're surroundings blur and then fade away.~
+%n pushes in the runes with a puzzled look on his face and fades away in thin air.~
+3 7227 1
+D1
+~
+~
+0 0 7225
+S
+#7227
+Glowing Corridor~
+This room doesn't look much different than the last, except the walls
+have a slight glow to them. A perfectly straight candle-lit trail heads off
+to the north. There are some glowing runes on the wall 
+~
+0 0
+E
+wall runes~
+Some glowing runes are written all over the wall
+~
+As you push on the runes, you're surroundings blur and then fade away.~
+%n pushes on the runes and disappears~
+3 7226 1
+D0
+~
+~
+0 0 7228
+S
+#7228
+At The Gates~
+Standing before you is a giant lever.
+~
+0 0
+E
+giant lever~
+This is one big lever.
+~
+You are catapulted out of the room.~
+$n is catapulted out of the room.~
+1 7201 1
+D2
+~
+~
+0 0 7227
+S
+#7229
+Wraith Chamber~
+This vast chamber seems to have been taken over by wraiths.  Despite
+the way they look and act, they are extremely clean.
+~
+0 0
+D0
+~
+~
+0 0 7232
+D1
+~
+~
+0 0 7231
+D2
+~
+~
+0 0 7234
+D3
+~
+~
+0 0 7233
+D4
+~
+~
+0 0 7224
+S
+#7230
+Secret Chamber~
+This hidden room appears to serve as the treasury, because of all the
+priceless artifacts. A table holds many jars of ink and several sharp
+objects. A well-built man is seated at the table, ready to take your order. 
+~
+393220 0
+D4
+~
+~
+0 0 7802
+S
+#7231
+Wraith Chamber~
+This vast chamber seems to have been taken over by wraiths. Despite the
+way they look and act, they are extremely clean. 
+~
+0 0
+D3
+~
+~
+0 0 7229
+S
+#7232
+Wraith Chamber~
+This vast chamber seems to have been taken over by wraiths. Despite the
+way they look and act, they are extremely clean. 
+~
+0 0
+D2
+~
+~
+0 0 7229
+S
+#7233
+Wraith Chamber~
+This vast chamber seems to have been taken over by wraiths. Despite the
+way they look and act, they are extremely clean. 
+~
+0 0
+D1
+~
+~
+0 0 7229
+S
+#7234
+Wraith Chamber~
+This vast chamber seems to have been taken over by wraiths. Despite the
+way they look and act, they are extremely clean. 
+~
+0 0
+D0
+~
+~
+0 0 7229
+S
+#7235
+Dark Hallway~
+Cold granite slabs are neatly placed on the floor of the hallway. The
+walls are of dark colored brick, without any windows. Very little light
+exists in this corridor. 
+~
+0 0
+D1
+~
+~
+0 0 7209
+D2
+~
+~
+0 0 7236
+S
+#7236
+Below the Tower~
+Carefully placed above this room, is a large darkened observatory.
+Artifacts and symbols of Derokath are numerous enough to assume he is the
+reason the tower was built. 
+~
+0 0
+D0
+~
+~
+0 0 7235
+D4
+~
+~
+0 0 7237
+S
+#7237
+Stairway to the Observatory~
+Many slabs of steel and iron form a makeshift stairway to the
+observatory. The faint padding of feet is heard from above. 
+~
+0 0
+D0
+~
+~
+0 0 7238
+D5
+~
+~
+0 0 7236
+S
+#7238
+Guard Post~
+This post serves to guard the precious, most treasured observatory that
+was erected in the name of Derokath. Although the mysterious hooded figures
+are loathed by the dark orcs that infest the basement, money is what the
+figures have. Money is what the orcs want. 
+~
+0 0
+D1
+~
+~
+0 0 7240
+D2
+~
+~
+0 0 7237
+D4
+~
+~
+0 0 7239
+S
+#7239
+Observatory~
+From atop this Observatory, one would think he could see the whole world.
+Massive rotating lenses are perched upon large tripod bases, obviously for
+charting astronomy. This tower atop the temple appears to be enveloped by
+the star-studded night sky. 
+~
+0 0
+D5
+~
+~
+0 0 7238
+S
+#7240
+Sleeping Quarters~
+This room is the sleeping quarters for the dark orc guards. The beds are
+covered with bodily fluid stains and come with a horrid stench. To the
+average human this seems repulsive, but is almost second nature to the orcs
+and sure beats the cold floor. 
+~
+0 0
+D3
+~
+~
+0 0 7238
+S
+#0
+
+
+
+#SPECIALS
+Z 7206 shopspec_generic
+S
+
+
+
+#RESETS
+M 0 7203 1 7201
+M 0 7202 1 7202
+M 0 7203 1 7202
+M 0 7203 1 7202
+M 0 7203 1 7202
+M 0 7202 1 7204
+M 0 7201 4 7206
+E 0 7203 0 16
+O 0 7202 0 7206
+M 0 7201 1 7206
+M 0 7201 1 7206
+M 0 7201 1 7206
+M 0 7203 1 7206
+M 0 7202 1 7207
+M 0 7202 1 7208
+M 0 7202 1 7210
+M 0 7201 1 7211
+E 0 7203 0 16
+M 0 7201 1 7211
+M 0 7201 1 7211
+M 0 7201 1 7211
+M 0 7201 1 7212
+E 0 7203 0 16
+O 0 7209 0 7212
+M 0 7201 1 7212
+M 0 7201 1 7212
+M 0 7201 1 7212
+O 0 7202 0 7214
+M 0 7201 1 7214
+M 0 7201 1 7214
+M 0 7201 1 7214
+M 0 7201 1 7214
+M 0 7202 1 7215
+M 0 7201 1 7216
+E 0 7203 0 16
+M 0 7201 1 7216
+M 0 7201 1 7216
+M 0 7201 1 7216
+M 0 7201 1 7217
+E 0 7203 0 16
+M 0 7201 1 7217
+M 0 7201 1 7217
+M 0 7201 1 7217
+M 0 7202 1 7218
+O 0 7211 0 7218
+M 0 7201 5 7219
+O 0 7201 0 7219
+O 0 7202 0 7219
+E 0 7203 0 16
+O 0 7208 0 7219
+M 0 7201 1 7219
+M 0 7201 1 7219
+M 0 7201 1 7219
+M 0 7201 1 7219
+M 0 7201 3 7220
+E 0 7203 0 16
+O 0 7210 0 7220
+M 0 7201 1 7220
+M 0 7201 1 7220
+M 0 7201 1 7220
+M 0 7203 2 7221
+M 0 7203 1 7221
+M 0 7203 1 7221
+M 0 7203 1 7221
+M 0 7205 2 7222
+E 0 7207 0 16
+M 0 7203 1 7222
+O 0 7204 0 7222
+O 0 7213 0 7222
+M 0 7205 1 7222
+M 0 7205 1 7222
+M 0 7205 2 7223
+E 0 7207 0 16
+M 0 7203 1 7223
+M 0 7205 1 7223
+M 0 7205 1 7223
+M 0 7205 2 7224
+E 0 7207 0 16
+M 0 7203 1 7224
+O 0 7205 0 7224
+M 0 7205 1 7224
+M 0 7205 1 7224
+M 0 7205 2 7225
+E 0 7207 0 16
+O 0 7212 0 7225
+M 0 7205 1 7225
+M 0 7205 1 7225
+M 0 7205 2 7226
+E 0 7207 0 16
+M 0 7205 1 7226
+M 0 7205 1 7226
+M 0 7205 2 7227
+E 0 7207 0 16
+M 0 7205 1 7227
+M 0 7205 1 7227
+M 0 7205 1 7227
+M 0 7205 2 7228
+E 0 7207 0 16
+M 0 7205 1 7228
+M 0 7205 1 7228
+M 0 7205 1 7228
+O 0 7206 0 7229
+M 0 7204 5 7229
+M 0 7205 1 7229
+E 0 7207 0 16
+M 0 7204 1 7229
+M 0 7204 1 7229
+M 0 7204 1 7229
+M 0 7204 1 7229
+M 0 7206 1 7230
+G 0 7214 0
+G 0 7215 0
+O 0 7206 0 7231
+M 0 7204 1 7231
+M 0 7204 1 7231
+M 0 7204 1 7231
+M 0 7204 1 7231
+O 0 7206 0 7232
+M 0 7204 1 7232
+M 0 7204 1 7232
+M 0 7204 1 7232
+M 0 7204 1 7232
+O 0 7206 0 7233
+M 0 7204 1 7233
+M 0 7204 1 7233
+M 0 7204 1 7233
+M 0 7204 1 7233
+O 0 7206 0 7234
+M 0 7204 1 7234
+M 0 7204 1 7234
+M 0 7204 1 7234
+M 0 7204 1 7234
+O 0 7285 0 7235
+O 0 7286 0 7236
+M 0 7205 1 7237
+M 0 7205 1 7237
+M 0 7205 1 7237
+M 0 7205 1 7237
+M 0 7205 1 7238
+M 0 7205 1 7238
+M 0 7205 1 7238
+M 0 7205 1 7238
+M 0 7201 1 7238
+M 0 7201 1 7239
+M 0 7201 1 7239
+M 0 7201 1 7239
+M 0 7201 1 7239
+O 0 7216 0 7239
+M 0 7201 1 7240
+M 0 7205 1 7240
+M 0 7205 1 7240
+M 0 7205 1 7240
+M 0 7205 1 7240
+S
+
+
+
+#$

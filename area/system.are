@@ -1,0 +1,315 @@
+#AREADATA
+Name        Generic   Core MUD System~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       1 50
+Cvnum       1
+Security    1
+Areabits    16
+End
+
+
+
+#MOBILES
+#1
+mount~
+a mount~
+A mount is standing here.
+~
+~
+513 0 0
+13 0 0 0 0 0
+0 0
+S
+#2
+eyeball~
+an eyeball~
+An eyeball lies on the floor.
+~
+~
+1 0 0
+6 0 0 0 0 0
+0 0
+S
+#3
+darkstalker~
+a darkstalker~
+A darkstalker is hunting someone.
+~
+~
+1 802816 0
+156 0 0 0 0 0
+0 10
+S
+#4
+protomobile~
+a protomobile~
+A protomobile
+~
+~
+3 0 0
+80 0 0 0 0 0
+0 0
+S
+#5
+watchful eye~
+a watchful eye~
+A watchful eye floats here.
+~
+~
+1 2359848 0
+13 0 0 0 0 0
+0 0
+S
+#0
+
+
+
+#OBJECTS
+#1
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existant objects~
+10 0 0
+0 0 0 0
+0 0
+#2
+shimmering portal~
+a shimmering portal~
+A shimmering portal floats in the air.~
+21 0 0
+0 0 0 0
+1000 300
+#3
+protoplasm plasm ball~
+a ball of protoplasm~
+A ball of protoplasm floats in the air.~
+10 0 1
+0 0 0 0
+1 0
+#4
+soulblade~
+a soulblade~
+A blade lies on the floor, pulsing with life.~
+5 2 8193
+0 5 15 1
+1 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+17 0 1
+0 0 0 0
+100 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+18 0 0
+0 0 0 0
+100 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+10 0 16385
+0 0 0 0
+5 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+14 0 16385
+0 0 0 0
+2 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+14 0 16385
+0 0 0 0
+5 0
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+14 0 16385
+0 0 0 0
+0 0
+#16
+pool blood %s~
+a pool of blood~
+A pool of spilt blood lies here.~
+12 0 0
+100 100 13 0
+1000 0
+#17
+entrails %s~
+the spilled entrails of %s~
+The spilled entrails of %s lie in a pool here.~
+14 0 16385
+0 0 0 0
+2 0
+#18
+brain %s~
+the quivering brain of %s~
+The quivering brain of %s wobbles of the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#19
+eye eyeball %s~
+the squidgy eyeball of %s~
+The squidgy eyeball of %s rolls around on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#20
+face %s~
+the ripped off face of %s~
+The ripped off face of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#21
+windpipe %s~
+the torn-out windpipe of %s~
+The torn-out windpipe of %s lies broken on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#22
+cracked head %s~
+the cracked-open head of %s~
+The cracked-open head of %s lies on the floor.~
+10 0 16385
+0 0 0 0
+2 0
+#23
+ear %s~
+the sliced off ear of %s~
+The sliced off ear of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#24
+nose %s~
+the sliced off nose of %s~
+The sliced off nose of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#25
+tooth %s~
+the knocked-out tooth of %s~
+The knocked-out tooth of %s lies on the floor.~
+10 0 16385
+0 0 0 0
+2 0
+#26
+tongue %s~
+the torn-out tongue of %s~
+The torn-out tongue of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#27
+hand %s~
+the severed hand of %s~
+The severed hand of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#28
+foot %s~
+the severed foot of %s~
+The severed foot of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#29
+thumb %s~
+the severed thumb of %s~
+The severed thumb of %s lies on the floor~
+14 0 16385
+0 0 0 0
+2 0
+#30
+index finger %s~
+the servered index finger of %s~
+The severed index finger of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#31
+middle finger %s~
+the severed middle finger of %s~
+The severed middle finger of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#32
+ring finger %s~
+the severed ring finger of %s~
+The servered ring finger of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#33
+little finger %s~
+the severed little finger of %s~
+The severed little finger of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#34
+toe %s~
+the severed toe of %s~
+The severed toe of %s lies on the floor.~
+14 0 16385
+0 0 0 0
+2 0
+#0
+
+
+
+#ROOMDATA
+#1
+The Brimstone Pit~
+Dark sultrid smoke hangs heavily in the air, while red-eyed bats hangs
+from the dead branches of horribly deformed trees. The wailing of tormented
+players is everpresent, as the blackrobed enforcers punish those breaking
+the laws of the Cradle. 
+~
+8204 0
+S
+#2
+The Void~
+~
+262148 0
+S
+#3
+Disconnection Room~
+~
+8196 0
+S
+#4
+Object Room~
+~
+8196 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

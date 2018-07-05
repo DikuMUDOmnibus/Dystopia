@@ -1,0 +1,21 @@
+QUEST
+QUEST QUESTMASTERS
+1
+A new quest system is in town, and the old one is out. Here is
+a short list of commands used (for more details you should read
+the quest help on my homepage).
+
+qgain [questmaster]       - gain a new quest from a questmaster.
+qcomplete [questmaster]   - get the prize for completing the quest.
+showquest                 - lists all quests you are doing.
+
+An example: Find a questmaster, type 'qgain [name of questmaster]',
+then type 'showquest'. In this example we will assume that the
+quest is a quest to find and slay a specific monster. After finding
+the monster (it will have a quest-flag next to it's name), return
+to the questmaster and type 'qcomplete [name of questmaster]'. The
+questmaster will give you a goldtoken, which you should eat, it
+will increase your goldpool.
+
+The questmasters can be found down from recall, you may need to
+cast the passdoor spell to get into their lair.

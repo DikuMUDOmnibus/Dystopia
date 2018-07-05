@@ -1,0 +1,13 @@
+#!/bin/csh -f
+
+set port = 9009
+set logfile = ../log/output.log
+
+nice
+limit coredumpsize 32786k
+limit filesize 32786k
+
+cd ../area
+#valgrind --leak-check=full ../src/Dystopia $port >&! $logfile &
+../src/Dystopia $port >&! $logfile &
+

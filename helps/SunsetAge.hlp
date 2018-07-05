@@ -1,0 +1,11 @@
+SUNSET AGE
+'SUNSET AGE' WARLOCK
+1
+This evolve allows a warlock to induce old age in others. The target of
+the spell will become weak and other spell affects on the target will
+fade as time fades by at a rapid pace.
+
+This evolve is opposed by the '@@time travel@' evolve, and requires the
+'@@path of time@' evolve to be gained first.
+
+Syntax: sunset [victim]

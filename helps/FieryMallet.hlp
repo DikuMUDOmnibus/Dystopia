@@ -1,0 +1,19 @@
+FIERY MALLET
+'FIERY MALLET' MALLET GIANT
+1
+This evolve allows a giant to transform an unenchanted rare weapon into a
+fiery mallet of awesome strength. This weapon is fully loyal to the giant
+that created it, and cannot be gifted, stolen og worn by other players.
+It should be noted that the strength of the fiery mallet does not depend on
+the strength of the rare weapon being used - any weapon will do.
+
+The weapon becomes imbued with the alignment of the creator, and will
+protect the wearer from players and monsters of the opposite alignment.
+
+Due to the power of the spell that transforms the weapon into this fiery
+mallet, only rare weapons of a decent strength can be used (value 70+).
+
+This evolve requires the '@@heat metal@' evolve and opposes the evolve known
+as '@@ignite metal@', and only one of these two evolves can be gained.
+
+Syntax: mallet [weapon]

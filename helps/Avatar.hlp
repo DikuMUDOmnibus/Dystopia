@@ -1,0 +1,15 @@
+AVATAR
+AVATAR PLAYERKILLING
+1
+As an avatar, you gain access to your class commands, and you gain the
+ability to increase your class skills and powers. You can use the command
+POWERS to get a list of commands that you currently have access to.
+
+Please read the helpfile on @@REQUIREMENTS@ to see what you need to get
+before you can train avatar.
+
+TIP: It is not wise to train more than 4-5000 hps before you are
+ready to playerkill. You will be protected from playerkilling
+until you have reached the status of Cadet (on the who screen).
+
+Syntax: train avatar

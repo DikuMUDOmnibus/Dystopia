@@ -1,0 +1,9 @@
+ASSASSINATE
+ASSASSINATE SHADOWLORD
+1
+The shadowlords have a special opening attack called assassinate. This 
+power allows the shadowlord to jump from the shadows (must be hidden) and 
+strike a serious and sometimes lethal attack on the target. This will also 
+start the combat. 'hidden' means that you must use the hide command first.
+
+Syntax: assassinate [target]

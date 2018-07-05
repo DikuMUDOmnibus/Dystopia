@@ -1,0 +1,26 @@
+GROUPEXP
+GROUPEXP
+1
+Killing monsters in a group will give all the members of the group experience
+when a monster is killed, regardless of who killed the monster. Killing
+monsters in a group is encouraged, and the total amount of experience for
+killing monsters in a group is increased by 50%. So a monster that would
+normally give 200.000 experience points, would give 300.000 experience
+points if a group killed the monster. The experience from the kill is
+divided among the groupmembers in the following way.
+
+A member gains an amount of experience propertional to his or her strength
+compared to the groups total strength. So for instance, if a group contains
+3 members, each of roughly the same strength, each of the members would
+gain roughly 1/3 of the experience points from the kill.
+
+On the other hand, if 2 players team up, where one player is twice as
+powerful as the other, then the strong player would also gain twice as
+much experience from the kill (2/3 goes to the strong member and 1/3
+goes to the weak member). Again, if a groupmember is 10 times as strong
+as any of the other members in the group, then practically all the
+experience from kills made by this group goes to the strong member.
+
+If you want to experience in groups (which is a good idea, since you gain
+the 50% bonus), then it is highly recommended that you find groupmembers
+of the same (or close to) rank as your own.

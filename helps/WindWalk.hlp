@@ -1,0 +1,16 @@
+WIND WALK
+'WIND WALK' WINDWALK GIANT
+1
+This evolve allows a giant to conjure forth a fearsome storm, which will lift
+the giant from the ground and into the air. The giant will be in control of
+his or her movement inside this storm, but any monster (stupid as they are)
+trying to hit the moving giant will have to take aim each time, reducing the
+amount of attacks the monster will get.
+
+This evolve requires the '@@gust of wind@' evolve, and opposes the evolve known
+as '@@whirlwind@', and only one of these evolves can be gained.
+
+The same commands that conjures forth the violent storm can also be used to
+banish it.
+
+Syntax: windwalk

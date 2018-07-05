@@ -1,0 +1,13 @@
+ALIGNMENT
+ALIGNMENT INFORMATION
+1
+A player may attempt to change his or her alignment by using the alignment
+command, after which he or she has 5 minutes to stay within the wished
+alignment. After the time expires, the players alignment is changed to
+reflect his or her actions during the last 5 minutes. There is no cost for
+attempting to change ones alignment. Killing monsters of a specific align
+is needed to attempt the alignment change (i.e.. if you wish to become good,
+you must kill evil monsters, neutral requires that you balance your kills
+between evil and good monsters).
+
+Syntax: alignment [change]

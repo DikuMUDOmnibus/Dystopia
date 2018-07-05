@@ -1,0 +1,12 @@
+AREA
+AREAS INFORMATION
+1
+There exist 4 different helpfiles, which has directions to areas. The help
+files are ordered by the difficulty of the areas.
+
+HELP @@AREAS-EASY@     will list some easy beginning areas
+HELP @@AREAS-MEDIUM@   will list some decent medium level areas.
+HELP @@AREAS-HARD@     will list some highlevel areas.
+HELP @@AREAS-SUPER@    will list some very hard areas.
+
+Simply check the helpfile that suits your need.

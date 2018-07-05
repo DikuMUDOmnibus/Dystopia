@@ -1,0 +1,10 @@
+HEAT METAL
+'HEAT METAL' HEATMETAL GIANT
+1
+This evolve can be gained by any giant who meets the statistics requirements
+and have not yet picked the giant evolve 'stream of water'. This spell allows
+the giant to heat any metal worn by other players, effectivly causing them
+damage and slowly destroying their equipment. The 'heat metal' spell can 
+be dispelled with the 'dispel magic' spell.
+
+Syntax: heatmetal [target]

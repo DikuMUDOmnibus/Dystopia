@@ -1,0 +1,11 @@
+GAROTTE
+GAROTTE SHADOWLORD
+1
+This evolve can be gained by any shadowlord that has already gained the level 1
+evolve '@@assassin@'. It opposes the '@@awareness@' evolve, and only one of these
+two evolves can be gained.
+
+This evolve adds a special garotte attack to any assassination attempt made by
+this shadowlord. The extra attack is automatic.
+
+Syntax: assassinate [victim]

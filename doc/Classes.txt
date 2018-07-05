@@ -1,0 +1,64 @@
+the command 'powers' (do_racecommands in interp.c) has been changed 
+slightly, as has the command table found in interp.c. This was made such 
+that powers only show on the 'powers' command, if the character has 
+learned that specific command. There are two ways to use this system, 
+fx for cyberdemons the following can be found :
+
+  /* the do_pentagram command */
+  if (ch->pcdata->powers[CDEMON_SOULS] < 10)
+  {
+    send_to_char("You cannot use this power.\n\r", ch);
+    return;
+  }
+
+to make sure the power is only shown on 'powers', we change the entry in 
+the command table (in interp.c) to the following
+
+  {
+    "pentagram",      do_pentagram,      POS_STANDING,  3,  LOG_NORMAL,
+    CLASS_CYBERDEMON, CDEMON_SOULS,      10,                CP_LEVEL     
+  },
+
+Notice that CDEMON_SOULS is set, and the number just after is set to 10. 
+The important flag to set is CP_LEVEL, which means that this command is 
+only shown if CDEMON_SOULS is at least 10.
+
+Another command for cyberdemons is do_radarscan
+
+  if (!IS_SET(ch->pcdata->powers[CDEMON_IMPLANTS], IMPLANT_RADARSCAN))
+  {
+    send_to_char("You cannot use this power.\n\r", ch);
+    return;
+  }
+
+Here the entry in interp.c would look like this
+
+  {
+    "radarscan",      do_radarscan,      POS_STANDING,  3,  LOG_NORMAL,
+    CLASS_CYBERDEMON, CDEMON_IMPLANTS,   4,                 CP_BIT       
+  },
+
+If you check cyberdemon.h, you will see that IMPLANT_RADARSCAN is assigned 
+the value 4 (which is the same number that is right under POS_STANDING). 
+The important flag this time is CP_BIT, which tells the interpreter, that 
+this is a bitvector, and the command should only be shown if bit 4 (which 
+was the radarscan implant) was set on CDEMON_IMPLANTS.
+
+If you set the last three entries to 0, then the power will always be 
+shown on 'powers' for that class.
+
+It is also important to notice that all new classes should be added to the 
+class_table found in db.c
+
+/* the class table */
+const struct class_type class_table[] =
+{
+  { "None",        0                },
+  { "Shadow",      CLASS_SHADOW     },
+  { "Cyberdemon",  CLASS_CYBERDEMON },
+
+  /* NULL Terminator */
+  { "", 0 }
+};
+
+This makes sure that a class can be picked when creating a new character.

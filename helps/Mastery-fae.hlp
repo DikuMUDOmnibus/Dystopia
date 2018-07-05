@@ -1,0 +1,20 @@
+MASTERY-FAE
+MASTERY-FAE
+1
+The fae mastery item is a conduit band, which harnesses the energies from
+one given ancient, allowing the fae to channel this ancient at an incrased
+speed (as much as 4 points per pulse).
+
+If a fae chooses matter as the ancient to master, he or she will deal an
+additional 10% damage with his or her shields (in addition to the boost
+in channel speed). The fae will also have an increased chance of dealing
+double damage with the shields.
+
+If a fae chooses energy as the ancient to master, he or she will deal an
+extra burst of damage when infusing energy at level 8 or more. If the fae
+reaches level 12, a third energy attack will be dealt.
+
+If a fae chooses will as the ancient to master, he or she will have the
+lag from infusing will cut in half.
+
+Syntax: mastery [matter|plasma|energy|will]

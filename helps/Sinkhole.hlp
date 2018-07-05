@@ -1,0 +1,16 @@
+SINKHOLE
+SINKHOLE GIANT
+1
+This evolve can be gained by any giant which has first gained the '@@mudform@'
+evolve, and it opposes the evolve known as '@@earth flux@'. Only one of these two
+evolves can be gained.
+
+This power allows the giant to transform the ground beneath the monster, that
+he or she is fighting, into a dangerous sinkhole. The monster is forced to spend
+time struggling to keep free of the sinkhole, and will lose every other
+combat round.
+
+Keeping the sinkhole active requires a small upkeep in mana, and the sinkhole
+can be dispelled with the same command that summons it.
+
+Syntax: sinkhole

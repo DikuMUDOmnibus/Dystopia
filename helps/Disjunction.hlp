@@ -1,0 +1,11 @@
+DISJUNCTION
+DISJUNCTION WARLOCK
+1
+This evolve allows a warlock to single out spells of a specific type, and try
+to dispel them, without affecting any other spells currently affecting him or
+her. It cannot be countered by the '@@counterspell@' spell.
+
+This evolve requires the '@@mountain king@' evolve, and opposes the evolve
+known as '@@pulse of the earth@', and only one of these evolves can be gained.
+
+Syntax: disjunction [name of spell]

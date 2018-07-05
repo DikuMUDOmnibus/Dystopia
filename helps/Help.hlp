@@ -1,0 +1,13 @@
+HELP
+HELP SEARCH INFORMATION
+1
+Syntax: help
+Syntax: help [keyword]
+Syntax: search [keyword]
+
+HELP without any arguments shows a one-page command summary.
+
+HELP [keyword] shows a page of help on that keyword.  The keywords include
+all the commands, spells, and skills listed in the game.
+
+SEARCH [keyword] shows a list of all helpfiles related to the keyword.

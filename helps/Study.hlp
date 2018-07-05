@@ -1,0 +1,20 @@
+STUDY
+STUDY WARLOCK
+1
+The STUDY command is the warlocks training command. The warlock has the
+choice between 6 different spheres of magic, each of which can be trained
+as high as level 5. To raise ones level in a given sphere, one must type 
+'study [name of sphere]', after which the warlock has 30 minutes to gether 
+a certain amount of experience.
+
+How much experience is left to gather, and how much time is left to do
+it in is shown on the score screen, so it should be possible to keep
+track of your progress.
+
+The level is gained when the amount of experience needed is reached, and
+the study session is removed either at this time, or when the 30 minutes
+has passed (and thus the warlock has failed the session).
+
+When a warlock achives mastery, he or she is allowed to pick one sphere, 
+which can then be studied to a level of 6. This sphere is considered the 
+warlocks mastery sphere.

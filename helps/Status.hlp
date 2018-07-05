@@ -1,0 +1,26 @@
+STATUS
+STATUS PLAYERKILLING
+1
+Status a measure of a players pk-activity and skill, and it is gained from
+killing other players and lost by being decapitated by other players.
+
+1. How to gain status
+ o If you have 0 status, simply kill another player.
+ o If you have status already, you must kill a player with status.
+
+2. How to lose status
+ o Being killed and having status. You cannot go below 0 status.
+
+3. What do you get from status
+ o +2% exp bonus per point
+ o +2% gold bonus per point (for quests)
+ o +10 damcap per point.
+
+4. How does this affect the PK-range
+ o For all PK'ing purposes, you are considered to have 750 extra
+   hitpoints per point of status. This will affect your rank.
+
+Event though it should be obvious, please note that status rings are illegal,
+and that all players involved in such activity will be deleted.
+
+You can see your current status on your score screen.

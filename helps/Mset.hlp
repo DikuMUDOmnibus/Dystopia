@@ -1,0 +1,16 @@
+MSET
+MSET OSET RSET SSET QSET
+7
+Syntax: mset [character] [field] [value]
+Syntax: oset [object]    [field] [value]
+Syntax: rset [location]  [field] [value]
+Syntax: sset [character] [skill] [value]
+Syntax: sset [character] all     [value]
+Syntax: qset [object]    [field] [value]
+
+MSET, OSET, and RSET set the properties of mobiles, objects, and rooms,
+respectively.  SSET sets a skill or spell level on a PC.  QSET sets 
+special properties and text messages on objects.
+
+There is currently no way to enter more than one line of text for a
+string-valued option.

@@ -1,0 +1,21 @@
+ZOMBIE ENDURANCE
+'ZOMBIE ENDURANCE' WARLOCK
+1
+Any warlock that has gained the '@@plague chain@' evolve can gain this evolve,
+which allows a warlock to use two new powers, as well as increase his or her
+ability to use the corpse draining power found in the necromantic sphere.
+
+This evolve opposes the '@@chains of decay@' evolve, and only one of these 
+two evolves can be gained.
+
+The Zombie Endurance power can be used to infuse the warlock with increased
+toughness and resistance against monster attacks. The warlock will resist 
+half of the attack, but will have to pay a cost similar to 1/4th of the 
+attack in either move or mana (whichever is highest at the time). If the 
+warlock is unable to pay the cost, he or she will suffer greatly.
+
+The Mana Overload power can be used to force another player to leak mana into
+his or her surroundings - mana, which can then be drained by any warlock.
+
+Syntax: moverload [victim]
+Syntax: zendurace [on|off]

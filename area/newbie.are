@@ -1,0 +1,399 @@
+#AREADATA
+Name        Jobo      The Newbie Zone~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       4895 4930
+Cvnum       4897
+Security    1
+Areabits    16
+End
+
+
+
+#MOBILES
+#4895
+newbie monster~
+A newbie monster~
+A newbie monster is covering in the corner.
+~
+The newbie monsters of Dystopia are small weenies, and not worth the
+hassle to kill for most players, but they usually care some nice newbie
+equipment. 
+~
+3 0 -1000
+1 0 0 0 0 0
+1 5
+S
+#4896
+guard dog~
+a guard dog~
+A guard dog stands here
+~
+~
+3 128 0
+6 0 0 0 0 0
+1 5
+S
+#0
+
+
+
+#OBJECTS
+#4895
+splint mail~
+a splint mail~
+A piece of splint mail armor lies here.~
+7 0 9
+10 0 0 13
+1 0
+A
+19 4
+A
+18 4
+#4896
+skull cap~
+a skull cap~
+A piece of headwear lies here.~
+7 0 17
+10 0 0 3
+1 0
+A
+19 4
+A
+18 4
+#4897
+leather leggings~
+a pair of leather leggings~
+A pair of leather leggings lies here.~
+7 0 33
+10 0 0 9
+1 0
+A
+19 4
+A
+18 4
+#4898
+studded leather boots~
+a pair of studded leather boots~
+A pair of leather boots lies here.~
+7 0 65
+10 0 0 0
+1 0
+A
+19 4
+A
+18 4
+#4899
+metal gauntlets~
+a pair of metal gauntlets~
+A pair of metal gauntlets lies here.~
+7 0 129
+10 0 0 0
+1 0
+A
+19 4
+A
+18 4
+#4900
+leather sleeves~
+some leather sleeves~
+Some leather sleeves lies here.~
+7 0 257
+10 0 0 0
+1 0
+A
+19 4
+A
+18 4
+#4901
+spiked copper bracers~
+a spiked copper bracer~
+A spiked copper bracer lies here.~
+7 0 4097
+10 0 0 6
+1 0
+A
+19 4
+A
+18 4
+#4902
+rusten cutlass~
+a rusten cutlass~
+A rusten cutlass lies here.~
+5 0 8193
+0 3 8 1
+1 0
+A
+19 4
+A
+18 4
+#4903
+leather bag~
+a leather bag~
+A leather bag lies here.~
+11 0 1
+999 0 0 0
+1 0
+#4904
+emerald key~
+an #g-=#GEmerald#g=-#n key~
+An emerald key lies here.~
+13 0 1
+0 0 0 0
+1 0
+#4905
+lantern~
+a lantern~
+A lantern lies here.~
+1 0 1
+0 0 100 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#4895
+The Newbie Portal~
+Looming to the north is the newbie portal from which all newbies are
+spawned. All newbies must first venture through the portal to collect a set
+of starting equipment, and learn the general commands of the mud. 
+~
+8260 0
+D0
+~
+~
+0 0 4896
+S
+#4896
+The Newbie Corridor~
+Heading straight north will lead you directly to the main mud - it is
+suggested that newbies, and players wanting to collect a set of newbie
+equipment explore the rooms to the east and west of the main corridor. 
+~
+8260 0
+D0
+~
+~
+0 0 4897
+D1
+~
+~
+0 0 4900
+D2
+~
+~
+0 0 4895
+D3
+~
+~
+0 0 4901
+S
+#4897
+The Newbie Corridor~
+Heading straight north will lead you directly to the main mud - it is
+suggested that newbies, and players wanting to collect a set of newbie
+equipment explore the rooms to the east and west of the main corridor.
+~
+8260 0
+D0
+~
+~
+0 0 4898
+D1
+~
+~
+0 0 4902
+D2
+~
+~
+0 0 4896
+D3
+~
+~
+0 0 4903
+S
+#4898
+The Newbie Corridor~
+Heading straight north will lead you directly to the main mud - it is
+suggested that newbies, and players wanting to collect a set of newbie
+equipment explore the rooms to the east and west of the main corridor.
+~
+8260 0
+D0
+~
+~
+0 0 4899
+D1
+~
+~
+0 0 4904
+D2
+~
+~
+0 0 4897
+D3
+~
+~
+0 0 4905
+S
+#4899
+The Newbie Corridor~
+To the north looms the great world of Dystopia. Make sure you have
+collected all the equipment and experience you want before you venture into
+the real world. Before you can open the door to the north, you must find the
+#g-=#GEmerald#g=-#n key, which is kept by one of the newbie monsters. When
+you have the key, type 'unlock north' followed by 'open north'. 
+~
+8260 0
+D0
+~
+door~
+103 4904 7802
+D1
+~
+~
+0 0 4906
+D2
+~
+~
+0 0 4898
+D3
+~
+~
+0 0 4907
+S
+#4900
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience. 
+~
+8260 0
+D3
+~
+~
+0 0 4896
+S
+#4901
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D1
+~
+~
+0 0 4896
+S
+#4902
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D3
+~
+~
+0 0 4897
+S
+#4903
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D1
+~
+~
+0 0 4897
+S
+#4904
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D3
+~
+~
+0 0 4898
+S
+#4905
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D1
+~
+~
+0 0 4898
+S
+#4906
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D3
+~
+~
+0 0 4899
+S
+#4907
+A Newbie Room~
+Each room in the newbie zone contains a monster worth killing. Each
+monster carries a piece of newbie equipment, and is worth a little
+experience.
+~
+8260 0
+D1
+~
+~
+0 0 4899
+S
+#0
+
+
+
+#SPECIALS
+D 4896 deathspec_guarddog
+S
+
+
+
+#RESETS
+O 0 4905 0 4895
+M 0 4896 1 4899
+G 0 4903 0
+M 0 4895 8 4900
+G 0 4898 0
+M 0 4895 8 4901
+G 0 4895 0
+M 0 4895 8 4902
+G 0 4896 0
+G 0 4904 0
+M 0 4895 8 4903
+G 0 4897 0
+M 0 4895 8 4904
+G 0 4899 0
+M 0 4895 8 4905
+G 0 4900 0
+M 0 4895 8 4906
+G 0 4901 0
+E 0 4901 0 14
+M 0 4895 8 4907
+G 0 4902 0
+E 0 4902 0 16
+S
+
+
+
+#$

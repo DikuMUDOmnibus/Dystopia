@@ -1,0 +1,8 @@
+MASTERY-WARLOCK
+MASTERY-WARLOCK
+1
+The warlocks mastery item is a floating ion stone, attuned to the sphere
+the warlock has chosen to master. When wearing this ion stone, the warlock
+can learn and cast rank level 6 magic from that given sphere.
+
+Syntax: mastery [invocation|necromany|divination|etc]

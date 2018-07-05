@@ -1,0 +1,18 @@
+MAP
+MAP AUTOMAP INFORMATION
+1
+By enabling long descriptions for rooms (brief1 must be off),
+and enabling the automap feature (type 'map'), then the room
+description will include a map of the rooms around the player.
+
+Symbols used for the map are :
+
+#g*#n  Woodland, Forest, Plains
+#8@#n  Mountain, Hill
+#9O#n  Inside, City
+#L=#n  Water, Ocean, Sea
+#C#-#n  Air, Flying
+#y+#n  Desert
+#r##  Underground
+
+The symbols '#9|#n' and '#9-#n' represents roads, tunnels, etc.

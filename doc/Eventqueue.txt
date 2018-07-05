@@ -1,0 +1,47 @@
+Since Dystopia 1.4CE2 the codebase uses an eventqueue to update
+most of the game, which replaces the old DIKU style mob autonomy
+update loops.
+
+In the file event.c you will find a series of event functions,
+which has the following prototype
+
+bool event_[game/mobile/object/room]_[somename] ( EVENT_DATA *event );
+
+For instance, there is an event function that looks like this
+
+bool event_object_decay ( EVENT_DATA *event )
+
+Common for all such event functions is the following
+====================================================
+
+1) They will return TRUE if they handle the dequeue'ing
+   of the event themselfs (either by calling dequeue_event(),
+   or because the owner of the event was extracted/destroyed).
+   In any other case, they will return FALSE.
+
+2) They all take an EVENT_DATA structure as an argument. This
+   structure contains all the information needed to handle
+   the event.
+
+
+You will also find several support functions, like an enqueuing,
+a dequeueing function, some initializing functions and much more.
+The important ones to notice are the initializers, since they
+are called on mobiles, objects, rooms, etc whenever such are
+created or logs into the game. For instance, all players have
+an autosave event, which triggers every 2nd minute.
+
+If you wish to use the event queue, you should try to understand
+how the code works, for this purpose a snippet/howto can be found
+at the following location
+
+http://www.daimi.au.dk/~jobo/pages/event_queue.html
+
+The code no longer uses tick timers of any kind (well, almost none),
+so you'll have to rethink how you normally have stuff automaticly
+fade. Also, objects are set to decay using object_decay(), since
+there no longer is an update function for items.
+
+Have fun
+
+Brian Graversen

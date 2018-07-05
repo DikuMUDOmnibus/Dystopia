@@ -1,0 +1,12 @@
+ASSASSIN
+ASSASSIN SHADOWLORD
+1
+The 'assassin' evolve can be gained by any shadowlord that has the required
+statistics and hasn't already gained the '@@skullduggery@' evolve.
+
+This evolve enhances the @@assassinate@ power that is the birthright of any
+shadowlord. It will increase the chance of doing a critical strike against
+monsters, it will reduce the amount of time the shadowlord needs to wait
+before he or she can use another command, and it will initiate full combat.
+
+Syntax: assassinate [victim]

@@ -1,0 +1,21 @@
+CHAINS OF DECAY
+'CHAINS OF DECAY' WARLOCK
+1
+Any warlock that has gained the '@@plague chain@' evolve can gain this evolve,
+which allows a warlock to use the mummyrot attack, as well as increase his
+or her ability to use the corpse draining power found in the necromantic
+sphere.
+
+This evolve opposes the '@@zombie endurance@' evolve, and only one of these
+two evolves can be gained.
+
+The Mummyrot power will inflict the victim with a serious pox, causing his 
+or her limbs to rot and fall off. The only known cure for this pox is 
+heavy doses of the heal spell.
+
+The warlock also gains a superior insight into plagues and diseases, 
+increasing his or her ability to withstand the effect of such plagues. This
+knowledge has also been used to increase the effect of the plague chain 
+enchantment.
+
+Syntax: mummyrot [victim]

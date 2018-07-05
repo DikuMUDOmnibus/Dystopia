@@ -1,0 +1,17 @@
+NOTE
+NOTE BOARDS NOTEBOARD
+1
+The mud has 6 note boards, where general discussions, as well as important
+announcements are posted. The commands used to access, read and write
+on these boards, are :
+
+* note [read|write|list|remove]
+  - read will read the next note on the board (or a given note
+    for example 'note read 7').
+  - write will post a new note on the board you are currently on.
+    Just follow the instructions given during note creation.
+  - list will show all the messages on the current board.
+
+* Board [number]
+  - will simply change to the board number you enter,
+    or list all boards if you don't enter a number.

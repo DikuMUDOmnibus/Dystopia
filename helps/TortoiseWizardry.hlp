@@ -1,0 +1,16 @@
+TORTOISE WIZARDRY
+'TORTOISE WIZARDRY' GIANT
+1
+This evolve requires the giant evolve '@@slow spell@', and opposes the evolve
+known as '@@kabalistic lore@', and only one of these two evolves can be gained
+by a giant shaman.
+
+The giant shaman will notice a huge increase in the effect of the slowspell,
+and will gain the ability to train his or her red, yellow and blue spells to
+as high as 220 (unmodified).
+
+The shaman will also gain access to three new spells, one in each of the above
+mentioned colours. Namely the spells of '@@cantrip@', '@@spelltrap@' and '@@essence@'.
+
+Syntax: cast [spell]
+Syntax: slowspell [victim]

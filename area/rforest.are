@@ -1,0 +1,908 @@
+#AREADATA
+Name        Raedenn   The Forest of Ri'on Dashor~
+Builders    Raedenn~
+Music       default.mid~
+VNUMs       8651 8700
+Cvnum       8651
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#8651
+deer~
+A young deer~
+A young adult deer prances about.
+~
+~
+17 0 0
+44 0 0 0 0 0
+2 0
+S
+#8652
+buck~
+A buck~
+A fairly large buck is walking around aimlessly.
+~
+~
+17 0 0
+34 0 0 0 0 0
+1 0
+S
+#8653
+black bear~
+A black bear~
+A large black bear is following the scent of a human.
+~
+~
+17 0 0
+55 0 0 0 0 0
+1 5
+S
+#8654
+bugbear~
+A bugbear~
+A large snarling bugbear is going to kill you
+~
+~
+27 128 -1000
+60 15 1 95 0 0
+1 5
+S
+#0
+
+
+
+#OBJECTS
+#8651
+hut shack~
+the hut~
+A mysterious looking old hut is nessled between two trees.~
+21 0 0
+8651 0 0 0
+1 0
+#8652
+tunnel~
+the tunnel~
+A well-dug tunnel is a quick passage to the northwest.~
+21 0 0
+8664 0 0 0
+1 0
+#8653
+tunnel~
+the tunnel~
+A well-dug tunnel is a quick passage to the north.~
+21 0 0
+8671 0 0 0
+1 0
+#8654
+oak symbol ancient~
+an ancient oak~
+An ancient oak stands here.~
+21 4 0
+3558 0 0 0
+1 0
+#8655
+acorn~
+an acorn~
+A lop-sided acorn has fallen from one of the many trees.~
+14 0 1
+0 0 0 0
+1 0
+#8656
+large shovel~
+a diamond-tipped shovel~
+An extremely large shovel is encrusted with diamonds.~
+5 0 8193
+0 25 25 2
+1 0
+A
+18 8
+A
+2 2
+#8657
+small log~
+a small log~
+A small log has fallen down~
+9 0 1
+0 0 0 0
+1 0
+#8658
+weird leaf~
+a weird-looking leaf~
+A weird-looking leaf catches your attention~
+10 0 1
+0 0 0 0
+1 0
+#8659
+tree branch~
+a tree branch~
+An ordinary tree branch lies on the ground~
+10 0 1
+0 0 0 0
+1 0
+#8660
+mushroom~
+a mushroom~
+A lone mushroom grows at the base of a tree~
+10 0 1
+0 0 0 0
+1 0
+#8661
+small skeleton~
+a small skeleton~
+A small skeleton has been laying here for a while~
+9 0 1
+0 0 0 0
+1 0
+#8662
+travellers cloak~
+a traveller's cloak~
+A red traveller's cloak has been abandoned here~
+7 0 1025
+20 0 0 6
+2 50
+A
+17 -10
+A
+5 3
+A
+19 8
+#0
+
+
+
+#ROOMDATA
+#8651
+Inside the hut~
+The inside of the hut looks way better than the outside, almost made to
+ward off explorers or anyone not minding their own business. Despite the
+decaying look of the wood on the outside. This hut has only been around for
+a few months. A pile of leaves have apparently blown through the open door. 
+~
+4 0
+E
+a lever hidden beneath a pile of leaves~
+Looking closer at the pile of leaves reveals a hidden lever.
+~
+The floor below you disappears causing you to fall through.  The floor reappears after.~
+The floor below $n disappears causing $m to fall through.  The floor reappears after.~
+1 8663 1
+S
+#8652
+Outskirts of a forest~
+This part of the forest is obviously a recent addition, and hasn't seen
+many winters. Scarcely populated with bright green saplings, this land is
+marked as the outskirts of the forest. 
+~
+0 3
+D0
+~
+~
+0 0 8653
+S
+#8653
+Light forest~
+The amount of trees here seems to be twice as much as the first section,
+but it is still a light forest. Most of the trees here are no longer
+sapplings, but haven't reached maturity yet. One could not hide very well in
+this part of the forest. 
+~
+0 3
+D1
+~
+~
+0 0 8690
+D2
+~
+~
+0 0 8652
+D3
+~
+~
+0 0 8654
+S
+#8654
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D0
+~
+~
+0 0 8655
+D1
+~
+~
+0 0 8653
+S
+#8655
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D2
+~
+~
+0 0 8654
+D3
+~
+~
+0 0 8656
+S
+#8656
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the east, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D0
+~
+~
+0 0 8657
+D1
+~
+~
+0 0 8655
+S
+#8657
+Deeper in the forest~
+All that can be seen in any direction are trees. Trees, trees, trees and
+more trees. Anyone passing by will surely be dreaming about trees. Lone
+travellers could go mad due to the lack of companionship through this vast
+forest. 
+~
+0 3
+D2
+~
+~
+0 0 8656
+D3
+~
+~
+0 0 8658
+S
+#8658
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the east, forcing all travellers to wander
+through the forest without a trail, or turn back 
+~
+0 3
+D0
+~
+~
+0 0 8659
+D1
+~
+~
+0 0 8657
+S
+#8659
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D2
+~
+~
+0 0 8658
+D3
+~
+~
+0 0 8660
+S
+#8660
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D0
+~
+~
+0 0 8661
+D1
+~
+~
+0 0 8659
+S
+#8661
+Light forest~
+The amount of trees here seems to be twice as much as the first section,
+but it is still a light forest. Most of the trees here are no longer
+sapplings, but haven't reached maturity yet. One could not hide very well in
+this part of the forest. 
+~
+0 3
+D0
+~
+~
+0 0 8664
+D2
+~
+~
+0 0 8660
+D3
+~
+~
+0 0 8662
+S
+#8662
+Outskirts of a forest~
+This part of the forest is obviously a recent addition, and hasn't seen
+many winters. Scarcely populated with bright green saplings, this land is
+marked as the outskirts of the forest. 
+~
+0 3
+D1
+~
+~
+0 0 8661
+D3
+~
+~
+0 0 7201
+S
+#8663
+Beneath the hut~
+Well-made torches evenly line the hallway, giving off a sign that
+everything here must be perfect. The air down here is slightly musty, but
+isn't bad considering. A horrible stench is coming from the southeast wall. 
+~
+0 0
+E
+southern wall~
+The southern wall doesn't really exist.
+~
+You get sucked in.~
+$n gets sucked in.~
+3 8692 1
+D0
+~
+~
+0 0 8673
+D3
+~
+~
+0 0 8683
+S
+#8664
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D1
+~
+~
+0 0 8665
+D2
+~
+~
+0 0 8661
+S
+#8665
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D0
+~
+~
+0 0 8666
+D3
+~
+~
+0 0 8664
+S
+#8666
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the west, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D1
+~
+~
+0 0 8667
+D2
+~
+~
+0 0 8665
+S
+#8667
+Deeper in the forest~
+All that can be seen in any direction are trees. Trees, trees, trees and
+more trees. Anyone passing by will surely be dreaming about trees. Lone
+travellers could go mad due to the lack of companionship through this vast
+forest.
+~
+0 3
+D0
+~
+~
+0 0 8668
+D3
+~
+~
+0 0 8666
+S
+#8668
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the west, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D1
+~
+~
+0 0 8669
+D2
+~
+~
+0 0 8667
+S
+#8669
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D0
+~
+~
+0 0 8670
+D3
+~
+~
+0 0 8668
+S
+#8670
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D1
+~
+~
+0 0 8671
+D2
+~
+~
+0 0 8669
+S
+#8671
+Light forest~
+The amount of trees here seems to be twice as much as the first section,
+but it is still a light forest. Most of the trees here are no longer
+sapplings, but haven't reached maturity yet. One could not hide very well in
+this part of the forest. An ancient oak seems totally out of place, in the
+presence of these much younger trees. An oval symbol is painted on the side
+of the oak. 
+~
+0 3
+D0
+~
+~
+0 0 8672
+D1
+~
+~
+0 0 8674
+D3
+~
+~
+0 0 8670
+S
+#8672
+Outskirts of a forest~
+This part of the forest is obviously a recent addition, and hasn't seen
+many winters. Scarcely populated with bright green saplings, this land is
+marked as the outskirts of the forest. 
+~
+0 3
+D0
+~
+~
+0 0 8691
+D2
+~
+~
+0 0 8671
+S
+#8673
+North tunnel~
+This tunnel is freshly dug, and very neat at that. Whomever dug this
+tunnel knew what they were doing, and had plenty of workers at that. The
+tunnel is built as if it was a slide, providing quick access to wherever it
+leads. 
+~
+0 0
+D2
+~
+~
+0 0 8663
+S
+#8674
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D2
+~
+~
+0 0 8675
+D3
+~
+~
+0 0 8671
+S
+#8675
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D0
+~
+~
+0 0 8674
+D1
+~
+~
+0 0 8676
+S
+#8676
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the north, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D2
+~
+~
+0 0 8677
+D3
+~
+~
+0 0 8675
+S
+#8677
+Deeper in the forest~
+All that can be seen in any direction are trees. Trees, trees, trees and
+more trees. Anyone passing by will surely be dreaming about trees. Lone
+travellers could go mad due to the lack of companionship through this vast
+forest.
+~
+0 3
+D0
+~
+~
+0 0 8676
+D1
+~
+~
+0 0 8678
+S
+#8678
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the north, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D2
+~
+~
+0 0 8679
+D3
+~
+~
+0 0 8677
+S
+#8679
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D0
+~
+~
+0 0 8678
+D1
+~
+~
+0 0 8680
+S
+#8680
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D2
+~
+~
+0 0 8681
+D3
+~
+~
+0 0 8679
+S
+#8681
+Light forest~
+The amount of trees here seems to be twice as much as the first section,
+but it is still a light forest. Most of the trees here are no longer
+sapplings, but haven't reached maturity yet. One could not hide very well in
+this part of the forest. 
+~
+0 3
+D0
+~
+~
+0 0 8680
+D1
+~
+~
+0 0 8682
+D2
+~
+~
+0 0 8684
+S
+#8682
+Outskirts of a forest~
+This part of the forest is obviously a recent addition, and hasn't seen
+many winters. Scarcely populated with bright green saplings, this land is
+marked as the outskirts of the forest.
+~
+0 3
+D1
+~
+~
+0 0 7000
+D3
+~
+~
+0 0 8681
+S
+#8683
+West tunnel~
+This tunnel is freshly dug, and very neat at that. Whomever dug this
+tunnel knew what they were doing, and had plenty of workers at that. The
+tunnel is built as if it was a slide, providing quick access to wherever it
+leads. 
+~
+0 0
+D1
+~
+~
+0 0 8663
+S
+#8684
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D0
+~
+~
+0 0 8681
+D3
+~
+~
+0 0 8685
+S
+#8685
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost. 
+~
+0 3
+D1
+~
+~
+0 0 8684
+D2
+~
+~
+0 0 8686
+S
+#8686
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the south, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D0
+~
+~
+0 0 8685
+D3
+~
+~
+0 0 8687
+S
+#8687
+Deeper in the forest~
+All that can be seen in any direction are trees. Trees, trees, trees and
+more trees. Anyone passing by will surely be dreaming about trees. Lone
+travellers could go mad due to the lack of companionship through this vast
+forest.
+~
+0 3
+D1
+~
+~
+0 0 8686
+D2
+~
+~
+0 0 8688
+S
+#8688
+Deep in the forest~
+All different kinds of trees can be found in this forest, the climate is
+warm enough to support redwood, but not too harsh for other types. A giant
+sequoia blocks off the path to the south, forcing all travellers to wander
+through the forest without a trail, or turn back. 
+~
+0 3
+D0
+~
+~
+0 0 8687
+D3
+~
+~
+0 0 8689
+S
+#8689
+Outside of a hut~
+The whole forest is just about uniform, except for a mysterious old shack
+secluded by a few massive trees. The rickety shack isn't made of a wood from
+this forest, which is what makes the shack so mysterious. Judging by the
+shack and its surroundings, it hasn't been occupied in quite a time. 
+~
+0 3
+D1
+~
+~
+0 0 8688
+D2
+~
+~
+0 0 8690
+S
+#8690
+Forest~
+The entrance to the forest can barely be seen from here, and all that can
+be seen in any direction are trees, and lots of them. The trail is poorly
+carved, but without it, the average person would be lost.
+~
+0 3
+D0
+~
+~
+0 0 8689
+D3
+~
+~
+0 0 8653
+S
+#8691
+At the forest of Ri'on Dashor~
+South of here lies the forest of Ri'on Dashor, a serene place populated
+by the cute and fuzzy creatures of the forest. To the west lies the city of
+Ri'on Dashor, home to the genie Calim. 
+~
+0 3
+D2
+~
+~
+0 0 8672
+D3
+~
+~
+0 0 7981
+S
+#8692
+Hidden room~
+~
+0 0
+D3
+~
+~
+0 0 8663
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 8655 0 8652
+M 0 8651 1 8653
+M 0 8652 1 8656
+M 0 8653 1 8657
+E 0 8662 0 12
+O 0 8655 0 8659
+M 0 8651 1 8659
+M 0 8652 1 8661
+O 0 8661 0 8661
+O 0 8655 0 8665
+M 0 8652 1 8665
+O 0 8660 0 8665
+M 0 8653 1 8667
+M 0 8651 1 8668
+M 0 8652 1 8669
+O 0 8658 0 8670
+O 0 8655 0 8671
+M 0 8651 1 8671
+O 0 8654 0 8671
+O 0 8653 0 8673
+M 0 8653 1 8675
+O 0 8659 0 8675
+M 0 8651 1 8677
+M 0 8652 1 8677
+O 0 8657 0 8677
+O 0 8655 0 8678
+M 0 8652 1 8679
+M 0 8653 1 8681
+O 0 8652 0 8683
+O 0 8655 0 8685
+O 0 8658 0 8685
+M 0 8652 1 8686
+O 0 8657 0 8687
+M 0 8651 1 8688
+O 0 8651 0 8689
+O 0 8655 0 8689
+M 0 8652 1 8690
+O 0 8656 0 8692
+M 0 8654 1 8692
+S
+
+
+
+#$

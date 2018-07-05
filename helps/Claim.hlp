@@ -1,0 +1,19 @@
+CLAIM
+CLAIM CALL GIFT LOCATE UNCLAIM EQUIPMENT
+0
+Syntax: claim [object]
+Syntax: call [object]
+Syntax: call all
+Syntax: gift [object] [player]
+Syntax: unclaim [object]
+Syntax: locate
+
+By claiming an object (which costs 500 exp), that object becomes your 
+personal property.  Using the 'locate' command you can find what items 
+currently belong to you and where they are in the mud.  If you are not 
+carrying the item, you can get it back by calling it with the 'call' 
+command.  You can change the ownership of your own items by use of the 
+'gift' command.
+
+If you are looking for help on the 'locate object' spell, you might
+want to try typing #Ghelp 'locate object'#n.

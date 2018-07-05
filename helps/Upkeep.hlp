@@ -1,0 +1,11 @@
+UPKEEP
+UPKEEP AFFECTS
+1
+The upkeep command will show all possible powers that can affect you, and 
+show whether they are enabled or not. It will also show a list of all 
+spellaffects that are currently active on your character.
+
+The upkeep screen is @@MXP@ enhanced, allowing you to enable or disable 
+your class powers with a single mouse click.
+
+Syntax: upkeep

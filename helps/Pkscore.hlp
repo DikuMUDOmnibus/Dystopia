@@ -1,0 +1,15 @@
+PKSCORE
+PKSCORE PLAYERKILLING
+1
+A players pkscore is based on the players kills and deaths as well as the
+players status rating. All of these numbers can be found on the players
+scoresheet (type score). For those interested in the formula, it is listed
+below. Besides being something to brag about, the 10 players with the
+highest pkscore are listed on the top 10 for best PK'ers (type top10).
+
+    D = deaths, K = Kills, S = Status
+
+  PKScore = 10 * sqrt(S) * K * (K^2 - D^2)/(K + D)^2;
+
+If you use this formula, do remember that the MUD does some rounding up
+and down due to handling all these numbers as integers.

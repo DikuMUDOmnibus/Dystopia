@@ -1,0 +1,19 @@
+PROMPTS
+PROMPTS
+1
+There are many possible prompts, and everyone will have their own 
+favoured setups.  However, to get you going, here are some examples:
+
+Original normal prompt: [%x exp] <%h/%Hhp %m/%Mm %v/%Vmv>
+Original combat prompt: [%f] <%h/%Hhp %m/%Mm %v/%Vmv>
+Simple prompt: [%hH/%mM/%vV]
+Combat prompt: [%N:%F/%n:%f]
+Stat prompt: [%xX] [+%pHIT/+%PDAM] [%cAC] [%hH/%mM/%vV]
+
+Some interesting class prompts could be
+Fae    : [%x xp] <%h/%Hhp> [%t ft] (M:%k E:%K P:%c W:%C)
+Shadow : [%x xp] <%h/%Hhp> [%t ft] Knife(%k) Blur(%K) Blood(%c) Shadow(%C)
+
+Remember, you can switch between the default prompts and your customised
+prompts with 'prompt on' and 'prompt off'.  Doing this will not destroy 
+your customised prompts.

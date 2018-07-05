@@ -1,0 +1,17 @@
+REBOOT
+REBOOT SHUTDOWN WIZLOCK
+8
+Syntax: reboot
+Syntax: shutdown
+Syntax: wizlock
+
+REBOOT shuts down the server.  When the normal 'startup' script is used
+to control the server, a delay of sixty seconds will ensue (to allow
+old connections to die), followed by a reboot.
+
+SHUTDOWN shuts down the server and prevents the normal 'startup' script
+from restarting it.
+
+WIZLOCK is a toggle command.  When the server is WIZLOCKed, players
+below level 36 may not log in.  Players who lose their links, however,
+may reconnect.

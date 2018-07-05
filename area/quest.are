@@ -1,0 +1,259 @@
+#AREADATA
+Name        Jobo      The QuestMasters~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       6800 6850
+Cvnum       6800
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#6801
+Wilbert~
+Wilbert the Mad~
+Wilbert the Mad is standing here.
+~
+~
+2051 0 0
+2532 0 0 0 0 0
+1 0
+S
+#6802
+Tobias~
+Tobias One-Eye~
+Tobias One-Eye is standing here.
+~
+~
+2051 0 0
+2512 0 0 0 0 0
+1 0
+S
+#6803
+Gantor~
+Gantor the Gentleman~
+Gantor the Gentleman is standing here.
+~
+~
+1 0 0
+2517 0 0 0 0 0
+1 0
+S
+#6804
+Harald~
+Harald Bluebeard~
+Harald Bluebeard is standing here.
+~
+~
+2051 0 0
+2491 0 0 0 0 0
+1 0
+S
+#6805
+Cantor~
+Cantor the Swordsman~
+Cantor the Swordsman is standing here.
+~
+~
+2051 0 0
+2508 0 0 0 0 0
+1 0
+S
+#6810
+memnon avatar~
+the avatar of Memnon~
+The Avatar of Memnon is here.
+~
+~
+32769 2359480 0
+2997 0 0 50 0 0
+1 9
+S
+#0
+
+
+
+#OBJECTS
+#6800
+holy grail~
+#nThe Holy Grail~
+The Holy Grail is standing here.~
+6 0 1
+0 0 0 0
+1 0
+#6801
+golden tiara~
+a golden tiara~
+A golden tiara lies here.~
+6 0 1
+0 0 0 0
+1 0
+#6802
+perfect diamond~
+a perfect diamond~
+A perfect diamond lies here.~
+6 0 1
+0 0 0 0
+1 0
+#6803
+pretty painting~
+a pretty painting~
+A pretty painting hangs here.~
+6 0 1
+0 0 0 0
+1 0
+#6804
+silver trophy~
+a silver trophy~
+A silver trophy stands here.~
+6 0 1
+0 0 0 0
+1 0
+#6805
+diamond bracelet~
+a diamond encrusted bracelet~
+A diamond bracelet lies here.~
+6 0 1
+0 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#6800
+QuestMasters Hall~
+The hall of questmasters is a queer place; decked with paintings of
+ancient heroes. In all directions corridors leads to the various
+questmasters, each promising great rewards for helping them with their
+problems. 
+~
+8196 0
+D0
+~
+~
+0 0 6801
+D1
+~
+~
+0 0 6803
+D2
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6804
+D4
+~
+~
+0 0 7802
+D5
+~
+~
+0 0 6805
+S
+#6801
+Wilbert's petshop~
+This messy old room is Wilbert the Mad's petshop, and parttime
+pest-control. Wilbert has been known to send adventures through sewers,
+tracking down rats and other minor creatures, handing out minor quest
+rewards for a job well done. 
+~
+8192 0
+D2
+~
+~
+0 0 6800
+S
+#6802
+Tobias's Lost and Found~
+This ancient shop is the property of Tobias One-Eye, a wizzended old man,
+that specialises in tracking down lost items for wealthy customers. He has
+been known to hire adventureres for some of his jobs (mostly when the item
+is currently being held by some vile monster). 
+~
+8192 0
+D0
+~
+~
+0 0 6800
+S
+#6803
+Gantor's Jewelry Store~
+Gantor is a gentleman and a wealthy one at that. He owns the most
+succesful store in Calim's Cradle, which specialises in selling rare and
+expensive items to even more wealthy people than himself. It is sometimes
+possible to convince Gantor to give out jobs - hunting down some precious
+item. 
+~
+8192 0
+D3
+~
+~
+0 0 6800
+S
+#6804
+Welcome to Harald's~
+Harald's is a shop for wealthy lords, seeking trophies of wicked beasts.
+Usually Harald is out tracking down dragons and other beastly beasts, but
+today he is at home, waiting for adventureres to find the trophies he needs
+to collect. 
+~
+8192 0
+D1
+~
+~
+0 0 6800
+S
+#6805
+Cantor's Abode~
+This is the home of Cantor the Swordsman, a pirate in his younger days,
+and a sellsword and brigand for the last decade. Now retired as a
+bounty-hunter, giving rewards to players wishing to track down criminals 
+~
+8192 0
+D4
+~
+~
+0 0 6800
+S
+#6810
+The Throne of Power~
+This is the home of the tyrant genie Memnon, rival to the all powerful
+and wise Calim, greatest of all genies. Those who can defeat one of Memnon's
+avatars are considered worthy of a fiefdom within the realm of Calim's
+Cradle. 
+~
+8196 0
+S
+#0
+
+
+
+#SPECIALS
+Q 6801 questspec_rand_mob
+Q 6802 questspec_mob_and_item
+Q 6803 questspec_special_item
+Q 6804 questspec_hard_mob
+Q 6805 questspec_pk
+M 6810 spec_memnon
+D 6810 deathspec_memnon
+S
+
+
+
+#RESETS
+M 0 6801 1 6801
+M 0 6802 1 6802
+M 0 6803 1 6803
+M 0 6804 1 6804
+M 0 6805 1 6805
+S
+
+
+
+#$

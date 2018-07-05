@@ -1,0 +1,19 @@
+REIMBPOINTS
+REIMBPOINTS
+1
+Reimb points can be used for building newbie characters or be exchanged into
+goldcrowns at a 1 to 25 rate (ie. 100 reimb points would give you 2500 gc).
+
+A character can use reimb points to grandmaster spells, weapons stances as
+well as gain extra experience points, gain class powers and buy goldcrowns.
+
+It is only possible to get reimb points by actually getting a reimb from the
+game _or_ getting free reimb points from the reference system.
+
+Simply typing 'reimb' will show you the reimb menu, which contains prices
+as well as a list of stuff you can reimb with this character.
+
+It is possible to gain more reimb points by geting more players to join the
+game. Read the help file on @@REFERENCE@ to see how that works.
+
+Syntax: reimb

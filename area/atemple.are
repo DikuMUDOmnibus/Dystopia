@@ -1,0 +1,886 @@
+#AREADATA
+Name        Archanos  Temple of the Avatar~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       8500 8549
+Cvnum       8500
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#8500
+spectral image~
+spectral image~
+A spectral image is here.
+~
+~
+17 128 100
+412 20 1 0 0 0
+1 0
+S
+#8501
+plant vines~
+plant vines~
+A wild plant is here.
+~
+~
+1 0 0
+407 0 3 93 0 0
+0 0
+S
+#8502
+haunting visage~
+a haunting visage~
+A haunting visage is here.
+~
+~
+1 128 0
+433 25 0 0 0 0
+0 9
+S
+#8503
+high priestess~
+high priestess~
+The high priestess stands here.
+~
+~
+3 384 0
+502 20 0 0 0 0
+2 6
+S
+#8504
+spirit azkhanerash~
+spirit of Azkhanerash~
+The spirit of Azkhanderash is here.
+~
+~
+3 384 1000
+604 0 10 19 0 0
+0 0
+S
+#8505
+electrical force~
+an electrical force~
+An electrical force is here.
+~
+~
+3 0 0
+533 10 6 80 0 0
+0 4
+S
+#8506
+force nature~
+a force of nature~
+A force of nature stands here.
+~
+~
+3 0 0
+544 10 4 105 0 0
+0 7
+S
+#8507
+demon fountain~
+demon of the fountain~
+The demon of the fountain is here.
+~
+~
+3 256 0
+588 0 4 136 0 0
+0 1
+S
+#0
+
+
+
+#OBJECTS
+#8500
+bubbling fountain~
+a bubbling fountain~
+A bubbling fountain is here.~
+21 0 0
+8531 0 0 0
+1 0
+#8501
+sacred altar~
+sacred altar~
+The sacred altar is located here.~
+9 0 0
+0 0 0 0
+1 0
+#8502
+white burning candle~
+a white candle~
+A white candle rests on the floor here.~
+6 0 16385
+0 0 0 0
+1 0
+#8503
+burning candle white~
+a burning candle~
+A burning candle rests on the floor here.~
+6 0 16385
+0 0 0 0
+1 0
+#8504
+skull broken~
+a broken skull~
+A broken skull rests on the floor here.~
+6 0 16385
+0 0 0 0
+1 0
+#8505
+spirit circlet~
+a spirit circlet~
+A spirit circlet is here.~
+7 0 17
+10 0 0 0
+1 0
+A
+13 100
+#8506
+earth hammer~
+an earth hammer~
+A hammer rests on the floor here.~
+5 0 8193
+0 25 30 7
+1 0
+#8507
+electrical whip~
+an electircal whip~
+A whip rests on the floor here.~
+5 0 8193
+0 70 4 4
+1 0
+#8508
+fountain shield~
+a fountain shield~
+A stone shield rests on the floor here.~
+7 2 513
+20 0 0 3
+1 2500
+#8509
+fountain stone~
+fountain stone~
+The fountain stone rests here.~
+10 0 1
+0 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#8500
+#9Outside the Temple of the Avatar#n~
+To the north is the Temple of the Avatar. The temple has long been lost
+in the hands of time. The temple is made from limestone and the temple walls
+extend to the east and west. A forest path leads southeast into the unknown.
+The gates leading into the temple are made from reinforce steel, but appear
+to be unlocked. 
+~
+4 1
+D0
+~
+~
+0 0 8501
+D2
+~
+~
+0 0 8432
+S
+#8501
+#9Outer Courtyard#n~
+This is the outer courtyard of the ancient temple. The temple was built
+long ago and has been ravaged by time. The outer courtyard extends to the
+east and west. To the north is the inner cloister and on the other side of
+the inner cloister is the hallway which leads to the altar. The temple seems
+to be vacant of life. 
+~
+0 1
+D0
+~
+~
+0 0 8517
+D1
+~
+~
+0 0 8502
+D2
+~
+~
+0 0 8500
+D3
+~
+~
+0 0 8516
+S
+#8502
+#9Outer Courtyard#n~
+The outer courtyard extends to the east and the west. The temple seems to
+be empty of all living life. The temple was made long ago by a civilization
+forgotten and now destroyed, although there are numerous relics and ruins
+left from the civilizations of the past. Ergon was once the greatest of
+continents, but after the great war which destroyed most signs of
+civilization on the continent, Ergon was knocked into a dark age. 
+~
+0 1
+D1
+~
+~
+0 0 8503
+D3
+~
+~
+0 0 8501
+S
+#8503
+#9Outer Courtyard#n~
+The courtyard leads north and west from here. The courtyard is covered
+with green vegetation. The plants within the temple are exotic and rare,
+definitely not from this area. The temple, however, seems to be deserted of
+living life, at least, there is no life visible within the temple. From the
+beneches within the inner cloister, it is appearant that once monks use to
+live within the temple. 
+~
+0 1
+D0
+~
+~
+0 0 8504
+D3
+~
+~
+0 0 8502
+S
+#8504
+#9Outer Courtyard#n~
+The temple walls are made from limestone and are covered with the vines
+of various plants which have overtaken the temple. Once, this temple might
+of been filled with beings of flesh and blood, but now the only living
+things here are the plants. Although, an augurer might be able to sense
+other thigns present within the temple. 
+~
+0 1
+D0
+~
+~
+0 0 8505
+D2
+~
+~
+0 0 8503
+S
+#8505
+#9Outer Courtyard#n~
+The courtyard extends to the north and south. The temple seems to be
+desolate and lacking of life. The only thing within the temple walls are the
+ancient plants which grow chaotically in here, with no humans or anything to
+impede their wild growth. The temple walls are made from limestone, which
+was imported from the mountains far to the north. 
+~
+0 1
+D0
+~
+~
+0 0 8506
+D2
+~
+~
+0 0 8504
+S
+#8506
+#9Outer Courtyard#n~
+This temple was built long ago in order of the great avatars which once
+roamed the continent of Arimonde. After the great war, the avatars left the
+realm and took with them for items of great power, citing that the items
+should never again be under the control of the mortals. For centuries,
+scholars have said, that located within the Temple of the Avatar are the
+hidden relics of power. 
+~
+0 1
+D0
+~
+~
+0 0 8507
+D2
+~
+~
+0 0 8505
+S
+#8507
+#9Outer Courtyard#n~
+The courtyard extends to the west and south from here. The walls of the
+temple are made from limestone which sparkles in the sunlight. The Temple of
+the Avatar is an ancient temple built long ago by a civilization long dead.
+The temple has been in the hands of time, where it has been ruined and
+ravaged. 
+~
+0 1
+D2
+~
+~
+0 0 8506
+D3
+~
+~
+0 0 8508
+S
+#8508
+#9Outer Courtyard#n~
+A cool wind comes from the north, where the great mountains are located.
+The temple is hidden within a dense forest of trees. The Temple of the
+Avatar has long been forgotten and few know the location of this ancient
+temple in ruins. The temple is desolate and there is a lack of living life
+here, but the presence of other things can be felt. 
+~
+0 1
+D1
+~
+~
+0 0 8507
+D3
+~
+~
+0 0 8509
+S
+#8509
+#9Outer Courtyard#n~
+To the north, two massive oak doors stand. The oak doors lead to the
+sacred altar. To the south, the inner cloister is located. The outer
+courtyard leads to the east and west from here. The entire temple is
+desolate and empty of life. Vines of archaic and ancient plants grow wildly
+and dominate the temple. 
+~
+0 1
+D0
+~
+~
+0 0 8526
+D1
+~
+~
+0 0 8508
+D2
+~
+~
+0 0 8524
+D3
+~
+~
+0 0 8510
+S
+#8510
+#9Outer Courtyard#n~
+The Temple of the Avatar has been forgotten and lost in time. The temple
+is in ruins and is nothing but a shadow of its former glory and beauty. The
+temple was built long ago in honor of the avatar, Azkhanerash, who took the
+four essence of the elements and hid them in a foreign realm, where the
+hands of mortals can not reach. 
+~
+0 1
+D1
+~
+~
+0 0 8509
+D3
+~
+~
+0 0 8511
+S
+#8511
+#9Outer Courtyard#n~
+The courtyard leads to the south and east from here. The temple walls are
+made from limestone which was brought in from afar. The temple is empty of
+living life, which is odd, since long ago this temple flourished with
+numerous monks. After the great war, the lands of Ergon were never the same
+and most people and civilization died off. 
+~
+0 1
+D1
+~
+~
+0 0 8510
+D2
+~
+~
+0 0 8512
+S
+#8512
+#9Outer Courtyard#n~
+The Temple of the Avatar is a rare find, as it is hidden within a dense
+forest, near the mountains. The mountain peaks, to the north, tower into the
+air and pierce the white clounds above. A cool wind rolls down the gentle
+slopes of the mountain and blow southwards. Plants grow sporadically and
+wildly all over the temple grounds. 
+~
+0 1
+D0
+~
+~
+0 0 8511
+D2
+~
+~
+0 0 8513
+S
+#8513
+#9Outer Courtyard#n~
+Vines cover the limestone walls of the temple. The temple is bleak and
+deserted, except for the plants which grow chaotically all over the temple.
+The courtyard leads north and south. The Temple of the Avatar was once home
+to an ancient cult which followed the avatar Azkhanerash. Legend has it,
+that Azkhanerash hid the four relics of power within his temple, although
+throughout the millennia, the items have never been found. 
+~
+0 1
+D0
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8514
+S
+#8514
+#9Outer Courtyard#n~
+The outer courtyard leads north and south from here. The walls and
+everything here is covered with thing vines of ancient and archaic plants.
+The monks who use to live here imported rare plants from afar, but when the
+temple was deserted the plants were free to grow as they wish The temple has
+been ravaged by the hands of time and now it is slowly decaying till the
+limestone walls crumble. 
+~
+0 1
+D0
+~
+~
+0 0 8513
+D2
+~
+~
+0 0 8515
+S
+#8515
+#9Outer Courtyard#n~
+The courtyard extends to the east and north. This is the southwestern
+corner of the temple. The temple is in ruins as it has been ravaged by the
+hands of time and faith. The temple has long been abandoned by the living
+and now it is dominated by those who walk in the afterlife, perhaps monks
+who have come back from the dead to worship their avatar. 
+~
+0 1
+D0
+~
+~
+0 0 8514
+D1
+~
+~
+0 0 8516
+S
+#8516
+#9Outer Courtyard#n~
+The sky above is always clear and it never rains here. The temple has
+lasted for millennia, although it is slowly decaying and like everything, it
+will eventually crumble. The Temple of the Avatar was built in the days of
+the great war in honor of an ancient avatar who took the four relics of
+power and hid them in four seperate dimensions. Warriors and explorers from
+afar seek entrance into these dark dimensions, but the hidden portals have
+long been lost. 
+~
+0 1
+D1
+~
+~
+0 0 8501
+D3
+~
+~
+0 0 8515
+S
+#8517
+#9Inner Cloister#n~
+The inner cloister expands to the west north and east. To the north,
+there is a small fountain bubbling with water. The inner cloister like the
+temple has been abandoned by living life and now the temple is desolate. To
+the south is the exit to the temple, and straight to the north oak doors
+stand which lead towards the altar. 
+~
+0 1
+D0
+~
+~
+0 0 8521
+D1
+~
+~
+0 0 8518
+D2
+~
+~
+0 0 8501
+D3
+~
+~
+0 0 8519
+S
+#8518
+#9Inner Cloister#n~
+The inner cloister opens up to the north and west from here. The inner
+cloister was once used by the monks to meditate and relax but now the temple
+has been abandoned and destroyed in the hands of time. Numerous adventurers
+seek entrance into the temple, looking for the four jewels of the old world
+which are said to be hidden within the old temple. 
+~
+0 1
+D0
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8517
+S
+#8519
+#9Inner Cloister#n~
+The walls of the temple look white or a light green as they are made from
+limestone which sparkles in the sunlight. The temple is filled with spirits
+of the past, which roam the temple grounds. There are benches in the inner
+cloister where monks once use to sit while they meditated or just to relax.
+The gardens that once grew here now grow sporadically and chaotically. 
+~
+0 1
+D0
+~
+~
+0 0 8522
+D1
+~
+~
+0 0 8517
+S
+#8520
+#9Inner Cloister#n~
+Time has laid seige on the ancient temple. And in the onslaught, the
+Temple of the Avatar slowly decays, now that there are no living beings
+within the temple walls. However, some might be able to sense the presence
+of something powerful within the temple. The temple is hidden within the
+forests south of the great mountains. And in the summer days, when a dense
+fog covers the forest, the temple vanishes from sight. 
+~
+0 1
+D0
+~
+~
+0 0 8523
+D2
+~
+~
+0 0 8518
+D3
+~
+~
+0 0 8521
+S
+#8521
+#9Inner Cloister#n~
+A fountain of water sits in the middle of the area, bubbling with water.
+The inner cloister extends to the north east west and south from here. The
+fountain, although the water still flows, has decayed through the time. The
+monks which once lived here have disappeared and the temple has been ravaged
+by time ever since. A few myths have said that this water is said to possess
+some magical power, but then again, those were myths. 
+~
+0 1
+D0
+~
+~
+0 0 8524
+D1
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8517
+D3
+~
+~
+0 0 8522
+S
+#8522
+#9Inner Cloister#n~
+The walls of the temple are made from limestone which was imported from
+afar. The Temple of the Avatar has long been lost to the mortals, and those
+who find the temple never discover what they seek: the four relics of power.
+Long ago, after the great war, the avatar Azkhanerash took from the realm of
+Arimonde four items of great power and hid the four relics in distant
+dimensions. 
+~
+0 1
+D0
+~
+~
+0 0 8525
+D1
+~
+~
+0 0 8521
+D2
+~
+~
+0 0 8519
+S
+#8523
+#9Inner Cloister#n~
+It is unknown why the monks of the temple abandoned the temple. But the
+avatar in which the temple was built for has long since died. It is said, a
+mystical portal leading to his tomb can be found within the temple. Sages
+speculate that in his tomb, the four relics of power might be located. A
+cool wind comes from the north, where the great mountains loom in the air
+above. 
+~
+0 1
+D2
+~
+~
+0 0 8520
+D3
+~
+~
+0 0 8524
+S
+#8524
+#9Inner Cloister#n~
+The inner cloister opens up to the east west and south. To the south,
+there is a bubbling fountain. The temple has long been deserted by the monks
+who once lived here. The temple now lay in ruins, thousands of years after
+the avatar Azkhanerash died. The plants have taken over the temple and now
+grow chaotically everywhere. Over the millennia, time has allowed the plants
+to grow and the temple to move closer to the bring of disintegration. 
+~
+0 1
+D0
+~
+~
+0 0 8509
+D1
+~
+~
+0 0 8523
+D2
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8525
+S
+#8525
+#9Inner Cloister#n~
+This is the northwestern corner of the inner cloister. The plants, which
+once grew in the gardens of the temple, now cover the walls of the temple
+with their vines and the floor with their roots. The temple has fallen to
+the control of the plants, now that the monks have vanished. The temple is
+barren and bleak. 
+~
+0 1
+D1
+~
+~
+0 0 8524
+D2
+~
+~
+0 0 8522
+S
+#8526
+#9Hallway#n~
+A hallway leads north towards the sacred altar. To the south are the
+large oak doors which lead to the inner cloister and outer couryard of the
+temple. The temple walls are made from limestone and are covered with vines
+from wild and exotic plants, which were transported here long ago by the
+monks who once lived here. Some say that spectral beings still roam the
+temple, then again, that could only be a myth. 
+~
+0 1
+D0
+~
+~
+0 0 8527
+D2
+~
+~
+0 0 8509
+S
+#8527
+#9Hallway#n~
+The hallway leads to the south from here. To the north an oak door stands
+and blocks entry to the sacred altar. To the east and west lie the chambers
+of the high priestess, although now the priestess are dead. The Temple of
+the Avatar was built millennia ago, in honor of the avatar Azkhanerash. The
+Temple of the Avatar has long been abandonned, however, it is said that
+spectral creatures still guard the temple. 
+~
+0 1
+D0
+~
+oak~
+3 0 8528
+D1
+~
+oak~
+3 0 8529
+D2
+~
+~
+0 0 8526
+D3
+~
+oak~
+3 0 8530
+S
+#8528
+#9Sacred Altar#n~
+This is where the massive altar dedicated to Azkhanerash is located.
+Candles lead up towards the altar, and it appears, since the candles are
+still burning, that the candles burn with an eternal flame which can never
+go out. The altar is dedicated to the ancient avatar who took from this
+realm the four relics of power. The located of the four relics were kept
+secret, although some say that through his temple, the portals into the
+other dimensions can be found. However, it is still possible for one to
+worship Azkhanerash here. 
+~
+0 1
+D2
+~
+oak~
+3 0 8527
+S
+#8529
+#9Chamber of the High Priestess#n~
+This is the chamber of the high priestess who once tended to the temple.
+The chamber is now empty and has been empty for millennia, since the monks
+abandoned the temple. In the center of the chamber there is a large oval red
+rug. Also in the chamber is a single white bed, where the priestess would
+sleep. 
+~
+0 1
+D3
+~
+oak~
+3 0 8527
+S
+#8530
+#9Chamber of the High Priestess#n~
+The chamber has a strange and stagnant smell to it, after millennia of
+not being used. The only way out of the chamber is through the oak door to
+the east. The high priestess once slept here long ago, while the temple was
+still in use. The chamber has a single white bed and once held a few ancient
+tomes, although now the tomes have slowly rotted away in the hands of time 
+~
+0 1
+D1
+~
+oak~
+3 0 8527
+S
+#8531
+#9Within the Bubbling Fountain#n~
+The fountain of water seems to distort time. This place is strange and
+there does not appear to be away out of here. It appears that this room or
+area is below or inside the bubbling fountain of water. One is able to sense
+that the water in this fountain is not the ordinary fresh water and perhaps,
+the water has other magical properties. 
+~
+0 1
+D1
+~
+gateway~
+3 0 8532
+D3
+~
+gateway~
+3 0 8533
+D4
+~
+~
+0 0 8521
+S
+#8532
+#gPlane of Earth#n~
+In the background, there are numerous mountains which rise to the clouds.
+Thousands of warriors seek this path, because at the end of the path lies
+the Orb of Sacred Earth. The warmth of the sun can be felt throughout these
+lands, and though the place is gorgeous, thousands die here every year. 
+~
+0 0
+D3
+~
+gateway~
+3 0 8531
+S
+#8533
+#yPlane of Energy#n~
+This is a strange place where warriors come and die by the thousands.
+This is the plane of energy. Brave and noble warriors come here searching
+for the Orb of Defiance, but all they find is their death. Lightning shoots
+across the sky above and below the platform there are thousands of energy
+coil waiting to fry someone. 
+~
+0 0
+D1
+~
+gateway~
+3 0 8531
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 8504 0 8500
+M 0 8502 1 8501
+M 0 8500 1 8503
+M 0 8502 1 8505
+M 0 8500 1 8507
+M 0 8502 1 8509
+M 0 8500 1 8511
+M 0 8502 1 8513
+M 0 8500 1 8515
+M 0 8501 1 8518
+M 0 8501 1 8519
+O 0 8500 0 8521
+M 0 8501 1 8523
+M 0 8501 1 8525
+O 0 8501 0 8528
+M 0 8504 1 8528
+E 0 8505 0 6
+O 0 8503 0 8529
+M 0 8503 1 8529
+O 0 8502 0 8530
+M 0 8503 1 8530
+M 0 8507 1 8531
+E 0 8508 0 11
+G 0 8509 0
+M 0 8506 1 8532
+E 0 8506 0 16
+M 0 8505 1 8533
+E 0 8506 0 16
+S
+
+
+
+#$

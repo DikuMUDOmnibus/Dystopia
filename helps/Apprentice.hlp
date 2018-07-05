@@ -1,0 +1,18 @@
+APPRENTICE
+APPRENTICE ARCHMAGE WARLOCK
+1
+At the world of Calim's Cradle, all warlocks start out as apprentices, and
+will stay as such until they gain mastery. They will then become fully
+fledged warlocks, and have the chance of becoming a true archmage at a later
+time (there can only be 6 archmages at any given time, one for each sphere).
+
+Warlocks has a maximum spelllevel of 220 and archmages a max at 240. The
+apprentices cannot train past 200.
+
+Any warlock in a given sphere who decapitates the archmage of that sphere will
+gain the title of archmage from the previous archmage. This is the only way
+to gain the title of archmage.
+
+Should an archmage leave the game (inactivity, deleted, etc), the MUD will
+automatically pick a new archmage from the first warlock in that sphere to
+log onto the game.

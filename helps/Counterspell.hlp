@@ -1,0 +1,12 @@
+COUNTERSPELL
+COUNTERSPELL SPELL MAGIC
+1
+The counterspell can be used to countering another players spell as it is
+being cast. Since spells takes time to cast, you have a chance of casting
+this spell on another player and thus ending the spell they are trying to
+cast.
+
+It has a low casting time compared to most other spells, so it should be
+possible to pull off a counter or two with some quick responses.
+
+Syntax: cast counterspell [victim]

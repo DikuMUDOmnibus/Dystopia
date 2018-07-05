@@ -1,0 +1,13 @@
+SPELLGUARD
+SPELLGUARD CANTRIP GIANT
+1
+Giant shamans can learn two new blue spells, if they pick the right evolves.
+These two spells are called cantrip and Spellguard.
+
+Spellguard is a protective enchantment, which will block the next offensive
+spell cast against the person protected by the spellguard.
+
+Cantrip is a bag of mixed goodies, creating a random, usually good, affect.
+
+Syntax: cast spellguard [target]
+Syntax: cast cantrip [target]

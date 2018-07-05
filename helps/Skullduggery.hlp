@@ -1,0 +1,15 @@
+SKULLDUGGERY
+SKULLDUGGERY SHADOWLORD
+1
+The skullduggery evolve allows any shadowlord to bypass the steal immunity,
+and also allow the shadowlord to steal items from players or monsters which
+are engaged in combat. This evolve opposes the '@@assassin@' evolve, and
+a shadowlord can only gain one of these two evolves.
+
+The added dexterity needed to steal items unnoticed, allows a shadowthief
+to train his or her base dexterity to 30 instead of the normal 25.
+
+Remember that 'claimed' items can still be called back by the owner, and
+that you can only steal items that are in the inventory of your victim.
+
+Syntax: steal [item] [victim]

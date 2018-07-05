@@ -1,0 +1,14 @@
+MXP
+MXP CONFIGURATION
+1
+The Mud eXtension Protocol is an enhancement to the normally boring text
+MUD's, which allows many improvements like hyperlinks, menus, automapping
+and much more. So far Calim's Cradle is using MXP to allow for easy moving
+between rooms (all exits have been tagged with a hyperlink, allowing you
+to use the mouse to move around). More fancy MXP features will be added
+as we find the time to play with this nice protocol.
+
+MXP is also used in the help file system, crosslinking helpfiles, and
+allowing users to use their mouse to navigate around the helpfiles.
+
+Only MushClient and ZMud currently supports MXP.

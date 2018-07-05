@@ -1,0 +1,27 @@
+AUCTION
+AUCTION EQUIPMENT
+1
+You may use the MUD's auction system to buy or sell rares/sentients. When 
+you put an item up for auction, other players may bid on the item for the 
+next 48 hours, and the highest bidder gets the item (you may set a 
+minimum price for the item). When putting an auction up for sale, the
+seller may set a bidout price (type 'auction sell' for a syntax). This
+bidout price is the maximum price the seller wants for the item, and the
+auction will end the instant anyone reaches this price.
+
+Should an item not be sold, it will be returned to your character, but 
+should it be sold, the gold (-5% which is taken by the auction system) 
+will be placed in your account.
+
+By using the 'auction list' command, a list of items will be displayed. 
+The price will be highlighted in yellow if the auction is active (ie. 
+someone has already bid on the item). If no one has submitted a bid, the 
+price will simply be listed in normal grey/white. It should be noted that
+an auction where you own the item or have the highest current bid will
+be coloured red (ie. you cannot bid on it).
+
+Putting up an item for auction will cost you 5 goldcrowns.
+
+A note is posted to both the seller and the buyer about the transaction.
+
+Syntax: auction [list|id|buy|sell|remove|mybids]

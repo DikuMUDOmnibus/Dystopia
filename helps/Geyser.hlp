@@ -1,0 +1,8 @@
+GEYSER
+GEYSER FAE
+1
+The fae command 'geyser' will summon a healing spring into the very room the fae 
+is standing in. This geyser will spew forth healing waters every few seconds, 
+healing anyone in the room. The geyser will only last a few rounds.
+
+Syntax: geyser

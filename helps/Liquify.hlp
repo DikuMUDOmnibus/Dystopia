@@ -1,0 +1,21 @@
+LIQUIFY
+LIQUIFY WATERFLUX GIANT
+1
+This evolve can be gained by any giant which has first gained the evolve known
+as '@@stream of water@', and it opposes the evolve known as '@@water dome@'. Only
+one of these two evolves can be gained.
+
+This evolve gives the giant access to two new commands, the first is the liquify
+command itself, which can be used to transform any item into a watery substance,
+which can only be handled by giants with this evolve. The affect is temporary
+unless the giant make the spell permanent with a sacrifice of 200 goldcrowns.
+
+A liquified item cannot be affected by negative spells or affects.
+
+The other command that this evolve gives access to, is the waterflux command,
+which can be used to dispel all negative affects on items worn by the giant.
+Also, for 10 seconds after the waterflux command has been used, the giant can
+wear items while the dawnstrength power is active.
+
+Syntax: liquify [item] [permanent]
+Syntax: waterflux

@@ -1,0 +1,9 @@
+AREAAFFECTS
+AREAAFFECTS INFORMATION
+1
+Some powerful spells can affect entire areas. These spells can be seen by 
+using the AREAAFF command, which will list all active spells in the area 
+where you are currently standing. It will show the duration of the spell, 
+as well as the name of the caster.
+
+Syntax: areaaff

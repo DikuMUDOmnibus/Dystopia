@@ -1,0 +1,84 @@
+SEDIT
+SEDIT
+8
+Syntax:
+
+sedit delete         [social]
+sedit new            [social]
+sedit show           [social]
+sedit [string-name]  [social] [string]
+
+SEDIT allows online creation, deletion and editting of socials.
+
+SEDIT DELETE [social] deletes that social. The deletion is irrecoverable,
+save for restoring a backup file, so use this command with great care!
+
+SEDIT NEW [social] creates a new, empty social.
+
+SEDIT SHOW [social] shows all of the strings for that social.
+
+SEDIT [string-name] [social] [string] changes a certain of the 7 strings that
+make up a social. If you leave out the string, no message will be sent to
+the involved characters.
+
+There are 7 strings that make up a social:
+
+cnoarg: Sent to character when no argument typed. E.g. X types HUG and sees:
+
+Hug whom?
+
+onoarg: Sent to others in the room when no argument is given. In the case of
+HUG, it is an empty string, so that nothing is shown if a player types HUG
+by itself.
+
+cfound: Sent to the character if a target is found. E.g. X types HUG Y:
+
+You hug Y.
+
+vfound: Sent to the victim. E.g. X types HUG Y, and Y sees:
+
+X hugs you.
+
+ofound: Sent to others in room, if target is found. E.g. X types HUG Y.
+Everyoune but X and Y see:
+
+X hugs Y.
+
+cself: Sent to the character if she uses the social on herself. E.g. X types
+HUG X :
+
+You hug yourself.
+
+oself: Sent to others in room when a player uses a social on herself:
+
+X hugs herself in a vain attempt to get friendship.
+
+To get the player names and sexes correct, you need to use those macros:
+
+$n - name of player
+$e - he, she or it, depending on sex of player
+$m - him, her or it, depending on sex of player
+$s - his, her or its, depending on sex of player.
+
+For the victim, just use the uppercase version. E.g. $N is the name of the
+victim, $E is he, she or it depending on victim's sex etc.
+
+So, to make a new social called 'epoke' which would poke eyes out, you would
+do the following:
+
+SEDIT NEW epoke
+SEDIT cnoarg epoke Poke whose eyes out? (message sent to player)
+SEDIT cfound epoke You poke $N's eyes out!
+SEDIT vfound epoke $n pokes your eyes out! Ouch..
+SEDIT ofound epoke $n pokes $N's eyes out!
+SEDIT cself  epoke Being bored, you poke your own eyes out.
+SEDIT oself  epoke $n pokes $s eyes out!
+
+To get more examples, type SEDIT SHOW [social-name] to see one of the
+existing socials.
+
+The socials are stored in a file called socials.txt. Manual editting of
+that file is not advised. A frequent back-up is recommended. The social
+file is updated by the server as soon as anything changes.
+
+Online social editting - (c) 1996,97 Erwin S. Andreasen [erwin@andreasen.org]

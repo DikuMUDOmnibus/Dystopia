@@ -1,0 +1,12 @@
+WARDING
+WARDING GLYPHS' FAE
+1
+Any faerie with this ability can create warding glyphs, and enscribe these
+powerful wardings on the floor. When stepped on, these wards will flare
+and hurt anyone in the room. The magic of the wards will fade over time,
+and the older a glyph is, the less damage it will deal.
+
+The evolve that allows faerie to use this power is based on the '@@arcane@'
+evolve and opposes the '@@chameleon skin@' evolve.
+
+Syntax: warding

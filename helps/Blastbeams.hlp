@@ -1,0 +1,19 @@
+BLASTBEAMS
+BLASTBEAMS FAE
+1
+The Fae have a special command called blastbeams, which transforms their
+hands into blasting weapons. These weapons will act just as normal weapons
+and will allow the fae to parry, and increase their skill at using blast
+weapons, just as if the Fae was using an ordinary weapons. These 
+blastbeams deals damage comparable to average 500 weapons.
+
+Any fae that has gained the '@@spirit combat@' evolve can gain an evolve
+which will boost the effect of the blastbeams. This evolve opposes the
+evolve called '@@haunting spirits@', and only one of these two evolves
+can be gained.
+
+An unevolved blastbeam deals an average of 50 points of damage by level of
+arcane that the fae has archived, and an evolved blastbeam will deal an
+average damage of 1000 points, no matter what the level of arcane is.
+
+Syntax: blastbeams

@@ -1,0 +1,13 @@
+PRISMATIC VIPERS
+'PRISMATIC VIPERS' PVIPERS WARLOCK
+1
+The prismatic vipers is an invocation spell used by Warlocks to slowly 
+drain away the resistance of their opponents. The spell will summons five 
+vipers, of the colours red, green, blue, purple and yellow. The strength 
+of these vipers depends on the Warlocks spelllevel in these colours.
+
+Each viper has a 40% chance of a succesful attack, and will keep striking 
+until it fails an attack. Each colour of viper has it's own special 
+attack, ranging from simple increased damage to mana draining properties.
+
+Syntax: pvipers [target]

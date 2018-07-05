@@ -1,0 +1,8 @@
+TIMEWARP
+TIMEWARP FAE
+1
+Timewarp creates a rift in time, forcing the target player to repeat his
+or her last entered comand. This power is used by Faes with a level 6 or
+higher arcane rating.
+
+syntax: timewarp [player]

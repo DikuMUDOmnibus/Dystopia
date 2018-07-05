@@ -1,0 +1,16 @@
+ARTIFACTS
+ARTIFACTS EQUIPMENT
+1
+Among the most powerful of items are the artifacts of Calim's Cradle. These
+items are sentient objects which intelligence has grown beyond that of
+normal @@sentient@ items.
+
+These artifacts are capable of picking their own owner (or declining an
+owner if that is it's choice), and are known to leave it's owner if it's
+not being used actively.
+
+It is possible to list all online artifacts by using the 'artifact' command,
+and it is also possible to list ALL active artifacts by adding the argument
+'all' the the artifact command.
+
+Syntax: artifacts [all]

@@ -1,0 +1,8 @@
+DEATH SPELL
+'DEATH SPELL' DEATHSPELL WARLOCK
+1
+The deathspell is a powerful room attack that will not hurt other players.
+It's damage is better than flamberge, and may even hurl some of the monsters
+to the ground, stunned.
+
+syntax: deathspell

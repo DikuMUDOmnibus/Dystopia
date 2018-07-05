@@ -1,0 +1,9 @@
+MASTERY-GIANT
+MASTERY-GIANT
+1
+The giant mastery item is a pendant, which allows the giant to use a new
+midround attack called crush. This means that the giant now have one more
+attack type to keep track of (for the special combo attack), but it also
+means that a successful combo attack will cause one additional attack.
+
+Syntax: mastery

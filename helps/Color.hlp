@@ -1,0 +1,19 @@
+COLOR
+COLOR COLOUR ANSI
+-1
+it is possible to turn colors on/off with the 'ansi' command.
+
+Ansi Colors (some may look the same on your client)
+#9Grey           #0##0 #8##8#n
+#9Red            #R##R #r##r#n
+#9Green          #G##G #g##g#n
+#9Cyan           #C##C #c##c#n
+#9Blue           #L##L #l##l#n
+#9Purple         #P##P #p##p#n
+#9White          #7##7 #9##9#n
+#9Yellow         #y##y #o##o#n
+
+Specials
+#9Underline      #u##u#n  (use this to toggle underlining on/off)
+
+To stop a color from bleeding into the next line stop it with ##n

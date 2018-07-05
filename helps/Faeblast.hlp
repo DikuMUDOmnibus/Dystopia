@@ -1,0 +1,9 @@
+FAEBLAST
+FAEBLAST
+1
+The Fae have access to a special weapon modification called faeblasting, 
+which enables certain energies inside a weapon, and at the same time makes 
+that weapon unusable by anyone but faes. By faeblasting a blast weapon, 
+that weapon will have it's damroll and hitroll modifiers doubled.
+
+Syntax: faeblast [weapon]

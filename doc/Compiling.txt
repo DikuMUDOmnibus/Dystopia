@@ -1,0 +1,30 @@
+Notes on compiling the codebase
+===============================
+
+The codebase was compiled and tested using GCC 3.3.6.
+The Makefile included in this distribution was use for
+compiling under Slackware Linux 10.2, and should work
+for any recent linux distribution with GCC 3 or higher.
+
+The codebase has also been tested to compile cleanly
+using GCC versions 3.3.2 and 4.0.2, though very little
+testing of the running MUD has been done using this version.
+
+Another developer under the name Mister also took the
+time to help with some Makefile enhancements, and some
+suggestions for making the codebase compile under Cygwin.
+I cannot help with any Cygwin problems, but at least we
+have one user who could compile the codebase with Cygwin :)
+
+To compile the MUD, simply type 'make'. The 'make clean'
+command can be used to cleanup - it removes all object
+files.
+
+Beta only notice:
+=================
+If you get any compile errors during the beta period,
+please e-mail them to jobo@daimi.au.dk, along with
+the output from
+
+$ gcc --version
+$ uname -a

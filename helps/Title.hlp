@@ -1,0 +1,9 @@
+TITLE
+TITLE
+1
+Syntax: title [string]
+
+Sets your title to a given string.
+
+The game supplies a title when your character is created.  You can use 
+TITLE to set your title to something else.

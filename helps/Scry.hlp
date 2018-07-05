@@ -1,0 +1,9 @@
+SCRY
+SCRY
+1
+The power scry can be used by some classes to view other places from afar. 
+If the target is not hidden by magical means (class shielding powers for 
+instance), the user of the scry command will look directly into the room 
+where the target is standing.
+
+Syntax: scry [target]

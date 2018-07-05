@@ -1,0 +1,51 @@
+There is a new group/team experience system, which is more fair, and
+solved some problems in the old system. Back in the old days, players
+where able to boost their own characters, or characters belonging to
+friends, by giving them a super experience ride, in areas where that
+new character wouldn't normally be able to exp.
+
+Also, why shouldn't the large player that does most of the work get
+the most experience for the kill ?
+
+The following example shows how a team of 4 players gets rewarded for
+killing a large monster. The powerlevel refered to in the example,
+is the same powerlevel which is used to calculate the pk-range of
+players, and many other things.
+
+The following party teams up and kills the King of Atlantis, earning
+the team a whopping 1.423.423 experience base to divide between them.
+
+Group      Powerlevel   %PL/Group  %XP/Kill   Mods        Team-Exp / Alone-Exp
+===============================================================================
+Player A :   1980        (54%)      ( 81%)     85%       2.132.999 / 2.633.332
+Player B :    722        (19%)      ( 28%)     50%         597.837 / 2.135.134
+Player C :    892        (24%)      ( 36%)     45%         743.026 / 2.063.963
+Player D :    150        ( 4%)      (  6%)    100%         170.081 / 2.846.846
+===============================================================================
+Total        3644        (97%)      (151%)               3.643.943
+
+So, due to teaming up, and various experience bonusses, the team earned
+much more experience (total between them), than any one of them could
+have earned by killing the mob by themself. Most likely, the newbie and
+the two medium players wouldn't have been able to take out the king alone,
+and Player A didn't loose all that much experience by teaming up with
+his friends.
+
+The formula goes something like this.
+
+1) Each player calculates his or her powerlevel, and get's a bite of
+   the exp-cake corresponding to that number compared to the groups
+   total powerlevel. So big players in a group would get more exp than
+   the small players (only fair).
+
+2) We don't want the experience to be divided equally, but rather give
+   a small bonus for teaming up. Thus we add another half of exp to the
+   experience gained. So a player that would normally gain 24% of the
+   total kill, would instead gain 36% (24 + 24/2). This way, a team
+   would end up earning more than the 100% of the total kill, but some
+   of the experience is supposed to come from teamwork (if you need
+   an excuse for giving out exp).
+
+3) The players own modifiers are added later, when the experience is
+   gained by the player. The other teammembers shouldn't be rewarded
+   because one of the players had some special bonus.

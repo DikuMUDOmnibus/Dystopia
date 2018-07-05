@@ -1,0 +1,8 @@
+KTELEPORT
+KTELEPORT KINGDOM
+1
+A kingdom can purchase teleport platforms, which are used by touching
+the platform. Everyone near the teleport platform will then be randomly
+teleported out of the kingdom halls.
+
+Syntax: touch platform

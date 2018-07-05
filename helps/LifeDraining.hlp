@@ -1,0 +1,9 @@
+LIFE DRAINING
+'LIFE DRAINING' LIFEDRAIN WARLOCK
+1
+The lifedrain power is used by Warlocks to steal lifeforce (hitpoints) 
+from other players or mobiles and use this lifeforce to restore spend 
+mana. The lifedrain command will only work on players or mobiles that are 
+practicly unhurt.
+
+Syntax: lifedrain [target]

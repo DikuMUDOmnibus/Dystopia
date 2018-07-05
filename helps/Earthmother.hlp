@@ -1,0 +1,12 @@
+EARTHMOTHER
+EARTHMOTHER PLAGUE WARLOCK
+1
+The warlocks have the ability to lay two kinds of enchantments that affects
+players ability to regenerate. The Earthmother enchantment will increase
+the regeneration speed by 50% by all players in that area, as long as they
+do not have a fighttimer. The Plague enchantment will prevent any normal
+regeneration by all players with a fighttimer in that area.
+
+Both enchantments require an upkeep by the caster, and should the caster
+be unable to supply this upkeep (in mana), or quit the game, the enchantment
+will fade away.

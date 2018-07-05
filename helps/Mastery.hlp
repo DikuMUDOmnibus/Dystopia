@@ -1,0 +1,15 @@
+MASTERY
+MASTERY INFORMATION
+1
+When you have grandmasterd all your stances, spells and weapons, you
+can use the mastery command to gain a mastery item, which is a piece of
+classeq that's better than your normal equipment. Mastery does not
+require that you have more than 200 in weapons/skills if that is possible.
+Getting 200 is enough.
+
+If you want to know more about your own class's mastery item, read the
+help file on that specific mastery item. HELP MASTERY-WARLOCK will show
+the warlock mastery information, I'm sure you can figure out what help
+file to read for your class.
+
+syntax : mastery

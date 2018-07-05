@@ -1,0 +1,13 @@
+WHIRLWIND
+WHIRLWIND GIANT
+1
+This evolve allows a giant to conjure forth a whirlwind, which will attack
+the player or monster of the giants choice. The whirlwind will drain hitpoints,
+move and mana from the victim at random while the spell lasts or until the
+victim of the whirlwind leaves it (the whirlwind cannot leave the room from
+where it was conjured).
+
+This evolve requires the '@@gust of wind@' evolve, and opposes the evolve known
+as '@@windwalk@', and only one of these evolves can be gained.
+
+Syntax: whirlwind [victim]

@@ -1,0 +1,15 @@
+NECROMANCY
+NECROMANCY WARLOCK SPHERES
+1
+.
+level 1:   @@Corpse Draining@   (gather energies from corpses)
+level 2:   @@Life Draining@     (drain opponents hitpoints for mana)
+level 3:   @@Eye of Taruk@      (steal the sight of your opponent)
+level 4:   @@Chill Bolt@        (stun/damage opponent)
+level 5:   @@Death Spell@       (stun/damage all mobiles)
+Level 6:   @@Simulacrum@        (create a simulacrum)
+level 6:   @@Phylactory@        (switch places with your simulacrum)
+
+Please notice that level 6 powers can only be gained by warlocks which have
+mastered this sphere (ie. picked this sphere when they got their mastery
+item). A warlock can only master one sphere.

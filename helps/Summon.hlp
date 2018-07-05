@@ -1,0 +1,7 @@
+SUMMON
+SUMMON SPELL MAGIC
+0
+Syntax: cast summon [character]
+
+This spell summons a character from anywhere else in your zone into your room.
+Characters who are fighting may not be summoned.

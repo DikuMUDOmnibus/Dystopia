@@ -1,0 +1,7 @@
+EDGE
+EDGE PLAYERKILLING
+1
+The edge is an experience modifier given to the last player that has killed
+another player in a PK situation. Only one player can have the edge, and should
+the player with the edge quit the game noone will gain this bonus until the
+next playerkill is made.

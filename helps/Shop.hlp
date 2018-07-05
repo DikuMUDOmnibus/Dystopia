@@ -1,0 +1,23 @@
+SHOP
+SHOP BUY
+1
+Inside the city of Ri'on Dashor, it is possible to find several shops, selling
+everything from weapons to spells and enchantments. Some shops can even be
+found outside the citygates, in the wilderness.
+
+When you are in the same room as a shopkeeper, you can use the commands
+'list' and 'buy', which enables you to see what the shopkeeper sells,
+and buy these items/spells/services from him.
+
+Some shopkeepers allows you to identify items before buying them, you can
+do this with the list command. Just type list [item] and it will show what
+such an item _could_ look like - not all items are 100% the same, so just
+because the item you listed in the shop had a certain statistic, doesn't
+mean that the item you buy will have it (though it's highly likely).
+
+The following citizens of Ri'on Dashor is known to have open shops.
+
+  engraver, weaponsmith, armourer and enchanter.
+
+Everything in Calim's Cradle costs goldcrowns, which can be gained by
+completing quests (read HELP @@QUEST@).

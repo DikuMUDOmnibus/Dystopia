@@ -1,0 +1,16 @@
+HUNTING STARS
+'HUNTING STARS' HSTARS WARLOCK
+1
+Any warlock that has gained the '@@homing device@' evolve can also gain this
+evolve, which allows the warlock to summon and hold 5 magical spheres known
+as hunting stars. These magical spheres has a minor upkeep in mana to keep
+active, but will automatically hunt down any monster or player that tries
+to flee from the warlock. These spheres will detonate on impact, and cause
+medium damage.
+
+This evolve opposes the '@@backlash@' evolve, and only one of these two
+evolves can be gained.
+
+The same command that summons the stars can be used to get rid of them.
+
+Syntax: hstars

@@ -1,0 +1,18 @@
+EARTH FLUX
+'EARTH FLUX' EARTHFLUX GIANT
+1
+This evolve can be gained by any giant which has first gained the '@@mudform@'
+evolve, and it opposes the evolve known as '@@sinkhole@'. Only one of these two
+evolves can be gained.
+
+The earthflux power will transform the giant into a fierce earth elemental,
+allowing the giant to rewear equipment even with dawnstrength enabled, as well
+as deal one additional free attack each combat round.
+
+The stress of the transformation takes a small toll in the players hitpoints,
+which will slowly be drained while this transformation is active.
+
+The same command which is used to enable the transformation is also used to
+reverse the transformation.
+
+Syntax: earthflux

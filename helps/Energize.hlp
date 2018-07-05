@@ -1,0 +1,8 @@
+ENERGIZE
+ENERGIZE FAETOKEN
+1
+This command can be used by faes to enhance their statistics (ie. str, dex,
+con, wis and int). It requires the use of a faetoken, which can be found
+on monsters (pops in the same way as rares).
+
+Syntax: energize [token]

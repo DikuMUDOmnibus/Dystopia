@@ -1,0 +1,16 @@
+DENY
+DENY DISCONNECT FREEZE PUNISHMENT
+7
+Syntax: deny       [character]
+Syntax: disconnect [character]
+Syntax: freeze     [character]
+
+DENY denies access to a particular player and throws them out of the game.
+DENY is permanent (persists across reboots) and is not undoable from within the
+game.  Only someone with access to the player files directory may repeal a
+DENY by editing the appropriate player file.
+
+DISCONNECT [character] immediately disconnects that character.
+
+FREEZE [character] is a toggle which prevents a character from issuing any
+commands at all.

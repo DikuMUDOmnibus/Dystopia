@@ -1,0 +1,419 @@
+#AREADATA
+Name        Jobo      The Harpy's Nest~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       8101 8120
+Cvnum       8101
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#8101
+harpy queen~
+The harpy queen~
+The harpy queen is proudly standing here.
+~
+~
+3 128 0
+250 0 0 0 0 0
+2 10
+S
+#8102
+harpy hag~
+a harpy hag~
+A harpy hag stands here.
+~
+~
+3 0 0
+163 0 0 0 0 0
+2 10
+S
+#8103
+harpy bitch~
+a harpy bitch~
+A harpy bitch is sitting here.
+~
+~
+3 0 0
+141 0 0 0 0 0
+2 5
+S
+#8104
+harpy young~
+a young harpy~
+A young harpy is sitting here.
+~
+~
+3 0 0
+113 0 0 0 0 0
+2 5
+S
+#0
+
+
+
+#OBJECTS
+#8101
+claw harpy~
+the claw of the harpy queen~
+A wicked looking claw lies on the floor.~
+5 0 8193
+34 8 20 10
+1 0
+#8102
+harpy egg~
+a harpy egg~
+A harpy egg lies here~
+14 0 1
+2 0 0 1
+1 0
+#8103
+eggshell harpy~
+an eggshell~
+An eggshell from a broken harpy egg lies here.~
+7 0 513
+10 0 0 0
+1 0
+A
+12 -50
+A
+18 3
+A
+19 3
+#0
+
+
+
+#ROOMDATA
+#8101
+The Harpy Queens Nest~
+~
+0 5
+D5
+~
+~
+0 0 8102
+S
+#8102
+a trail along the aerie~
+~
+0 5
+D0
+~
+~
+0 0 8103
+D4
+~
+~
+0 0 8101
+S
+#8103
+a trail along the aerie~
+~
+0 5
+D2
+~
+~
+0 0 8102
+D3
+~
+~
+0 0 8104
+S
+#8104
+a trail along the aerie~
+~
+0 5
+D1
+~
+~
+0 0 8103
+D2
+~
+~
+0 0 8105
+S
+#8105
+walking along the mountain~
+~
+0 5
+D0
+~
+~
+0 0 8104
+D2
+~
+~
+0 0 8106
+S
+#8106
+at the cliffside~
+~
+0 5
+D0
+~
+~
+0 0 8105
+D1
+~
+~
+0 0 8107
+S
+#8107
+walking along the mountain~
+~
+0 5
+D1
+~
+~
+0 0 8108
+D3
+~
+~
+0 0 8106
+S
+#8108
+walking along the mountain~
+~
+0 5
+D0
+~
+~
+0 0 8109
+D3
+~
+~
+0 0 8107
+S
+#8109
+at the cliffside~
+~
+0 5
+D0
+~
+~
+0 0 8110
+D2
+~
+~
+0 0 8108
+S
+#8110
+at the cliffside~
+~
+0 5
+D2
+~
+~
+0 0 8109
+D5
+~
+~
+0 0 8111
+S
+#8111
+a trail along the aerie~
+~
+0 5
+D2
+~
+~
+0 0 8112
+D4
+~
+~
+0 0 8110
+S
+#8112
+a trail along the aerie~
+~
+0 5
+D0
+~
+~
+0 0 8111
+D3
+~
+~
+0 0 8113
+S
+#8113
+walking along the mountain~
+~
+0 5
+D1
+~
+~
+0 0 8112
+D3
+~
+~
+0 0 8114
+S
+#8114
+walking along the mountain~
+~
+0 5
+D0
+~
+~
+0 0 8115
+D1
+~
+~
+0 0 8113
+S
+#8115
+at the cliffside~
+~
+0 5
+D1
+~
+~
+0 0 8116
+D2
+~
+~
+0 0 8114
+S
+#8116
+at the cliffside~
+~
+0 5
+D3
+~
+~
+0 0 8115
+D5
+~
+~
+0 0 8117
+S
+#8117
+walking along the mountain~
+~
+0 4
+D0
+~
+~
+0 0 8119
+D4
+~
+~
+0 0 8116
+S
+#8118
+walking along the mountain~
+~
+0 4
+D0
+~
+~
+0 0 8120
+D2
+~
+~
+0 0 8119
+S
+#8119
+a trail along the aerie~
+~
+0 4
+D0
+~
+~
+0 0 8118
+D2
+~
+~
+0 0 8117
+S
+#8120
+walking along the mountain~
+~
+0 4
+D2
+~
+~
+0 0 8118
+D5
+~
+~
+0 0 8630
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 8101 1 8101
+G 0 8101 0
+M 0 8104 1 8101
+M 0 8104 1 8101
+M 0 8104 1 8101
+M 0 8104 1 8101
+M 0 8104 1 8101
+M 0 8104 1 8101
+O 0 8102 0 8101
+O 0 8102 0 8101
+M 0 8102 1 8102
+M 0 8102 1 8102
+M 0 8103 1 8102
+M 0 8103 1 8102
+M 0 8102 1 8103
+M 0 8102 1 8103
+M 0 8103 1 8104
+M 0 8103 1 8104
+M 0 8103 1 8104
+M 0 8103 1 8104
+M 0 8102 1 8105
+M 0 8103 1 8105
+M 0 8103 1 8105
+M 0 8102 1 8105
+M 0 8102 1 8105
+M 0 8103 1 8107
+M 0 8103 1 8107
+M 0 8103 1 8107
+M 0 8103 1 8107
+M 0 8102 1 8108
+M 0 8103 1 8108
+M 0 8103 1 8108
+M 0 8102 1 8108
+M 0 8102 1 8108
+M 0 8102 1 8110
+M 0 8102 1 8110
+M 0 8103 1 8112
+M 0 8103 1 8112
+M 0 8103 1 8112
+M 0 8103 1 8112
+M 0 8102 1 8113
+M 0 8103 1 8113
+M 0 8103 1 8113
+M 0 8103 1 8115
+M 0 8103 1 8115
+M 0 8103 1 8115
+M 0 8103 1 8115
+M 0 8102 1 8116
+M 0 8103 1 8116
+M 0 8103 1 8116
+M 0 8102 1 8116
+M 0 8102 1 8116
+M 0 8103 1 8118
+M 0 8103 1 8118
+M 0 8103 1 8118
+M 0 8103 1 8118
+M 0 8102 1 8120
+M 0 8102 1 8120
+S
+
+
+
+#$

@@ -1,0 +1,12 @@
+SCRYING SPHERE
+'SCRYING SPHERE' WARSCRY WARLOCK
+1
+The scrying sphere can be created by a warlock that has gained at least
+three levels in the divination sphere of magic. It will create a scrying
+device, which can be used to spy on players and mobiles.
+
+This sphere can also be used together with the '@@eyespy@' power, which
+allows the warlock to send his or her familiar through the spying device.
+
+Syntax: warscry [victim]
+Syntax: look in sphere

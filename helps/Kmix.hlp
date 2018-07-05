@@ -1,0 +1,30 @@
+KMIX
+KMIX CAULDRON KINGDOM
+1
+A kingdom can buy a black cauldron, which can be used to mix rares and sentient
+items into (sometimes) better rares and sentient pieces. The command kmix must
+be used in the room where the kingdoms cauldron is standing.
+
+When 5 rares/sentients have been placed in the cauldron, there is a chance that
+a new rare or sentient is generated, this chance will increase as more rares
+are placed in the cauldron. It usually takes from 5 to 7 items to generate a
+new one.
+
+You may mix rares and sentients as you please, the result will not depend on
+what types you are putting in the cauldron, only the value of the items (use
+the identify spell to see this value).
+
+The result of the kmix will usually have a value ranging from -5% to +20% of
+the average mixed items. Though 10% of the time, the kmix will go wild, and
+the resulting item may have a value of -25% to +40%, allowing for either a very
+poor item or a very good item to be popped.
+
+Any rare from value 25 and up can be mixed. Any item stronger than value 135
+will be counted as a value 135 item - the cauldron is unable to deal with
+so strong magical radiation, and some energies will be lost when mixing so
+powerful items.
+
+It is possible to check the contents of the cauldron, as well as flush the
+contents, thus starting over. When flusing, all items in the cauldron is lost.
+
+Syntax: kmix [item|check|flush]

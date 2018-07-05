@@ -1,0 +1,11 @@
+RARELIST
+RARELIST EQUIPMENT
+1
+The command RARELIST can be used to list all the rares in either your
+inventory or inside a container. It will list the value of the item
+next to it, allowing you to easy see what an item is worth.
+
+If you use the command without any arguments, it will show the items
+in your inventory (it will only show @@rare@ and @@sentient@ items).
+
+Syntax: rarelist [container]

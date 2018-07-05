@@ -1,0 +1,33 @@
+SETLOGIN
+SETLOGIN SETLOGOUT SETAVATAR SETTIE SETDECAP
+1
+With these commands you can set the message other players gets when you enter
+or leave the game, as well as train avatar. Each time you set this message,
+you must pay 10 goldcrowns. There is a rank restriction on each of these
+commands, for instance you must be private rank to use settie. The commands
+will tell you what rank you need if you don't have it.
+
+There are certain rules that must be followed, they are rather simple though,
+so you shouldn't have any trouble following them.
+
+* No profanities in the message.
+* No referring to any of the immortals or other players besides the
+  possible victim.
+
+I'll remove your ability to change your messages if you abuse this in any way.
+
+The syntax is easy, heres a few examples :
+
+setlogin $n draws his scimitars and prepares for battle as he enters Dystopia.
+settie $n grins in triumph as $e ties up $N.
+
+The following variables can be used:
+
+  $n  This is your name.
+  $N  This is the name of the possible victim.
+  $e  Results in he/she depending on your sex.
+  $E  Results in he/she depending on the victims sex.
+  $m  Results in him/her depending on your sex.
+  $M  Results in him/her depending on the victims sex.
+  $s  Results in his/her depending on your sex.
+  $S  Results in his/her depending on the victims sex.

@@ -1,0 +1,18 @@
+GLIMMER CHAIN
+'GLIMMER CHAIN' WGLIMMER WARLOCK
+1
+Any warlock that has gain the '@@path of space@' evolve can gain this
+evolve, which allows a warlock to enhance a player with a series of
+spell affects.
+
+This evolve opposes the '@@plague chain@' evolve, and a warlock can
+only gain one of these two evolves.
+
+To use this spell in a chain, the warlock must set the type of the
+spell to 'glimmer' using the 'wtype' command, and then set the list
+of affects using the 'wglimmer' command. If 'wglimmer' is typed
+without any additional arguments, a list of valid affects will be
+displayed.
+
+Syntax: wtype glimmer
+Syntax: wglimmer [list of affects]

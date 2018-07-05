@@ -1,0 +1,19 @@
+PLANEGRAB
+PLANEGRAB SHADOWLORD
+1
+The planegrab evolve can only be gained by shadowlords who has already gained
+the '@@shadowplane@' evolve. This evolve opposes the '@@planeshred@' evolve, and
+it's not possible to gain both of these evolves.
+
+This power allows a shadowlord to force other mobiles and playes into the plane
+of shadows. It is required that the shadowlord is inside the plane of shadows to
+use the power.
+
+Anyone caught in the plane of shadows, will find their mana resources being
+slowly drained (unless they are fighting, in which case the mana resources
+will not be drained).
+
+To leave the plane of shadows (if grabbed into it), the player or mobile must
+be sleeping, in which case they will fade back into the real world.
+
+Syntax: planegrab [vicitm]

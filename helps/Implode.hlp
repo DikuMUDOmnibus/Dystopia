@@ -1,0 +1,10 @@
+IMPLODE
+IMPLODE WARLOCK
+1
+The implode spell is cast by warlocks that have mastered the invocation sphere.
+It allows the warlock to infuse an object with magical energies, effectivly
+overloading it's physical balance, causing it to explode. A warlock should
+dispose of the imploded object after enchanting it, since it will damage anyone
+in the same room as the object.
+
+Syntax: implode [object]

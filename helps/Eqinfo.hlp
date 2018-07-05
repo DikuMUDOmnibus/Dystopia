@@ -1,0 +1,22 @@
+EQINFO
+EQINFO EQUIPMENT
+1
+Finding decent equipment is part of the game, and though you can both find
+and buy some decent starting equipment, the most sought after equipment in
+the game is randomly generated and called @@RARE@ or @@SENTIENT@. Here follows
+a list of equipment types most common to the game.
+
+[ ] Newbie equipment (+4/+4 mods, found at the newbie portal)
+[ ] Low-level rare items (from 4-10 in mods, found on lowlevel monsters)
+[ ] Shop equipment (variable mods, can be bought for gold in shops)
+[ ] Rare items (from +8 and up, found on average sized monsters and up)
+[ ] Sentient items (from +10 and up, found on high level monsters)
+
+Rare and sentient items are randomly generated when you kill a monster,
+and the strength of the items depends on the strength of the monster
+that you killed. The items have a better chance of being good if you
+kill high level monsters - nothing is certain though. Sentient items
+are usually better than rares of the same type (a sentient item gets
+an extra 25% on top of the mods that a rare item of that type gives).
+
+Read HELP RARE for more details on rare and sentient equipment.

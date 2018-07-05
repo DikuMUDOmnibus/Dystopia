@@ -1,0 +1,11 @@
+STEAL
+STEAL
+1
+Syntax: STEAL coins [character]
+Syntax: STEAL [object] [character]
+
+STEAL attempts to steal coins, or an object, from a character.
+
+There are *NO* penalties for using STEAL on other players.
+
+In order to STEAL successfully, you must practice the appropriate skill.

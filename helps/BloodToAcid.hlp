@@ -1,0 +1,17 @@
+BLOOD TO ACID
+'BLOOD TO ACID' BLOODACID FAE
+1
+This evolve allows a fae to transform the blood inside a player or monster into
+a strong and dangerous acid, which will burn the victim from the inside, causing
+great harm to him or her, as well as make it impossible for the victim to focus
+his or her thoughts on normal spellcasting.
+
+The acid can be dispelled either by a dispel magic spell, clearing at the temple
+altar or getting ones hitpoints down to awful health. Monsters have their own
+ways of getting rid of the acid affect.
+
+This evolve requires the '@@blood sacrifice@' evolve, and opposes the evolve
+known as '@@blood immunity@', and only only one of these two evolves can be
+gained by a fae.
+
+Syntax: bloodacid [victim]

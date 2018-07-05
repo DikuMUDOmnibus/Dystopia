@@ -1,0 +1,23 @@
+HOMING DEVICE
+'HOMING DEVICE' HOMINGDEVICE WARLOCK
+1
+Any warlock that has gained the homing device evolve can create temporary
+focus points, allowing them to cast local chain spells that targets players
+or mobiles near those focus points even though the warlock is not there.
+
+In practice this means that the warlock can create a focus point, or homing
+device as it is called, place it somewhere and then at any time cast local
+chain spells that can target anyone in the same room as these devices.
+
+A device will crumble to dust after 5 minutes, and it is only effective if
+it lies on the ground - any homing device carried by a character becomes
+inactive. Due to the unstable state of the focus points, the homing devices
+can only be picked up by warlocks, but any warlock can pick any homing
+device up from the ground. A warlock can stabilize a homing device, and will
+do so before giving it to another player - this is the only way a non-warlock
+can carry a homing device.
+
+This evolve opposes the 'contingency chain' evolve, and you can only gain
+one of these two evolves.
+
+Syntax: homingdevice

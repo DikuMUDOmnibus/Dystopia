@@ -1,0 +1,18 @@
+DOOMCHARGE
+DOOMCHARGE WARLOCK
+1
+This evolve requires that the warlock has first gained the '@@doombolt@' evolve,
+and it opposes the '@@doomstorm@' evolve, and only one of these two evolves can
+be gained.
+
+By using the doomcharge command, a warlock can infuse any object with a huge
+burst of mystical energy, which can be used to restore lost mana. The item will
+drain as much as 1/3rd of the warlocks total mystical energy, up to 20000 mana.
+
+When infusing an item with mana, the warlock must decide for long the item
+should store the energy. An item can store this energy for maximum 200 seconds,
+after which it will automatically release the energy into whoever is wearing
+the item at that time. It will release as much as 1000 points of mana every
+second.
+
+Syntax: doomcharge [item] [time]

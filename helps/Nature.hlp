@@ -1,0 +1,20 @@
+NATURE
+NATURE FAE
+1
+The nature sphere of the faes contains powers that control, bends or in some
+way affects the very fabric of nature. Each rank gives another power.
+
+rank  1 :  @@Elementalform@ (turns your body into a force of nature)
+rank  2 :  @@Scry@          (view places far away)
+rank  3 :  @@Gaseous@       (increases damage resistance)
+rank  4 :  @@Martyr@        (take the damage of another player)
+rank  5 :  @@Spiritkiss@    (adds damroll and hitroll)
+rank  6 :  @@Spidercall@    (summon a horde of web-spinning spiders)
+rank  7 :  @@Geyser@        (summon a healing geyser to the room)
+rank  8 :  @@Unleashed@     (unleashes the beast within - area attack)
+rank  9 :  @@Faetune@       (attune a weapon to the nature of faes)
+rank 10 :  @@Faepipes@      (send out a calling to all nearby mobiles)
+
+Rank 9 and 10 can only be gained by faes that have evolved in the way of
+nature. Those that have chosen the way of the arcanist can never learn
+these powers.

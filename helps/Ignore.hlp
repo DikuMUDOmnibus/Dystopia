@@ -1,0 +1,13 @@
+IGNORE
+IGNORE CONFIGURATION
+1
+At times you may need or wish to ignore certain players, and for that purpose
+we have the ignore command. By ignoring another player, you will no longer
+hear what that player says over any of the communication channels, nor will
+you hear what any of the other players in that specific players account are
+saying (ie. ignore targets all of that player's characters).
+
+By just typing IGNORE you will see a list of all players that you are
+ignoring, and you can add/remove players from this list by typing
+
+Syntax: ignore [player]

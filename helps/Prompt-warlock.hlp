@@ -1,0 +1,8 @@
+PROMPT-WARLOCK
+PROMPT-WARLOCK WARLOCK
+1
+The warlock class has access to 2 special class prompts. They are both
+used to keep track of the warlocks study session.
+
+%k will show the amount of experience still needed.
+%K will show the amount of time left.

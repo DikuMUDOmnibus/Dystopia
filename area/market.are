@@ -1,0 +1,908 @@
+#AREADATA
+Name        Raedenn   Market Place~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       7301 7375
+Cvnum       7303
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#7301
+red-bearded dwarf~
+red-bearded dwarf~
+A red-bearded dwarf is here selling ale.
+~
+~
+19 0 750
+485 15 4 94 0 0
+1 10
+S
+#7302
+wood elf bow~
+Wood Elf~
+A wood elf is here polishing a long bow.
+~
+~
+19 0 800
+525 35 4 111 0 0
+1 6
+S
+#7303
+Ugly Orc~
+Orc~
+An ugly orc is staring you down.
+~
+~
+19 0 -750
+553 15 5 54 0 0
+1 3
+S
+#7304
+Mummy~
+Mummy~
+A mummy is surrounded with expensive gold artifacts.
+~
+~
+19 0 -200
+574 10 3 101 0 0
+0 12
+S
+#7305
+green towering troll~
+Green Troll~
+A towering green troll glares at you.
+~
+~
+19 0 -1000
+637 35 5 94 0 0
+1 7
+S
+#7306
+Lord Farquaad~
+Lord Farquaad~
+Lord Farquaad is here thanking you for coming.
+~
+~
+19 0 0
+639 50 8 82 0 0
+1 9
+S
+#7307
+torture master man rack~
+Torture Master~
+A man is here torturing someone on a large rack.
+~
+~
+27 0 -1000
+548 50 6 112 0 0
+0 0
+S
+#7308
+Lord Farquaad~
+Lord Farquaad~
+Lord Farquaad screams in agony.
+~
+~
+19 0 0
+697 10 2 63 0 0
+1 12
+S
+#0
+
+
+
+#OBJECTS
+#7301
+Dwarven Hammer~
+dwarven Hammer~
+An ancient hammer crafted of mithril.~
+5 0 8193
+0 4 20 8
+20 0
+#7302
+Imposter Farquaad's Head~
+imposter Farquaad's head~
+The severed head of the imposter Lord Farquaad.~
+10 0 16385
+0 0 0 0
+8 0
+#7303
+Composite Bow~
+composite Bow~
+A well-crafted oak composite bow.~
+5 0 8193
+0 4 22 6
+15 0
+#7304
+gold ring~
+gold ring~
+A gold ring stolen by the orcs.~
+7 0 3
+10 0 0 6
+2 0
+#7305
+Weapon Rack~
+weapon Rack~
+Attached to the wall, is a large rack of weapons.~
+9 0 0
+0 0 0 0
+100 0
+#7306
+chair~
+chair~
+A wooden chair~
+9 0 0
+0 0 0 0
+100 0
+#7307
+Throne~
+throne~
+An extravagant throne of Lord Farquaad.~
+9 0 0
+0 0 0 0
+100 0
+#7308
+torch~
+torch~
+A torch is burning brightly.~
+1 0 16385
+0 0 0 0
+100 0
+#7309
+Iron Maiden~
+iron Maiden~
+The infamous iron maiden is in the corner.~
+9 0 0
+0 0 0 0
+100 0
+#7310
+torture rack~
+torture rack~
+A torture rack stained with blood.~
+9 0 0
+0 0 0 0
+100 0
+#7311
+dying plant~
+dying plant~
+A dying plant is in desprate need of water.~
+10 0 1
+0 0 0 0
+1 0
+#7312
+mummy wrappings~
+mummy wrappings~
+Some mummy wrappings have been discarded here.~
+7 0 9
+10 0 0 0
+1 0
+#7313
+Armor Rack~
+armor rack~
+An armor rack is hung from the wall.~
+9 0 0
+0 0 0 0
+100 0
+#7314
+old book~
+old book~
+An old book has been dropped here.~
+10 0 0
+0 0 0 0
+1 0
+#7315
+dirty boot~
+dirty boot~
+A dirty boot sits in the corner.~
+7 0 65
+1 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#7301
+Entrance to the Market~
+You have stumbled upon a bizarre looking bazaar, there seems to be
+different sections for various different races. Many people have travelled
+from afar to be here. 
+~
+0 0
+D0
+~
+~
+0 0 7302
+D3
+~
+~
+0 0 8739
+S
+#7302
+Main Street~
+This is the main path which gives access to the separate streets.
+~
+0 0
+D0
+~
+~
+0 0 7303
+D1
+~
+~
+0 0 7305
+D2
+~
+~
+0 0 7301
+D3
+~
+~
+0 0 7304
+S
+#7303
+Main Street~
+This is the main path which gives access to the separate streets.
+~
+0 0
+D0
+~
+~
+0 0 7306
+D1
+~
+~
+0 0 7313
+D2
+~
+~
+0 0 7302
+D3
+~
+~
+0 0 7316
+S
+#7304
+Dwarf Street~
+Even a blind man would know this is is the dwarven street by the horrible
+stench of their flesh. You gag a little but continue knowing that dwarves
+have ancient artifacts that can't be found elsewhere.
+~
+0 0
+D1
+~
+~
+0 0 7302
+D3
+~
+~
+0 0 7309
+S
+#7305
+Dwarf Street~
+Even a blind man would know this is is the dwarven street by the horrible
+stench of their flesh. You gag a little but continue knowing that dwarves
+have ancient artifacts that can't be found elsewhere.
+~
+0 0
+D1
+~
+~
+0 0 7311
+D3
+~
+~
+0 0 7302
+S
+#7306
+Main Street~
+This is the main path which gives access to the separate streets.
+~
+0 0
+D0
+~
+~
+0 0 7307
+D1
+~
+~
+0 0 7322
+D2
+~
+~
+0 0 7303
+D3
+~
+~
+0 0 7319
+S
+#7307
+Main Street~
+This is the main path which gives access to the separate streets.
+~
+0 0
+D0
+~
+~
+0 0 7308
+D1
+~
+~
+0 0 7328
+D2
+~
+~
+0 0 7306
+D3
+~
+~
+0 0 7325
+S
+#7308
+Main Street~
+This is the main path which gives access to the separate streets. There
+is a shiny object embedded in the wall. 
+~
+0 0
+E
+a shiny coin object wall~
+You look more closely and see that it is a gold coin, what is it doing in
+the wall?
+~
+You press on the coin and it depresses into the wall leaving a hole, as you look more closely, you are sucked in~
+$n presses on the gold coin and next thing you know, they're gone~
+2 7337 1
+D1
+~
+~
+0 0 7334
+D2
+~
+~
+0 0 7307
+D3
+~
+~
+0 0 7331
+S
+#7309
+Dwarf Street~
+Even a blind man would know this is is the dwarven street by the horrible
+stench of their flesh. You gag a little but continue knowing that dwarves
+have ancient artifacts that can't be found elsewhere. 
+~
+0 0
+D1
+~
+~
+0 0 7304
+D3
+~
+~
+0 0 7310
+S
+#7310
+Dwarf Street~
+Even a blind man would know this is is the dwarven street by the horrible
+stench of their flesh. You gag a little but continue knowing that dwarves
+have ancient artifacts that can't be found elsewhere. 
+~
+0 0
+D1
+~
+~
+0 0 7309
+S
+#7311
+Dwarf Street~
+Even a blind man would know this is is the dwarven street by the horrible
+stench of their flesh. You gag a little but continue knowing that dwarves
+have ancient artifacts that can't be found elsewhere.
+~
+0 0
+D1
+~
+~
+0 0 7312
+D3
+~
+~
+0 0 7305
+S
+#7312
+Dwarf Street~
+Even a blind man would know this is is the dwarven street by the horrible
+stench of their flesh. You gag a little but continue knowing that dwarves
+have ancient artifacts that can't be found elsewhere.
+~
+0 0
+D3
+~
+~
+0 0 7311
+S
+#7313
+Elf Lane~
+The wise and soft-spoken elves are all over this street selling bows and
+other items elves are well known for.
+~
+0 0
+D1
+~
+~
+0 0 7314
+D3
+~
+~
+0 0 7303
+S
+#7314
+Elf Lane~
+The wise and soft-spoken elves are all over this street selling bows and
+other items elves are well known for.
+~
+0 0
+D1
+~
+~
+0 0 7315
+D3
+~
+~
+0 0 7313
+S
+#7315
+Elf Lane~
+The wise and soft-spoken elves are all over this street selling bows and
+other items elves are well known for.
+~
+0 0
+D3
+~
+~
+0 0 7314
+S
+#7316
+Elf Lane~
+The wise and soft-spoken elves are all over this street selling bows and
+other items elves are well known for.
+~
+0 0
+D1
+~
+~
+0 0 7303
+D3
+~
+~
+0 0 7317
+S
+#7317
+Elf Lane~
+The wise and soft-spoken elves are all over this street selling bows and
+other items elves are well known for.
+~
+0 0
+D1
+~
+~
+0 0 7316
+D3
+~
+~
+0 0 7318
+S
+#7318
+Elf Lane~
+The wise and soft-spoken elves are all over this street selling bows and
+other items elves are well known for. 
+~
+0 0
+D1
+~
+~
+0 0 7317
+S
+#7319
+Orc Road~
+Grunts and snorts are all that can be heard here, these pilferers are
+nervously pawning off their loot, hoping nobody comes looking for what is
+stolen.
+~
+0 0
+D1
+~
+~
+0 0 7306
+D3
+~
+~
+0 0 7320
+S
+#7320
+Orc Road~
+Grunts and snorts are all that can be heard here, these pilferers are
+nervously pawning off their loot, hoping nobody comes looking for what is
+stolen.
+~
+0 0
+D1
+~
+~
+0 0 7319
+D3
+~
+~
+0 0 7321
+S
+#7321
+Orc Road~
+Grunts and snorts are all that can be heard here, these pilferers are
+nervously pawning off their loot, hoping nobody comes looking for what is
+stolen.
+~
+0 0
+D1
+~
+~
+0 0 7320
+S
+#7322
+Orc Road~
+Grunts and snorts are all that can be heard here, these pilferers are
+nervously pawning off their loot, hoping nobody comes looking for what is
+stolen. 
+~
+0 0
+D1
+~
+~
+0 0 7323
+D3
+~
+~
+0 0 7306
+S
+#7323
+Orc Road~
+Grunts and snorts are all that can be heard here, these pilferers are
+nervously pawning off their loot, hoping nobody comes looking for what is
+stolen.
+~
+0 0
+D1
+~
+~
+0 0 7324
+D3
+~
+~
+0 0 7322
+S
+#7324
+Orc Road~
+Grunts and snorts are all that can be heard here, these pilferers are
+nervously pawning off their loot, hoping nobody comes looking for what is
+stolen.
+~
+0 0
+D3
+~
+~
+0 0 7323
+S
+#7325
+Egyptian Street~
+This is surely an interesting sight, undead communicating and selling off
+wares. You would have never thought you'd see something like this, but you
+are curious as to what they are selling.
+~
+0 0
+D1
+~
+~
+0 0 7307
+D3
+~
+~
+0 0 7326
+S
+#7326
+Egyptian Street~
+This is surely an interesting sight, undead communicating and selling off
+wares. You would have never thought you'd see something like this, but you
+are curious as to what they are selling. 
+~
+0 0
+D1
+~
+~
+0 0 7325
+D3
+~
+~
+0 0 7327
+S
+#7327
+Egyptian Street~
+This is surely an interesting sight, undead communicating and selling off
+wares. You would have never thought you'd see something like this, but you
+are curious as to what they are selling. 
+~
+0 0
+D1
+~
+~
+0 0 7326
+S
+#7328
+Egyptian Street~
+This is surely an interesting sight, undead communicating and selling off
+wares. You would have never thought you'd see something like this, but you
+are curious as to what they are selling.
+~
+0 0
+D1
+~
+~
+0 0 7329
+D3
+~
+~
+0 0 7307
+S
+#7329
+Egyptian Street~
+This is surely an interesting sight, undead communicating and selling off
+wares. You would have never thought you'd see something like this, but you
+are curious as to what they are selling.
+~
+0 0
+D1
+~
+~
+0 0 7330
+D3
+~
+~
+0 0 7328
+S
+#7330
+Egyptian Street~
+This is surely an interesting sight, undead communicating and selling off
+wares. You would have never thought you'd see something like this, but you
+are curious as to what they are selling.
+ 
+~
+0 0
+D3
+~
+~
+0 0 7329
+S
+#7331
+Troll Avenue~
+Enormous green trolls are here discussing business with potential
+customers, selling items which seem to come from human royalty. You have the
+sense not to ask how they acquired them. 
+~
+0 0
+D1
+~
+~
+0 0 7308
+D3
+~
+~
+0 0 7332
+S
+#7332
+Troll Avenue~
+Enormous green trolls are here discussing business with potential
+customers, selling items which seem to come from human royalty. You have the
+sense not to ask how they acquired them. 
+~
+0 0
+D1
+~
+~
+0 0 7331
+D3
+~
+~
+0 0 7333
+S
+#7333
+Troll Avenue~
+Enormous green trolls are here discussing business with potential
+customers, selling items which seem to come from human royalty. You have the
+sense not to ask how they acquired them. 
+~
+0 0
+D1
+~
+~
+0 0 7332
+S
+#7334
+Troll Avenue~
+Enormous green trolls are here discussing business with potential
+customers, selling items which seem to come from human royalty. You have the
+sense not to ask how they acquired them.
+~
+0 0
+D1
+~
+~
+0 0 7335
+D3
+~
+~
+0 0 7308
+S
+#7335
+Troll Avenue~
+Enormous green trolls are here discussing business with potential
+customers, selling items which seem to come from human royalty. You have the
+sense not to ask how they acquired them.
+~
+0 0
+D1
+~
+~
+0 0 7336
+D3
+~
+~
+0 0 7334
+S
+#7336
+Troll Avenue~
+Enormous green trolls are here discussing business with potential
+customers, selling items which seem to come from human royalty. You have the
+sense not to ask how they acquired them.
+~
+0 0
+D3
+~
+~
+0 0 7335
+S
+#7337
+Secret Corridor~
+The connection between the coin and the corridor doesn't seem like a
+coincidence. Wonder where it leads? The gold coin is embedded in the wall 
+~
+0 0
+E
+shiny object coin~
+The shiny coin is on this side of the wall now
+~
+You press the coin in and get sucked in~
+$n presses in the coin and gets sucked in~
+2 7308 1
+D0
+~
+~
+0 0 7338
+S
+#7338
+Secret Corridor~
+The torch light in this corridor is barely enough to see, but you swear
+you can see shadows moving infront of you. Agonizing screams can be heard
+from below. 
+~
+0 0
+D1
+~
+~
+0 0 7339
+D2
+~
+~
+0 0 7337
+S
+#7339
+Secret Corridor~
+The torch light in this corridor is barely enough to see, but you swear
+you can see shadows moving infront of you.
+~
+0 0
+D3
+~
+~
+0 0 7338
+D5
+~
+~
+0 0 7340
+S
+#7340
+Torture Chamber~
+This room is disgusting, blood-splattered torture devices are everywhere. 
+~
+0 0
+D4
+~
+~
+0 0 7339
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 7315 0 7301
+O 0 7314 0 7303
+M 0 7301 3 7304
+E 0 7301 0 16
+M 0 7301 3 7305
+E 0 7301 0 16
+O 0 7311 0 7307
+M 0 7306 1 7308
+O 0 7307 0 7308
+E 0 7302 0 17
+M 0 7301 3 7309
+E 0 7301 0 16
+O 0 7311 0 7309
+M 0 7301 3 7310
+E 0 7301 0 16
+M 0 7301 3 7311
+E 0 7301 0 16
+O 0 7311 0 7311
+M 0 7301 3 7312
+E 0 7301 0 16
+M 0 7302 2 7313
+E 0 7303 0 16
+M 0 7302 2 7314
+E 0 7303 0 16
+M 0 7302 2 7315
+E 0 7303 0 16
+M 0 7302 2 7316
+E 0 7303 0 16
+M 0 7302 2 7317
+E 0 7303 0 16
+M 0 7302 2 7318
+E 0 7303 0 16
+M 0 7303 3 7319
+M 0 7303 3 7320
+M 0 7303 3 7321
+E 0 7304 0 1
+M 0 7303 3 7322
+M 0 7303 3 7323
+O 0 7311 0 7323
+M 0 7303 3 7324
+M 0 7304 2 7325
+M 0 7304 2 7326
+M 0 7304 2 7327
+O 0 7312 0 7327
+M 0 7304 2 7328
+M 0 7304 2 7329
+O 0 7312 0 7329
+M 0 7305 2 7331
+M 0 7305 2 7332
+O 0 7306 0 7332
+M 0 7305 2 7333
+O 0 7305 0 7333
+M 0 7305 2 7334
+M 0 7305 2 7335
+O 0 7313 0 7335
+M 0 7305 2 7336
+M 0 7307 1 7340
+M 0 7308 1 7340
+O 0 7309 0 7340
+O 0 7310 0 7340
+S
+
+
+
+#$

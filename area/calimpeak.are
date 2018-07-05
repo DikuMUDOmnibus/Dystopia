@@ -1,0 +1,887 @@
+#AREADATA
+Name        Cotton    Calim's Peak~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       8600 8650
+Cvnum       8600
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#8600
+Alpha wolf~
+The alpha wolf~
+The alpha wolf is growling at you, teeth bared and fur bristling
+~
+~
+11 0 0
+80 3 0 43 0 0
+1 5
+S
+#8601
+pack wolf~
+A gray wolf~
+A gray wolf is here, ready to defend the pack
+~
+~
+11 0 0
+55 0 0 0 0 0
+1 5
+S
+#8602
+Wandering Tourist~
+A wandering tourist~
+A tourist is here, snapping pictures
+~
+~
+1 0 0
+20 0 3 0 0 0
+2 3
+S
+#8603
+Ugly black spider~
+An ugly black spider~
+An ugly black spider is crouched here
+~
+~
+19 0 -1000
+33 2 0 0 0 0
+0 0
+S
+#8604
+mutie mutant freak~
+A deformed mutie~
+A mutie is here glaring at you through his third eye.
+~
+~
+25 0 0
+45 1 2 0 0 0
+0 7
+S
+#8605
+Slug toxic~
+A toxic slug~
+A toxic slug is glowing slightly green
+~
+~
+17 0 0
+39 0 0 0 0 0
+0 0
+S
+#8610
+Mountain goat~
+a mountain goat~
+A mountain goat is perched on a rock
+~
+~
+17 0 0
+48 0 0 0 0 0
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#8600
+no name~
+a mountain spring~
+A small mountain spring flows to the surface here.~
+19 0 0
+0 0 0 0
+1 0
+#8601
+rusty hoe~
+a rusted hoe~
+A discarded garden tool lays here.~
+6 0 1
+0 0 0 0
+1 0
+#8602
+rusted rake~
+a rusted rake~
+A rake is rusting here.~
+10 0 1
+0 0 0 0
+1 0
+#8603
+four leaf clover~
+a four leaf clover~
+A four leaf clover is sprouting from the ground.~
+6 0 1
+0 0 0 0
+1 0
+#8604
+four leaf clover~
+a four leaf clover~
+A four leaf clover lies here.~
+14 0 1
+0 0 0 0
+1 0
+#8605
+lost canteen rusty~
+rusty old canteen~
+A discarded old canteen lies here.~
+11 0 1
+999 0 0 0
+1 0
+#8608
+stone carving~
+a stone carving~
+A discarded stone carving lies here.~
+6 0 1
+0 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#8600
+A densely wooded path~
+Trees soar up towards the sky to the east and west. Breaks in the canopy
+provide precious little streaks of light. Thick shrubbery on both sides of
+the trail prevents any movements except towards the mountain, or back to
+town. 
+~
+0 3
+D0
+~
+~
+0 0 8601
+D2
+~
+~
+0 0 8643
+S
+#8601
+Moving furthur into the woods~
+Although the east and west are still impassable, the trees seem to be
+growing less dense as the elevation changes. Strange bird calls echo through
+the woods with no discernible source. 
+~
+0 3
+D0
+~
+~
+0 0 8602
+D2
+~
+~
+0 0 8600
+S
+#8602
+Travellers Rest~
+A break in the trees reveals a small spring bubbling fresh water into a
+small rock pool. A doe looks up from drinking and darts off into the woods. 
+~
+0 5
+D0
+~
+~
+0 0 8603
+D2
+~
+~
+0 0 8601
+S
+#8603
+The twisting grade~
+The incline changes noticeably here, angling steadily upward
+towards the mountain above.
+~
+0 5
+D2
+~
+~
+0 0 8602
+D3
+~
+~
+0 0 8604
+S
+#8604
+Rock strewn path~
+The air now seems thinner and the proud trees below have been replaced by
+half-dead trees hunched over from the constant wind. 
+~
+0 5
+D0
+~
+~
+0 0 8605
+D1
+~
+~
+0 0 8603
+S
+#8605
+Approaching the mountains~
+No longer obscured by mist, Calim's peak towers high above you. 
+~
+0 5
+D0
+~
+~
+0 0 8606
+D2
+~
+~
+0 0 8604
+S
+#8606
+Granite outlook~
+A lip in the trail gives a breathtaking panorama of the woodland
+landscape sloping down towards the south. 
+~
+0 5
+D2
+~
+~
+0 0 8605
+D3
+~
+~
+0 0 8607
+S
+#8607
+Approaching the mountains~
+Loose scree tumbles down the steep sides of the path. Dark clouds cling
+to the mountainside, reducing visibility significantly. 
+~
+0 5
+D0
+~
+~
+0 0 8608
+D1
+~
+~
+0 0 8606
+S
+#8608
+A steep grade~
+The ascent is rapidly getting more difficult. Small shrubs and trees
+serve as the only handholds to continue on. 
+~
+0 5
+D1
+~
+~
+0 0 8609
+D2
+~
+~
+0 0 8607
+S
+#8609
+A steep climb~
+This trail abruptly stops in front of a large cliff. No way around or
+down. Small cracks on the surface provide ideal handholds for the long
+ascent. 
+~
+0 5
+D3
+~
+~
+0 0 8608
+D4
+~
+~
+0 0 8610
+S
+#8610
+Calim's Peak~
+This is the very top of Calim's Peak. The land stretches out below for
+miles and miles. Far in the distance the spires of Ri'on Dashor can be seen
+to the south. It only seems possible to continue on north, or curve around
+to the east and west. 
+~
+0 5
+D0
+~
+~
+0 0 8625
+D1
+~
+~
+0 0 8615
+D3
+~
+~
+0 0 8611
+D5
+~
+~
+0 0 8609
+S
+#8611
+The western ridge~
+Moving west along the ridge nothing but rocks and stooped trees and
+bushes can be seen. 
+~
+0 5
+D1
+~
+~
+0 0 8610
+D3
+~
+~
+0 0 8612
+S
+#8612
+A bend in the ridge~
+The path curves here and the footing is terrible at best. A stone kicked
+loose bounces down the slope. 
+~
+0 5
+D0
+~
+~
+0 0 8613
+D1
+~
+~
+0 0 8611
+S
+#8613
+A strange rock formation~
+To the left of the path is a strange formation of rocks. They seem to be
+a grave marking, or religious symbol of some type. 
+~
+0 5
+D0
+~
+~
+0 0 8614
+D2
+~
+~
+0 0 8612
+S
+#8614
+A westward turn~
+The path takes a sharp left curve around some boulders here which block
+view of the way ahead. 
+~
+0 5
+D2
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8631
+S
+#8615
+The eastern ridge~
+Moving east along the mountain ridge you can see a green valley extending
+down into the plains below. 
+~
+0 5
+D1
+~
+~
+0 0 8616
+D3
+~
+~
+0 0 8610
+S
+#8616
+A bend in the ridge~
+~
+0 5
+D0
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8615
+S
+#8617
+The eastern ridge~
+High above the treetops of the valley and the slope below you have a
+breathtaking view of the surronding area. 
+~
+0 5
+D0
+~
+~
+0 0 8618
+D2
+~
+~
+0 0 8616
+S
+#8618
+A curve in the ridge~
+You come to a curve. By the edge of the mountain you notice a small
+bench. Tourists? This high up in the mountain? 
+~
+0 5
+D1
+~
+~
+0 0 8619
+D2
+~
+~
+0 0 8617
+S
+#8619
+The eastern ridge~
+You walk along the ridge. A cold wind is blowing in from the valley
+below, chilling you to the bone. 
+~
+0 5
+D0
+~
+~
+0 0 8620
+D3
+~
+~
+0 0 8618
+S
+#8620
+The eastern ridge~
+You've been making good progress through the path. Far in the distance
+though it seems that you are being lead straight to the base of a huge sheer
+cliff. 
+~
+0 5
+D0
+~
+~
+0 0 8621
+D2
+~
+~
+0 0 8619
+S
+#8621
+A westward turn~
+You move along a small curve in the path towards the cliff. 
+~
+0 5
+D2
+~
+~
+0 0 8620
+D3
+~
+~
+0 0 8622
+S
+#8622
+Approaching the cliff~
+You are now very close the cliff. Observing it from a distance you can
+make out no obvious handholds. How on earth are you going to get around it? 
+~
+0 5
+D0
+~
+~
+0 0 8623
+D1
+~
+~
+0 0 8621
+S
+#8623
+At the cliffside~
+You arrive at the base of the cliff. Towering several hundred feet above
+you the face is to sheer to think of climbing. You notice a small path
+leading down into the darkness. In front of the cliff a small rockslide
+seems to have dropped a massive boulder in front of a small cavern entrance.
+~
+0 5
+E
+boulder~
+A huge boulder lays across the path here
+~
+Planting your feet firmly on the ground you manage to roll a boulder out of the way~
+$n pushes a boulder out of the entranceway to the cavern.~
+3 8624 1
+D2
+~
+~
+0 0 8622
+D5
+~
+~
+0 0 3328
+S
+#8624
+A cramped dark cave~
+It is DARK. You can barely make your way through the cave. Even more
+disconcerting are the scraping and grunting noises you hear from deeper
+within the small cave. 
+~
+8193 5
+D0
+~
+~
+0 0 8637
+S
+#8625
+Descending into the valley~
+As you walk down the path to the valley the scenery becomes greener and
+trees begin to sprout, offering blessed shade from the sun. 
+~
+0 5
+D0
+~
+~
+0 0 8626
+D2
+~
+~
+0 0 8610
+S
+#8626
+The Valley path~
+The valley around you is green and lush. Once again wildlife can be heard
+skittering and chittering around you. The path is well marked and very easy
+to follow. 
+~
+0 5
+D2
+~
+~
+0 0 8625
+D3
+~
+~
+0 0 8627
+S
+#8627
+The lily pond~
+You walk into an open area with a small lily pond. Goldfish splash and
+swim about. Picking up a stone, you skip it across the surface 
+~
+0 5
+D0
+~
+~
+0 0 8628
+D1
+~
+~
+0 0 8626
+S
+#8628
+The valley meadow~
+You are in a broad expanse of flat field filled with wild flowers. Off in
+the distance, you can just make out the roof of a house. 
+~
+0 5
+D1
+~
+~
+0 0 8629
+D2
+~
+~
+0 0 8627
+S
+#8629
+A run down shack~
+You stand before a ramshackle hut. Judging from the decay it seems a fair
+guess that nobody is home. A small path leads to the garden 
+~
+0 5
+D2
+~
+~
+0 0 8630
+D3
+~
+~
+0 0 8628
+S
+#8630
+A small garden~
+Overgrown and weed ridden, nothing of use is growing here. 
+~
+0 5
+D0
+~
+~
+0 0 8629
+D4
+~
+~
+0 0 8120
+S
+#8631
+The upper west ridge~
+Small bushes sprout along the trail, but not much else except for rocks. 
+~
+0 5
+D0
+~
+~
+0 0 8632
+D1
+~
+~
+0 0 8614
+S
+#8632
+The middle of the upper west ridge~
+Small bushes sprout along the trail,but not much else except for rocks. 
+~
+0 5
+D0
+~
+~
+0 0 8633
+D2
+~
+~
+0 0 8631
+S
+#8633
+The turn home~
+Trees begin to crop up around the trail. Tufts of grass sprout up between
+rocks and bushes. 
+~
+0 5
+D1
+~
+~
+0 0 8634
+D2
+~
+~
+0 0 8632
+S
+#8634
+Nearing the bottom~
+As you make your way down the mountain trees and vegetation begin to
+reappear in your surrondings. You hear the mournful howl of a wolf off in
+the distance. 
+~
+0 5
+D1
+~
+~
+0 0 8635
+D3
+~
+~
+0 0 8633
+S
+#8635
+The hunting ground~
+Oh no! You've stumbled into the hunting ground of that wolf you heard
+earlier. And he seems to have brought some friends. 
+~
+0 5
+D1
+~
+~
+0 0 8636
+D3
+~
+~
+0 0 8634
+S
+#8636
+The bottom of the mountain~
+Having battled past the wolves you emerge onto the plains below. 
+~
+0 5
+D3
+~
+~
+0 0 8635
+D5
+~
+~
+0 0 8121
+S
+#8637
+A bone pit~
+Walking through the dark room you trip over something hard. Looking down
+you see a small pit of bleached white bones. Most seem to be small woodland
+creatures but one big leg bone makes you very uneasy. 
+~
+8193 5
+D2
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8638
+S
+#8638
+Deeper in the cave~
+You move furthur back into the cave. You can just make out dim
+scribblings on the walls. The hand is childish in form, but the language is
+something you've never seen before. 
+~
+8193 5
+D0
+~
+~
+0 0 8639
+D1
+~
+~
+0 0 8637
+S
+#8639
+A water pool~
+The ceiling is very close to your head, so close that you almost have to
+stoop to walk around. A small pool of water is reflecting low light against
+the back wall. 
+~
+8193 5
+D1
+~
+~
+0 0 8640
+D2
+~
+~
+0 0 8638
+S
+#8640
+A darkened cavern~
+You see nothing special in this room except for a few massive stalagmites
+that pop up from the floor like teeth. 
+~
+8193 5
+D2
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8639
+S
+#8641
+Nearing the light~
+Some light seems to be shining from a point deeper in the tunnels. You
+must be nearing the end. 
+~
+8193 5
+D0
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8642
+S
+#8642
+At the end~
+You finally have come to the end of the cave. Just a few more steps and
+the precious light of day is yours once again. 
+~
+8193 5
+D1
+~
+~
+0 0 8641
+D3
+~
+~
+0 0 8623
+S
+#8643
+Light forest~
+The small path twists both north and south, where the northen path leads
+out of the forest, and the southern deeper into it. The song of birds can be
+heard from deep within the forest. 
+~
+0 3
+D0
+~
+~
+0 0 8600
+D2
+~
+~
+0 0 8644
+S
+#8644
+Light forest~
+To the north the forest is not quite as dense, and the rays of the sun
+seems to reach deeper into the underbrush. A pathway twists it's way to the
+east, deeper into the forest. 
+~
+0 3
+D0
+~
+~
+0 0 8643
+D1
+~
+~
+0 0 7970
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 8600 0 8602
+O 0 8605 0 8604
+M 0 8610 15 8611
+M 0 8610 15 8611
+M 0 8610 15 8611
+O 0 8604 0 8612
+O 0 8608 0 8613
+M 0 8610 15 8616
+M 0 8610 15 8616
+M 0 8602 1 8618
+M 0 8610 15 8620
+M 0 8610 15 8620
+O 0 8603 0 8626
+O 0 8601 0 8630
+M 0 8610 15 8631
+M 0 8610 15 8632
+M 0 8600 1 8635
+M 0 8601 8 8635
+M 0 8601 8 8635
+M 0 8601 8 8635
+M 0 8601 8 8635
+M 0 8601 8 8635
+M 0 8603 10 8637
+M 0 8603 10 8637
+M 0 8604 10 8637
+M 0 8603 10 8638
+M 0 8603 10 8638
+M 0 8604 10 8638
+M 0 8605 10 8639
+M 0 8605 10 8639
+M 0 8605 10 8639
+M 0 8603 10 8639
+M 0 8605 10 8641
+M 0 8604 10 8641
+M 0 8604 10 8641
+S
+
+
+
+#$

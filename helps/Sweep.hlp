@@ -1,0 +1,9 @@
+SWEEP
+SWEEP GIANT
+1
+Sweep is a handy giant attack, which will throw the giants opponent into an
+adjacent room (if possible), and allow the giant a swift followup on this
+attack (thus moving the giant and his target into another room to continue
+the fight alone).
+
+Syntax: Sweep

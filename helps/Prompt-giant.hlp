@@ -1,0 +1,7 @@
+PROMPT-GIANT
+PROMPT-GIANT GIANT
+1
+The giant class has access to two special prompt options.
+
+%k will show if the giant has standfirm enabled.
+%K will show if earthflux is enabled.

@@ -1,0 +1,23 @@
+EVOLVE
+EVOLVE INFORMATION
+1
+Evolving is part of your characters development. Each class has several 
+stages, each stage opening up to new powers and abilities. Before you can 
+evolve, you must first reach a certain requirement in statistics.
+
+Each time you evolve, you have several options to chose between, but you 
+can only pick one such choice. After you have made your choice, new powers 
+will be available, and the other choices are gone forever, so make sure 
+your given evolve choice is the path you want to take.
+
+Each time you evolve, your statistics (move, mana and hitpoints) will be
+reduced by 25% - due to the stress of evolving to a new form.
+
+If you at one time find that your current set of evolves is wrong for you,
+then you can clear ALL evolves you have gained and start over. No reimb is
+given for those evolves that you are clearing, and you can only clear you
+evolves once. There will be no exceptions to this rule. Type 'evolve clear'
+to clear your evolves. You will be prompted for your password.
+
+Syntax: evolve [choice]
+Syntax: evolve clear [password]

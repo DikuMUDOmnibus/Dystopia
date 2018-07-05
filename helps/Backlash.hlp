@@ -1,0 +1,16 @@
+BACKLASH
+BACKLASH WARLOCK
+1
+Any warlock that has gained the '@@homing device@' evolve can also gain this
+evolve, which allows the warlock to summon a contingency field around the
+warlock. This magical field of energy has a decent chance of duplicating
+any attack made against the warlock by monsters, both blocking and returning
+the attack. An attack against the warlock must be successful before the field
+tries to cause a backlash.
+
+This evolve opposes the '@@hunting stars@' evolve, and only one of these two
+evolves can be gained.
+
+The same command that enables this field can also be used to turn it off.
+
+Syntax: backlash

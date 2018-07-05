@@ -1,0 +1,25 @@
+KINGDOM
+KINGDOM KINGDOMS
+1
+Anyone can create a new kingdom, it only requires some knowledge of the MUD,
+some strength of character and a couple of friends. Read the help file on
+@@KQUEST@ to see how you create a new kingdom.
+
+Already existing kingdoms can be seen with the 'kingdom' command, and here
+is a short list of commands which can be used with kindoms.
+
+kjoin      : join a kingdom or list all invitations to join.
+kdecline   : decline an invitation.
+kinvite    : invite someone to join your kingdom.
+kuninvite  : remove an invitation.
+kleave     : leave your kingdom.
+klist      : list all members/invitations for your kingdom.
+kinfo      : list your kingdoms statistics.
+kset       : set the kingdoms statistics (kings only)
+koutcast   : outcast members from the kingdom (kings only)
+ktalk      : use your kingdoms talk channel.
+kingdoms   : list all kingdoms and their statistics.
+kdonate    : donate goldcrowns to your kingdom.
+kbuy       : lets the king buy kingdom stuff.
+kmix       : use the kingdom cauldron.
+kwho       : who is currently online in your kingdom.

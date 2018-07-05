@@ -1,0 +1,12 @@
+BATTLETRAIN
+BATTLETRAIN GIANT
+1
+Giants can train both their defensive skills and their attack skills with
+the battletrain command. The higher attack skill, the more likely the
+giant is to hit what they attack, and the higher the defense skill, the
+less likely they are to be hit by those attacking them.
+
+Battletrained skills do not affect damage dealt or received.
+
+Both defense and attack can be trained as far as level 10, and the cost is
+2 million per level (so level 6 would cost 12 million).

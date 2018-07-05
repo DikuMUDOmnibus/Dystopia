@@ -1,0 +1,14 @@
+DOOMBOLT
+DOOMBOLT WARLOCK
+1
+The doombolt evolve allows a warlock to summon and harnes the powers of chaos,
+and use this power to attack and hurt monsters. In effect the warlock will
+strike a room with a bolt of chaos, which will stay resident in the room for a
+period (as long as the warlock can pay the upkeep), and hurt monsters in that
+room. The warlock can turn of the doombolt at any time by using the command
+'doombolt off'.
+
+This evolve opposes the '@@mountain king@', and a warlock can only gain one
+of these evolves.
+
+Syntax: doombolt [off]

@@ -1,0 +1,7 @@
+TAXRATE
+TAXRATE KINGDOM
+1
+The taxrate is the percentage of all earned goldcrowns that goes towards
+the kingdoms treasury. If a player is a member of a kingdom when he or she
+earns any questpoints by questing, this percentage will be subtracted from
+the earned goldcrowns, and placed in the kingdoms treasury.

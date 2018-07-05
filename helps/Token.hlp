@@ -1,0 +1,9 @@
+TOKEN
+TOKEN GOLDTOKEN
+1
+Syntax: token [value]
+
+TOKEN will allow you to create a goldtoken, with the value of the token 
+set to the value specified. The tokens value must be within 1 and 10000, 
+and it cannot be greater than the number of goldcrowns you currently 
+have.

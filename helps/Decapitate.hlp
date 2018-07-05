@@ -1,0 +1,15 @@
+DECAPITATE
+DECAPITATE KILL PLAYERKILLING PKILL
+1
+The command 'decapitate' can be used to kill another player that is
+mortally wounded. Upon killing the player, you gain half of their
+current experience.
+
+Syntax: decap [victim]
+
+To see which players are in your playerkilling range, you can either
+type 'who kill' or simply look at the colors around the players on
+who (the different colors are explained in HELP @@WHO@).
+
+The system that calculates who you can kill, is briefly discussed
+in the help file HELP @@PARADOX@.

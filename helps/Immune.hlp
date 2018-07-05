@@ -1,0 +1,21 @@
+IMMUNE
+IMMUNE IMMUNITY IMMUNITIES RESISTANCES INFORMATION
+0
+Immunities and resistances give you protection from the following:
+Slash     : Slashing/Slicing weapon damage reduced by 1-100% per blow.
+Stab      : Stabbing/Piercing weapon damage reduced by 1-100% per blow.
+Smash     : Blasting/Crushing/Pounding damage reduced by 1-100% per blow.
+Beast     : Clawing/Biting weapon damage reduced by 1-100% per blow.
+Grab      : Grepping/Whipping/Sucking damage reduced by 1-100% per blow.
+Charm     : You are no longer affected by the Charm Person spell.
+Heat      : You are unaffected by Burning Hands, Fireball, etc.
+Cold      : You are unaffected by Frost Breath, Chill Touch, etc.
+Lightning : You are unaffected by Lightning bolt, Call Lightning, etc.
+Acid      : You are unaffected by Acid Blast, Acid Breath, etc.
+Drain     : You are unaffected by the Energy Drain spell.
+Summon    : You cannot be summoned nor can you teleport.
+Hurl      : You cannot be hurled.
+Backstab  : You cannot be backstabbed.
+Kick      : Kicks do no damage whatsoever to you.
+Disarm    : You cannot be disarmed by other players or by mobs.
+Steal     : Other players and mobs cannot steal from you.

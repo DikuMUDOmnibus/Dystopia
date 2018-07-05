@@ -1,0 +1,13 @@
+LOCATE OBJECT
+'LOCATE OBJECT' SPELL MAGIC
+1
+This nice spell, allows you to locate any object on the mud. By giving
+the name of the object as the argument to the spell, the spell will list
+the first 44 objects that match your argument. If you wish to see more
+than just the first 44 objects, you can give an additional argument X to
+the spell, so it will skip the first X objects.
+
+example : cast locate sword 30
+
+This will list up to 44 swords, and their location, skipping the first
+30 swords encountered on the mud.

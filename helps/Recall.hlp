@@ -1,0 +1,15 @@
+RECALL
+RECALL CONFIGURATION
+1
+Any character can recall from his or her current location, to a predefined
+place, where the player has previously been. These 'recall points' are set
+using the '@@HOME@' command.
+
+A player cannot recall from certain rooms, nor can he or she recall if cursed.
+A player trying to recall while having an active fighttimer, will find that
+movement is somewhat limited (ie. the recall will only move the players a few
+rooms from his or her current location).
+
+Up to 3 recall points can be kept by a player.
+
+Syntax: recall [1|2|3]

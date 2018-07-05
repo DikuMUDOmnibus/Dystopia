@@ -1,0 +1,22 @@
+ACID HEART
+'ACID HEART' ACIDHEART FAE
+1
+A fae that has gained the '@@blood to acid@' evolve can gain this evolve,
+allowing the fae to channel a portion of the damage done by @@blood to acid@
+back into the fae. This link between the victim of blood to acid and the fae
+is broken if the victim and the fae is not in the same room.
+
+The fae also gains access to the blood clone spell, which allows the fae to
+create a blood golem duplicate of any monster or player. The golem is a
+mindless drone, but will fight if attacked. The drone is not a permanent 
+creation and will dissolve over time. The fae has no control over the golem.
+
+The fae can also use the acidheart command to begin emitting a protective
+aura. This aura will inflict anyone scrying the fae with blood to acid. The
+aura has a small upkeep in move.
+
+This evolve opposes the '@@taste of blood@' evolve, and only one of these
+two evolves can be gained.
+
+Syntax: cast 'blood clone' [target]
+Syntax: acidheart [on|off]

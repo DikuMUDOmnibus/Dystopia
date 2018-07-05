@@ -1,0 +1,16 @@
+FROSTBLAST
+FROSTBLAST SHADOWLORD
+1
+This evolve can be gained by any shadowlord that has first gained the evolve
+known as '@@concussion fumes@'. It opposes the evolve '@@mirror image@' and only
+one of these two evolves can be gained.
+
+This evolve allows the shadowlord to either strike an opponent with a blast of
+frost, or infuse the icy coldness onto a weapon of his or her choice. This
+weapon will then for a short period of time blast anyone it's wielded against
+with it's icy coldness.
+
+To use this power as an attack, the shadowlord must first enter combat.
+
+Syntax: frostblast [victim]
+Syntax: frostblast [object]

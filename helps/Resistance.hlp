@@ -1,0 +1,7 @@
+RESISTANCE
+RESISTANCE SPELL MAGIC
+0
+Syntax: cast resistance [object]
+
+This spell makes the target object capable of withstanding 10 blows 
+before it is destroyed, rather than 4.

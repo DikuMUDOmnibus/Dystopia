@@ -1,0 +1,21 @@
+STANCES
+STANCES
+1
+Syntax: combat [style]
+
+In combat, the stance of the fighter plays a very important role; you 
+can't just stand there and exchange blow for blow unless you are very 
+confident of your ability.  Each fighting stance has advantages and 
+disadvantages, the basic outline of which follows:
+VIPER: A very fast and aggressive style of combat, concentrating on 
+striking your opponent before they have the chance to avoid or block you.
+CRANE: A wide, sweeping style of combat, which concentrates on a very 
+strong blocking defence.
+CRAB: A low, defensive fighting stance which uses agile footwork and 
+rolling with attacks in order to reduce your injuries.
+MONGOOSE: A light-footed stance, which relies on leaps and acrobatics to 
+ensure that by the time your opponent makes their attack, you've moved 
+out of the way.
+BULL: A low aggressive stance which concentrates purely on physical power.
+
+See also help on @@advancedstance@, @@stancetable@ and @@stance-attr@.

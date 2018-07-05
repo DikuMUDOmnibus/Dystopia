@@ -1,0 +1,12 @@
+CONSIDER
+CONSIDER INFORMATION
+1
+Syntax: consider [character]
+
+CONSIDER tells you what your chances are of killing a character, taking 
+into account hitroll, damroll, armour class and hit points, and giving 
+you an overview of your chances.  If you are considering a player, you 
+will also be informed how skilled they are with their weapons, and which 
+stance they are currently using (if any) and how good they are at it.
+
+Please remember that this is only a rough estimate.

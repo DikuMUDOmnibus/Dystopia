@@ -1,0 +1,20 @@
+TASTE OF BLOOD
+'TASTE OF BLOOD' BLOODTRACK BLOODHUNGER FAE
+1
+A fae that has gained the '@@blood to acid@' evolve can gain this evolve,
+allowing the fae to taste their opponets blood. This tasting forms a bond
+between the victim and the fae, allowing the fae to track the victim as
+well as induce a violent rage that will cause the fae to automatically
+attack the victim if encountered.
+
+In combat, the fae must use the blood track command to start tracking the
+victim (to taste the blood). Should the victim flee, the fae can easily spot
+in what direction the victim is running (the exits are coloured red, allowing
+for easy tracking). If the fae has toggled bloodhunger on, the fae will try to
+attack the victim if encountered.
+
+This evolve opposes the '@@acid heart@' evolve, and only one of these
+two evolves can be gained.
+
+Syntax: bloodtrack [victim]
+Syntax: bloodhunger [on|off]

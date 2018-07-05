@@ -1,0 +1,4637 @@
+#AREADATA
+Name        Archanos  Ri'on Dashor~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       7801 8000
+Cvnum       7801
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#7801
+guard captain~
+Captain of the Guards~
+The Captain of the Guards stands here.
+~
+~
+3 0 1000
+100 5 0 39 0 0
+1 3
+S
+#7802
+ri'on dashor town guard~
+Town Guard~
+A town guard stands here.
+~
+~
+1 0 0
+30 0 5 0 0 0
+1 1
+S
+#7803
+prisoner ri'on dashor~
+a prisoner~
+A prisoner of Ri'on Dashor stands here
+~
+~
+1 0 0
+15 0 0 0 0 0
+2 0
+S
+#7804
+postmaster general~
+the Postmaster General~
+The Postmaster General stands here.
+~
+~
+3 0 0
+70 0 10 45 0 0
+1 0
+S
+#7805
+mayor of ri'on dashor~
+the Mayor~
+The mayor of Ri'on Dashor stands here.
+~
+~
+3 0 0
+120 0 1 70 0 0
+1 0
+S
+#7806
+kedeen cafe owner shop keeper~
+Kedeen~
+Kedeen, the cafe owner stands here.
+~
+~
+3 0 0
+85 0 1 0 0 0
+1 0
+S
+#7807
+stable keeper~
+the stable keeper~
+The stable keeper stands here.
+~
+~
+3 0 0
+40 0 1 0 0 0
+1 0
+S
+#7808
+enchanter~
+the enchanter~
+The enchanter stands here.
+~
+~
+3 0 0
+2000 0 2 0 0 0
+1 0
+S
+#7809
+librarian library~
+the librarian~
+The librarian stands here.
+~
+~
+3 0 0
+25 10 0 0 0 0
+1 0
+S
+#7810
+shop keeper~
+the shop keeper~
+The shop keeper stands here, waiting to help you.
+~
+~
+3 0 0
+30 0 1 0 0 0
+1 0
+S
+#7811
+takashia sushi owner~
+Takashi~
+Takashi stands here staring at you.
+~
+~
+3 0 0
+10 0 5 0 0 0
+1 0
+S
+#7812
+bar hop bartender~
+the bartender~
+The bartender stands here.
+~
+~
+3 0 0
+40 0 0 2 0 0
+1 0
+S
+#7813
+drunkard drunk~
+a drunk~
+A town drunk wobbles here.
+~
+~
+1 0 0
+11 0 0 23 0 0
+2 0
+S
+#7814
+tourist beach~
+a tourist~
+A tourist visiting Ri'on Dashor is here.
+~
+~
+1 0 0
+20 -19 0 0 0 0
+0 0
+S
+#7815
+crab sea~
+a crab~
+A crab crawls here.
+~
+~
+1 0 0
+30 0 1 0 0 0
+0 0
+S
+#7816
+portuguese man-o-war~
+a Portuguese Man-o-War~
+A Portuguese Man-o-War is here.
+~
+~
+1 0 0
+50 -10 1 0 0 0
+0 0
+S
+#7817
+citizen of ri'on dashort~
+a citizen~
+A citizen of Ri'on Dashor stands here.
+~
+~
+1 0 0
+21 0 0 0 0 0
+2 0
+S
+#7818
+a young child~
+a young child~
+A young child is here playing.
+~
+~
+1 0 0
+10 -10 0 0 0 0
+1 0
+S
+#7819
+banker of ri'on dashor~
+the Banker~
+The Banker of Ri'on Dashor stands here.
+~
+~
+3 0 0
+60 50 0 26 0 0
+1 0
+S
+#7820
+a wolf~
+a wolf~
+A hungry wolf stands here.
+~
+~
+9 0 0
+60 0 0 49 0 0
+1 10
+S
+#7821
+a colorful fish~
+a colorful fish~
+A colorful fish swims here.
+~
+~
+1 0 0
+25 0 0 11 0 0
+0 10
+S
+#7822
+large salmon~
+a salmon~
+A large salmon swims here.
+~
+~
+1 0 0
+30 0 0 9 0 0
+0 0
+S
+#7823
+mole~
+a mole~
+A mole is here digging a new tunnel.
+~
+~
+1 0 0
+34 0 0 7 0 0
+0 10
+S
+#7824
+giant mole~
+a giant mole~
+A giant mole stands here.
+~
+~
+3 0 0
+35 0 5 66 0 0
+0 0
+S
+#7825
+arena combatant~
+an arena combatant~
+An arena combatant stands here with sword in hand.
+~
+~
+1 0 0
+70 10 3 0 0 0
+0 3
+S
+#7826
+dying warrior~
+a dying warrior~
+A dying warrior rests here.
+~
+~
+3 0 0
+30 -10 0 74 0 0
+1 0
+S
+#7827
+blacksmith~
+the blacksmith~
+The blacksmith of Ri'on Dashor stands here.
+~
+~
+3 128 0
+2000 0 0 41 0 0
+1 0
+S
+#7828
+weaponsmith~
+the weaponsmith~
+The weaponsmith of Ri'on Dashor stands here.
+~
+~
+3 128 0
+2000 0 0 1 0 0
+1 0
+S
+#7829
+great calim~
+The Great Calim~
+The Great Calim stands here, guarding the cradle.
+~
+~
+5123 672 0
+2400 25 15 142 0 0
+1 1
+S
+#7830
+engraver~
+The engraver~
+The engraver stands here.
+~
+~
+3 0 0
+2000 0 0 43 0 0
+1 0
+S
+#7885
+judge ri'on dashor~
+Judge of Ri'on Dashor~
+The judge of Ri'on Dashor stands here dressed in robes.
+~
+~
+3 0 1000
+80 0 2 0 0 0
+0 0
+S
+#0
+
+
+
+#OBJECTS
+#7801
+bubbling fountain statue esquizer~
+a bubbling fountain~
+A fountain bubbles with water here.~
+19 0 0
+0 0 0 0
+1 100
+#7802
+arena northeast entrance~
+the arena~
+A portal to the arena stands here.~
+21 4 0
+7885 0 0 0
+1 0
+#7803
+southwest exit arena~
+the exit~
+There lies a portal to the arena here.~
+21 4 0
+7881 0 0 0
+1 0
+#7804
+portal arena entrance~
+the entrance to the arena~
+There lies a portal to the arena here.~
+21 4 0
+7887 0 0 0
+1 0
+#7805
+portal exit arena~
+portal to the town square~
+A swirling portal is here~
+21 0 0
+7801 0 0 0
+1 0
+#7806
+guards shortsword sword~
+a short sword~
+A guard's short sword is here.~
+5 0 8193
+0 1 50 3
+1 0
+#7807
+breastplate guards~
+a breastplate~
+A guard's breastplate rests on the floor here.~
+7 0 9
+4 0 0 0
+1 0
+#7808
+legplate guards~
+a legplate~
+A guard's legplate rest here.~
+7 0 33
+0 0 0 4
+1 0
+#7809
+longsword sword guards~
+a long sword~
+A guard's long sword rests on the floor here.~
+5 0 8193
+0 3 50 1
+1 0
+#7810
+judges gavel~
+a gavel~
+A gaval rests on the floor here.~
+5 0 8193
+0 10 50 7
+1 0
+#7811
+iron cage~
+iron cage~
+An iron cage is located here.~
+9 0 0
+0 0 0 0
+1 0
+#7812
+park bench~
+a park bench~
+A park bench is located here.~
+9 0 0
+0 0 0 0
+1 0
+#7813
+a ball~
+a white ball~
+A white ball rests on the floor here.~
+9 0 1
+0 0 0 0
+1 0
+#7814
+golden sundial~
+a golden sundial~
+A golden sundial rests on the floor here.~
+9 0 1
+0 0 0 0
+1 0
+#7815
+ring keys~
+ring of keys~
+A ring of keys rest on the floor here.~
+10 0 1
+0 0 0 0
+1 0
+#7816
+skeletal remain fallen warrior~
+skeletal remains~
+The skeletal remains of a fallen warrior is here.~
+10 0 1
+0 0 0 0
+1 0
+#7817
+floating log~
+a floating log~
+A floating log is here.~
+10 0 1
+0 0 0 0
+1 0
+#7818
+pile gold~
+a pile of gold~
+A pile of gold is here.~
+10 0 1
+0 0 0 0
+1 0
+#7819
+golden sceptre~
+a golden sceptre~
+A golden sceptre rests on the floor here.~
+6 0 8193
+0 0 0 0
+1 0
+#7820
+mole claws~
+mole claws~
+A pair of claws rests on the floor here.~
+5 0 8193
+0 20 20 5
+1 0
+#7821
+tome identify~
+a tome of identify~
+A tome of identify rests here.~
+2 0 16385
+20 'identify' 'identify' 'identify'
+1 0
+#7822
+large couch~
+a large couch~
+A large black couch is here.~
+9 0 0
+0 0 0 0
+1 0
+#7823
+masons chisel~
+a chisel~
+The mason's chisel rests here.~
+5 0 8193
+0 5 30 11
+1 0
+#7824
+red sea shell~
+a red sea shell~
+A red sea shell rests on the floor here.~
+6 0 16385
+0 0 0 0
+1 0
+#7825
+a blue sea shell~
+a blue sea shell~
+A blue sea shell rests on the floor here.~
+6 0 8193
+0 0 0 0
+1 0
+#7826
+cyan sea shell~
+a cyan sea shell~
+A cyan sea shell rests on the floor here.~
+2 0 16385
+20 'chill touch' 'chill touch' 'heal'
+1 0
+#7827
+guards whistle~
+a whistle~
+A guard's whistle rests on the floor here.~
+10 0 8193
+0 0 0 0
+1 0
+#7828
+dashor cityring ring~
+a Ri'on Dashor cityring~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 3
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7829
+dashor citybracer bracer~
+a Ri'on Dashor citybracer~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 4097
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7830
+dashor cityamulet amulet~
+a Ri'on Dashor cityamulet~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 5
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7831
+dashor citybreastplate breastplate~
+a Ri'on Dashor citybreastplate~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 9
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7832
+dashor cityhelmet helmet~
+a Ri'on Dashor cityhelmet~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 17
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7833
+dashor citysleeves sleeves~
+a set of Ri'on Dashor citysleeves~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 257
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7834
+dashor citybelt belt~
+a Ri'on Dashor citybelt~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 2049
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7835
+dashor citycloak cloak~
+a Ri'on Dashor citycloak~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 1025
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7836
+dashor cityleggings leggings~
+a pair of Ri'on Dashor cityleggings~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 33
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7837
+dashor cityboots boots~
+a pair of Ri'on Dashor cityboots~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 65
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7838
+dashor citygauntlets gauntlets~
+a pair of Ri'on Dashor citygauntlets~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 129
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7839
+dashor cityvisor visor~
+a Ri'on Dashor cityvisor~
+A piece of Ri'on Dashor equipment lies here.~
+7 0 32769
+20 0 0 0
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7840
+dashor citysword sword~
+a Ri'on Dashor citysword~
+A piece of Ri'on Dashor equipment lies here.~
+5 0 8193
+0 20 50 3
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7841
+dashor citydagger dagger~
+a Ri'on Dashor citydagger~
+A piece of Ri'on Dashor equipment lies here.~
+5 0 8193
+0 20 50 11
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7842
+dashor cityboltgun boltgun~
+a Ri'on Dashor cityboltgun~
+A piece of Ri'on Dashor equipment lies here.~
+5 0 8193
+0 20 50 6
+1 250
+A
+17 -10
+A
+18 8
+A
+19 8
+#7843
+manhole~
+a manhole~
+There is an open manhole on the street.~
+21 0 0
+4601 0 0 0
+1 0
+#7844
+gateway portal~
+a gateway~
+A gateway stands here.~
+21 4 0
+7376 0 0 0
+1 0
+#7845
+donation pit~
+the donation pit~
+The donation pit is in the center of the plaza.~
+11 1 0
+999 0 0 0
+999 0
+#0
+
+
+
+#ROOMDATA
+#7801
+#cCenter of the Town Square#n~
+This is the center of Ri'on Dashor. Directly in the middle of the town,
+there is a large limestone fountain with a statue of the great god Astinus
+on it. This is the central hub of the town where everyone comes and goes.
+All the public buildings surround the town square. The square opens up in
+all directions and the each brick was individually placed one by one 
+~
+36 1
+D0
+~
+~
+0 0 7802
+D1
+~
+~
+0 0 7804
+D2
+~
+~
+0 0 7803
+D3
+~
+~
+0 0 7805
+S
+#7802
+#cTown Square#n~
+The town square is made from individually placed bricks.  This is
+normally where the town crier stands and informs the public of town events.
+To the north, North Street leads to the northern gate of the city.  Official
+city buildings tower in to the air all around the town square.  North Street
+was well paved and is rather wide.  The city spent lots of money enhancing
+the street, since it is the most travelled street in the city.
+~
+0 1
+D0
+~
+~
+0 0 7810
+D1
+~
+~
+0 0 7806
+D2
+~
+~
+0 0 7801
+D3
+~
+~
+0 0 7807
+D5
+~
+~
+0 0 6800
+S
+#7803
+#cTown Square#n~
+This is the southern section of the town square. The town square is made
+from individually placed sky blue and white bricks. To the south, South
+Street leads to the southern gate of the city. South Street is frequently
+travelled as beyond the southern gates of the city lies a beautiful beach.
+The beach is renown throughout the realm and tourist frequently come to
+visit the beach. 
+~
+0 1
+D0
+~
+~
+0 0 7801
+D1
+~
+~
+0 0 7808
+D2
+~
+~
+0 0 7865
+D3
+~
+~
+0 0 7809
+S
+#7804
+#cTown Square#n~
+This is the eastern section of the town square.  Razon Avenue leads east
+to the eastern gate of Ri'on Dashor.  Ri'on Dashor is the largest city in
+this part of the world.  As a side effect of it's great size, it's rather
+busy and hundreds of thousands of people pass through it's streets every
+year.  There are many shops and public buildings located all around the town
+square.
+~
+0 1
+D0
+~
+~
+0 0 7806
+D1
+~
+~
+0 0 7818
+D2
+~
+~
+0 0 7808
+D3
+~
+~
+0 0 7801
+S
+#7805
+#cTown Square#n~
+Kassar Road leads from the western gate of the city to here. The town
+square opens up to the north south and east. To the east, there is a large
+fountain with crystal blue water. The fountain also has a statue of the
+great god Astinus. Public buildings and other small shops and business
+surround the town square. The town square is busy at every time of the day:
+from high noon to midnight. 
+~
+0 1
+D0
+~
+~
+0 0 7807
+D1
+~
+~
+0 0 7801
+D2
+~
+~
+0 0 7809
+D3
+~
+~
+0 0 7813
+S
+#7806
+#cTown Square#n~
+This is the northeastern corner of the town square.  The town square is a
+large square in the center of Ri'on Dashor.  There are many public buildings
+and shops that surround the town square.  To the east, there is a small cafe
+and to the north there is the Health Services building.  The town square
+itself was made from individually placed bricks that make the square look
+checkered in a light blue with white.
+~
+0 1
+D0
+~
+~
+0 0 7820
+D1
+~
+~
+0 0 7819
+D2
+~
+~
+0 0 7804
+D3
+~
+~
+0 0 7802
+S
+#7807
+#cTown Square#n~
+This is the northwestern corner of the town square. Ri'on Dashor is a
+robust and bustling city. It is the largest city in this region and one of
+the largest in the realm. To the west, there is the town hall and to the
+north the post office lies. The post office is visited almost daily by the
+residents of Ri'on Dashor. 
+~
+0 1
+D0
+~
+~
+0 0 7811
+D1
+~
+~
+0 0 7802
+D2
+~
+~
+0 0 7805
+D3
+~
+~
+0 0 7812
+S
+#7808
+#cTown Square#n~
+This is the southeastern section of the town square.  The town square is
+surrounded by many public buildings and shops.  The town square is also the
+robust and bustling center of the city.  Everyone comes here, from street
+filth to the rich arisocrats.  Strong armed city guards usually patrol the
+city and break up any incidents that happen before most can notice.
+~
+0 1
+D0
+~
+~
+0 0 7804
+D1
+~
+~
+0 0 7901
+D3
+~
+~
+0 0 7803
+S
+#7809
+#cTown Square#n~
+The town square is made from individually bricks, which took myriad of
+skilled builders months to complete. The bricks are light blue or white and
+form a checkered square. To the northeast, there is a large fountain with
+water. Public buildings surround the square and to the south there is a
+courthouse. To the west, the First Bank of Ri'on Dashor lies. 
+~
+0 1
+D0
+~
+~
+0 0 7805
+D1
+~
+~
+0 0 7803
+D2
+~
+~
+0 0 7816
+D3
+~
+~
+0 0 7814
+S
+#7810
+#cNorth Street#n~
+North Street is sort of like the main street in the town. Most visitors
+that enter Ri'on Dashor come from the north. The northern gate is also well
+fortified. North Street is wide and on both sides there are many public
+shops made from bricks or limestones. To the west, the post office building
+stands. 
+~
+0 1
+D0
+~
+~
+0 0 7821
+D2
+~
+~
+0 0 7802
+S
+#7811
+#cPost Office#n~
+This is a nice little room where all the mail in Ri'on Dashohr is
+brought. A counter occupies the northern wall and behind the counter is
+where the postmaster can normally be found. There are several wooden boxes
+for people's mail to be stored. A rider comes in to town on a daily basis
+bringing mail from the outside world. To the south, the town square lies. 
+~
+0 1
+D2
+~
+~
+0 0 7807
+S
+#7812
+#cTown Hall#n~
+The town hall is a sturdy building built of stone and covered with
+limestone. The town hall is also the place where citizens come to complain
+about things in the town. Also, this is where the town officials usually
+are. The town hall is quite a popular place to be and most adult males come
+here atleast once a month. The town hall also extends to the west and to the
+east the town square lies. 
+~
+0 1
+D1
+~
+~
+0 0 7807
+D3
+~
+~
+0 0 7825
+S
+#7813
+#cKassar Road#n~
+Kassar Road leads from the town square west to the western gates of the
+city. Kassar was an ancient warrior who defend Ri'on Dashor while it was
+only a small village. His name was immortalized when they named a road in
+his honor. There are many buildings that are both sides of Kassar Road and
+also several office buildings where the citizens of Ri'on Dashor work. 
+~
+0 1
+D1
+~
+~
+0 0 7805
+D3
+~
+~
+0 0 7823
+S
+#7814
+#cFirst National Bank of Ri'on Dashor#n~
+This is one of the oldest buildings within the city. The bank recently
+had a face lift though and all the exterior and interior walls were covered
+with marble sheets. To the west, there is a large metal door that leads to
+the vault. Who knows what treasures are hidden within the vault? Only two
+people in town are allowed there: the mayor and the bank manager. 
+~
+0 1
+D1
+~
+~
+0 0 7809
+D3
+~
+~
+103 0 7815
+S
+#7815
+#cVault#n~
+This is where all the treasure of the city is kept. Surely it must be
+worth the ransom of hundreds of kings, as Ri'on Dashor is a huge and
+powerful city. There are mountains upon mountains of gold and other things
+of value within the vault. It's amazing anyone other than the mayor and the
+bank manager could get in here. However, there is a strange lethargic feel
+to the bank as if one were slowly dying. 
+~
+0 1
+D1
+~
+~
+103 0 7814
+S
+#7816
+#cCourthouse#n~
+The courthouse is an ancient building that was built at the Ri'on
+Dashor's founding, long ago.  Two large oak doors are to the west, and they
+lead to the courtroom.  To the north, the town square opens up and to the
+south is the entrance to te town jail.  The jail was placed near the
+courthouse so prisoners can be tried right away and so the prisoners have a
+smaller chance to escape.
+~
+0 1
+D0
+~
+~
+0 0 7809
+D2
+~
+~
+0 0 7828
+D3
+~
+~
+0 0 7827
+S
+#7817
+#cSouth Street#n~
+South Street runs north and south through the city. To the west, there
+are large buildings and offices of all sort. To the east, there is a grand
+park that fills the southeastern quarter of the city. The park is transquil
+and serene, a good place to go after a long hard day at work. There is a
+scent of fishes that come from the south, where salt water lies. 
+~
+0 1
+D0
+~
+~
+0 0 7865
+D2
+~
+~
+0 0 7822
+S
+#7818
+#cRazon Avenue#n~
+Razon Avenue cuts through the city horizonatally and leads east to the
+eastern gate. To the west, the town square lies. The town square is a
+massive square with checkered blue and white bricks. The town square is also
+insanely busy and popping: it is the place to be. 
+~
+0 1
+D1
+~
+~
+0 0 7824
+D3
+~
+~
+0 0 7804
+S
+#7819
+#cKedeen's Cafe#n~
+The cafe is small and quaint, but it adds a cozy touch to it. There are
+tables and stools scattered all around the cafe for the patrons to sit.
+Infront of the east wall, there is a small counter with a food display.
+Against the northern and southern walls there are small booths for smaller
+parties to sit, talk and each and have fun. A magical gateway can be found
+behind the bar. 
+~
+0 1
+D3
+~
+~
+0 0 7806
+S
+#7820
+#cRi'on Dashor Health Services#n~
+This is where the wounded come after their combat victories.  The losers
+also make their way here to get healed up for another fight.  Everything
+within the place is white from the sheets to curtains.  Normally, there is a
+healer in here to tend to the wounds of people.  There is a strange sense of
+peace and calmness in here, as if no violence can ever occur.
+~
+0 1
+D2
+~
+~
+0 0 7806
+S
+#7821
+#cNorth Street#n~
+The massive northern gates to Ri'on Dashor can be seen further to the
+north.  The gates are made from a thick and heavy metal and quite resiliant
+to attacks.  To the west, there is the General Store, a place that everyone
+visits.  To the east, there is a small shop known as Mage's Corner, as it is
+also a favorite hang out for those more adept to the mystical arts of magic.
+~
+0 1
+D0
+~
+~
+0 0 7843
+D1
+~
+~
+0 0 7845
+D2
+~
+~
+0 0 7810
+D3
+~
+~
+0 0 7844
+S
+#7822
+#cSouth Street and Beach Avenue#n~
+South Street is a major artery in to Ri'on Dashor. South Street is wide
+and allows caravans to pass through, if needed. To the south, the southern
+gates of the city stand. The gates are made from steel and are reinforced.
+In addition to that, the mages have casted protective spells on the gate to
+ensure it doesnt break. Outside the gates, there is a lovely beach. 
+~
+0 1
+D0
+~
+~
+0 0 7817
+D1
+~
+~
+0 0 7848
+D2
+~
+~
+0 0 7842
+D3
+~
+~
+0 0 7849
+S
+#7823
+#cKassar Road#n~
+Kassar Roads leads east and west through town and leads from the western
+gates to the town square. To the south, is where the vault is located for
+the First National Bank of Ri'on Dashor. To the north, the Public Waterworks
+building lies. To the west, outside of Ri'on Dashor there is a small forest
+between the city and the great ocean. To the northwest, there is a great
+mountain range. 
+~
+0 1
+D1
+~
+~
+0 0 7813
+D3
+~
+~
+0 0 7847
+S
+#7824
+#cRazon Avenue#n~
+Razon Avenue leads east and west, from the town square to the eastern
+gate. Beyond the eastern gate, there is a massive forest that expands for
+countless miles to the east and there is only one major road that leads out
+in that direction. To the north and south, there are many public buildings
+and officies. Also, gas lamps hang from long poles, to make sure the city is
+alive during the night. 
+~
+0 1
+D1
+~
+~
+0 0 7846
+D3
+~
+~
+0 0 7818
+S
+#7825
+#cTown Hall#n~
+The town hall is a fine building built from concrete and the exterior
+walls covered with sheets of limestone. Town officials can frequently be
+found here, if they aren't in their office. The town officials usually come
+to the town hall to explain what's happening in the city to the citizens. In
+the corner, there is an iron stair case that leads up to the office of the
+head official of Ri'on Dashor. 
+~
+0 1
+D1
+~
+~
+0 0 7812
+D4
+~
+~
+0 0 7826
+S
+#7826
+#cMayor Office#n~
+This is the office of the most powerful official in Ri'on Dashor: the
+mayor. There is a large oak desk to the south and an iron staircase lies to
+the west. There are massive windows on all side of the room that open up a
+portal outside of the limestone structure and a grant a view of the outside
+realm. Ri'on Dashor is a massive city and to the east the town square can be
+seen. 
+~
+0 1
+D5
+~
+~
+0 0 7825
+S
+#7827
+#cCourtroom#n~
+To the west there is a large judge's stand. There are many benches in
+the back of the room for family members and friends of the defendant to sit.
+This is where justice is served and death warrants are signed. The judge's
+bench is made from oak along with most other things in the room. To the back
+of the room, there is also a door that leads to the judge's chambers. 
+~
+0 1
+D1
+~
+~
+0 0 7816
+D3
+~
+~
+0 0 7829
+S
+#7828
+#cTown Jail#n~
+This is the threshold to one of the towns most lively and popping areas.
+The jails are always filled with prisoners as the city has harsh laws. There
+is a oak desk in the center of the room, for the officers of justice to
+process the prisoners. There is a stair case to the west that leads down to
+the actual cells. The jail itself is small and not ment to hold many people.
+~
+4 1
+D0
+~
+~
+0 0 7816
+D5
+~
+~
+0 0 7830
+S
+#7829
+#cJudge's Chamber#n~
+There is a massive oak desk at the back of the room. On the western
+wall, there is a window that allows light to enter the dusky room. On all
+the other rooms, there are oak shelves filled with hundreds of books from
+the floor to the ceiling. All of the books are on law and justice, but some
+seem to be on various types of punishment and criminal records of some
+people. 
+~
+0 1
+D1
+~
+~
+0 0 7827
+S
+#7830
+#cHall in Jail#n~
+The corridor is dusky and there is little light here. People don't
+really care about the prisoners, unless they are family members or if the
+prisoners are going to be executed soon. Executions are a public event and
+sometimes the executions are cruel. The only light in the area comes from
+the stair case and from the guard's station to the east 
+~
+0 1
+D0
+~
+jail~
+3 0 7831
+D1
+~
+~
+0 0 7834
+D2
+~
+jail~
+3 0 7832
+D3
+~
+~
+0 0 7835
+D4
+~
+~
+0 0 7828
+S
+#7831
+#cJail Cell#n~
+The jail cell is kept surprisingly clean. A concrete slab comes out of
+the wall to form a bed. The bars on the jail are made from steel and
+impossible for feeble mortals to break. The jail cell is dark and dusty
+however also for the people who stay here it's hard to feel anything but
+depression. 
+~
+0 1
+D2
+~
+~
+3 0 7830
+S
+#7832
+#cJail Cell#n~
+Ri'on Dashor: Jail Cell [Room 59071] The jail cells are cold and damp.
+Also there is no light here. The faith source of light comes from the
+upstairs. A slab of concrete forms what appears to be a bed against the
+second wall. There is a second slab, above the first slab which forms a
+second bed. The jail cells are normally frigid during the night, since they
+are underground. 
+~
+0 1
+D0
+~
+~
+3 0 7830
+S
+#7834
+#cGuard Station#n~
+The guard station is small and queer. The lighting is poor, but atleast
+the guards have lights. There is a small couch against the back wall of the
+guard station. Against the north wall, there is a a small weapons wrack to
+subdue violent prisoners. 
+~
+0 1
+D3
+~
+~
+0 0 7830
+S
+#7835
+#cHall in Jail#n~
+The hallway continues leading east and west through the dark and dank
+jail. To the north and south are the jail cells which hold the prisoners of
+the town. Although, the city officials tend to execute most prisoners before
+they reach their cells, the jail does have seven cells. 
+~
+0 1
+D0
+~
+jail~
+3 0 7836
+D1
+~
+~
+0 0 7830
+D2
+~
+jail~
+3 0 7837
+D3
+~
+~
+0 0 7838
+S
+#7836
+#cJail Cell#n~
+A slab of concrete extends out from the wall to create a bed, which can
+be used as a bench. The prison is filled with moss and other fungi which
+have grown here in the darkness. The prison also has a strange, but horrid
+smell to it. The cell is dark and there is little light which enters the
+cell. 
+~
+0 1
+D2
+~
+~
+3 0 7835
+S
+#7837
+#cJail Cell#n~
+The cell is small and quaint. The bars are made from steel and have been
+coated with a magical substance to ensure no one can break out. The beds
+within the cell are made from a concrete slab which extends out from the
+wall. The beds can also be used as a bench during the day time. There is a
+lone pillow on each of the beds. 
+~
+0 1
+D0
+~
+~
+3 0 7835
+S
+#7838
+#cHall in Jail#n~
+This is the end of the hallway. The hallway leads east back to the guard
+station and the stairs leading up to the city. To the north south and west
+are the cells where prisoners are kept. The cells have steel bars which were
+coated with a magical susbtance to ensure no one breaks out of the jail 
+~
+0 1
+D0
+~
+jail~
+3 0 7839
+D1
+~
+~
+0 0 7835
+D2
+~
+jail~
+3 0 7841
+D3
+~
+jail~
+3 0 7840
+S
+#7839
+#cJail Cell#n~
+The cell is small and dark. The air down in this part of the jail is old
+as there are no place for air to be ventilated. The cells are rarely used
+however, as most prisoners are executed once they have been convicted. The
+city frowns on those who commit crime and thus citizens are quick to execute
+their peers. 
+~
+0 1
+D2
+~
+~
+3 0 7838
+S
+#7840
+#cJail Cell#n~
+This cell is directly opposing the guard station. As a result, there is a
+bit more light within this cell than the other cells. But like the other
+cells, this cell is still in the darkness and is plagued with vermin and
+insects. Sometimes, the rare prisoners who make it into the cell use the
+vermin for food, as the guards rarely serve dinner. Prisoners are given only
+enough food so they can survive till their execution. 
+~
+0 1
+D1
+~
+~
+3 0 7838
+S
+#7841
+#cJail Cell#n~
+The bars to the cell are made from reinforced steel and are incredibly
+durable and strong. The jail is filled with fungus and vermin. Rats flood
+the jail cells and move through the holes in the corner of each cells. The
+jail cells, however, are rarely used by prisoners since most never make it
+into the cell. 
+~
+0 1
+D0
+~
+~
+3 0 7838
+S
+#7842
+#cSouth Gate#n~
+The massive steel gate of Ri'on Dashor stands here. The gate is heavy
+and thick, once closed it's almost invincible. The great mages of the city
+have casted various protective spells on the gate to make sure it can resist
+and sustain magical attacks and is fireproof. South of the gate, there is a
+grand and beautiful beach and boardwalk. 
+~
+0 1
+D0
+~
+~
+0 0 7822
+D2
+~
+gate~
+3 0 7909
+S
+#7843
+#cIntersection of North Street and Wall Road#n~
+~
+0 1
+D0
+~
+gate~
+3 0 7850
+D1
+~
+~
+0 0 7851
+D2
+~
+~
+0 0 7821
+D3
+~
+~
+0 0 7852
+S
+#7844
+#cGeneral Store#n~
+The general store has numerous shelves filled with hundreds of items.
+The shelves are practically bursting out in because they are overloaded with
+items. There is a check out counter before the west wall and in the center
+there is a rack holding more items. The general store is the place to come
+for such things as lanterns and camping equipment. 
+~
+0 1
+D1
+~
+~
+0 0 7821
+S
+#7845
+#cMage Corner#n~
+The area is mostly dark and the walls are painted black.  There are
+glowing artifical spots in on the ceiling and wall, to simulate a look of
+stars.  But could it be that perhaps it's not a simulation and those are the
+stars?  There is a large comfortable couch near the back of the room, or
+what appears to be the back anyways.  There is also a small bar with several
+stools in the room along with several shelves filled with books.
+~
+0 1
+D3
+~
+~
+0 0 7821
+S
+#7846
+#cRazon Avenue and Takhisis Lane#n~
+Razon Avenue is a major artery leading from the east gate, which stands
+to the east, to the town square. The town square is the central hub of the
+region. Every major building is located in the town square. There are many
+lamps that are suspended from long poles which tower in to the air. The
+eastern gate is heavily fortified since that is where Lord Syrius last
+attacked. 
+~
+0 1
+D0
+~
+~
+0 0 7854
+D1
+~
+~
+0 0 7853
+D2
+~
+~
+0 0 7855
+D3
+~
+~
+0 0 7824
+S
+#7847
+#cIntersection of Kassar Road and Myr'Khul Way#n~
+Myr'Khul Way leads north and south from here while Kassar Road leads
+east. To the west, the western gates of the city stands. The gates are made
+from reinforced steel and are protected by magic. Mages from the city are
+quite powerful, specially when they enhance their spells in a circle of
+power and chain together. 
+~
+0 1
+D0
+~
+~
+0 0 7856
+D1
+~
+~
+0 0 7823
+D2
+~
+~
+0 0 7873
+D3
+~
+~
+0 0 7984
+S
+#7848
+#cBeach Avenue#n~
+Beach Avenue continues to run east and west. To the north, there is a
+large park that fills up the entire southeastern quadrant of the city. The
+park is filled with green bushes and tall trees and is an overall nice place
+for people to come and relax. There is a cool wind that comes from the
+south, where the Bay of Dashor is. 
+~
+0 1
+D1
+~
+~
+0 0 7877
+D3
+~
+~
+0 0 7822
+S
+#7849
+#cBeach Avenue#n~
+Beach Avenue runs east and west. To the east, Beach Avenue intersects
+South Street. The avenue is lined with long wooden poles with lanters on
+them. The city is always robust and bustling, even during night time. The
+city jail can be seen to the north and old abandoned buildings are being
+renovated to the south. 
+~
+0 1
+D1
+~
+~
+0 0 7822
+D3
+~
+~
+0 0 7866
+S
+#7850
+#cNorth Gate#n~
+The massive northern gate of the city is here. The mayor expects that
+any attack on Ri'on Dashor would come from the north or the east. The gate
+is made from heavy metal and is reinforced with strong steel. Mages of the
+city have also casted various protective spells on the gate. In times of
+war, the gates are closed and only the mayor can open them. 
+~
+0 1
+D0
+~
+~
+0 0 7951
+D2
+~
+gate~
+3 0 7843
+S
+#7851
+#cWall Road#n~
+There are various shop buildings on both sides of the road. The road
+leads east and west and gas lamps hang from long poles. The street lamps are
+kept lit all night long, to make sure the city is alive during the night.
+Behind the shops to the north there is a massive wall that defends the city
+from invasions from the north. 
+~
+0 1
+D1
+~
+~
+0 0 7879
+D3
+~
+~
+0 0 7843
+S
+#7852
+#cWall Road#n~
+Wall Road runs east and west. To the east, Wall Road intersecs with
+North Street. Also to the east, is the northern gates to the city. Ri'on
+Dashor is a massive city and has entrances on all four sides. Long poles
+line the road going east and west. From the poles, gas lamps hang and
+illuminate the city at night time. 
+~
+0 1
+D1
+~
+~
+0 0 7843
+D3
+~
+~
+0 0 7864
+S
+#7853
+#cEast Gate#n~
+The eastern gate of the city stands here. The east gate is made from
+heavy steel and is reinforced. The last time the city was under siege, the
+eastern gate was never opened and eventually, the armies of Lord Syrius was
+destroyed by Ri'on Dashor's army. The gate is protected from heat and magic,
+via the powerful defensive spells of the city's mages. 
+~
+0 1
+D1
+~
+~
+0 0 7981
+D3
+~
+~
+0 0 7846
+S
+#7854
+#cTakhisis Lane#n~
+A stream of cool wind booms northwards and heads for the great mountains.
+Mountains tower far to the north of the city. The mountains rise in to the
+air and prick the white clouds. Takhisis Lane runs north and south. To the
+south, there is an intersection. There are many shops on both sides of the
+street and to the west, Technomancers Palace is located. 
+~
+0 1
+D0
+~
+~
+0 0 7882
+D2
+~
+~
+0 0 7846
+D3
+~
+~
+0 0 7983
+S
+#7855
+#cTakhisis Lane#n~
+Takhisis Lane runs north and south. To the north, there is an
+intersection. The area is usually cool and dry. There is hardly ever rain
+here, although there is large bay to the south and the ocean is not too far
+to the west. The mountains to the north force the land to be elevated and
+help prevent rain. There are numerous large rivers and artery rivers in the
+forest that surrounds Ri'on Dashor, however. 
+~
+0 1
+D0
+~
+~
+0 0 7846
+D2
+~
+~
+0 0 7874
+S
+#7856
+#cMyr'Khul Way#n~
+The street continues north and south. There is a cool wind that comes
+from the south, where the Bay of Dashor is. There are many buildings and
+officies on both sides of the street. Some of the buildings are old and
+dusty while others are new and made from limestone or bricks. To the south,
+there is an intersection with another street. 
+~
+0 1
+D0
+~
+~
+0 0 7857
+D2
+~
+~
+0 0 7847
+S
+#7857
+#cMyr'Khul Way#n~
+The street runs north and south. The street is lined with gas lantern
+that are suspended in the air from long wooden poles. The lanterns
+illuminate the city at night time. To the east, there is one of the more
+popular shops in town, the weaponsmith. The weaponsmith is usually a
+blacksmith skilled specifically for making weapons. 
+~
+0 1
+D0
+~
+~
+0 0 7859
+D1
+~
+~
+0 0 7858
+D2
+~
+~
+0 0 7856
+S
+#7858
+#cWeaponsmith#n~
+The weaponsmith is a master of making weapons. It is here that the town
+guards are supplied with their weapons. The weaponsmith is skilled in making
+all sort of weapons from daggers to anlaces. The weaponsmith is a fairly
+young man, as alot of strength is needed to lift the hammer to forge
+weapons. The place is usually very hot as high temperatures are required to
+forge weapons. 
+~
+0 1
+D3
+~
+~
+0 0 7857
+S
+#7859
+#cMyr'Khul Way#n~
+Myr'Khul Way leads north and south. To the north, there is an
+intersection with Wall Road. The street leads down running parallel to the
+western wall of the city. The western wall, like all the walls that surround
+the city, towers in to the air and is very slick to prevent people from
+climbing the wall. To the east, there is always a racket and lout noises as
+that is where the blacksmith is. 
+~
+0 1
+D0
+~
+~
+0 0 7861
+D1
+~
+~
+0 0 7860
+D2
+~
+~
+0 0 7857
+S
+#7860
+#cBlacksmith#n~
+This place always polutes the air with noise polution. There is a large
+anvil in the center of the shop and a furnace on the northeast corner. The
+furnace burns well over two thousand degrees. This is where the blacksmith
+takes care of all iron things and mend armor. The shop is always hot as the
+furnace heats things up. On the walls, the blacksmith displays some of his
+craft. 
+~
+0 1
+D3
+~
+~
+0 0 7859
+S
+#7861
+#cCorner of Myr'Khul Way and Wall Road#n~
+There is a strange and disgusting odor here. Perhaps the odor emits from
+the north where the city dump is. To the east, Wall Road runs and to the
+south, Myr'Khul Way runs. There are buildings to the west, but most of them
+are abandoned since the city dump has such a high "aroma."  This is an area
+where children are not generally allowed to come for fear that they may
+enter the dump. 
+~
+0 1
+D0
+~
+~
+0 0 7862
+D1
+~
+~
+0 0 7863
+D2
+~
+~
+0 0 7859
+S
+#7862
+#cCity Dump#n~
+There is a horrible odor to this place. The odor alone would make anyone
+stay a way. This is where Ri'on Dashor dumps it's garbage. The garbage is
+left here to degrade, and when it's not degrading fast enough the city pours
+kerosine on the garbage and light it on fire and watch it burn up in to
+smoke. The dump is walled off with it's own walls and has a gate to the
+south, although the gate is generally left open. 
+~
+0 1
+D2
+~
+~
+0 0 7861
+S
+#7863
+#cWall Road#n~
+There is a cool breeze that comes from the south. On both sides of the
+road, there are numerous office buildings and small shops. Behind the
+buildings which lie to the north, there is a massive wall that towers in to
+the air and protects the city from raids. Also to the north, but miles away,
+great mountains dominate the sky and rise to the clouds. 
+~
+0 1
+D1
+~
+~
+0 0 7864
+D3
+~
+~
+0 0 7861
+S
+#7864
+#cWall Road#n~
+The road continues east and west. There is a cool breeze that comes from
+the south, where the Bay of Dashor is. Far to the north, a great mountain
+range can be seen. Outside the city, on all directions except for the south,
+there is a thick and dense forest. 
+~
+0 1
+D1
+~
+~
+0 0 7852
+D3
+~
+~
+0 0 7863
+S
+#7865
+#cSouth Street#n~
+South Street leads from the southern gate of the city. Beyond the
+southern gate, there is a large beach that is renown through out the world
+and the grand Trackless Sea. To the north, the town square lies and to the
+east there is a beautiful and majestic park. There are many buildings that
+line the west part of the street. 
+~
+0 1
+D0
+~
+~
+0 0 7803
+D2
+~
+~
+0 0 7817
+S
+#7866
+#cBeach Avenue#n~
+To the north, there is a place that has become quite busy around here.
+The engraver has setup shop to the north of here. Many citizens visit the
+engraver as Ri'on Dashor is filled with affluent and wealthy people. The
+engraver is unmatched when it comes to engraving and carving all kind of
+items and ornaments. 
+~
+0 1
+D0
+~
+~
+0 0 7868
+D1
+~
+~
+0 0 7849
+D3
+~
+~
+0 0 7867
+S
+#7867
+#cBeach Avenue#n~
+Beach Avenue runs east and west and parallel to the southern wall of the
+city. The southern wall is a few yards to the south, behind some old shops.
+Ri'on Dashor has never been invaded, although several great warlords of
+attempted the feat. Most recently, Lord Syrius from the east attempted an
+invasion several centuries ago. 
+~
+0 1
+D1
+~
+~
+0 0 7866
+D3
+~
+~
+0 0 7869
+S
+#7868
+#cEngraver's Shop#n~
+This is where the engraver can normally be found. The engraver is quite
+in demand, as engraving names, logos, etc on weapons and armour has become
+popular. All the wealthy aristocrates and the wives have some sort of
+engraved jewelry, and most adventurers have custom designed equipment, made
+be the engraver. There is a sign hanging on the wall. 
+~
+0 1
+E
+sign~
+Welcome to the Engravers shop. Here we can change the look and feel of
+any piece of equipment you like. Just pay us 10 goldcrowns, and any wish you
+may have, we will fullfill. 
+~
+~
+~
+0 0 0
+D2
+~
+~
+0 0 7866
+S
+#7869
+#cMyr'Khul Way and Beach Avenue#n~
+Both Myr'Khul Way and Beach Avenue come to an intersection here. It is
+possible to go north or east from here. There are several shops and old
+buildings to the west and south. To the south, behind a few shops and the
+massive wall that protects the city, there is a beautiful beach with golden
+sands. 
+~
+0 1
+D0
+~
+~
+0 0 7870
+D1
+~
+~
+0 0 7867
+S
+#7870
+#cMyr'Khul Way#n~
+To the east, there is the enchanters shop. Ri'on Dashor has skilled
+enchanter who allowed for the creation of such a grand city. Along with the
+aid of the engraver, Ri'on Dashor has become a marvelous city to look at.
+The street continues south where there is a corner and intersection with
+Beach Avenue. 
+~
+0 1
+D0
+~
+~
+0 0 7872
+D1
+~
+~
+0 0 7871
+D2
+~
+~
+0 0 7869
+S
+#7871
+#cThe Enchanter Shop#n~
+The enchanters shop is littered with precious gemstones, scrolls and
+stacks of paper, as well as jars with unspeakable contents. Amidst the chaos
+a small, fat, robed man is working hard on some experiment. 
+ 
+~
+0 1
+D3
+~
+~
+0 0 7870
+S
+#7872
+#cMyr'Khul Way#n~
+There are many old buildings that litter the area on both sides of the
+street. To the north, miles beyond the city, the great mountains can be seen
+reaching for the clouds and piercing some of the clouds with their white
+peaks. Outside the city, on all sides save the south, there is a massive
+forest of great trees. 
+~
+0 1
+D0
+~
+~
+0 0 7873
+D2
+~
+~
+0 0 7870
+S
+#7873
+#cMyr'Khul Way#n~
+There is a cool breeze that comes from the south. To the west, behind
+some old office buildings, there is a large wall that towers in to the air.
+The wall is tall and slick to prevent people from climbing it. No one, has
+ever managed to invade Ri'on Dashor. The guards have helepolis and ballista
+towers in the forest outside the city. Also, there is a large standing army
+of soldiers kept in a base outside the city. 
+~
+0 1
+D0
+~
+~
+0 0 7847
+D2
+~
+~
+0 0 7872
+S
+#7874
+#cTakhisis Lane#n~
+To the west, there is an entrance in to the park. Takhisis Lane continues
+north and south. To the east, there are several old abandoned buildings that
+are currently under renovation. It seems that the city is always under
+renovation. A cool wind comes from the south where the Trackless Dashor is. 
+~
+4 1
+D0
+~
+~
+0 0 7855
+D2
+~
+~
+0 0 7875
+D3
+~
+~
+0 0 7904
+S
+#7875
+#cTakhisis Lane#n~
+Takhisis Lane runs north and south, parallel to the east wall. Ri'on
+Dashor is surrounded by a massive square wall. The wall is tall and slick,
+to prevent anyone from scaling the wall. To the west, there is a lovely park
+which takes up an entire fourth of the city. Ri'on Dashor is always busy and
+popping with things and citizens love to come in the park after a hard day
+of work. 
+~
+0 1
+D0
+~
+~
+0 0 7874
+D2
+~
+~
+0 0 7876
+S
+#7876
+#cTakhisis Lane and Beach Avenue#n~
+This is the southeastern corner of the grand city. Although there are
+some shops to the east and south, they are mostly closed and privately
+owned. Takhisis Lane runs north and leads to the arena. Takhisis is a
+five-headed dragon and a great goddess of chaos. There is a cool breeze that
+blasts north from the south. 
+~
+0 1
+D0
+~
+~
+0 0 7875
+D3
+~
+~
+0 0 7878
+S
+#7877
+#cBeach Avenue#n~
+The avenue continues east and west. There are several old buildings to
+the south, but they are being renovated. Street lamps hang from wooden poles
+and allow the city to shine in the night. To the north, there is a large
+park for people to come and relax. Also, during the day children come and
+play their games in the park. 
+~
+4 1
+D0
+~
+~
+0 0 7906
+D1
+~
+~
+0 0 7878
+D3
+~
+~
+0 0 7848
+S
+#7878
+#cBeach Avenue#n~
+There is a cool breeze that comes from the south, where the Bay of
+Dashor is. To the north, there is a large park. Directly to the south, there
+are several old buildings which are being renovated. Behind the buildings,
+there is a massive fence to block invaders from coming in to the city. Ri'on
+Dashor has never been invaded, although many have tried. 
+~
+0 1
+D1
+~
+~
+0 0 7876
+D3
+~
+~
+0 0 7877
+S
+#7879
+#cWall Road#n~
+To the north, there is a small stable for riders to keep their horses.
+Also, mail carriers leave their horses in the stable, while they are in
+town. The stable is a large business and can make a person quite affluent.
+There are some old office buildings to the south and Wall Road continues
+east and west. Beyond the stables to the north, there is a tall metal wall
+that protects the city from outsiders. 
+~
+0 1
+D0
+~
+~
+0 0 7982
+D1
+~
+~
+0 0 7880
+D3
+~
+~
+0 0 7851
+S
+#7880
+#cWall Road#n~
+Wall Road continues east and west. To the east, Wall Road intersects with
+Takhisis Lane. Also the east, there is also an entrance in to the arena.
+There is a gentle wind that blasts past and heads north. North of the city,
+there is a massvie forest and then a great mountain range. The mountains
+dominate the sky. 
+~
+0 1
+D1
+~
+~
+0 0 7881
+D3
+~
+~
+0 0 7879
+S
+#7881
+#cIntersection of Wall Road and Takhisis Lane#n~
+The entrance to the arena lies to the northeast. The arena is a place
+where young men, and women go to train in combat and enhanced their skills.
+Takhisis Lane runs to the south and Wall Road leads to the west. The streets
+are lit with hanging lamps at night time and keep the place lively. There
+are many shops and buildings on both streets and to the east and north. 
+~
+0 1
+D2
+~
+~
+0 0 7884
+D3
+~
+~
+0 0 7880
+S
+#7882
+#cTakhisis Lane#n~
+To the west, the public library is. The library is a good place to learn
+new spells or find many books on various subjects. However, the library is
+rather small specially when compared to a larger library like the Library of
+Astinus. To the east, there are several old buildings that are being
+renovated by the many work crews that the city hires. Outside the eastern
+wall of the city there is a large forest that expands to the east for
+countless miles. 
+~
+0 1
+D0
+~
+~
+0 0 7884
+D2
+~
+~
+0 0 7854
+D3
+~
+~
+0 0 7883
+S
+#7883
+#cLibrary#n~
+There are numerous book shelves here along with wooden shelves that stand
+in the center of the room. The shelves are filled with hundreds of books for
+people to buy and check out. There is a counter near the back of the room,
+where the librarian stands and sells books. Also sold here are blanks pages
+for people to scribe on and write their own books. 
+~
+0 1
+D1
+~
+~
+0 0 7882
+S
+#7884
+#cTakhisis Lane#n~
+To the west is the old apothecary shop, now closed due to the lack of
+business. To the north, there is an intersection between Takhisis Lane and
+Wall Road. The entrance to the arena is also located to the north. The arena
+is an area where people, young and old, can spar and improve their skills. A
+cool wind comes from the north and heads southwards. 
+~
+0 1
+D0
+~
+~
+0 0 7881
+D2
+~
+~
+0 0 7882
+S
+#7885
+#rEntrance to the Arena#n~
+There is an iron stairwell in the northeastern corner that leads up to an
+iron platform. Once in to the arena, there is no way out other than death.
+The iron platform takes competitors in to the center of the arena. The arena
+is a huge circular structure that is filled in with dirt. To the southwest,
+there is an intersection between two streets of Ri'on Dashor 
+~
+0 10
+D4
+~
+~
+0 0 7886
+S
+#7886
+#rIron Platform#n~
+To the northeast, located on the iron platform is a portal which leads
+into the arena. Once transported into the arena, one must fight until they
+die. There are reportedly no ways out of the arena other than death. It is
+possible to exit the arena from here, by heading down and then entering the
+exit. 
+~
+0 10
+D5
+~
+~
+0 0 7885
+S
+#7887
+#rCenter of the Arena#n~
+This is the center of the arena. The arena expands north northeast
+northwest south southeast southwest west and east. The dirt floor of the
+arena is covered with blood. The arena walls are stained with blood also.
+The arena wall is made from a light-blue or gray rock and like the wall that
+encompasses Ri'on Dashor, there is a thin strip of pure gold near the top of
+the wall. 
+~
+0 10
+D0
+~
+~
+0 0 7888
+D1
+~
+~
+0 0 7890
+D2
+~
+~
+0 0 7889
+D3
+~
+~
+0 0 7891
+D5
+~
+trapdoor~
+7 0 7900
+S
+#7888
+#rArena#n~
+Blood is spilled on to the arena floor, which is made from dirt. The
+arena is arid and a cool wind usually comes from the south. From here, it is
+possible to go south southeast southwest east west and north. To the
+northeast and northwest, the walls of the arena can be seen. The walls are
+tall and appear to be made from bluestone. 
+~
+0 10
+D0
+~
+~
+0 0 7897
+D1
+~
+~
+0 0 7894
+D2
+~
+~
+0 0 7887
+D3
+~
+~
+0 0 7892
+S
+#7889
+#rArena#n~
+The arena is out in the open. The floor of the arena is filled with dirt,
+which can absorb some falls and also absorb the blood of warriors. Shattered
+armor and broken swords or spears can be found on the floor of the arena all
+the time. Sometimes chips and peices of bones, from previous competitors can
+be found. Blood and guts are all over the place. 
+~
+0 10
+D0
+~
+~
+0 0 7887
+D1
+~
+~
+0 0 7895
+D2
+~
+~
+0 0 7899
+D3
+~
+~
+0 0 7893
+S
+#7890
+#rArena#n~
+The arena is usaully warm, but a cool wind blows from the south. The
+arena is filled with rotten corpses of various warriors who have fallen in
+combat. Most of the time, the arena is used only for sparring, but some
+people take spars too far. There are many flies in the area, waiting for a
+new corpse to infest. 
+~
+0 10
+D0
+~
+~
+0 0 7894
+D1
+~
+~
+0 0 7896
+D2
+~
+~
+0 0 7895
+D3
+~
+~
+0 0 7887
+S
+#7891
+#rArena#n~
+The arena expands in all directions except northwest and southwest. The
+arena walls are made from bluestone and on the top of the wall, there is a
+thin strip of pure gold, to show of the city's strength and power. The odor
+of dried blood and dead corpses stink the air. The arena is usually very
+busy and fighters can always be found within the arena. 
+~
+0 10
+D0
+~
+~
+0 0 7892
+D1
+~
+~
+0 0 7887
+D2
+~
+~
+0 0 7893
+D3
+~
+~
+0 0 7898
+S
+#7892
+#rArena#n~
+Spectators look in to the arena from the iron platform which contestants
+use to enter the arena. Sometimes, spectators boo at the contestants for
+their poors skills. The arena is filled with the guts and limbs of fallen
+warriors who were not able to defend themselves. The arena is closed in by a
+large wall which appears to look blue or a light-gray. 
+~
+0 10
+D1
+~
+~
+0 0 7888
+D2
+~
+~
+0 0 7891
+S
+#7893
+#rArena#n~
+The iron platform which leads in to the arena is directly overhead. The
+center of the arena is northeast from here. There are a few corpses of old
+and forgotten warriors against the wall, which is southwest of here. The
+arena walls seem to be made from bluestone and tower in to the air. The
+arena floor is made from dirt and can cushion the falls of some of the
+combatants. 
+~
+0 10
+D0
+~
+~
+0 0 7891
+D1
+~
+~
+0 0 7889
+S
+#7894
+#rArena#n~
+Shattered shields and the remnants of heavy armor rest on the dirt floor.
+Blood stains the wall to the northeast and flies infest all the corpses in
+the area. At the age of thirteen, every young man in the city of Ri'on
+Dashor must watch one of the brutal fights that take place in the arena.
+Most arena fights always end up with atleast one person dead. 
+~
+0 10
+D2
+~
+~
+0 0 7890
+D3
+~
+~
+0 0 7888
+S
+#7895
+#rArena#n~
+The walls of the arena are made from bluestone and tower in to the air.
+The walls are tall and slick, the mages of the city have casted a powerful
+spell to make the walls resilient, to make sure people don't scale the wall.
+Blood and guts are spilled everywhere in to the arena and occasionally there
+are few limbs and other body parts on the arena floor. 
+~
+0 10
+D0
+~
+~
+0 0 7890
+D3
+~
+~
+0 0 7889
+S
+#7896
+#rArena#n~
+This is one of the four corners in the arena and the eastern most point.
+There are always a few corpses here, because when some fighters are cornered
+they can not get out and they die a painful death. The walls of the arena
+are stained with blood and in the center of the area there is a pool of
+freshly spilled blood. 
+~
+0 10
+D3
+~
+~
+0 0 7890
+S
+#7897
+#rArena#n~
+This is the nothern most point in the arena. Walls from the east and west
+form a corner north of here. The walls are stained with the blood of people
+who have fallen in the arena. The walls are barely ever cleaned and the
+arena has a horrible smell from the blood. There is a cool gentle wind that
+comes from the south and carries away the the foul smell of the area. 
+~
+0 10
+D2
+~
+~
+0 0 7888
+S
+#7898
+#rArena#n~
+This is the western most point in the arena. Here are the corner there is
+always a corpse or two to be found. Only skilled warriors should enter the
+arena and expect to survive. The guards of Ri'on Dashor use the arena
+occasionally to practice on their own skill and to make sure they are in
+prime fighting shape. 
+~
+0 10
+D1
+~
+~
+0 0 7891
+S
+#7899
+#rArena#n~
+This is the southern most point in the arena. The iron platform lies
+overhead slightly to the north of here. There is a small pool of fresh
+blood, from one of the combatants, in the corner here. Flies feed on the
+many corpses found within the arena. Young warriors come here to spar and
+practice while some prisoners are executed inside the arena. 
+~
+0 10
+D0
+~
+~
+0 0 7889
+S
+#7900
+#rBelow the Arena#n~
+This is the only exit from the arena. In the center of the room, there is
+a portal that leads back to center of Ri'on Dashor. The room is dark and the
+only other way out of the area is through the trapdoor which is above. There
+is nothing else in the room, other than the portal and darkness. 
+~
+0 10
+D4
+~
+~
+7 0 7887
+S
+#7901
+#cPark Trail#n~
+The park is a small little area in the southeast quadrant of the city
+where there are many green and scenic places. There is a small twisting and
+turning trail that leads through out the park. The trail has turn here, in
+fact and goes west to south. There are many rare and exotic plants within
+the park along with tall timber trees and maple trees. The park is a safe
+place for the town's children to have fun in the day and for parents to come
+and relax after work. 
+~
+4 1
+D1
+~
+~
+0 0 7902
+D2
+~
+~
+0 0 7903
+D3
+~
+~
+0 0 7808
+S
+#7902
+#cPark#n~
+The park is filled with lush green grass and is filled with hundreds of
+trees. There is a cool wind that comes from the south and rustles the
+leaves. The park trail lies to the south and west. There are many plants in
+the area, some rare and exotic. Plants like the hibiscus release a pleasant
+aroma in to the air. 
+~
+0 1
+D2
+~
+~
+0 0 7904
+D3
+~
+~
+0 0 7901
+S
+#7903
+#cPark Trail#n~
+The trail through the park twists and turns here, as it does everywhere.
+The trail exits to the north and east. There are benches all around the
+park, for people to sit and relax. There are many large trees here that
+block out the harmful rays of the sun and also add a favourable scent to the
+air. There is a grand fountain here, with a statue of the goddess Loviatar. 
+~
+0 1
+D0
+~
+~
+0 0 7901
+D1
+~
+~
+0 0 7904
+D3
+~
+~
+0 0 7908
+S
+#7904
+#cPark Trail#n~
+There is an entrance in to the park here to the east. The trail leads
+south and west, through a scenic area. There are many trees and bushes here
+along with a nice odor. Generally there is a cool wind that comes from the
+Bay of Dashor, which lies south of the grand city. Normally, children run
+and play on the park grounds and are kept safe by the town guards which
+patrol all of Ri'on Dashor. 
+~
+0 1
+D0
+~
+~
+0 0 7902
+D1
+~
+~
+0 0 7874
+D2
+~
+~
+0 0 7905
+D3
+~
+~
+0 0 7903
+S
+#7905
+#cPark Trail#n~
+The park trail curves and leads north and west from here. There is a cool
+wind that comes from the Bay of Dashor, which is south of the city. Guards
+frequently patrol the park, but there is never a need for guards within
+Ri'on Dashor. Birds make their houses within the tall trees that are in the
+park and they sing their lovely music during the day and keep everyone
+entertained. 
+~
+0 1
+D0
+~
+~
+0 0 7904
+D3
+~
+~
+0 0 7906
+S
+#7906
+#cPark Trail#n~
+This is one end of the park. The trail leads east from here and to the
+south is one of the city streets that run east and west. There are many
+green and scenic places here. Also, there are many flowers, most of which
+emit a blissful and wonderful aroma in to the air. The perfume of the plants
+overwhelm the smell of the sea, which lies a few hundred yards to the south.
+~
+0 1
+D1
+~
+~
+0 0 7905
+D2
+~
+~
+0 0 7877
+D3
+~
+~
+0 0 7907
+S
+#7907
+#cPark#n~
+The park is filled with lovely green grass. There are numerous trees in
+the area too and flowers. One of the flower plant, known as Lady of Night,
+gives out a pleasant aroma during the night time. There is a cool wind that
+comes from the south, where the Bay of Dashor is. The park is a tranquil
+place and very peaceful and relaxing. 
+~
+0 1
+D0
+~
+~
+0 0 7908
+D1
+~
+~
+0 0 7906
+S
+#7908
+#cPark#n~
+This part of the park is a large open field, although there are a few
+trees that surround the field. Youth of the town spend their free time here
+practicing sports and some of the older children practice their jousting
+skills, with wooden weapon, although jousting is generally only done in the
+arena. 
+~
+0 1
+D1
+~
+~
+0 0 7903
+D2
+~
+~
+0 0 7907
+S
+#7909
+#oBoardwalk#n~
+The massive steel gates that lead to Ri'on Dashor are to the north. The
+gates are protected by magic and impregnable. A boardwalk runs east and
+west. On the boardwalk there are many small shops and buildings. To the
+south, there is a massive beach and then the Trackless Sea. There is a cool
+wind that comes from the south, and in the center of the bay there is a
+large island. 
+~
+0 1
+D0
+~
+gate~
+3 0 7842
+D1
+~
+~
+0 0 7910
+D2
+~
+~
+0 0 7928
+D3
+~
+~
+0 0 7917
+S
+#7910
+#oBoardwalk#n~
+The wooden planks of the boardwalk continue east and west. To the north,
+there is a small resturant where fresh fish is served daily to the public.
+South of the boardwalk there is a lovely beach filled with golden sand. The
+rays of the sun blasts at everything here and scorch the sand. 
+~
+0 1
+D0
+~
+~
+0 0 7911
+D1
+~
+~
+0 0 7912
+D2
+~
+~
+0 0 7929
+D3
+~
+~
+0 0 7909
+S
+#7911
+#oSushi Resturant#n~
+There are various stables and chairs that in this small quaint shop. The
+shop has a warm cozy feeling to it, however. There are two large counters in
+the back of the room, where the sushi is brought out and served. All the
+fish found is here is fresh. Many people come here for dinner or lunch. Only
+skilled chefs can serve puffer fish, as it can be poisonous. 
+~
+0 1
+D2
+~
+~
+0 0 7910
+S
+#7912
+#oBoardwalk#n~
+The boardwalk continues east and west. There is a cool breeze that comes
+from the south. The beach is known throughtout the realm and it is quite
+popular since it hardly ever rains in Ri'on Dashor. Though there are many
+lush forests outside the city, they are not formed by relentless rain,
+instead there are many rivers in this part of the world. 
+~
+0 1
+D1
+~
+~
+0 0 7913
+D2
+~
+~
+0 0 7930
+D3
+~
+~
+0 0 7910
+S
+#7913
+#oBoardwalk#n~
+To the north, there is an old building which is Foenix Tavern. However,
+the threshold to the tavern is to the east. The boardwalk also ends east of
+here. To the south, there is a massive beach that is usually filled with
+hundreds of tourists and sometimes sea creatures come on to the beach. 
+~
+0 1
+D1
+~
+~
+0 0 7914
+D2
+~
+~
+0 0 7931
+D3
+~
+~
+0 0 7912
+S
+#7914
+#oBoardwalk#n~
+A small stone wall rises to the east, to show that the boardwalk no
+longer continues. To the north, there is a small tavern. Foenix Tavern is
+quite a popular place to be, when one is at the beach. Although the local
+law enforcements officially prohibit alcohol on the beach, no one really
+cares. There are always wild and extravagant parties here. 
+~
+4 1
+D0
+~
+~
+0 0 7915
+D2
+~
+~
+0 0 7932
+D3
+~
+~
+0 0 7913
+S
+#7915
+#oFoenix Tavern#n~
+The tavern has a strange smell to it. The floor is stained with alcohol,
+although the alcohol evaporates rather fast, the smell still lingers. There
+are several stools in the area, for people to come and sit. There is a large
+bar near the back of the room. The tavern also extends to the west, where
+there are more stools and a few tables with chairs. 
+~
+0 1
+D2
+~
+~
+0 0 7914
+D3
+~
+~
+0 0 7916
+S
+#7916
+#oFoenix Tavern#n~
+The odor of alcohol is in the air and on the floor there are many peices
+of shattered glass. There are several stools and chairs scattered around the
+area. Also, there are a few large tables for people to sit around. The
+tavern is the place to be at night. 
+~
+0 1
+D1
+~
+~
+0 0 7915
+S
+#7917
+#oBoardwalk#n~
+There is a cool breeze that comes from the Bay of Dashor, which is to the
+south. The bay is massive and in the center of the bay, there is a small
+island filled with tall trees. The waters of the bay are normally cool and
+refreshing. There are many creatures within the bay, and sometimes some of
+the crabs from the bay come on shore. To the north, there is a small guard
+station for the beach guards. 
+~
+0 1
+D0
+~
+~
+0 0 7918
+D1
+~
+~
+0 0 7909
+D2
+~
+~
+0 0 7927
+D3
+~
+~
+0 0 7919
+S
+#7918
+#oGuard Station#n~
+The guard station is a fairly sturdy building. There is a couch to the
+back and a weapons rack against the east wall. The guards hardly ever need
+to use weapons, however, since most of them are big sinew men and can take
+down most criminals or intruders in seconds with brute strength. The guards
+also serve as a vanguard to any advancing marines of some enemy. 
+~
+0 1
+D2
+~
+~
+0 0 7917
+S
+#7919
+#oBoardwalk#n~
+The boardwalk runs east and west. To the south, there is a large beach.
+The beach is filled with golden sand. The massive Trackless Sea is to the
+south and within the bay there is a large island. The sky is almost always
+blue and it never has rain clouds. Sometimes there are a few puffy white
+clouds, but it doesn't rain. 
+~
+0 1
+D1
+~
+~
+0 0 7917
+D2
+~
+~
+0 0 7926
+D3
+~
+~
+0 0 7920
+S
+#7920
+#oBoardwalk#n~
+To the north, there is a shop for fishermen to get their supplies before
+heading out in to the bay. The sun usually razes everyone and everything
+that is here. The sand to the south is always hot. Many people flock to this
+beach since it never rains and the grand city of Ri'on Dashor lies north of
+it. 
+~
+0 1
+D0
+~
+~
+0 0 7921
+D1
+~
+~
+0 0 7919
+D2
+~
+~
+0 0 7925
+D3
+~
+~
+0 0 7922
+S
+#7921
+#oSupply Store#n~
+The store contains many supplies and things every fisherman needs. There
+are various things here from fishing rods to harpoons. There is a small
+counter in the back. The shop keeper normally stands behind the counter. The
+store is small and quaint and there is bad lighting, but only fishermen come
+in here. Before every fishing trip, it's normal procedure for a fisherman to
+come here, infact. 
+~
+0 1
+D2
+~
+~
+0 0 7920
+S
+#7922
+#oBoardwalk#n~
+This is the end of the boardwalk. To the west, there is a small stone
+wall. North of here, there is a store that sells only shells. A cool breeze
+blasts north from the south and some sand spills over on to the boardwalk.
+The ocean waters crash against rocks, which are west of the beach. North of
+the boardwalk, the grand city of Ri'on Dashor stands. Ri'on Dashor is the
+largest city in the region. 
+~
+0 1
+D0
+~
+~
+0 0 7923
+D1
+~
+~
+0 0 7920
+D2
+~
+~
+0 0 7924
+S
+#7923
+#oShell Shop#n~
+Hundreds of shells are solde from here. The shells within the shop are
+different colors and different shapes. Some say these shells are magical and
+posses special powers. Shells are found in theb each and some of them can be
+sold for alot of money. Ancient shamans, long ago, used shells to perform
+their rituals and cast spells. 
+~
+0 1
+D2
+~
+~
+0 0 7922
+S
+#7924
+#oBeach#n~
+The beach is normally flooded with hundreds of tourists. The waters of
+the bay are cool and refreshing. The sky is always blue. People come out
+here to perfect their tan and soak in the rays of the sun. Seagulls and
+other birds can normally be seen above the bay searching for food. Sometimes
+there are a few eagles, which come from the north where the great mountains
+are. 
+~
+0 10
+D0
+~
+~
+0 0 7922
+D1
+~
+~
+0 0 7925
+D2
+~
+~
+0 0 7941
+S
+#7925
+#oBeach#n~
+The beach is normally dry and never humid. The city gets it's supply of
+water through underground pipes which come lead from a water reservoir. The
+boardwalk lies to the north and runs east and west. The sky is always a
+brillaint blue and night the sky turns to a dark navy color and the starts
+in the sky sparkle and glimmer. 
+~
+0 10
+D0
+~
+~
+0 0 7920
+D1
+~
+~
+0 0 7926
+D2
+~
+~
+0 0 7940
+D3
+~
+~
+0 0 7924
+S
+#7926
+#oBeach#n~
+The beach expands to the east west and south. The waters of the bay lie
+to the south, along with many creatures that live in the bay. Sometimes,
+tourists have been able to spot orcs and dolphins within the bay waters, but
+this is usually during winter. It never really gets cold here, anything
+below forty degrees and the citizens think the gods are out to get them. 
+~
+0 10
+D0
+~
+~
+0 0 7919
+D1
+~
+~
+0 0 7927
+D2
+~
+~
+0 0 7939
+D3
+~
+~
+0 0 7925
+S
+#7927
+#oBeach#n~
+Seagulls fly in the sky above and sometimes land on the beach. Sometimes
+when a great wave comes, water is spilled as far as here. The waves
+frequently bring in sea weeds and other small things. Legend has it that
+within the Bay of Dashor, a ship laden in treasures from the ancients was
+sunk. Ancient relics of great power are suppose to be hidden deep within the
+bay waters. 
+~
+0 10
+D0
+~
+~
+0 0 7917
+D1
+~
+~
+0 0 7928
+D2
+~
+~
+0 0 7938
+D3
+~
+~
+0 0 7926
+S
+#7928
+#oBeach#n~
+The massive gates that lead in to the city of Ri'on Dashor can be seen to
+the north. The gates are made from steel and are protected by the fine mages
+which call the city home. Never has Ri'on Dashor been invaded, although many
+people have attempted to raid the city. Lord Syrius was the last warlord to
+try, but he failed miserably. 
+~
+0 10
+D0
+~
+~
+0 0 7909
+D1
+~
+~
+0 0 7929
+D2
+~
+~
+0 0 7937
+D3
+~
+~
+0 0 7927
+S
+#7929
+#oBeach#n~
+At high noon the heat here can become unbearable. The suns unleashes it's
+wrath in the form of heat and beats down on the sand. The sky is normally
+blue and it never rains here, although it gets to be incredibly hot, it's
+not very humid. Although, occasionally there is a monsoon or two. The great
+walls to Ri'on Dashor can be seen north of here, behind a few shops. The
+wall is tall and slick and has a strip of gold running horizontally, near
+the top. 
+~
+0 10
+D0
+~
+~
+0 0 7910
+D1
+~
+~
+0 0 7930
+D2
+~
+~
+0 0 7936
+D3
+~
+~
+0 0 7928
+S
+#7930
+#oBeach#n~
+A gentle wind rushes north from the south. The great mountains can be
+seen north of the city, miles upon miles away. The mountains rise in to the
+air and their white peaks pierce the clouds. It hardly ever rains in Ri'on
+Dashor, or on the beach. The ocean waves can be heard, crashing against the
+rocks which are on both sides of the beach. 
+~
+0 10
+D0
+~
+~
+0 0 7912
+D1
+~
+~
+0 0 7931
+D2
+~
+~
+0 0 7935
+D3
+~
+~
+0 0 7929
+S
+#7931
+#oBeach#n~
+The beach is normally flooded with hundreds of tourists. And in the
+evening the citizens of Ri'on Dashor normally come out to the beach. To the
+north, a boardwalk expands east and west. There are several shops and
+business on the boardwalk. The beach is filled with hot golden sand. There
+is a cool wind that comes from the south. 
+~
+0 10
+D0
+~
+~
+0 0 7913
+D1
+~
+~
+0 0 7932
+D2
+~
+~
+0 0 7934
+D3
+~
+~
+0 0 7930
+S
+#7932
+#oBeach#n~
+The beach is filled with lovely golden sand. The sun usually beats down
+on the beach with unbearable heat, but for the tourists, this is good
+weather. The Bay of Dashor can be seen to the south, with light blue water.
+Beyond the forest which lies west of the city, the great ocean expands for
+countless miles. 
+~
+0 10
+D0
+~
+~
+0 0 7914
+D2
+~
+~
+0 0 7933
+D3
+~
+~
+0 0 7931
+S
+#7933
+#oBeach#n~
+A cool gentle breeze comes from the south. The bay waters are cool and
+pristine. During the day, several large ships can be seen coming in and out
+of the bay. In the center of the bay, there is a large island filled with
+trees. In some of the stories, within the library, it is said that great
+treasures are hidden within the Bay of Dashor. 
+~
+0 10
+D0
+~
+~
+0 0 7932
+D2
+~
+~
+0 0 7950
+D3
+~
+~
+0 0 7934
+S
+#7934
+#oBeach#n~
+The beach is renown throughout the realm. When people come to Ri'on
+Dashor, they usually come and visit the beach. Ri'on Dashor is a robust and
+bustling city. Ri'on Dashor was built millenia ago, when sailors came from
+the west. North of the beach, before the city, there is a small boardwalk
+filled with a few shops and buildings. 
+~
+0 10
+D0
+~
+~
+0 0 7931
+D1
+~
+~
+0 0 7933
+D2
+~
+~
+0 0 7949
+D3
+~
+~
+0 0 7935
+S
+#7935
+#oBeach#n~
+The beach is filled with several tons of golden sand. A gentle cool wind
+comes from the south and blows north. Sometimes, several large and massive
+ships can be seen coming in and out of the bay. The great ocean lies just
+west of the bay and the ocean expands for hundreds upon hundreds of miles
+with no sign of land. 
+~
+0 10
+D0
+~
+~
+0 0 7930
+D1
+~
+~
+0 0 7934
+D2
+~
+~
+0 0 7948
+D3
+~
+~
+0 0 7936
+S
+#7936
+#oBeach#n~
+At high tide, the waters from the bay sometime spill as far north as
+here. Sea weeds are brought in from the bay all the time. Seagulls fly in
+the air above along with other birds, such as eagles from the mountains,
+which lie to the north of the town. In the center of the bay, there is a
+large island filled with trees. 
+~
+0 10
+D0
+~
+~
+0 0 7929
+D1
+~
+~
+0 0 7935
+D2
+~
+~
+0 0 7947
+D3
+~
+~
+0 0 7937
+S
+#7937
+#oBeach#n~
+North of here, the massive southern gates of Ri'on Dashor stand. Ri'on
+Dashor is the largest city in the region and definately the most powerful.
+Ri'on Dashor has a massive standing army and the city has many strong
+guards. Vanguards of Ri'on Dashor are also posted all over the place. The
+city has massive gates on four sides and is surrounded by a tall wall. 
+~
+0 10
+D0
+~
+~
+0 0 7928
+D1
+~
+~
+0 0 7936
+D2
+~
+~
+0 0 7946
+D3
+~
+~
+0 0 7938
+S
+#7938
+#oBeach#n~
+During the day, the sun usually beats down on everything and everyone
+that is on the beach. The sun's powerful rays turn to the beach in to an
+oven, but still tourists come to the beach. Far to the north, great
+mountains can be seen towering in the air and covering the skyline. 
+~
+0 10
+D0
+~
+~
+0 0 7927
+D1
+~
+~
+0 0 7937
+D2
+~
+~
+0 0 7945
+D3
+~
+~
+0 0 7939
+S
+#7939
+#oBeach#n~
+The beach expands to the east west and south. A cool wind from the south
+sometimes blow the golden sand of the beach north on to the boardwalk. At
+night, moon light is reflected off of the bay waters and it creates an
+amazing sight. The bay water is pristine and refreshing. 
+~
+0 10
+D0
+~
+~
+0 0 7926
+D1
+~
+~
+0 0 7938
+D2
+~
+~
+0 0 7944
+D3
+~
+~
+0 0 7940
+S
+#7940
+#oBeach#n~
+The beach is filled with hundreds of tons of golden sand. Sometimes sea
+weed can be found in the sand, when high tide brings it in from deep within
+the bay. A large island is in the center of the bay. There is a cool wind
+that comes from the bay and the sky is always blue, although there are
+sometimes a few puffy white clouds. 
+~
+0 10
+D0
+~
+~
+0 0 7925
+D1
+~
+~
+0 0 7939
+D2
+~
+~
+0 0 7943
+D3
+~
+~
+0 0 7941
+S
+#7941
+#oBeach#n~
+The hot sand of the beach is arid and moistureless. The sun's powerful
+rays scorch the sand. The golden sand on the beach was created millions of
+years ago and now it serves as the perfect place for tourists to come and
+sit. There is a cool wind that emits deep within the bay and rushes this
+way. To the west, ocean waves crash against the rocks and spray a mist of
+water here. 
+~
+0 10
+D0
+~
+~
+0 0 7924
+D1
+~
+~
+0 0 7940
+D2
+~
+~
+0 0 7942
+S
+#7942
+#oSurf#n~
+To the west, there are large rocks that prevent the coast from being
+eroded. As ocean waves crash against the rocks, a mist of water is sprayed
+in to the air. The waters of the bay are cool and during the winter it is
+even nippy. West of the beach, there is a large forest. Far to the north,
+the great mountains rise in to the air. 
+~
+0 7
+D0
+~
+~
+0 0 7941
+D1
+~
+~
+0 0 7943
+S
+#7943
+#oSurf#n~
+The salty water of the bay smash the beach here. The beach is slowly
+eroding away as the waves reclaim the land everytime they break. Many ships
+and large vessels enter the bay on a daily basis. The ships usually anchor
+out in the bay and then the sailors come to shore on smaller crafts. There
+is a cool gentle wind that comes from the south and the sky is always blue. 
+~
+0 7
+D0
+~
+~
+0 0 7940
+D1
+~
+~
+0 0 7944
+D3
+~
+~
+0 0 7942
+S
+#7944
+#oSurf#n~
+Seagulls and other creatures cover the air. Sometimes, great eagles, from
+the north where the mountains are, come down to the bay, looking for a meal.
+Orcs and other large sea creatures appear in the bay waters every now and
+then. The beach is usually flooded with hundreds of tourists and citizens. 
+~
+0 7
+D0
+~
+~
+0 0 7939
+D1
+~
+~
+0 0 7945
+D3
+~
+~
+0 0 7943
+S
+#7945
+#oSurf#n~
+The ocean waves normally crash against the beach here. The waves bring in
+all sorts of things from sea shells to sea weed. The water is salty but
+pristine and clear. The bay extends for many miles to the south, and in the
+center of the bay there is a small island. The sun usually blasts the beach
+with powerful rays and scorch everything on the beach. 
+~
+0 7
+D0
+~
+~
+0 0 7938
+D1
+~
+~
+0 0 7946
+D3
+~
+~
+0 0 7944
+S
+#7946
+#oSurf#n~
+A cool and gentle wind comes from the south. Sometimes orcs and other sea
+creatures like dolphins can be seen in the bay waters. The bay is filled
+with many predators around the year, though the shallow waters are safe. The
+grand city of Ri'on Dashor stands to the north. The tall wall that
+encompasses the city has a thin strip of gold near the top. 
+~
+0 7
+D0
+~
+~
+0 0 7937
+D1
+~
+~
+0 0 7947
+D3
+~
+~
+0 0 7945
+S
+#7947
+#oSurf#n~
+Swells from the bay often crash on to the beach here and create foam. The
+ocean waves also bring in small life and various bits and treasures hidden
+deep within it's waters. The ocean water is pristine and clean. Many people
+swim in the bay, but be warned that the bay is filled with predators. 
+~
+0 7
+D0
+~
+~
+0 0 7936
+D1
+~
+~
+0 0 7948
+D3
+~
+~
+0 0 7946
+S
+#7948
+#oSurf#n~
+Myriad of ships can be seen entering and exiting the Bay of Dashor during
+the day. Many ships come in to the bay, as Ri'on Dashor is a massive town
+and an excellent spot to stock up on food and other supplies. A large island
+can be seen in the center of the bay. 
+~
+0 7
+D0
+~
+~
+0 0 7935
+D1
+~
+~
+0 0 7949
+D3
+~
+~
+0 0 7947
+S
+#7949
+#oSurf#n~
+The water turns in to a foam as the waves break on the beach. Sea shells
+and other things are brought in from the waves. Sometimes, in the summer,
+jelly fish or man-of-war are brought in. There is a gentle cool wind that
+comes with the waves and the water is pristine and cool. The sky is a
+brilliant blue and the sun always shines in Ri'on Dashor. 
+~
+0 7
+D0
+~
+~
+0 0 7934
+D1
+~
+~
+0 0 7950
+D3
+~
+~
+0 0 7948
+S
+#7950
+#oSurf#n~
+The waves of the bay crash on to the beach here. To the east, there are
+several large rocks. The rocks were placed on both sides of the beach, to
+prevent erosian of the coast line. Sea weed and various things are brought
+it deep from within the bay. The water foams up as it hits the sand. 
+~
+0 7
+D0
+~
+~
+0 0 7933
+D3
+~
+~
+0 0 7949
+S
+#7951
+#gBefore the North Gate#n~
+The massive steel gates to Ri'on Dashor lies to the south. The gates are
+usually always closed, but only locked when the city is under siege or if
+there is some sort of threat. Ri'on Dashor has many guards and avengers
+within the city walls. The city walls tower in to the air and are made from
+bluestone. There is a thin strip of pure gold near the top of the wall, to
+show the city's strength and power. 
+~
+0 3
+D0
+~
+~
+0 0 7952
+D2
+~
+~
+0 0 7850
+S
+#7952
+#gNorthern Trail#n~
+The northern trail leads north towards the mountains. The mountains rise
+in to the sky and poke the clouds. To the south, the grand city of Ri'on
+Dashor stands. Ri'on Dashor is the largest city in the area and wields the
+most influence of all cities within a thousand mile radius. Tall trees tower
+on both sides of the path and vanguards of Ri'on Dashor are said to be
+hidden within the forest. 
+~
+0 3
+D0
+~
+~
+0 0 7953
+D2
+~
+~
+0 0 7951
+S
+#7953
+#gNorthern Trail#n~
+The trail leads north towards the great mountains and south to Ri'on
+Dashor. Also to the north, the trail leads to Lake Auricle, a small lake
+with crystal clear water. Lake Auricle is a favorite place for young maidens
+to come and it's a quiet and tranquil place. 
+~
+0 3
+D0
+~
+~
+0 0 7954
+D2
+~
+~
+0 0 7952
+S
+#7954
+#gNorthern Trail#n~
+Tall trees tower on both sides of the trail. The trees in this are seem
+to be a mix of coniferous and deciduous trees, and odd mix. There is a cool
+wind that comes from the south and the air is dry. There is hardly any
+humidty here, however there are many massive rivers in the area.
+Occasionally there is a monsoon that hits the area, but that is quite rare. 
+~
+0 3
+D1
+~
+~
+0 0 7955
+D2
+~
+~
+0 0 7953
+S
+#7955
+#gNorthern Trail#n~
+From here the trail leads north and west. Lake auricle is located
+northwest of here. The great mountains dominate the sky to the north.
+Surrounding the trail are numerous tall coniferous and deciduous trees. The
+waters of Lake Auricle are crystal clear and reflect the sunlight. 
+~
+0 3
+D0
+~
+~
+0 0 7956
+D3
+~
+~
+0 0 7954
+S
+#7956
+#gNorthern Trail#n~
+The waters of Lake Auricle lie to the west. The forest trail leads to the
+south and east from here. The forest is filled with thousands of tall trees
+which tower into the air. The waters of Lake Auricle are cool and reflect
+the sunlight. A gentle breeze comes from the north, where the great
+mountains are located. 
+~
+4 3
+D1
+~
+~
+0 0 7957
+D2
+~
+~
+0 0 7955
+D3
+~
+~
+0 0 7958
+S
+#7957
+#gNorthern Trail#n~
+The forest trail continues leading north and west. A cool wind comes from
+the north, where the great mountains are located. The forest expands to the
+east for countless miles. The trail through the forest leads south, to the
+grand city of Ri'on Dashor and north to the unknown and unchartered lands. 
+~
+0 3
+D0
+~
+~
+0 0 7967
+D3
+~
+~
+0 0 7956
+S
+#7958
+#CLake Auricle#n~
+The waters of Lake Auricle are crystal clear. There are many fishes that
+swim in Lake Auricle. At the shores, the lake is very shallow, but in the
+center, which is to the northwest, the lake is atleast twenty feet deep. The
+lake is formed by the melting snow from the mountains. There is a gentle
+wind that comes from the south. 
+~
+4 6
+D0
+~
+~
+0 0 7959
+D1
+~
+~
+0 0 7956
+D3
+~
+~
+0 0 7960
+S
+#7959
+#CLake Auricle#n~
+The waters of Lake Auricle are crystal clear and pristine. During the sun
+rise, sunlight is sometimes reflected off the lake and can blind people who
+are nearby. A large forest surrounds the lake and animals come to the lake
+to drink water. There is a path which runs somewhere southeast of here and
+leads further north. 
+~
+0 6
+D0
+~
+~
+0 0 7966
+D2
+~
+~
+0 0 7958
+D3
+~
+~
+0 0 7961
+S
+#7960
+#CLake Auricle#n~
+The lake water is cool and refreshing. There is a gentle wind that comes
+from the south and the whole area is calm and serene. When people come to
+Lake Auricle, they don't have a care in the world. The center of the small
+lake lies to the north. Animals frequently come to the lake shore to drink
+water. 
+~
+0 6
+D0
+~
+~
+0 0 7961
+D1
+~
+~
+0 0 7958
+D3
+~
+~
+0 0 7962
+S
+#7961
+#CLake Auricle#n~
+This is the center of Lake Auricle. The water is cool and refreshing. The
+water is also crystal clear and here, the water is its deepest. The depth of
+the water is around twenty feet here. The lake has a beautiful surrounding,
+with many trees and to the north the mountains are in the background. To the
+east, the forest expands for countless miles. 
+~
+0 6
+D0
+~
+~
+0 0 7965
+D1
+~
+~
+0 0 7959
+D2
+~
+~
+0 0 7960
+D3
+~
+~
+0 0 7963
+S
+#7962
+#CLake Auricle#n~
+This is the southwestern corner of the lake. Lake Auricle is a calm and
+tranquil place. People normally come to bath in it's waters and to relax.
+The lake water is cool and refreshing and there is magnificent sight of the
+surrounding area. Tall trees tower on all sides of the lake, and the great
+mountaisn dominate the sky to the north. 
+~
+0 6
+D0
+~
+~
+0 0 7963
+D1
+~
+~
+0 0 7960
+S
+#7963
+#CLake Auricle#n~
+There is a gentle wind that comes from the south and rushes north. On all
+sides of the lake, there is a large forest. The forest expands east for
+countless miles and west till the ocean. To the north, the forest extends
+till the foothills of the great mountains start. Eagles can sometimes be
+seen flying high above, looking for a prey. 
+~
+0 6
+D0
+~
+~
+0 0 7964
+D1
+~
+~
+0 0 7961
+D2
+~
+~
+0 0 7962
+S
+#7964
+#CLake Auricle#n~
+This is the northwestern corner of the lake. Tall trees grow to the north
+and west. The lake water is formed from the melting snow on the peaks of the
+mountains. The great mountains can be seen to the north and northwest. There
+is a mountain pass to the northeast. The mountains dominate the sky and
+reach for the clouds. 
+~
+0 6
+D1
+~
+~
+0 0 7965
+D2
+~
+~
+0 0 7963
+S
+#7965
+#CLake Auricle#n~
+The lake waters are cool and there is a gentle wind that comes from the
+south. Sometimes sunlight is reflected off the calm waters of the lake and
+can blind people. There is a strange feeling in the air as if no violence
+can occure here. Everything is calm and peaceful, even the birds don't chirp
+here. 
+~
+0 6
+D1
+~
+~
+0 0 7966
+D2
+~
+~
+0 0 7961
+D3
+~
+~
+0 0 7964
+S
+#7966
+#CLake Auricle#n~
+It is easy for people to see fishes within the waters of Lake Auricle, as
+the lake is crystal clear. Near the shores the lake is mostly shallow and
+it's deepest spot is in the center, which is to the southwest. Some people
+say that strange things happen at Lake Auricle during the night, but those
+are only folk tales. 
+~
+0 6
+D2
+~
+~
+0 0 7959
+D3
+~
+~
+0 0 7965
+S
+#7967
+#gForest Trail#n~
+The trail turns here and heads north and south. The trail leads south to
+Ri'on Dashor, the largest and most majestic city in the area. The trail also
+heads north, towards the great mountains. On both sides of the trail a large
+forest expands. The forest is filled with hundreds of animals and birds. 
+~
+0 3
+D0
+~
+~
+0 0 7968
+D2
+~
+~
+0 0 7957
+S
+#7968
+#gForest Trail#n~
+The trail continues north and south, but to the east there is a small
+clearing. Tall deciduous trees tower to the west and block out some of the
+sun's harmful rays during the early day. There is a cool gentle wind that
+comes from the south, which rustles the leaves. There are many animals in
+the forest and in this section one might have the chance to see a mountain
+lion or a bear. 
+~
+0 3
+D0
+~
+~
+0 0 7970
+D1
+~
+~
+0 0 7969
+D2
+~
+~
+0 0 7967
+S
+#7969
+#gOpen Clearing#n~
+This is a strange place since it is clear in the middle of a forest.
+There is a dirt trail to the west and to the north east and south, there are
+tall forest trees. The forest expands for countless miles to the east. The
+great mountains can be seen further north. There is a cool and gentle wind
+that comes from the south and the mountain peaks are capped in snow. 
+~
+4 2
+D3
+~
+~
+0 0 7968
+D5
+~
+~
+0 0 7971
+S
+#7970
+#gForest Trail#n~
+The forest trail continues leading to the north and south. However, to
+the north a massive tree has fallen and impedes passage northwards. Until
+the tree either decays or is moved, it appears no one can head to the north.
+The tree is gigantic and it would take someone with Herculian strength to
+move the tree. It also appears that the tree won't be decaying in the next
+few weeks. 
+~
+0 3
+D2
+~
+~
+0 0 7968
+D3
+~
+~
+0 0 8644
+S
+#7971
+#oMole Tunnel#n~
+This appears to be the house of a mole. A tunnel starts here and leads
+north in to darkness. It is possible for one to feel their way north, and
+seek out the mole. Above, there are a few leaves that cover up the mole hole
+and protect the moles from any predators. Moles are small creatures that
+burrow underground and have incredible vision in the dark. 
+~
+0 8
+D0
+~
+~
+0 0 7972
+D4
+~
+~
+0 0 7969
+S
+#7972
+#oMole Tunnel#n~
+The tunnel is dark and one can only make their way around by feeling the
+walls. The walls of the tunnel are smooth. The tunnel is dark and there is
+nothing but darkness in either direction. There are strange sounds in here,
+as if something is drilling and ripping at the walls. The tunnel is warm and
+there are many worms and other small creatures in the tunnel walls. 
+~
+0 8
+D0
+~
+~
+0 0 7973
+D2
+~
+~
+0 0 7971
+S
+#7973
+#oMole Tunnel#n~
+Moles are creatures who are perfect for tunneling. They perform like a
+machine and have huge powerful claws to dig and break dirt. There skin is
+thick and tough to protect them and they have keen vision in the dark,
+although their eyes are small. Moles can defend themselves excellently
+within a hole. 
+~
+0 8
+D0
+~
+~
+0 0 7974
+D2
+~
+~
+0 0 7972
+S
+#7974
+#oMole Tunnel#n~
+This is a T-intersection with tunnels going to the east west and south.
+The tunnel to the south leads back to the entrance of the mole hole. All
+directions are filled with complete and total darkness. It would be hard for
+most people to see things. There are many small earthworms and other things
+within the dirt walls of the tunnel. The tunnels are well travelled, one can
+tell from the smooth walls. 
+~
+0 8
+D1
+~
+~
+0 0 7975
+D2
+~
+~
+0 0 7973
+D3
+~
+~
+0 0 7976
+S
+#7975
+#oMole Tunnel#n~
+This tunnel leads east to a large cavern, where several moles can gather
+or rest during the way. Moles are large animals that work like drills. They
+have light brown fur and but thick skins and powerful claws. Moles have
+excellent vision in the dark and eat only insects, but they can defend
+themselves against larger predators. 
+~
+0 8
+D1
+~
+~
+0 0 7977
+D3
+~
+~
+0 0 7974
+S
+#7976
+#oMole Tunnel#n~
+The dark tunnel runs east and west. To the east, there is a
+T-intersection. To the west, there is a large mound where the moles sleep.
+It's always night time here, everything is utterly dark, but the moles don't
+need light to see. Moles eat insects and have keen vision in the dark,
+though they have small eyes. 
+~
+0 8
+D0
+~
+~
+0 0 7979
+D1
+~
+~
+0 0 7974
+D3
+~
+~
+0 0 7978
+S
+#7977
+#oLarge Cavern#n~
+This is a large cavern where several moles may gather and talk. The walls
+of the cavern are rough and there is nothing but utter darkness in here. On
+the floor, there are the few bits and peices of half-devoured insects. A
+large tunnel leads west. The mole tunnel is warm and somtimes mole tunnels
+can go for many meters in to the earth. 
+~
+0 8
+D3
+~
+~
+0 0 7975
+S
+#7978
+#oGiant Mound#n~
+There is a giant mound of sand and dirt here. This is where the moles
+come to sleep at night. Everything is utterly dark however one can tell
+there is an exit to the east. Moles have brown fur and small eyes, but they
+are built like huge powerful drills that can dig deep in to the earth. The
+area is warm and humid and there are no insects in sight, although there are
+a few worms. 
+~
+0 8
+D1
+~
+~
+0 0 7976
+S
+#7979
+#oMine Shaft#n~
+This is a hidden shaft within the mole tunnels. The walls are smooth and
+there nothing but darkness. The walls of the tunnel vibrate violently though
+and sometimes bits and pieces of the earth above falls down. And below,
+there is more darkness. Who knows what lies at the end of this shaft,
+perhaps this is an area for moles to hide, incase a taipan or another snake
+entered their tunnels. 
+~
+0 8
+D2
+~
+~
+0 0 7976
+D5
+~
+~
+0 0 7980
+S
+#7980
+#oMole #yTreasure#n~
+Everything here is utterly dark and the only way out is to go up. It
+seems that moles which live in this holes are brilliant little thieves. In
+this room they come to hide the various treasures that they have stolen.
+There are mountains of gold in here along with the ransom of ten kings and
+golden sceptres worth hundreds of pounds. 
+~
+0 8
+D4
+~
+~
+0 0 7979
+S
+#7981
+#cEastern Trail#n~
+The eastern trail leads east from Ri'on Dashor into the unknown. To the
+west is the grand and majestic city of Ri'on Dashor. Ri'on Dashor is one of
+the largest city in the realm and is by far the most populous and
+industrialized city. The city is filled with all sorts of shops and
+businesses and the area surrounding the city is considered under the
+protection of Ri'on Dashor. 
+~
+0 0
+D1
+~
+~
+0 0 8691
+D3
+~
+~
+0 0 7853
+S
+#7982
+#cStables#n~
+This is where most people bring their horses when they come to town. The
+stables treat the animals well and make sure they are well-fed and have lots
+of water to drink. Also, the stables groom the animals and take care of any
+needs they have which pertain to feces. To the south, Wall Road leads east
+and west. The stable is usually very busy in the summer time, when most of
+the travellers come to town. 
+~
+0 1
+D2
+~
+~
+0 0 7879
+S
+#7983
+#cTechnomancers Palace#n~
+This is a small place in the eastern part of town where the
+technomancers come to chill out. Sometimes they display their advance crafts
+here for others to see. Visitors sometime come in here and pay the
+technomancers to produce a few things for them. The place is sort of dark
+and there is a black light in the corner. There are two large couches in the
+center of the room that face each other. 
+~
+0 0
+D1
+~
+~
+0 0 7854
+S
+#7984
+#cWest Gate#n~
+The massive steel gates to the city are here. Beyond the gates, to the
+west, a vast cornfield expands. There are numerous rivers in the forest and
+hundreds of animals. To the north, a great mountain range lies. The
+mountains domiante the sky and are capped in snow. The city is also
+encompassed in a massive steel wall. Around the wall, there is a strip of
+gold, to show the city's power and strength. 
+~
+0 1
+D1
+~
+~
+0 0 7847
+D3
+~
+~
+0 0 8737
+S
+#8000
+Map~
+D                   X
+     |                   |
+     X -- X -- X -- X -- X -- X -- X -- X -- X
+     |                   |                   |
+     X -- B         G -- X -- M         A -- X
+     |                   |                   |
+     X -- S         P    X    H         L -- X
+     |              |    |    |              |
+     X    W    T -- X -- X -- X -- C    E -- X
+     |    |         |    |    |              |
+X -- X -- X -- X -- X -- Z -- X -- X -- X -- X -- X
+     |              |    |    |              |
+     X    B -- B -- X -- X -- X -- K -- K    X
+     |              |    |         |         |
+     X    O -- O -- O    X    K -- K -- K -- X
+     |              |    |    |    |    |    |
+     X -- M    G    J    X    K -- K -- K    X
+     |         |         |         |         |
+     X -- X -- X -- X -- X -- X -- X -- X -- X
+                         |
+                         X
+ 
+     D = City Dump         A = Apothecary
+     B = Blacksmith        L = Library
+     S = Weaponsmith       E = Technomancer Palace
+     G = General Store     M = Mage's Corner
+     P = Post Office       H = Health Services
+     W = WaterWorks        C = Cafe
+     T = Town Hall         Z = City Center
+     B = Bank              K = Park
+     O = Courthouse        J = Jail
+     M = Mason             G = Goldsmith
+ 
+ 
+Note - Turn automap off
+~
+262148 0
+S
+#0
+
+
+
+#SPECIALS
+Z 7808 shopspec_enchanter
+Z 7827 shopspec_generic
+Z 7828 shopspec_generic
+M 7829 spec_calim
+Z 7830 shopspec_engraver
+S
+
+
+
+#RESETS
+O 0 7845 0 7801
+M 0 7817 1 7802
+M 0 7817 1 7803
+M 0 7829 1 7803
+M 0 7817 1 7805
+M 0 7802 1 7810
+E 0 7806 0 16
+E 0 7807 0 5
+M 0 7804 1 7811
+M 0 7802 1 7813
+E 0 7808 0 7
+M 0 7819 1 7814
+G 0 7814 0
+M 0 7802 1 7817
+M 0 7802 1 7818
+E 0 7806 0 16
+E 0 7807 0 5
+E 0 7808 0 7
+O 0 7843 0 7818
+M 0 7806 1 7819
+O 0 7844 0 7819
+M 0 7817 1 7822
+O 0 7843 0 7822
+M 0 7805 1 7826
+M 0 7885 1 7827
+E 0 7810 0 16
+O 0 7811 0 7827
+M 0 7801 1 7828
+E 0 7807 0 5
+E 0 7808 0 7
+E 0 7809 0 16
+G 0 7815 0
+M 0 7803 1 7831
+M 0 7803 1 7832
+M 0 7802 1 7834
+M 0 7803 1 7836
+M 0 7803 1 7837
+M 0 7802 1 7838
+M 0 7803 1 7839
+M 0 7803 1 7840
+M 0 7817 1 7843
+M 0 7817 1 7846
+M 0 7817 1 7847
+O 0 7843 0 7847
+M 0 7828 1 7858
+G 0 7840 0
+G 0 7841 0
+G 0 7842 0
+M 0 7827 1 7860
+G 0 7828 0
+G 0 7829 0
+G 0 7830 0
+G 0 7831 0
+G 0 7832 0
+G 0 7833 0
+G 0 7834 0
+G 0 7835 0
+G 0 7836 0
+G 0 7837 0
+G 0 7838 0
+G 0 7839 0
+M 0 7817 1 7861
+E 0 7806 0 16
+E 0 7807 0 5
+E 0 7808 0 7
+M 0 7830 1 7868
+M 0 7817 1 7869
+M 0 7808 1 7871
+E 0 7823 0 16
+O 0 7843 0 7875
+M 0 7817 1 7876
+O 0 7802 0 7881
+M 0 7817 1 7881
+M 0 7809 1 7883
+G 0 7821 0
+O 0 7803 0 7885
+O 0 7804 0 7886
+M 0 7825 1 7887
+M 0 7825 1 7888
+M 0 7825 1 7889
+M 0 7826 1 7889
+M 0 7825 1 7890
+M 0 7825 1 7891
+M 0 7826 1 7892
+M 0 7826 1 7893
+M 0 7826 1 7894
+O 0 7805 0 7900
+M 0 7818 1 7902
+O 0 7801 0 7903
+M 0 7818 1 7903
+O 0 7812 0 7903
+M 0 7818 1 7905
+O 0 7812 0 7905
+M 0 7818 1 7907
+O 0 7812 0 7908
+O 0 7813 0 7908
+M 0 7814 1 7910
+M 0 7811 1 7911
+M 0 7814 1 7914
+M 0 7812 1 7915
+M 0 7813 1 7915
+M 0 7813 1 7916
+M 0 7813 1 7916
+M 0 7813 1 7916
+M 0 7813 1 7916
+M 0 7813 1 7916
+M 0 7802 1 7918
+M 0 7802 1 7918
+M 0 7802 1 7918
+G 0 7827 0
+M 0 7810 1 7921
+M 0 7814 1 7922
+M 0 7810 1 7923
+G 0 7824 0
+G 0 7825 0
+G 0 7826 0
+M 0 7814 1 7924
+M 0 7814 1 7927
+M 0 7814 1 7929
+M 0 7814 1 7932
+M 0 7814 1 7933
+M 0 7814 1 7936
+O 0 7824 0 7936
+M 0 7814 1 7938
+M 0 7814 1 7941
+M 0 7816 1 7942
+M 0 7814 1 7945
+M 0 7815 1 7946
+M 0 7815 1 7947
+M 0 7815 1 7948
+M 0 7814 1 7950
+M 0 7816 1 7950
+M 0 7820 1 7952
+O 0 7816 0 7954
+M 0 7821 1 7958
+M 0 7822 1 7958
+M 0 7821 1 7959
+M 0 7821 1 7960
+M 0 7821 1 7961
+M 0 7822 1 7961
+O 0 7817 0 7961
+M 0 7821 1 7962
+M 0 7821 1 7963
+M 0 7821 1 7964
+M 0 7822 1 7964
+M 0 7821 1 7965
+M 0 7821 1 7966
+M 0 7820 1 7967
+M 0 7823 1 7971
+M 0 7823 1 7972
+M 0 7823 1 7973
+M 0 7823 1 7974
+M 0 7823 1 7975
+M 0 7823 1 7976
+M 0 7824 1 7977
+M 0 7823 1 7978
+M 0 7824 1 7978
+E 0 7820 0 16
+M 0 7824 1 7980
+O 0 7818 0 7980
+O 0 7819 0 7980
+M 0 7807 1 7982
+O 0 7822 0 7983
+S
+
+
+
+#$

@@ -1,0 +1,10 @@
+PERMANENCY
+PERMANENCY SPELL MAGIC
+1
+The permanency spell can be used to make a spell affect almost permanent. The
+spell has a small chance of failure, which can result in a drastic decrease in
+the spells duration. Trying to cast this spell will cost the caster 5 points of
+primal energy. In case of a succesfully casted permanency, the targetted affect
+will have it's duration increased by as much as 25 hours.
+
+Syntax: cast permanency [name of spell affect]

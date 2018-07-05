@@ -1,0 +1,22 @@
+CHANNEL
+CHANNEL INFUSE FAE
+1
+Faes have two commands which are used often in combat, infuse and channel. 
+The command channel is used to gather different kind of energies, which 
+are stored inside the Fae's own body. The command infuse is then used to 
+unleash these energies into a target (or to create something).
+
+A Fae can channel energies at different speeds (1-3 blocks a tick), but 
+can never store more than their current level in that ancient (a fae must 
+improve their ancients to store more energy).
+
+If a Fae tries to channel more energy than his or her current level in 
+that ancient, he or she will suffer a backlash, causing damage.
+
+Syntax : Channel [matter|plasma|energy|will] [1-3]
+         Infuse  [matter|plasma|energy|will] [target]
+
+If you use custom prompts, you can use class specials 1-4 to show the
+current channel levels of the ancients in this order Matter, Energy,
+Plasma and Will. Class prompts 5 can be used to show the status of
+the Matter Shield.

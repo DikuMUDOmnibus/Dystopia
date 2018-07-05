@@ -1,0 +1,27 @@
+WHO
+WHO
+1
+Typing who will show a list of the players online that you can see,
+using the following style :
+
+ #pPlayer Rank   #L(#yF#L) #G{#R-#G}#yClass Name#G{#R-#G}#n       Player Name
+ #pPlayer Rank   #L(#yM#L) #G{#R-#G}#yClass Name#G{#R-#G}#n       Player Name
+ #pPlayer Rank   #L(#yM#L) #G{#R-#G}#yClass Name#G{#R-#G}#n       Player Name
+
+* The Rank is based on the players size, and who is sorted somewhat after
+  this. The lowest rank is 'Wannabe' and they cannot kill nor be killed by
+  other players. If your a wannabe and want to pk, then you need to grow in
+  size first, this is done by either training more hitpoints or training more
+  skills (weapons, stances, etc).
+
+* The (?) is the players gender, and the ()'s around the number is a signal
+  which tells you if you can kill that player or not.
+
+  if the #R()#n's are red, that means you can #Gboth#n kill eachother.
+  if the #0()#n's are black, that means that the player can #Gkill you#n,
+     but you can't kill him/her.
+  if the #y()#n's are yellow, that means you can #Gkill them#n, but they
+     can't kill you.
+  if the #L()#n's are blue, #Gneither#n of you can kill eachother.
+
+* The Class and Player Name are obvious.

@@ -1,0 +1,12 @@
+KBALLISTA
+KBALLISTA KRELOAD KINGDOM
+1
+Any kingdom worth its salt has a few ballistas standing around, which can
+be used by any of the kingdoms members (while standing in the same room
+as the ballista). Using the kballista command will cause ALL ballistas in
+that room to fire their arrows at the given target, which must also be
+in the same room. This will cause the ballistas to become unloaded, and
+they must be reloaded with arrows before they can be used again.
+
+Syntax: kballista [victim]
+Syntax: kreload

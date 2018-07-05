@@ -1,0 +1,25 @@
+EXPERIENCE
+EXPERIENCE XP MODIFIERS
+1
+Experience is gained by killing monsters, the amount of experience gained from
+a kill depends on the strength of the monster killed, as well as certain
+modifiers that a player can gain.
+
+* Newbie        : Gives 200% extra exp for the first 4 hours.
+* Size          : Gives 5% per @@rankname@ above wannabe.
+* Time          : Depends on how long you have been on.
+* @@Mccp@          : Gives 25% exp modifier for using MCCP.
+* @@Alignment@     : Gives  +/- 25% exp modifier.
+* Edge          : Gives 15% extra exp.
+* @@Status@        : Gives 1% for every 2 status points.
+* Enchantments  : Some enchantments gives extra exp for a period.
+
+The MCCP bonus is gained if you use a MUD client that supports the
+compression protocol (MCCP). If your client does not support MCCP, you
+could try a proxy like mcclient or MudProxy (http://www.mudproxy.dk/).
+These proxy programs can be used with your normal client.
+
+The alignment bonus/penalty comes into affect when you kill a monster
+with the same or opposite alignment as yourself (you get the bonus
+for killing monsters of the opposite alignment, and the penalty for
+killing monsters of the same alignment as yourself).

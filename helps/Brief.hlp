@@ -1,0 +1,13 @@
+BRIEF
+BRIEF6 BRIEF5 BRIEF4 BRIEF3 BRIEF2 BRIEF1 CONFIGURATION
+1
+With the command brief1, brief2, brief3, brief4, brief5 and brief6,
+you can toggle how much you'll receive from looking and combat.
+
+brief1 -> Information when you look toggled between short/long.
+brief2 -> Toggle shields, misses and weapon burn/freeze in combat.
+brief3 -> Toggle dodge/parry messages in combat. (default enabled)
+brief4 -> Toggle message on exp modifiers, discipline points and class points.
+brief5 -> For the very sensitive persons - gives a summary of the combat.
+brief6 -> Blocks all 3rd party battlespam.
+brief7 -> Blocks all class spam messages.

@@ -1,0 +1,93 @@
+#AREADATA
+Name        Jobo      Artifacts~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       171 200
+Cvnum       171
+Security    1
+Areabits    16
+End
+
+
+
+#MOBILES
+#171
+red dragon~
+a red dragon~
+A fiery red dragon stands here.
+~
+~
+1 262200 -1000
+611 0 0 0 0 0
+1 10
+S
+#0
+
+
+
+#OBJECTS
+#171
+kroll singing sword~
+#nKroll, the #Gsinging#n sword~
+A thin humming sword lies on the floor.~
+5 0 8193
+3000 30 60 1
+1 0
+A
+19 20
+A
+18 20
+#172
+dragonorb orb~
+-= The #RP#Gr#Ci#Ls#Pm#oa#gt#ci#yc#n Dragonorb =-~
+A #RP#Gr#Ci#Ls#Pm#oa#gt#ci#yc#n dragonorb lies on the floor.~
+7 0 524289
+25 0 0 17
+1 0
+#173
+elemental earth ring~
+#nThe #oElemental#n ring of earth~
+The elemental ring of earth lies here.~
+7 0 3
+25 0 0 6
+1 0
+A
+19 35
+A
+18 35
+#174
+dragon green rod~
+#nThe #GGreen#n Dragon Rod~
+The #GGreen#n Dragon Rod lies here.~
+5 0 8193
+46 25 30 6
+1 0
+A
+18 40
+A
+19 40
+#0
+
+
+
+#ROOMDATA
+#171
+artifact room~
+~
+139300 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

@@ -1,0 +1,10 @@
+SUPKEEP
+SUPKEEP SHADOWLORD
+1
+This command allows a shadowlord to decide how long his or her combo affects
+should stay active outside combat. The default time is roughly 25 seconds.
+
+Remember that shadowlord combo affects drains shadowpoints while active, so
+it might not be a good idea to have this setting to high.
+
+Syntax: supkeep

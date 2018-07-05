@@ -1,0 +1,13 @@
+HOME
+HOME CONFIGURATION
+1
+A player can create up to 3 recall points, using the HOME command. The player
+can later use the @@RECALL@ command to return to these recall points.
+
+Certain places cannot be stored as a recall point, either because the sacredness
+of the place prevents it (safe rooms), or because certain magical affects has
+been placed in the room which prevents this.
+
+As many as 3 recall points can be stored.
+
+Syntax: home [1|2|3]

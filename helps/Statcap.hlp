@@ -1,0 +1,11 @@
+STATCAP
+STATCAP
+1
+The statcap is the maximum amount of hitpoints, move and mana that can be
+trained using the train command. Spells and objects might allow you to go
+beyond this statcap. The statcap is set to 40.000 for all classes, and
+each time you evolve, this limit is raised by 5.000. So a character that
+has evolved three times, should be able to train his or her statistics as
+high as 55.000
+ 
+Please note that a player that is not @@PKREADY@ has a statcap of 10.000.

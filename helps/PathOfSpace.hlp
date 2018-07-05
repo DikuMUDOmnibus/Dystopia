@@ -1,0 +1,20 @@
+PATH OF SPACE
+'PATH OF SPACE' LOCKROOM FOLDSPACE WARLOCK
+1
+The Path of Space evolve opposes the Path of Time evolve, and allows
+a warlock to bind together to rooms, effectivly creating a new exit.
+
+First the warlock must find the room the new exit should lead to, and
+bind himself to that room. This is done with the lockroom power. Just
+use the command while standing in the room you want the "fake" exit
+to lead to.
+
+Next find the room where you want the new exit to exist. Here you should
+use the foldspace command, which will create a new exit. The new exit
+is only temporary, and will fade away within a few minutes.
+
+You can override old exits, making your newly created exit take the
+place of an already existing exit.
+
+Syntax: lockroom
+Syntax: foldspace [north|south|east|west]

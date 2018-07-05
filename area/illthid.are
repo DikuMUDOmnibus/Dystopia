@@ -1,0 +1,538 @@
+#AREADATA
+Name        Jobo      Illthid slave camp~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       5001 5030
+Cvnum       5001
+Security    1
+Areabits    16
+End
+
+
+
+#MOBILES
+#5001
+dwarven mindslave~
+a dwarven mindslave~
+A dwarven mindslave is working relentlessly.
+~
+~
+1 648 0
+566 40 3 60 5 5
+1 3
+S
+#5002
+mindorb orb~
+a mindorb~
+A mindorb is floating in the air, controlling the mindslaves.
+~
+~
+3 262664 0
+765 -5 10 46 10 0
+0 6
+S
+#5003
+illthid slaver~
+an illthid~
+An illthid slaver is standing here.
+~
+~
+1 520 -500
+820 20 5 22 0 10
+2 6
+S
+#5004
+illthid overlord~
+an illthid overlord~
+An illthid overlord is standing here.
+~
+~
+1 648 -800
+975 25 8 4 5 15
+2 6
+S
+#0
+
+
+
+#OBJECTS
+#5001
+purple robe~
+a purple robe~
+A purple robe lies here.~
+7 0 9
+20 0 0 0
+1 0
+A
+19 3
+#5002
+silver bracelet~
+a silver bracelet~
+A silver bracelet lies here.~
+6 0 1
+0 0 0 0
+1 0
+#5003
+pickaxe axe~
+a pickaxe~
+A pickaxe lies here.~
+5 0 8193
+0 20 10 3
+1 0
+#5004
+rubble dirt~
+a pile of rubble~
+A pile of rubble lies here.~
+10 0 1
+0 0 0 0
+1 0
+#5005
+portal yellow southern~
+a yellow portal~
+A yellow portal hangs on the southern wall.~
+21 0 0
+3640 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#5001
+#gBy the Yellow Portal#n~
+A huge oval portal hangs in the middle of the room, leading to the city
+of Bantadin, home to the deepdwarves. North of here can be seen several
+short stocky humanoids, working hard on mining the tunnels for gems and
+gold. 
+~
+8 8
+D0
+~
+~
+0 0 5002
+S
+#5002
+#gA Crossroad / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5004
+D1
+~
+~
+0 0 5005
+D2
+~
+~
+0 0 5001
+D3
+~
+~
+0 0 5003
+S
+#5003
+#gA Dormant Portal#n~
+~
+8 8
+D1
+~
+~
+0 0 5002
+S
+#5004
+#gWestern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5014
+D2
+~
+~
+0 0 5002
+S
+#5005
+#gSouthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5006
+D3
+~
+~
+0 0 5002
+S
+#5006
+#gSouthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5007
+D3
+~
+~
+0 0 5005
+S
+#5007
+#gSouthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5008
+D3
+~
+~
+0 0 5006
+S
+#5008
+#gSouthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5009
+D3
+~
+~
+0 0 5007
+S
+#5009
+#gSouthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5010
+D3
+~
+~
+0 0 5008
+S
+#5010
+#gA Crossroad / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5013
+D1
+~
+~
+0 0 5011
+D2
+~
+~
+0 0 5012
+D3
+~
+~
+0 0 5009
+S
+#5011
+#gA Barred Gateway#n~
+~
+8 8
+D3
+~
+~
+0 0 5010
+S
+#5012
+#gBy the Mindportal#n~
+~
+8 8
+D0
+~
+~
+0 0 5010
+S
+#5013
+#gEastern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5029
+D2
+~
+~
+0 0 5010
+S
+#5014
+#gWestern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5015
+D2
+~
+~
+0 0 5004
+S
+#5015
+#gWestern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5016
+D2
+~
+~
+0 0 5014
+S
+#5016
+#gA Crossroad / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5017
+D1
+~
+~
+0 0 5019
+D2
+~
+~
+0 0 5015
+D3
+~
+~
+0 0 5018
+S
+#5017
+#gBy the Shimmering Gateway#n~
+~
+8 8
+D2
+~
+~
+0 0 5016
+S
+#5018
+#gBy the Pyramid#n~
+~
+8 8
+D1
+~
+~
+0 0 5016
+S
+#5019
+#gNorthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5020
+D3
+~
+~
+0 0 5016
+S
+#5020
+#gNorthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5021
+D3
+~
+~
+0 0 5019
+S
+#5021
+#gNorthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5022
+D3
+~
+~
+0 0 5020
+S
+#5022
+#gNorthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5023
+D3
+~
+~
+0 0 5021
+S
+#5023
+#gNorthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5024
+D3
+~
+~
+0 0 5022
+S
+#5024
+#gNorthern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D1
+~
+~
+0 0 5026
+D3
+~
+~
+0 0 5023
+S
+#5025
+#gBy the Dormant Portal#n~
+~
+8 8
+D3
+~
+~
+0 0 5026
+S
+#5026
+#gA Crossroad / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5027
+D1
+~
+~
+0 0 5025
+D2
+~
+~
+0 0 5028
+D3
+~
+~
+0 0 5024
+S
+#5027
+#gBy the two Portals#n~
+~
+8 8
+D2
+~
+~
+0 0 5026
+S
+#5028
+#gEastern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5026
+D2
+~
+~
+0 0 5029
+S
+#5029
+#gEastern Tunnels / Illthid Slavecamp#n~
+~
+8 8
+D0
+~
+~
+0 0 5028
+D2
+~
+~
+0 0 5013
+S
+#0
+
+
+
+#SPECIALS
+M 5003 spec_illthid_slaver
+M 5004 spec_illthid_overlord
+S
+
+
+
+#RESETS
+O 0 5005 0 5001
+M 0 5002 1 5002
+O 0 5004 0 5002
+M 0 5001 1 5004
+M 0 5001 1 5005
+M 0 5003 1 5005
+M 0 5001 1 5006
+M 0 5004 1 5006
+M 0 5001 1 5007
+M 0 5003 1 5007
+M 0 5001 1 5008
+O 0 5004 0 5008
+M 0 5001 1 5009
+M 0 5003 1 5009
+M 0 5002 1 5010
+M 0 5001 1 5013
+M 0 5001 1 5014
+M 0 5003 1 5014
+M 0 5001 1 5015
+E 0 5003 0 16
+M 0 5002 1 5016
+M 0 5001 1 5019
+M 0 5003 1 5019
+M 0 5004 1 5019
+E 0 5001 0 5
+M 0 5001 1 5020
+M 0 5001 1 5021
+M 0 5003 1 5021
+M 0 5001 1 5022
+M 0 5001 1 5023
+M 0 5003 1 5023
+M 0 5004 1 5023
+M 0 5001 1 5024
+M 0 5002 1 5026
+M 0 5001 1 5028
+M 0 5003 1 5028
+O 0 5004 0 5028
+M 0 5001 1 5029
+M 0 5003 1 5029
+G 0 5002 0
+S
+
+
+
+#$

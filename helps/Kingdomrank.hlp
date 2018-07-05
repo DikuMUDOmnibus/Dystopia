@@ -1,0 +1,21 @@
+KINGDOMRANK
+KINGDOMRANK
+1
+As a kingdom grows in might (and members), it's rank will increase
+as well. This rank is based on the character strength of the five
+most powerful members of the kingdom, and the titles are as follows.
+
+  Empire            - average playerrank of #9Almighty#n
+  Dynasty           - average playerrank of #oSupreme#n
+  Civilization      - average playerrank of #RBaron#n
+  Nation            - average playerrank of #gGeneral#n
+  Monarchy          - average playerrank of #RMaster#n
+  City State        - average playerrank of #GHero#n
+  Chiefdom          - average playerrank of #rVeteran#n
+  Weenies           - playerrank to low to notice
+
+A kingdom with less than five players will have their rank severely
+lowered (kingdoms with less than 5 members are given a one week
+warning, after which they are deleted if their membership hasn't
+risen above the count of 5). A kingdom does not gain anything from a
+high rank, except of course the bragging rights.

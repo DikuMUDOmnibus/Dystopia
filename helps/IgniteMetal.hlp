@@ -1,0 +1,16 @@
+IGNITE METAL
+'IGNITE METAL' 'BURN METAL' IGNITEMETAL BURNMETAL GIANT
+1
+This evolve allows a giant to enhance the already powerful @@heat metal@ spell,
+by first igniting the metal (causing extra damage), and then causing it to
+burst into flames (causing the heated items to burn faster).
+
+This power can only be used on items already affected by the '@@heat metal@'
+power, and it can only by gained by giants that has already gained the evolve
+that gives this power.
+
+This evolve opposes the '@@fiery mallet@' evolve, and only one of these two
+evolves can be gained.
+
+Syntax: ignitemetal [victim]
+Syntax: burnmetal [victim]

@@ -1,0 +1,17 @@
+The mud has an integrated webserver which runs on the port just above the
+muds own port (if you are not allowed to run on more than one port, simply
+disable the webserver - it's started, polled and stopped in comm.c).
+
+The webserver can handle finger, who, notes and helpfiles, and players
+can visit it with a browser like this (we assume that your mud runs on
+the addy mud.homeomorph.org port 9009)
+
+http://mud.homeomorph.org:9010/
+
+Simple as that, use the same addy for the website, and add the portnumber
+plus 1 after the colon. Look in the file webif.c for adding more stuff
+if you want, it should be rather straighforward.
+
+You can find some example PHP scripts in the html folder.
+
+Brian Graversen

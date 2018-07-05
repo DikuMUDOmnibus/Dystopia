@@ -1,0 +1,14 @@
+FORM OF MUD
+'FORM OF MUD' MUDFORM GIANT
+1
+This evolve can be gained by any giant who meets the statistics requirements
+and have not yet picked the giant evolve 'gust of wind'. This evolve will
+transform the giant into a puddle of mud, which cannot be attacked by any
+other player or mobile. At the same time this puddle of mud cannot attack
+anyone else.
+
+While in this form of mud, the giant must pay an upkeep cost in movement
+points, and should he or she run out of movement points, he or she will
+instantly return to a normal form.
+
+Syntax: mudform

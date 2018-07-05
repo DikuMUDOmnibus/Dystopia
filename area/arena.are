@@ -1,0 +1,737 @@
+#AREADATA
+Name        Generic   The Arena~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       101 150
+Cvnum       113
+Security    1
+Areabits    16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#101
+Arena~
+The crowd cheers wildly as the combat comes this close to the wall. The
+Gauntlet is to your northeast. 
+~
+16 0
+D0
+~
+~
+0 0 106
+D1
+~
+~
+0 0 102
+S
+#102
+Arena~
+The crowd cheers wildly as the fight comes closer to to their seating. A
+bit to your north stands the ominous Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 107
+D1
+~
+~
+0 0 103
+D3
+~
+~
+0 0 101
+S
+#103
+Arena~
+The crowd cheers on the fighting as the combatants around you lock in
+deadly battle. To your north hang the ladders that lead into the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 108
+D1
+~
+~
+0 0 104
+D3
+~
+~
+0 0 102
+S
+#104
+Arena~
+The crowd swells with anticipation as they watch the spectacle of
+fighting. To the north are the ladders that lead into the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 109
+D1
+~
+~
+0 0 105
+D3
+~
+~
+0 0 103
+S
+#105
+Arena~
+The cheering crowd is deafening. They chant the name of their favored
+fighter. To the northwest stands the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 110
+D3
+~
+~
+0 0 104
+S
+#106
+Arena~
+The crowd of the Arena sounds much like an avalanche as it nearly deafens
+you. To the east lies the ladders leading to the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 111
+D1
+~
+~
+0 0 107
+D2
+~
+~
+0 0 101
+S
+#107
+Arena~
+The crowd is farther away now, but no less noisy. Above you is the dark,
+black structure called the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 112
+D1
+~
+~
+0 0 108
+D2
+~
+~
+0 0 102
+D3
+~
+~
+0 0 106
+D4
+~
+~
+0 0 126
+S
+#108
+Arena~
+You are still under the huge shadow of the Gauntlet. More ladders hang
+down that lead into the darkened fortress. 
+~
+8208 0
+D0
+~
+~
+0 0 113
+D1
+~
+~
+0 0 109
+D2
+~
+~
+0 0 103
+D3
+~
+~
+0 0 107
+D4
+~
+~
+0 0 127
+S
+#109
+Arena~
+The crowd cheers for their favorite combatant. Ladders leading into the
+Gauntlet hang around your head. 
+~
+8208 0
+D0
+~
+~
+0 0 114
+D1
+~
+~
+0 0 110
+D2
+~
+~
+0 0 104
+D3
+~
+~
+0 0 108
+D4
+~
+~
+0 0 128
+S
+#110
+Arena~
+The crowd's cheering is deafening as the combat becomes close to the
+wall. To the west is the ominous floating structure, the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 115
+D2
+~
+~
+0 0 105
+D3
+~
+~
+0 0 109
+S
+#111
+Arena~
+The crowd cheers you on as you fight in the Arena. The Gauntlet rises
+from the east. 
+~
+8208 0
+D0
+~
+~
+0 0 116
+D1
+~
+~
+0 0 112
+D2
+~
+~
+0 0 106
+S
+#112
+Arena~
+You stand in the arena under the Gauntlet. Black rope ladders hang down
+that lead into the floating building. 
+~
+8208 0
+D0
+~
+~
+0 0 117
+D1
+~
+~
+0 0 113
+D2
+~
+~
+0 0 107
+D3
+~
+~
+0 0 111
+D4
+~
+~
+0 0 129
+S
+#113
+Arena~
+You stand directly under the Gauntlet. It's dark shadow cools you off
+from the blistering heat. 
+~
+8208 0
+D0
+~
+~
+0 0 118
+D1
+~
+~
+0 0 114
+D2
+~
+~
+0 0 108
+D3
+~
+~
+0 0 112
+D4
+~
+~
+0 0 130
+S
+#114
+Arena~
+Rope ladders leading into the Gauntlet hang down around your head. You
+can hear the crowd's cheering as you search for another gladiator. 
+~
+8208 0
+D0
+~
+~
+0 0 119
+D1
+~
+~
+0 0 115
+D2
+~
+~
+0 0 109
+D3
+~
+~
+0 0 113
+S
+#115
+Arena~
+The crowd's cheering nearly deafens you, and your adrenaline pumps as you
+realize they cheer for you. To the west lies the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 120
+D2
+~
+~
+0 0 110
+D3
+~
+~
+0 0 114
+S
+#116
+Arena~
+The crowd cheers for you. They want to see blood this day. To your east
+lies the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 121
+D1
+~
+~
+0 0 117
+D2
+~
+~
+0 0 111
+S
+#117
+Arena~
+You continue to search for a fight, standing under the Gauntlet. Above
+you hang rope ladders leading up. 
+~
+8208 0
+D0
+~
+~
+0 0 122
+D1
+~
+~
+0 0 118
+D2
+~
+~
+0 0 112
+D3
+~
+~
+0 0 116
+D4
+~
+~
+0 0 132
+S
+#118
+Arena~
+The Arena fight carries on, and finds you standing under the Gauntlet. 
+~
+8208 0
+D0
+~
+~
+0 0 123
+D1
+~
+~
+0 0 119
+D2
+~
+~
+0 0 113
+D3
+~
+~
+0 0 117
+D4
+~
+~
+0 0 133
+S
+#119
+Arena~
+The crowd's cheering is muffled under the Gauntlet. Rope ladders lead up
+into darkness. 
+~
+8208 0
+D0
+~
+~
+0 0 124
+D1
+~
+~
+0 0 120
+D2
+~
+~
+0 0 114
+D3
+~
+~
+0 0 118
+D4
+~
+~
+0 0 134
+S
+#120
+Arena~
+The sounds of clashing steel can be heard above the crowd. The Gauntlet
+stands above you. 
+~
+8208 0
+D0
+~
+~
+0 0 125
+D2
+~
+~
+0 0 115
+D3
+~
+~
+0 0 119
+S
+#121
+Arena~
+The crowd cheers you and the others on. To the south east is the Gauntlet. 
+~
+8208 0
+D1
+~
+~
+0 0 122
+D2
+~
+~
+0 0 116
+S
+#122
+Arena~
+The crowd cheers the combatants on, hoping to see a good fight. The
+Gauntlet is to your south. 
+~
+8208 0
+D1
+~
+~
+0 0 123
+D2
+~
+~
+0 0 117
+D3
+~
+~
+0 0 121
+S
+#123
+Arena~
+The crowd's roar is harsh reality on your ears. The Gauntlet lies to your
+south. 
+~
+8208 0
+D1
+~
+~
+0 0 124
+D2
+~
+~
+0 0 118
+D3
+~
+~
+0 0 122
+S
+#124
+Arena~
+The crowd cheers on the fighting. To your south floats the Gauntlet. 
+~
+8208 0
+D1
+~
+~
+0 0 125
+D2
+~
+~
+0 0 119
+D3
+~
+~
+0 0 123
+S
+#125
+Arena~
+The sun beats down on you from above, the crowd's roaring makes your head
+throb. The Gauntlet lies to the southwest. 
+~
+8208 0
+D2
+~
+~
+0 0 120
+D3
+~
+~
+0 0 124
+S
+#126
+The Gauntlet~
+This room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D0
+~
+~
+0 0 129
+D1
+~
+~
+0 0 127
+D5
+~
+~
+0 0 107
+S
+#127
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D0
+~
+~
+0 0 130
+D1
+~
+~
+0 0 128
+D3
+~
+~
+0 0 126
+D5
+~
+~
+0 0 108
+S
+#128
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D0
+~
+~
+0 0 131
+D3
+~
+~
+0 0 127
+D5
+~
+~
+0 0 109
+S
+#129
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D0
+~
+~
+0 0 132
+D2
+~
+~
+0 0 126
+D5
+~
+~
+0 0 112
+S
+#130
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D0
+~
+~
+0 0 133
+D2
+~
+~
+0 0 127
+D5
+~
+~
+0 0 113
+S
+#131
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D0
+~
+~
+0 0 134
+D2
+~
+~
+0 0 128
+S
+#132
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D1
+~
+~
+0 0 133
+D2
+~
+~
+0 0 129
+D5
+~
+~
+0 0 117
+S
+#133
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D1
+~
+~
+0 0 134
+D2
+~
+~
+0 0 130
+D3
+~
+~
+0 0 132
+D5
+~
+~
+0 0 118
+S
+#134
+The Gauntlet~
+The room is dark, the sides lined with chain-link fencing. The entire
+structure creaks as you and the others move around. 
+~
+8208 0
+D2
+~
+~
+0 0 131
+D3
+~
+~
+0 0 133
+D5
+~
+~
+0 0 119
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

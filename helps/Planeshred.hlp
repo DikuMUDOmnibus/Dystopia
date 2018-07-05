@@ -1,0 +1,16 @@
+PLANESHRED
+PLANESHRED SHADOWLORD
+1
+The planeshred evolve can only be gained by shadowlords who has already gained
+the '@@shadowplane@' evolve. This evolve opposes the '@@planegrab@' evolve, and
+it's not possible to gain both of these evolves.
+
+This power allows the shadowlord to attack across planes, either from the
+shadowplane and into the real world, or from the real world and into the
+shadowplane. This attack will also cause the shadowlord to cross the planes,
+and be left in the same world as the player or mobile being attacked.
+
+The damage dealt by the shadowshred depends on the strenght of the person
+being attacked - the more powerful, the more damage is dealt (to a limit).
+
+Syntax: planeshred [victim]

@@ -1,0 +1,16 @@
+SPELLTRAP
+SPELLTRAP RUPTURE GIANT
+1
+Giant shamans can learn two new red spells, if they pick the right evolves.
+These two spells are called Spelltrap and Rupture.
+
+Spelltrap is an offensive spell, used to twist the forces of magic. If used
+against a player or monster currently trying to cast a spell, the target will
+enter a spellloop, which prevents/delays the casting of the spell.
+
+Rupture is another offensive spell, which targets the mystical forces
+surrounding the target. The spell will stay in affect for a period of time, in
+which it will attempt to unravel and dispel any enchantments on the target.
+
+Syntax: cast spelltrap [victim]
+Syntax: cast rupture [victim]

@@ -1,0 +1,23 @@
+ARENA
+ARENASTATS ARENAJOIN TIMER RESIGN
+1
+The rules in the arena are simple :
+
+* kill or be killed.
+
+To beat another player, you must tie them with the 'tie [players]' command,
+and that player will be removed from the arena and given a restore.
+
+Last man (or woman) standing in the arena will be the winner.
+
+The arena opens every 1-2 hours for normal battles, all the normal rules
+apply, and the winner gets a small prize. Some of these battles will be
+for veteran rank or lower only, and you can type timer to see when the 
+next arena will be).
+
+There are of course some nifty commands for you to use.
+
+* Arenastats - Shows the stats on the people in the arena
+* Arenajoin  - Let's you join the arena when it opens (happens once in a while)
+* Resign     - Give up, you'll leave the arena and get an arena loss
+* Timer      - Show how long till the next arena match.

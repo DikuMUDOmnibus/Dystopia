@@ -1,0 +1,12 @@
+CONCUSSION FUMES
+'CONCUSSION FUMES' FUMEBLAST SHADOWLORD
+1
+This shadowlord evolve allows the shadowlord to breath a cone of noxious
+fumes, which will reduce the fighting abilities of mobiles (it will not
+affect players). When breathing these fumes, the shadowlord draws upon
+his or hers own physical strength, draining some small amount of hitpoints.
+
+This evolve opposes the '@@tendrils of shadows@' evolve, making it impossible
+for a shadowlord to gain both of these evolves.
+
+Syntax: fumeblast [victim]

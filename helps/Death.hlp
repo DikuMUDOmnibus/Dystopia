@@ -1,0 +1,9 @@
+DEATH
+DEATH PLAYERKILLING
+1
+When you die, your character will be reincarnated at the center of the city
+square, and your corpse is left behind in the room where you were killed,
+together with all of your equipment (unless it was claimed).
+
+Corpses decay after time, and the objects inside corpses decay with them.
+Player corpses last *roughly* 30 hours of game time (15 minutes of real time).

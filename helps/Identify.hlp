@@ -1,0 +1,6 @@
+IDENTIFY
+IDENTIFY SPELL MAGIC
+0
+Syntax: cast identify [object]
+
+This spell reveals information about the object.

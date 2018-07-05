@@ -1,0 +1,1356 @@
+#AREADATA
+Name        Lune      The Sewers~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       4601 4700
+Cvnum       4602
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#4601
+large rat~
+a large rat~
+A large rat scurries across the floor.
+~
+This is one HUGE rat.
+~
+19 0 -100
+13 0 0 0 0 0
+0 0
+S
+#4602
+poisonous centipede~
+a poisonous centipede~
+A poisonous centipede crawls along the wall.
+~
+~
+19 0 -200
+4 0 0 0 0 0
+0 10
+S
+#4603
+carrion crawler~
+a carrion crawler~
+A rabid carrion crawler lurks here.
+~
+~
+19 0 -300
+25 0 0 0 0 0
+0 0
+S
+#4604
+silent spider~
+a silent spider~
+A spider silently awaits it's prey here.
+~
+~
+19 0 -500
+14 0 0 0 0 0
+0 0
+S
+#4605
+slithery snake~
+a slithery snake~
+A snake slithers along the floor here.
+~
+~
+19 0 -200
+18 0 0 0 0 0
+0 10
+S
+#4606
+lost soul~
+a lost soul~
+A lost soul wanders around you.
+~
+~
+3 0 100
+20 0 0 0 0 0
+0 0
+S
+#4607
+ravenous alligator~
+a ravenous alligator~
+A ravenous alligator skims along the top of the sewer water.
+~
+~
+3 0 -500
+31 1 0 0 0 0
+0 10
+S
+#4608
+sleeping bat~
+a sleeping bat~
+A bat is here, sleeping on the ceiling.
+~
+~
+3 0 -100
+21 0 0 0 0 0
+0 5
+S
+#4609
+towering troll~
+a towering troll~
+A towering troll watches this area closely.
+~
+~
+3 0 -1000
+8 1 1 0 0 0
+0 1
+S
+#4610
+giant orc~
+a giant orc~
+A giant orc stands here.
+~
+~
+3 0 -300
+14 0 0 0 0 0
+0 7
+S
+#4611
+ogre shaman~
+an ogre shaman~
+An ogre shaman is here, chanting.
+~
+~
+19 0 -300
+29 0 0 0 0 0
+0 6
+S
+#0
+
+
+
+#OBJECTS
+#4601
+a rusty key~
+a rusty key~
+A rusted key lies on the floor here, almost blending in with the surroundings.~
+13 0 16385
+0 0 0 0
+1 0
+#4602
+a bastard sword~
+a bastard sword~
+A bastard sword is slowly rusting on the floor here.~
+5 0 8193
+0 1 10 3
+1 0
+#4603
+some alligator skin~
+some alligator skin~
+A large piece of alligator skin slowly decomposes here.~
+7 0 9
+20 0 0 0
+1 0
+#4604
+a shamanistic staff~
+a shamanistic staff~
+A shamanistic staff hovers above the ground here.~
+5 2 8193
+0 2 20 6
+1 0
+#4606
+rapier silver~
+a silver rapier~
+A silver rapier lies here.~
+5 0 8193
+0 1 3 11
+1 0
+A
+14 -50
+#0
+
+
+
+#ROOMDATA
+#4601
+A Deep Hole~
+This hole is very dark, and very deep. Below is the sound of dripped
+water, and the silent stamping of small critters running across the sewer
+floor. There is a ladder attached to the wall here, allowing adventurers to
+climb down. 
+~
+0 0
+D5
+~
+~
+0 0 4602
+S
+#4602
+Sewer Intersection~
+This is the main intersection of the sewers, man-made tunnels lead in
+outwards in all directions. Water slowly drips down from the walls above,
+and little critters scurrie across the sewer water. There is an acrid odor
+that seems to be being emitted from everywhere. 
+~
+0 0
+D0
+~
+~
+0 0 4603
+D1
+~
+~
+0 0 4611
+D2
+~
+~
+0 0 4606
+D3
+~
+~
+0 0 4615
+D4
+~
+~
+0 0 4601
+S
+#4603
+Northern Sewers~
+This is the northern part of the sewers, there are small traces of blood
+along the walkways here. There are torches lit and placed on the side of the
+walls here, to provide illumination for anyone foolish enough to travel the
+sewers. 
+~
+0 0
+D0
+~
+~
+0 0 4604
+D2
+~
+~
+0 0 4602
+S
+#4604
+Northern Sewers~
+This is the northern part of the sewers, there are small traces of blood along the walkways here. There are torches lit and placed on the side of the walls here, to provide illumination for anyone foolish enough to travel the sewers.
+~
+0 0
+D0
+~
+~
+0 0 4605
+D2
+~
+~
+0 0 4603
+S
+#4605
+Northern Sewers~
+This is the northern part of the sewers, there are small traces of blood
+along the walkways here. There are torches lit and placed on the side of the
+walls here, to provide illumination for anyone foolish enough to travel the
+sewers. 
+~
+0 0
+D0
+~
+~
+0 0 4610
+D2
+~
+~
+0 0 4604
+S
+#4606
+Southern Sewers~
+This is the southern part of the tunnels, and it seems to be much darker
+than the rest of the sewers. The smell here is quite different from the
+smell in other parts of the sewers, and it seems to be comming from the
+south. Torches are here, attached to the walls, lighting the path. 
+~
+0 0
+D0
+~
+~
+0 0 4602
+D2
+~
+~
+0 0 4607
+S
+#4607
+Southern Sewers~
+This is the southern part of the tunnels, and it seems to be much darker
+than the rest of the sewers. The smell here is quite different from the
+smell in other parts of the sewers, and it seems to be comming from the
+south. Torches are here, attached to the walls, lighting the path. 
+~
+0 0
+D0
+~
+~
+0 0 4606
+D2
+~
+~
+0 0 4608
+S
+#4608
+Southern Sewers~
+This is the southern part of the tunnels, and it seems to be much darker
+than the rest of the sewers. The smell here is quite different from the
+smell in other parts of the sewers, and it seems to be comming from the
+south. Torches are here, attached to the walls, lighting the path. 
+~
+0 0
+D0
+~
+~
+0 0 4607
+D2
+~
+~
+0 0 4609
+S
+#4609
+Southern Sewers~
+There is a steep incline here, which seems to lead even more beneath
+Ri'on Dashor. There are not many lights here, and trails of blood are splattered
+all along the floor. 
+~
+0 0
+D0
+~
+~
+0 0 4608
+D5
+~
+~
+0 0 4641
+S
+#4610
+Northern Sewers~
+The northern sewers end here. The room is quite plain, except for the
+occasional trickle of water dripping down the sides of the wall. In the
+middle of the room, there seems to be a large trapdoor that is bolted into
+the ground. On the northern most side of the room, there is a BRIGHT RED
+BUTTON. 
+~
+0 0
+E
+a large red button~
+There is a button here mounted on the wall, painted a bright red. There are no markings upon it, except for the words -WARNING- printed above it. It seems like you can PUSH it.
+~
+A piece of metal slides down behind you, locking the room. Water begins to pour out of the side of the walls and a whirlpool forms in the middle of the room, sucking you in.~
+A piece of metal slides down behind you, locking the room. Water begins to pour out the side of the walls and a whirlpool forms in the middle of the room, sucking $n in.~
+3 4619 1
+D2
+~
+~
+0 0 4605
+S
+#4611
+Eastern Sewers~
+This is the eastern part of the sewers, and despite it's ackward smell,
+it is relatively clean. Small critters cling to the walls and swim through
+the sewer water here. 
+~
+0 0
+D1
+~
+~
+0 0 4612
+D3
+~
+~
+0 0 4602
+S
+#4612
+Eastern Sewers~
+This is the eastern part of the sewers, and despite it's ackward smell,
+it is relatively clean. Small critters cling to the walls and swim through
+the sewer water here. 
+~
+0 0
+D1
+~
+~
+0 0 4613
+D3
+~
+~
+0 0 4611
+S
+#4613
+Eastern Sewers~
+This is the eastern part of the sewers, and despite it's ackward smell,
+it is relatively clean. Small critters cling to the walls and swim through
+the sewer water here. 
+~
+0 0
+D1
+~
+~
+0 0 4614
+D3
+~
+~
+0 0 4612
+S
+#4614
+Eastern Sewers~
+This is the eastern part of the sewers, and despite it's ackward smell,
+it is relatively clean. Small critters cling to the walls and swim through
+the sewer water here. 
+~
+0 0
+D3
+~
+~
+0 0 4613
+D5
+~
+~
+0 0 4634
+S
+#4615
+Western Sewers~
+Similar to the rest of the sewers in appearance, the western sewers have
+nothing unique about them. Water slowly trickles down the side of the walls,
+and small critters slowly glide along the surface of the sewer water. 
+~
+0 0
+D1
+~
+~
+0 0 4602
+D3
+~
+~
+0 0 4616
+S
+#4616
+Western Sewers~
+Similar to the rest of the sewers in appearance, the western sewers have
+nothing unique about them. Water slowly trickles down the side of the walls,
+and small critters slowly glide along the surface of the sewer water. 
+~
+0 0
+D1
+~
+~
+0 0 4615
+D3
+~
+~
+0 0 4617
+S
+#4617
+Western Sewers~
+Similar to the rest of the sewers in appearance, the western sewers have
+nothing unique about them. Water slowly trickles down the side of the walls,
+and small critters slowly glide along the surface of the sewer water. 
+~
+0 0
+D1
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4618
+S
+#4618
+Western Sewers~
+Similar to the rest of the sewers in appearance, the western sewers have
+nothing unique about them. Water slowly trickles down the side of the walls,
+and small critters slowly glide along the surface of the sewer water. 
+~
+0 0
+D1
+~
+~
+0 0 4617
+D5
+~
+~
+0 0 4640
+S
+#4619
+A Dark Tunnel~
+The trapdoor is very visible on the ceiling of this room, and water
+sloshes around the room aswell. There is a distinct odor here, one that
+indicates these passages are well traveled by foul beasts. There are torches
+on either side of the wall, providing excellent illumination of the area. 
+~
+0 0
+D0
+~
+~
+0 0 4620
+S
+#4620
+An Intersection in the Tunnel~
+There is a distinct odor here, one that indicates these passages are well
+traveled by foul beasts. There are torches on either side of the wall,
+providing excellent illumination of the area. The walls are solid granite
+and the ground is very hard, there is almost no sewer water in this portion
+of the area. 
+~
+0 0
+D0
+~
+~
+0 0 4624
+D1
+~
+~
+0 0 4621
+D2
+~
+~
+0 0 4619
+S
+#4621
+A Long Tunnel~
+This tunnel turns off from the main one, heading into a very darkened
+area. The odor has dissipated somewhat, but there is a bright glow comming
+from the east, shining brightly off the walls. 
+~
+0 0
+D1
+~
+~
+0 0 4622
+D3
+~
+~
+0 0 4620
+S
+#4622
+A Bend in the Tunnel~
+The tunnel now turns to the north, where the brightness is almost blinding. The ground here is somewhat softer than the reset of the sewers, and it is less dirty. The air is almost scentless.
+~
+0 0
+D0
+~
+~
+0 0 4623
+D3
+~
+~
+0 0 4621
+S
+#4623
+A Dead End~
+There is no way out of this room except back the way you came. The walls seem made to be made out of solid granite, except for one part of the wall which looks a little odd. Next to the odd looking wall, are some ANCIENT MARKINGS that glow brightly whenever someone looks at them.
+~
+0 0
+E
+some ancient markings~
+As you peer at the ancient markings, they seem to glow brighter and brighter. There is an itching sensation in your mind to PRESS them.
+~
+As you move closer to the markings, they increase in brightness. You reach out and touch them with your hand, and suddenly a piece of the wall slides open and a key falls out. You quickly reach down and grab the key.~
+As $n moves closer to the markings on the wall, they increase in brightness. $e reaches out and touches it with $s hand, and suddenly a piece of the wall slides open and a key falls out. $n quickly reaches down and grabs the key.~
+2 4601 2
+D2
+~
+~
+0 0 4622
+S
+#4624
+A Long Corridor~
+There is a distinct odor here, one that indicates these passages are well traveled by foul beasts. There are torches on either side of the wall, providing excellent illumination of the area. The walls are solid granite and the ground is very hard, there is almost no sewer water in this portion of the area.
+~
+0 0
+D0
+~
+~
+0 0 4625
+D2
+~
+~
+0 0 4620
+S
+#4625
+A Long Corridor~
+There is a distinct odor here, one that indicates these passages are well traveled by foul beasts. There are torches on either side of the wall, providing excellent illumination of the area. The walls are solid granite and the ground is very hard, there is almost no sewer water in this portion of the area.
+~
+0 0
+D0
+~
+~
+0 0 4626
+D2
+~
+~
+0 0 4624
+S
+#4626
+A Long Corridor~
+This is the end of the long corridor, the path ahead is blocked by a barred steel door. Torches light the sides of the walls here, indicating people have been here before. The door seems to glow faintly, as if protected by some magical spell. There is a small keyhole in the door, allowing people with the right key to gain access to whatever lies beyond it.
+~
+0 0
+D0
+~
+~
+103 4601 4627
+D2
+~
+~
+0 0 4625
+S
+#4627
+A Bloody Pathway~
+The scent of blood and foulness fills the air here. Blood, carcasses and other unidentifiable objects are 'splattered' all around this room. Death fills the air here, an odd chanting can also be heard to the north.
+~
+0 0
+D0
+~
+~
+0 0 4628
+D2
+~
+~
+103 0 4626
+S
+#4628
+A Large Pit~
+This pit is filled with the stench of death, carcasses of dead animals and even some of mortal men are strewn about here. The room has exits leading in all directions.
+~
+0 0
+D0
+~
+~
+0 0 4629
+D1
+~
+~
+0 0 4630
+D2
+~
+~
+0 0 4627
+D3
+~
+~
+0 0 4631
+S
+#4629
+Feasting Room~
+Many sturdy wooden tables, covered with blood and bones of small animals
+are placed in this room. A very uninviting scent plagues the room, it alone
+could kill off a horde of plundering humans. 
+~
+0 0
+D2
+~
+~
+0 0 4628
+S
+#4630
+A Dark Room~
+This room is almost pitch black, except for the small amount of illumination comming from a glowing orb in the center of the room. Around it, orcs and trolls alike chant to their god, praying for strength during their next battles. The same distinct odor of death fills the air here.
+~
+0 0
+D3
+~
+~
+0 0 4628
+S
+#4631
+A Bloody Corridor~
+The scent of blood and foulness fills the air here. Blood, carcasses and other unidentifiable objects are 'splattered' all around this room. To the west it gets darker and darker.
+~
+0 0
+D1
+~
+~
+0 0 4628
+D3
+~
+~
+0 0 4632
+S
+#4632
+A Bloody Corridor~
+The scent of blood and foulness fills the air here. Blood, carcasses and other unidentifiable objects are 'splattered' all around this room. To the west it gets darker and darker.
+~
+0 0
+D1
+~
+~
+0 0 4631
+D3
+~
+~
+0 0 4633
+S
+#4633
+A Pathway to the Surface~
+~
+0 0
+D1
+~
+~
+0 0 4632
+D4
+~
+~
+0 0 7802
+S
+#4634
+Dank Sewer~
+This part of the sewers is very dark and damp. There are no torches
+placed along the walls for illumination, the only light comes from the
+little provided above. The trickle of water can be heard comming from the
+west. 
+~
+0 0
+D3
+~
+~
+0 0 4635
+D4
+~
+~
+0 0 4614
+S
+#4635
+Dank Sewer~
+This part of the sewers is very dark and damp. There are no torches
+placed along the walls for illumination, the only light comes from the
+little provided above. The trickle of water can be heard comming from the
+west. 
+~
+0 0
+D1
+~
+~
+0 0 4634
+D3
+~
+~
+0 0 4636
+S
+#4636
+Dank Sewer~
+This part of the sewers is very dark and damp. There are no torches
+placed along the walls for illumination, the only light comes from the
+little provided above. The trickle of water can be heard comming from the
+west. 
+~
+0 0
+D1
+~
+~
+0 0 4635
+D3
+~
+~
+0 0 4637
+S
+#4637
+A Rounded Room~
+This room is very rounded, and in the middle is a large gaping hole with
+a ladder leading down into nearly complete darkness. It seems as if
+something had dug the hole itself. 
+~
+0 0
+D1
+~
+~
+0 0 4636
+D3
+~
+~
+0 0 4638
+D5
+~
+~
+0 0 4644
+S
+#4638
+Dank Sewer~
+This part of the sewers is very dark and damp. There are no torches
+placed along the walls for illumination, the only light comes from the
+little provided above. The trickle of water can be heard comming from the
+east. 
+~
+0 0
+D1
+~
+~
+0 0 4637
+D3
+~
+~
+0 0 4639
+S
+#4639
+Dank Sewer~
+This part of the sewers is very dark and damp. There are no torches
+placed along the walls for illumination, the only light comes from the
+little provided above. The trickle of water can be heard comming from the
+east. 
+~
+0 0
+D1
+~
+~
+0 0 4638
+D3
+~
+~
+0 0 4640
+S
+#4640
+Dank Sewer~
+This part of the sewers is very dark and damp. There are no torches
+placed along the walls for illumination, the only light comes from the
+little provided above. The trickle of water can be heard comming from the
+east. 
+~
+0 0
+D1
+~
+~
+0 0 4639
+D4
+~
+~
+0 0 4618
+S
+#4641
+A Dark Tunnel~
+There is one sole torch here, providing illumination for the whole room.
+It is very dark and damp in here, it would make a great hiding spot for
+anything that lurks in the night. 
+~
+0 0
+D1
+~
+~
+0 0 4642
+D4
+~
+~
+0 0 4609
+S
+#4642
+A Dark Tunnel~
+There is one sole torch here, providing illumination for the whole room.
+It is very dark and damp in here, it would make a great hiding spot for
+anything that lurks in the night. 
+~
+0 0
+D1
+~
+~
+0 0 4643
+D3
+~
+~
+0 0 4641
+S
+#4643
+A Dark Tunnel~
+There is one sole torch here, providing illumination for the whole room. It is very dark and damp in here, it would make a great hiding spot for anything that lurks in the night.
+~
+0 0
+D3
+~
+~
+0 0 4642
+S
+#4644
+A Deep Pit~
+This seems to be a very deep pit, blood is splattered everywhere. The
+little bit of light that is in this room comes from a gaping hole from
+above. The walls here seem to be made out of stone, it seems to be some kind
+of ancient passageway. 
+~
+0 0
+D1
+~
+~
+0 0 4645
+D2
+~
+~
+0 0 4649
+D3
+~
+~
+0 0 4647
+D4
+~
+~
+0 0 4637
+S
+#4645
+An Old Passage~
+There is one sole torch here providing illumination for the entire room.
+The stone walls have large cracks and scratches in them, almost like if a
+huge battle took place here many centuries ago. It is very humid and moist,
+mold can be seen growing on the ceiling and some parts of the walls. 
+~
+0 0
+D1
+~
+~
+0 0 4646
+D3
+~
+~
+0 0 4644
+S
+#4646
+A Bend in the Passage~
+The passage becomes a bend, turning to the south and leading off into
+another dark room. A small breeze can be felt through a medium-sized crack
+in the ceiling. 
+~
+0 0
+D2
+~
+~
+0 0 4648
+D3
+~
+~
+0 0 4645
+S
+#4647
+An Old Passage~
+The walls in this part of the passage seem relatively unscathed. The
+auroma of rotten flesh fills the air, drifting from one side of the room to
+another. Water drips from a large crack in the middle of the ceiling. 
+~
+0 0
+D1
+~
+~
+0 0 4644
+D3
+~
+~
+0 0 4648
+S
+#4648
+An Old Passage~
+A few skeletal corpses of knights, plated with shining gold armor lie
+here. Part of the southern wall has been totally destroyed, revealing a
+thick layer of solid earth behind it. 
+~
+0 0
+D0
+~
+~
+0 0 4646
+D1
+~
+~
+0 0 4647
+S
+#4649
+An Old Passage~
+This room is devoid of all detail except for a large rock that has been
+placed against the eastern wall. Upon the large rock lies the skeleton of a
+human, although disfigured and smashed into tiny pieces. 
+~
+0 0
+D0
+~
+~
+0 0 4644
+D2
+~
+~
+0 0 4650
+S
+#4650
+An Old Passage~
+A very steep incline leads downwards into a well-lit area. The acrid
+scent of sewer water floats in the air here, rising from the room above. 
+~
+0 0
+D0
+~
+~
+0 0 4649
+D5
+~
+~
+0 0 4651
+S
+#4651
+A Steep Incline~
+The floor gradually rises here, until it finially becomes a steep incline
+leading to a corridor above. Lit torches, placed on sticks which have been
+driven into the ground, provide light. 
+~
+0 0
+D0
+~
+~
+0 0 4652
+D4
+~
+~
+0 0 4650
+S
+#4652
+A Dark Pit~
+This pit is very dark, filled with many carcases of dead animals and
+insects alike. A steam of sewer water flows in from the north and continues
+to the south, large concrete slabs placed on either side of it allowing
+passage. 
+~
+0 0
+D0
+~
+~
+0 0 4653
+D2
+~
+~
+0 0 4651
+S
+#4653
+A Bend in the Hall~
+The hall begins to bend towards the south. The walls are maintained in
+good order, as well as the lighting. A small steam of sewer water flows in
+from the north and then towards the south here. 
+~
+0 0
+D2
+~
+~
+0 0 4652
+D3
+~
+~
+0 0 4654
+S
+#4654
+A Bright Corridor~
+Torches are placed on either side of the wall, lighting up the room
+brilliantly. Huge stone walls here have been erected on either sides of the
+wall, keeping the earth from filling up these chambers with layers of dirt. 
+~
+0 0
+D1
+~
+~
+0 0 4653
+D3
+~
+~
+0 0 4655
+S
+#4655
+A Bright Corridor~
+Torches are placed on either side of the wall, lighting up the room
+brilliantly. Huge stone walls here have been erected on either sides of the
+wall, keeping the earth from filling up these chambers with layers of dirt. 
+~
+0 0
+D1
+~
+~
+0 0 4654
+D4
+~
+~
+0 0 4656
+S
+#4656
+A Rusty Ladder~
+The ladder hugs the wall tightly, as if any slight movement could cause
+it's rusted metal to break. The opening below is not very big and looks like
+it could only fit one person going through it at a time. 
+~
+0 0
+D4
+~
+~
+0 0 4657
+D5
+~
+~
+0 0 4655
+S
+#4657
+An Ancient Manhole~
+This manhole seems very ancient. A small, rusted ladder leads down to
+whatever lies below. It is very humid and dark here, as all the lights that
+were placed here have been burnt out. 
+~
+0 0
+D5
+~
+~
+0 0 4656
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4601 120 4602
+M 0 4602 120 4602
+M 0 4603 120 4602
+M 0 4604 120 4602
+M 0 4602 120 4602
+M 0 4602 120 4603
+M 0 4603 120 4603
+M 0 4604 120 4603
+M 0 4601 120 4603
+M 0 4602 120 4603
+M 0 4601 120 4604
+M 0 4602 120 4604
+M 0 4601 120 4604
+M 0 4603 120 4604
+M 0 4601 120 4605
+M 0 4602 120 4605
+M 0 4603 120 4605
+M 0 4602 120 4605
+M 0 4601 120 4606
+M 0 4602 120 4606
+M 0 4603 120 4606
+M 0 4604 120 4606
+M 0 4601 120 4607
+M 0 4603 120 4607
+M 0 4602 120 4607
+M 0 4604 120 4607
+M 0 4604 120 4607
+M 0 4601 120 4608
+M 0 4603 120 4608
+M 0 4602 120 4608
+M 0 4604 120 4608
+M 0 4604 120 4608
+M 0 4601 120 4609
+M 0 4603 120 4609
+M 0 4602 120 4609
+M 0 4604 120 4609
+M 0 4604 120 4609
+M 0 4604 120 4610
+M 0 4602 120 4610
+M 0 4603 120 4610
+M 0 4601 120 4610
+M 0 4604 120 4610
+M 0 4603 120 4611
+M 0 4602 120 4611
+M 0 4602 120 4611
+M 0 4604 120 4611
+M 0 4601 120 4611
+M 0 4601 120 4612
+M 0 4603 120 4612
+M 0 4602 120 4612
+M 0 4604 120 4612
+M 0 4604 120 4612
+M 0 4601 120 4613
+M 0 4603 120 4613
+M 0 4602 120 4613
+M 0 4604 120 4613
+M 0 4605 120 4613
+M 0 4601 120 4614
+M 0 4603 120 4614
+M 0 4602 120 4614
+M 0 4604 120 4614
+M 0 4605 120 4614
+M 0 4603 120 4615
+M 0 4602 120 4615
+M 0 4602 120 4615
+M 0 4604 120 4615
+M 0 4601 120 4615
+M 0 4601 120 4616
+M 0 4603 120 4616
+M 0 4602 120 4616
+M 0 4604 120 4616
+M 0 4605 120 4616
+M 0 4601 120 4617
+M 0 4603 120 4617
+M 0 4602 120 4617
+M 0 4604 120 4617
+M 0 4605 120 4617
+M 0 4601 120 4618
+M 0 4603 120 4618
+M 0 4602 120 4618
+M 0 4604 120 4618
+M 0 4605 120 4618
+M 0 4610 171 4619
+M 0 4609 171 4619
+M 0 4606 171 4619
+M 0 4610 171 4619
+M 0 4610 171 4620
+M 0 4609 171 4620
+M 0 4606 171 4620
+M 0 4610 171 4620
+M 0 4602 120 4620
+M 0 4610 171 4621
+M 0 4609 171 4621
+M 0 4606 171 4621
+M 0 4610 171 4621
+M 0 4602 120 4621
+M 0 4610 171 4622
+M 0 4609 171 4622
+M 0 4606 171 4622
+M 0 4610 171 4622
+M 0 4602 120 4622
+M 0 4610 171 4623
+M 0 4609 171 4623
+M 0 4606 171 4623
+M 0 4610 171 4623
+M 0 4602 120 4623
+M 0 4610 171 4624
+M 0 4609 171 4624
+M 0 4606 171 4624
+M 0 4610 171 4624
+M 0 4602 120 4624
+M 0 4610 171 4625
+M 0 4609 171 4625
+M 0 4606 171 4625
+M 0 4610 171 4625
+M 0 4602 120 4625
+M 0 4610 171 4626
+M 0 4609 171 4626
+M 0 4610 171 4626
+M 0 4609 171 4626
+M 0 4610 171 4626
+M 0 4610 171 4627
+M 0 4609 171 4627
+M 0 4610 171 4627
+M 0 4609 171 4627
+M 0 4610 171 4627
+M 0 4610 171 4628
+M 0 4609 171 4628
+M 0 4610 171 4628
+M 0 4609 171 4628
+M 0 4610 171 4628
+M 0 4610 171 4629
+M 0 4609 171 4629
+M 0 4610 171 4629
+M 0 4609 171 4629
+M 0 4610 171 4629
+G 0 4606 0
+M 0 4610 171 4630
+M 0 4609 171 4630
+M 0 4610 171 4630
+M 0 4609 171 4630
+M 0 4610 171 4630
+M 0 4611 120 4630
+E 0 4604 0 16
+M 0 4601 120 4634
+M 0 4603 120 4634
+M 0 4602 120 4634
+M 0 4604 120 4634
+M 0 4605 120 4634
+M 0 4606 171 4635
+M 0 4607 171 4635
+M 0 4608 171 4635
+M 0 4607 171 4635
+M 0 4605 171 4635
+M 0 4606 171 4636
+M 0 4607 171 4636
+M 0 4608 171 4636
+M 0 4607 171 4636
+M 0 4605 171 4636
+M 0 4609 120 4637
+M 0 4607 120 4637
+M 0 4609 120 4637
+M 0 4607 120 4637
+M 0 4609 120 4637
+M 0 4606 171 4638
+M 0 4607 171 4638
+M 0 4608 171 4638
+M 0 4607 171 4638
+M 0 4605 171 4638
+M 0 4606 171 4639
+M 0 4607 171 4639
+M 0 4608 171 4639
+M 0 4607 171 4639
+M 0 4605 171 4639
+M 0 4601 120 4640
+M 0 4603 120 4640
+M 0 4602 120 4640
+M 0 4604 120 4640
+M 0 4605 120 4640
+M 0 4609 171 4641
+M 0 4610 171 4641
+M 0 4609 171 4641
+M 0 4610 171 4641
+M 0 4609 171 4641
+M 0 4609 171 4642
+M 0 4610 171 4642
+M 0 4609 171 4642
+M 0 4610 171 4642
+M 0 4609 171 4642
+M 0 4601 171 4643
+M 0 4602 171 4643
+M 0 4603 171 4643
+M 0 4601 171 4643
+M 0 4604 171 4643
+M 0 4606 171 4644
+M 0 4609 171 4644
+M 0 4608 171 4644
+M 0 4606 171 4644
+M 0 4606 171 4645
+M 0 4609 171 4645
+M 0 4608 171 4645
+M 0 4606 171 4645
+M 0 4606 171 4646
+M 0 4609 171 4646
+M 0 4608 171 4646
+M 0 4606 171 4646
+M 0 4606 171 4647
+M 0 4609 171 4647
+M 0 4608 171 4647
+M 0 4606 171 4647
+M 0 4606 171 4648
+M 0 4609 171 4648
+M 0 4608 171 4648
+M 0 4606 171 4648
+M 0 4606 171 4649
+M 0 4609 171 4649
+M 0 4608 171 4649
+M 0 4606 171 4649
+M 0 4606 171 4650
+M 0 4609 171 4650
+M 0 4608 171 4650
+M 0 4606 171 4650
+M 0 4608 171 4651
+M 0 4608 171 4651
+M 0 4608 171 4651
+M 0 4601 171 4651
+M 0 4609 171 4651
+M 0 4601 171 4652
+M 0 4602 171 4652
+M 0 4603 171 4652
+M 0 4601 171 4652
+M 0 4604 171 4652
+M 0 4601 171 4653
+M 0 4602 171 4653
+M 0 4603 171 4653
+M 0 4601 171 4653
+M 0 4604 171 4653
+M 0 4601 171 4654
+M 0 4602 171 4654
+M 0 4603 171 4654
+M 0 4601 171 4654
+M 0 4604 171 4654
+M 0 4601 171 4655
+M 0 4602 171 4655
+M 0 4603 171 4655
+M 0 4601 171 4655
+M 0 4604 171 4655
+S
+
+
+
+#$

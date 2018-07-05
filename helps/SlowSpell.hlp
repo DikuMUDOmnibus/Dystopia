@@ -1,0 +1,12 @@
+SLOW SPELL
+'SLOW SPELL' SLOWSPELL GIANT
+1
+The slow spell can be cast by giant shamans, and will decrease the amount of
+attacks a player has each combat round (doesn't affect the chance to hit, only
+the amount of attacks). This spell can be dispelled, like any other normal
+spell.
+
+To gain this spell, the shaman must pick the 'slow spell' evolve, which opposes
+the '@@haste spell@' evolve.
+
+Syntax: slowspell [victim]

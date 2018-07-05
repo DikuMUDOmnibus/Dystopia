@@ -1,0 +1,9 @@
+FIGHTTIMER
+FIGHTTIMER FT COMBAT
+1
+On your standard prompt you will notice a section called 'ft', this is your
+fighttimer. When your fighttimer is larger than zero, then no room is safe,
+and certain powers will no longer work.
+
+You gain a fighttimer each time you do battle with another player,
+and it will slowly drop outside combat.

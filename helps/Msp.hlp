@@ -1,0 +1,21 @@
+MSP
+MSP SOUNDS MUSIC CONFIGURATION
+1
+MSP stands for Mud Sound Protocol, and it's a way of allowing muds
+to use sounds and affects to increase the fun of mudding.
+
+As far as I know, only wintin and zmud has support for MSP, but
+should you know of any other clients that supports the sound
+protocol, you can mail the admins of the mud, and they will add
+it to the list of clients.
+
+You can either download all the sounds first (that's probably
+the smartest thing to do), or let your mudclient download them
+when they are needed (it will only download them once, and then
+reuse the downloaded sound next time it's needed).
+
+There are currently no sound files available, if you have access
+to some good sound files (wave and midi files) please mail them
+to me at xxxxx@xxxxx.xxx
+
+Just type 'sound' to toggly sounds on/off.

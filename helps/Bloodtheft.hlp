@@ -1,0 +1,13 @@
+BLOODTHEFT
+BLOODTHEFT SHADOWLORD
+1
+This evolve can be gained by any shadowlord that has already gained the level 1
+evolve '@@skullduggery@'. It opposes the '@@razorpunch@' evolve, and only 
+one of these two evolves can be gained.
+
+This evolve allows the shadowlord to steal a small amount of health from the
+person fighting the shadowlord. This health will heal the shadowlord over a
+brief period of time - and the shadowlord is unable to use this power while it
+is already in affect.
+
+Syntax: bloodtheft

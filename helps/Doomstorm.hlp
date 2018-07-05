@@ -1,0 +1,13 @@
+DOOMSTORM
+DOOMSTORM WARLOCK
+1
+This evolve requires that the warlock has first gained the '@@doombolt@' evolve,
+and it opposes the '@@doomcharge@' evolve, and only one of these two evolves can
+be gained.
+
+This evolve will enhance the power of the doombolt which can be summoned by the
+warlock. Each bolt struck by the doomstorm will split into two bolts, each
+causing normal doombolt damage. Effectivly doubling the damage dealt by the
+doombolt power.
+
+This enhanced effect is automatic when using doombolt.

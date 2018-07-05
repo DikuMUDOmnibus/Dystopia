@@ -1,0 +1,1176 @@
+#AREADATA
+Name        Lune      The Fiery Pits of Mount Doom~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       7601 7700
+Cvnum       7601
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#7601
+Hell's Gatekeeper~
+Hell's Gatekeeper~
+Hell's Gatekeeper stands here, guarding the gates of Hell.
+~
+A huge demon stands here, towering above you. Large, black wings sprout
+from it's back. Two massive horns stick out of it's forehead. Huge claws
+replace it's fingers. 
+~
+19 2359456 -1000
+456 30 0 94 0 0
+1 5
+S
+#7602
+giant demon~
+A giant demon~
+A giant demon circles the area from above.
+~
+Huge, red wings sprout from this gigantic demons back. It's eyes flare a
+blood red, and it's body engulfed in an aura of fire. It circles around from
+above, searching for souls to prey upon. 
+~
+17 2359336 -1000
+306 0 1 0 0 0
+0 5
+S
+#7603
+fire imp~
+A fire imp~
+A fire imp is here, setting things ablaze.
+~
+The fire imp giggles as it sets everything it sees ablaze. It's body is
+engulfed with fire, burning everything around it to a crisp. 
+~
+21 2064 -500
+289 0 0 38 0 0
+0 6
+S
+#7604
+greater demon~
+A greater demon~
+A greater demon stands here, ready to serve Hell.
+~
+The epitome of all that is powerful. Huge claws extrude from the ends of
+his fingers, and gigantic wings sprout from his back. Two large horns jut
+out from it's head. 
+~
+1041 262656 -1000
+457 25 2 0 0 0
+0 5
+S
+#7605
+lucifer lord demons~
+Lucifer~
+Lucifer, Lord of the Demons sits upon his hellish throne here.
+~
+Lucifer's body is the epitome of all that is evil, looking at it would
+plunge your mind into eternal darkness. 
+~
+1051 262328 -1000
+492 2 2 82 0 0
+1 5
+S
+#7606
+hellhound hound~
+a hellhound~
+A hellhound is here, growling viciously.
+~
+~
+17 0 -350
+339 0 2 0 0 0
+0 10
+S
+#7607
+enul~
+The Enul~
+The Enul stands here, an aura of darkness radiating around it.
+~
+~
+1053 0 -750
+474 2 2 56 0 0
+0 8
+S
+#7608
+hellspawn~
+a hellspawn~
+A hellspawn guards the area.
+~
+~
+17 0 -750
+356 0 3 0 0 0
+0 4
+S
+#7609
+pit lord~
+a pit lord~
+A pit lord is devouring souls here.
+~
+~
+51 0 -500
+338 0 0 0 0 0
+0 5
+S
+#0
+
+
+
+#OBJECTS
+#7601
+large crack~
+a large crack in the ground~
+A large crack in the ground.~
+21 0 0
+7602 0 0 0
+1 0
+E
+crack~
+Huge demonic flames surround a large crack in the ground. An immense
+sense of evil and hatred comes upon all who go close to it. It seems big
+enough for a person to fit through. 
+~
+~
+~
+0 0 0
+#7602
+large black key~
+a large black key etched with skulls~
+A large black key etched with skulls lays here.~
+13 0 16385
+0 0 0 0
+1 0
+#7603
+abyssal gate~
+the Abyssal Gate~
+The Abyssal Gate lies here, surrounded by a swirling vortex.~
+21 0 0
+7653 0 0 0
+1 0
+#7604
+abyssal gate~
+the Abyssal Gate~
+The Abyssal Gate lies here, surrounded by a swirling vortex.~
+21 0 0
+7637 0 0 0
+1 0
+#7605
+cage~
+the Cage~
+The Cage is here, combatants battling each other inside.~
+21 0 0
+7660 0 0 0
+1 0
+#7606
+demonic claymore~
+a demonic claymore~
+A huge demonic claymore scorches the ground it lies on.~
+5 2561 8193
+0 40 12 3
+50 0
+#7607
+hellhound teeth~
+some hellhound teeth~
+Some hellhound teeth glimmer in the ground.~
+5 0 24577
+0 5 25 10
+1 0
+#7608
+fist fire~
+a fist of fire~
+A chopped off hand engulfed in fire slowly burns here.~
+5 2561 24577
+0 50 10 6
+1 0
+#7609
+cracked warriors helmet~
+a cracked warriors helmet~
+A cracked warriors helmet is half-buried in the ground here.~
+7 1024 17
+-45 0 0 0
+1 0
+#7610
+lifeless soul~
+the lifeless soul of an adventurer~
+The lifeless soul of an adventurer wanders around aimlessly.~
+10 0 1
+0 0 0 0
+1 0
+#7611
+claw lucifer~
+lucifer's claw~
+A large severed claw lies here, slowly decomposing.~
+5 2561 8193
+0 75 7 5
+1 0
+#0
+
+
+
+#ROOMDATA
+#7601
+A large crack in the ground~
+This place is the epitome of all that is evil. Huge flames shoot into the
+air, instantly killing anyone they touch. The sky is black. The scent of
+death and pain float in the air. The ground is scorched to a pitch black. 
+~
+4 0
+S
+#7602
+Hell's Gates~
+This is what seems to be a large floating platform, high above a massive
+lake of boiling magma. Two huge sleek black gates guard the entrance to
+Hell, leading to a plethora of twirling steps that dwindle down into the
+depths evil. 
+~
+4 0
+D2
+~
+~
+103 7602 7603
+S
+#7603
+The Entrance to Hell~
+Huge stairs made out of earth dwindle down into a large platform below.
+Massive balls of boiling magma shoot up into the air, and the screams of
+tortured souls can be heard, begging their captors for mercy. 
+~
+4 10
+D0
+~
+~
+103 0 7602
+D5
+~
+~
+0 0 7604
+S
+#7604
+Hell~
+The immense heat here seems to slow everything down. Large pools of
+overflowing magma and fissures in the ground that seem to have an endless
+depth, litter this area. 
+~
+0 10
+E
+sign~
+~
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7605
+D1
+~
+~
+0 0 7607
+D2
+~
+~
+0 0 7606
+D3
+~
+~
+0 0 7608
+D4
+~
+~
+0 0 7603
+S
+#7605
+A massive land-bridge~
+A large bridge of land arches across a lake of flowing lava. The ground
+is scorched to a greyish-black, and small cracks in the floor make it seem
+like the bridge will collapse at any moment. 
+~
+0 10
+D0
+~
+~
+0 0 7609
+D2
+~
+~
+0 0 7604
+S
+#7606
+Pit of Sacrifice~
+This part of Hell is very barren, the ground is scorched from the
+searing heat of the magma. The smell of burning flesh fills the air. Corpses
+of knights and other valiant adventurers are strewn out across the floor. 
+~
+0 10
+D0
+~
+~
+0 0 7604
+S
+#7607
+Pit of Sacrifice~
+This part of Hell is very barren, the ground is scorched from the searing
+heat of the magma. The smell of burning flesh fills the air. Corpses of
+knights and other valiant adventurers are strewn out across the floor. 
+~
+0 10
+D3
+~
+~
+0 0 7604
+S
+#7608
+Pit of Sacrifice~
+This part of Hell is very barren, the ground is scorched from the searing
+heat of the magma. The smell of burning flesh fills the air. Corpses of
+knights and other valiant adventurers are strewn out across the floor. 
+~
+0 10
+D1
+~
+~
+0 0 7604
+S
+#7609
+A plateau surrounded by magma~
+The ground is scorched. The sky is black. Huge lakes of magma flow
+through large crevices in the earth. Boiling fireballs shoot into the air,
+scorching all who are near. The screams of the tortured can be heard. 
+~
+0 10
+D2
+~
+~
+0 0 7605
+D5
+~
+~
+0 0 7610
+S
+#7610
+The Halls of Pain~
+The walls here seem to be made out of boiling hot magma. The ground is
+scorched black, the remains of tortured bodies scattered all around. The
+bodies are ripped up and mutilated, the mere sight of them making all who
+look feel their torture. Every step becomes more hard, as the earth itself
+seems to cause pain. 
+~
+0 10
+D1
+~
+~
+0 0 7611
+D3
+~
+~
+0 0 7616
+D4
+~
+~
+0 0 7609
+S
+#7611
+The Halls of Pain~
+The walls here themselves seem to be in pain, moaning for help. The
+ground makes each step more difficult. The stentch of burning flesh fills
+the air. A rotted corpse of an unwary adventurer slowly melts away into the
+floor. 
+~
+0 10
+D1
+~
+~
+0 0 7612
+D3
+~
+~
+0 0 7610
+S
+#7612
+The Halls of Pain~
+The Halls of Pain continue to the east and west. To the north lies the
+Halls of Torture, the wails of tortured souls can be heard from even here.
+Dispite the walls of flowing magma, this room is quite dark. 
+~
+0 10
+D0
+~
+~
+0 0 7626
+D1
+~
+~
+0 0 7613
+D3
+~
+~
+0 0 7611
+S
+#7613
+The Halls of Pain~
+Screaming, as well as cheering can be heard comming from the south. Blood
+is splattered all along the scorched earth here. The walls of magma seem to
+have stopped moving, and lie still. 
+~
+0 10
+D2
+~
+~
+0 0 7614
+D3
+~
+~
+0 0 7612
+S
+#7614
+The Halls of Pain~
+The cheers and shouts of demons can be heard even more loudly now,
+comming from the east. A pool of blood slowly dries up in the middle of the
+room, next to a severed arm. 
+~
+0 10
+D0
+~
+~
+0 0 7613
+D1
+~
+~
+0 0 7615
+S
+#7615
+The Cage~
+The room is set up almost like a stadium, huge cliffs positioned and
+shaped like bleachers surround a large cage. The cheers and shouts of demons
+is almost deafening. 
+~
+0 10
+D3
+~
+~
+0 0 7614
+S
+#7616
+The Halls of Pain~
+The Halls of Pain bend and lead to the north, into the Halls of Evil. The
+wails of tortured souls can be heard echoing thoughout the very walls. Every
+step takes twice the effort, the earth itself turning against all who enter.
+~
+0 10
+D0
+~
+~
+0 0 7617
+D1
+~
+~
+0 0 7610
+S
+#7617
+The Halls of Everlasting Sorrow~
+The mood here is very dark and very sorrow. Little or no light is
+provided, making it seem like trying to journey through The Halls of
+Everlasting Sorrow would be a lost cause. Soft whispering can be heard, from
+those lost souls who got trapped within these very earthly walls. 
+~
+0 10
+D0
+~
+~
+0 0 7618
+D2
+~
+~
+0 0 7616
+S
+#7618
+The Halls of Everlasting Sorrow~
+An unbelievable force of energy resides here, it's power flowing
+throughout the walls themselves. The pleas for help by lost souls ring
+throughout these desolate halls. The darkness confuses and blinds, always
+playing trickery on anyone foolish enough to venture this deep into the
+heart of Hell. 
+~
+0 10
+D1
+~
+~
+0 0 7623
+D2
+~
+~
+0 0 7617
+D3
+~
+~
+0 0 7619
+S
+#7619
+The Halls of Everlasting Sorrow~
+An unbelievable force of energy resides here, it's very power flowing
+throughout these living walls. The pleas for help by lost souls ring out,
+echoing loudly throughout the halls. The total darkness confuses and blinds,
+always playing trickery on those foolish enough to venture into it's grasp. 
+~
+0 10
+D0
+~
+~
+0 0 7620
+D1
+~
+~
+0 0 7618
+S
+#7620
+The Halls of Everlasting Sorrow~
+An unbelievable force of energy resides here, it's very power flowing
+throughout these living walls. The pleas for help by lost souls ring out,
+echoing loudly throughout the halls. The total darkness confuses and blinds,
+always playing trickery on those foolish enough to venture into it's grasp. 
+~
+0 10
+D1
+~
+~
+0 0 7621
+D2
+~
+~
+0 0 7619
+S
+#7621
+The Halls of Everlasting Sorrow~
+An unbelievable force of energy resides here, it's very power flowing
+throughout these living walls. The pleas for help by lost souls ring out,
+echoing loudly throughout the halls. The total darkness confuses and blinds,
+always playing trickery on those foolish enough to venture into it's grasp. 
+~
+0 10
+D1
+~
+~
+0 0 7622
+D2
+~
+~
+0 0 7624
+D3
+~
+~
+0 0 7620
+S
+#7622
+The Halls of Everlasting Sorrow~
+An unbelievable force of energy resides here, it's very power flowing
+throughout these living walls. The pleas for help by lost souls ring out,
+echoing loudly throughout the halls. The total darkness confuses and blinds,
+always playing trickery on those foolish enough to venture into it's grasp. 
+~
+0 10
+D2
+~
+~
+0 0 7623
+D3
+~
+~
+0 0 7621
+S
+#7623
+The Halls of Everlasting Sorrow~
+An unbelievable force of energy resides here, it's very power flowing
+throughout these living walls. The pleas for help by lost souls ring out,
+echoing loudly throughout the halls. The total darkness confuses and blinds,
+always playing trickery on those foolish enough to venture into it's grasp. 
+~
+0 10
+D0
+~
+~
+0 0 7622
+D3
+~
+~
+0 0 7618
+S
+#7624
+A swirling vortex~
+This is a swirling vortex of colors. Nothing except for a huge portal
+placed in the middle of the room can be seen. 
+~
+0 10
+D0
+~
+~
+0 0 7621
+S
+#7626
+The Halls of Torture~
+The corpses of people brutally killed by insane hellish tortures can be
+seen strewn about this hallway. The mere sight of them sending shivers down
+the most noble of adventurers spines. 
+~
+0 10
+D0
+~
+~
+0 0 7627
+D2
+~
+~
+0 0 7612
+S
+#7627
+The Halls of Torture~
+Each step is like living through an eternity of torture. Visions of those
+long lost souls that were tortured fill your mind, haunting you. An eerie
+silence is in the air. 
+~
+0 10
+D1
+~
+~
+0 0 7628
+D2
+~
+~
+0 0 7626
+S
+#7628
+The Halls of Torture~
+The Halls of Torture break off and lead to the North and East. It has
+become considerably darker. Large spikes, probably used to impale people on,
+jut out from the ground, stained blood covering them like a coating of
+paint. 
+~
+0 10
+D0
+~
+~
+0 0 7629
+D1
+~
+~
+0 0 7635
+D3
+~
+~
+0 0 7627
+S
+#7629
+The Halls of Torture~
+This room is pitch black. The impending darkness makes you want to rip
+your eyes out straight from their sockets. It seems like this room is a
+void, but the screams of tortured souls and sounds of flowing magma can be
+heard from everywhere. 
+~
+0 10
+D0
+~
+~
+0 0 7630
+D2
+~
+~
+0 0 7628
+S
+#7630
+The Halls of Torture~
+An irritating screeching can be heard throughout all of this room. Huge
+axes swing on hinges from the ceiling, decapitating anyone who dare go in
+their path. 
+~
+0 10
+D1
+~
+~
+0 0 7631
+D2
+~
+~
+0 0 7629
+S
+#7631
+The Halls of Torture~
+A fine blood-red mist seeps into this room from the south. This room
+seems to be pulsing, as if it were a heart. The sounds of the 'pulsing' fill
+any adventurers head, and slowly lulls them into a psychotic trance, putting
+them at the mercy of hell. 
+~
+0 10
+D1
+~
+~
+0 0 7632
+D2
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7630
+S
+#7632
+The Halls of Torture~
+The heads of various adventurers, noble kings, evil mages, and gallant
+knights are all impaled upon large wooden stakes that jut out from the
+ground, displaying them like trophies. The ground is splattered with blood
+and limbs, the stench of rotted flesh fills your lungs. 
+~
+0 10
+D2
+~
+~
+0 0 7633
+D3
+~
+~
+0 0 7631
+S
+#7633
+The Halls of Torture~
+Several platforms floating magically over a pit of lava dominate this
+room, forcing adventurers to jump from one to another in order to get
+through to gain access to the next rooms. Small fireballs shoot up from the
+pit of lava inbetween the platforms, catching adventurers unaware and
+searing them with intense heat. 
+~
+0 10
+D0
+~
+~
+0 0 7632
+D2
+~
+~
+0 0 7634
+D3
+~
+~
+0 0 7636
+S
+#7634
+The Halls of Torture~
+The ground shakes intensely every few seconds, causing large crevises in
+the ground to form. 
+~
+0 10
+D0
+~
+~
+0 0 7633
+D3
+~
+~
+0 0 7635
+S
+#7635
+The Halls of Torture~
+This room is very dark. Huge black pits are in the floor, they seem to be
+endless, with no bottom. A huge chandilier is mounted upon the ceiling, but
+instead of candles, it has huge spikes used to impale those stupid enough to
+walk under it. 
+~
+0 10
+D1
+~
+~
+0 0 7634
+D3
+~
+~
+0 0 7628
+S
+#7636
+A swirling vortex~
+A swirling vortex of colors.
+~
+0 10
+D0
+~
+~
+0 0 7631
+D1
+~
+~
+0 0 7633
+S
+#7637
+A swirling vortex~
+This is a swirling vortex of many colors. Nothing can be seen except an exit to the west.
+~
+0 10
+D3
+~
+~
+0 0 7638
+S
+#7638
+A demon pit~
+A huge, gaping pit is carved deep into the earth here. Souls captured by the demonlords are brought here and tortured, using many techniques and demonic devices.
+~
+0 10
+D1
+~
+~
+0 0 7637
+D3
+~
+~
+0 0 7639
+S
+#7639
+The Great Chasm~
+The Great Chasm is a huge chasm in the ground, no one knows what is at
+the bottom of it, if there is even one. It spans many miles, Demons
+themselves are wary when crossing it, as even their hellish powers cannot
+save them from the Chasm. 
+~
+0 10
+D0
+~
+~
+0 0 7640
+D1
+~
+~
+0 0 7638
+S
+#7640
+The Great Chasm~
+The Great Chasm is a huge chasm in the ground, no one knows what is atthe bottom of it, if there is even one. It spans many miles, Demonsthemselves are wary when crossing it, as even their hellish powers cannotsave them from the Chasm.
+~
+0 10
+D0
+~
+~
+0 0 7641
+D2
+~
+~
+0 0 7639
+S
+#7641
+The Great Chasm~
+The Great Chasm is a huge chasm in the ground, no one knows what is at
+the bottom of it, if there is even one. It spans many miles, Demons
+themselves are wary when crossing it, as even their hellish powers cannot
+save them from the Chasm. 
+~
+0 10
+D2
+~
+~
+0 0 7640
+D3
+~
+~
+0 0 7642
+S
+#7642
+The Inner Sanctum~
+The inner sanctum is surrounded by huge mountains of molten rock and
+fire, impassable by mortal means. A small, treacherous pathway through the
+heart of these mountains is the only way to get past the towering infernos
+known as the Hellfire. It leads directly into the heart of Hell, towards
+Lucifer's Throne. 
+~
+0 10
+D1
+~
+~
+0 0 7641
+D3
+~
+~
+0 0 7643
+S
+#7643
+The Lake of Souls~
+The Lake of Souls, made out of the souls of those claimed by Lucifer,
+awaiting to be unleashed upon the heavens. They cry out for help to those
+who pass by them, always relishing the smallest ounce of hope that someone
+will come along to save them from their eternal damnation to be slaves of
+Hell. 
+~
+0 10
+D1
+~
+~
+0 0 7642
+D2
+~
+~
+0 0 7644
+S
+#7644
+Base of Lucifer's Mountain~
+This is the base of the legendary Mountain of Lucifer. It is scorched to
+a pitch black, boiling magma flowing freely over it like veins. At the very
+top, Lucifer's magnificent golden throne can be clearly seen. 
+~
+0 10
+D0
+~
+~
+0 0 7643
+D2
+~
+~
+0 0 7645
+S
+#7645
+Lucifer's Throne~
+Set high upon a huge floating platform of pure liquid rock, lies
+Lucifer's magnificent golden throne. The corpses of all those who have
+opposed him over the centuries have been impaled on stakes, creating a
+'corridor' of sorts towards the throne. This is the center of evil. 
+~
+0 1
+D0
+~
+~
+0 0 7644
+D2
+~
+~
+0 0 7646
+S
+#7646
+Base of Lucifer's Mountain~
+This is the base of the legendary Mountain of Lucifer. It is scorched to
+a pitch black, boiling magma flowing freely over it like veins. At the very
+top, Lucifer's magnificent golden throne can be clearly seen. 
+~
+0 10
+D0
+~
+~
+0 0 7645
+D2
+~
+~
+0 0 7647
+S
+#7647
+The Lake of Souls~
+The Lake of Souls, made out of the souls of those claimed by Lucifer,
+awaiting to be unleashed upon the heavens. They cry out for help to those
+who pass by them, always relishing the smallest ounce of hope that someone
+will come along to save them from their eternal damnation to be slaves of
+Hell. 
+~
+0 10
+D0
+~
+~
+0 0 7646
+D3
+~
+~
+0 0 7648
+S
+#7648
+The Inner Sanctum~
+The inner sanctum is surrounded by huge mountains of molten rock and
+fire, impassable by mortal means. A small, treacherous pathway through the
+heart of these mountains is the only way to get past the towering infernos
+known as the Hellfire. It leads directly into the heart of Hell, towards
+Lucifer's Throne. 
+~
+0 10
+D1
+~
+~
+0 0 7647
+D3
+~
+~
+0 0 7649
+S
+#7649
+The Inferno~
+Thousands of bodies are scattered about here, the fires of hell consuming
+and feeding on them. The bodies, although soulless, scream for mercy and cry
+out in agony. The Inferno, a river of bodies engulfed by fire, the fuel of
+Hell's fire. 
+~
+0 10
+D0
+~
+~
+0 0 7650
+D1
+~
+~
+0 0 7648
+S
+#7650
+A thin land-bridge~
+This thin land-bridge expands across a huge lake of souls, known as The
+Inferno. It seems to be very unstable, and the burning fires from the lake
+below scorch all who dare walk across it. The bridge itself is slick with
+the blood of brave adventurers, dripping down the sides into the inferno of
+souls below. 
+~
+0 10
+D0
+~
+~
+0 0 7651
+D2
+~
+~
+0 0 7649
+S
+#7651
+A large demon pit~
+This is a huge demon pit, where demons of all kinds come to relax and
+converse with one another. Soulless corpses are strewn all about it,
+mutilated and lifeless. 
+~
+0 10
+D2
+~
+~
+0 0 7650
+D3
+~
+~
+0 0 7652
+S
+#7652
+A steep pit~
+This room begins to slope downward at a very steep angle, making even the
+most experienced of adventurers travel slowly and take their time while
+navigating it. This room is surprisingly cold compared to the rest, and is
+virtually clean - no blood or corpses litter the ground. 
+~
+0 10
+D1
+~
+~
+0 0 7651
+D3
+~
+~
+0 0 7653
+S
+#7653
+A swirling vortex~
+This is a swirling vortex of many colors. Not much can be seen, except
+for an exit to the east. 
+~
+0 10
+D1
+~
+~
+0 0 7652
+S
+#7660
+The Cage~
+This is a completely squared in cage. Blood is splattered all over the
+floor. Skeletons lay decaying all over. Broken shards of swords and armor
+lay all about. The scent of death is in the air. There seem to be no exits
+back out. 
+~
+4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 7601 0 7601
+M 0 7601 1 7602
+G 0 7602 0
+M 0 7602 1 7603
+M 0 7603 1 7603
+M 0 7604 1 7604
+M 0 7606 1 7604
+E 0 7607 0 16
+M 0 7606 1 7605
+M 0 7602 1 7605
+M 0 7608 1 7606
+M 0 7602 1 7606
+E 0 7606 0 16
+M 0 7603 1 7607
+M 0 7604 1 7607
+E 0 7606 0 16
+M 0 7603 1 7609
+M 0 7608 1 7609
+M 0 7604 1 7610
+M 0 7606 1 7610
+O 0 7609 0 7610
+M 0 7602 1 7612
+M 0 7603 1 7612
+M 0 7606 1 7612
+E 0 7607 0 16
+M 0 7602 1 7614
+M 0 7603 1 7614
+M 0 7602 1 7614
+O 0 7610 0 7614
+O 0 7605 0 7615
+M 0 7604 1 7615
+M 0 7604 1 7615
+M 0 7602 1 7615
+M 0 7609 1 7617
+M 0 7606 1 7617
+M 0 7603 1 7619
+M 0 7606 1 7620
+M 0 7603 1 7622
+E 0 7608 0 16
+M 0 7602 1 7623
+O 0 7603 0 7624
+M 0 7608 1 7627
+M 0 7606 1 7627
+M 0 7603 1 7627
+O 0 7610 0 7627
+M 0 7606 1 7630
+M 0 7608 1 7630
+M 0 7602 1 7632
+M 0 7602 1 7632
+M 0 7602 1 7635
+M 0 7603 1 7635
+E 0 7608 0 16
+M 0 7608 180 7636
+M 0 7608 1 7636
+M 0 7608 1 7636
+M 0 7606 1 7636
+M 0 7604 1 7636
+M 0 7604 1 7636
+O 0 7604 0 7636
+M 0 7609 1 7637
+M 0 7608 1 7638
+M 0 7604 1 7639
+M 0 7604 1 7640
+M 0 7603 1 7641
+E 0 7608 0 16
+M 0 7603 1 7642
+M 0 7602 1 7643
+M 0 7609 1 7644
+M 0 7605 1 7645
+E 0 7611 0 16
+M 0 7609 1 7646
+M 0 7608 1 7647
+M 0 7606 1 7648
+M 0 7602 1 7649
+M 0 7604 1 7650
+E 0 7606 0 16
+M 0 7603 1 7651
+M 0 7609 1 7653
+M 0 7607 1 7660
+S
+
+
+
+#$

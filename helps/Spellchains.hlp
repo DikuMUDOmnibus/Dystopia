@@ -1,0 +1,34 @@
+SPELLCHAINS
+SPELLCHAINS WINIT WCHAIN WCAST WARLOCK
+1
+Warlocks are able to create somewhat custom spells using a set of chained
+commands. The commands are listed below, and examples can be found in the
+help file @@CHAINEXAMPLES@. This help file is only temporary, and a more
+detailed help file will be written later. While you are casting chain spells
+you will not regenerate mana in the usual way (other affects may help).
+
+winit    : This command starts a new spellchain - first thing you to type.
+wchain   : This command ends the current spell, and starts a new spell,
+           without casting the old... this allows you to chain several
+           spells together before casting them.
+wcast    : This command will cast all the chains you have linked together,
+           one after another (only 5 spells can be chained).
+wcancel  : Cancels the current spell.
+wtarget  : This command sets the target type of the given spell, it defaults
+           to the value "local person", and can be set to "global/local
+           person/room/object". If an earlier chain has set the wtarget,
+           then all following chains will have the same target type, unless
+           you chose to change it later.
+wfocus   : This command sets the actual target (or focus) of the spell, and
+           MUST be set for each spell in the chain (focus is not inhereted
+           through spells in the chain). If you set 'wfocus auto', the chain
+           will try to target the person you are fighting.
+wexclude : This command allows you to exclude targets from a room-specific
+           spell. It will have no effect on object/person spells. The allowed
+           sets to exlude are "target/players/mobiles/group/nongroup". Just
+           like wtarget, this is inhereted through the chained spells.
+wpower   : This command sets the power (and thus mana cost) of the spell, and
+           the default value is 100 (of 1-100). If you set this value in a
+           spell, all following spells in the chain will have the same value.
+wtype    : This command sets the type of spell, and MUST be set for each spell
+           in the chain. The legal types are "damage/heal/affect".

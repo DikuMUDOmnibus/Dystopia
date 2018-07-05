@@ -1,0 +1,8 @@
+TRUTHTELL
+TRUTHTELL WARLOCK
+1
+The Warlocks truthtell spell can be used to steal information from
+another player - effectivly forcing that player to show his or her
+score/level screen to the warlock.
+
+syntax: truthtell [player] [level|score]

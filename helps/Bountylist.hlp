@@ -1,0 +1,10 @@
+BOUNTYLIST
+BOUNTYLIST INFORMATION
+1
+The bountylist command will show the bounty (goldcrowns reward) for killing
+the other players currently in the game. Players can use the bounty command
+to add a new bounty to a player (thus increasing the worth of killing this
+specific player).
+
+Syntax: bountylist
+Syntax: bounty [player] [amount]

@@ -1,0 +1,13 @@
+KUPKEEP
+KUPKEEP KINFO KINGDOM
+1
+By using the kinfo command, any kingdom member can see the details for his
+or her kingdom, including the upkeep cost which the kingdom must pay in gold
+every week. This upkeep cost is based on the size of the kingdom, and the
+amount of retainers the kingdom have hired. Failure to pay the upkeep cost
+will result in a strike for a full week.
+
+Every member of the kingdom increases the upkeep cost by 5 GC, every retainer
+increases it by 25 GC, every room by 5 GC, every trap by 10 GC, and every kingdom
+structyre by 10 GC, which is all taken automatically from the kingdom treasury
+once every week.

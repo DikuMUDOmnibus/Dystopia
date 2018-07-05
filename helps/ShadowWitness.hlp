@@ -1,0 +1,28 @@
+SHADOW WITNESS
+'SHADOW WITNESS' 'SHADOW GUARD' SHADOWLORD
+1
+The 'shadow witness' evolve is a powerful evolve gained by the ancient among
+the shadowlords. It requires the '@@planegrab@' evolve, and opposes the evolve
+'@@shadow feint@', and only one of these two evolves can be gained.
+
+This evolve gives access to the shadowguard spell, which is used to summon a
+guard from plane of shadows. This guard will patrol the for almost 10 minutes,
+and should anyone enter the room, it will instantly transport itself to the
+caster, and inform him or her of the transgressor.
+
+The evolve also gives access to the services of the shadow witness, a
+mysterious being from the plane of shadows. By calling on the witness, the
+shadowlord is kept informed of any attempts of scrying (through any means), and
+is even given a second chance after becoming mortally wounded - the witness
+will try to drag the mortally wounded shadowlord into the plane of shadows,
+though a fast player could still behead the shadowlord before the witness can
+act. The witness will leave the shadowlord to his or her fate after doing the 
+planeshift.
+
+As a master of the shadowplane, the shadowlord can use the planegrab command
+with the 'all' argument, thus attempting to shift everyone in the same room
+into the shadowplane in one scoop.
+
+Syntax: cast 'shadowguard'
+Syntax: callwitness
+Syntax: planegrab all

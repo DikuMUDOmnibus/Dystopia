@@ -1,0 +1,10 @@
+DISCTRAIN
+DISCTRAIN FAE
+1
+This is the Fae discipline training command, which allows a Fae to improve
+his or her @@nature@ and @@arcane@ disciplines. Improving disciplines costs
+primal, and the more primal you have, the better the chance of getting a
+new rank in the given discipline (you need roughly 20 primal per level for
+a decent chance).
+
+Syntax: disctrain [nature|arcane]

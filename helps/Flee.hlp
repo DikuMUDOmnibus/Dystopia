@@ -1,0 +1,15 @@
+FLEE
+FLEE RESCUE TACKLE COMBAT
+1
+Syntax: flee
+Syntax: rescue   [character]
+Syntax: tackle   [character]
+
+Once you start a fight, you can't just walk away from it. If the fight
+is not going well, you can attempt to FLEE, or another character can
+RESCUE you. While attempting to flee, everyone else is allowed to use
+the TACKLE command on you, which has a small chance to pin you to the
+floor, preventing your fleeing attempt.
+
+Event if the fleeing attempt is not tackled, there is still a chance
+that the attempt will flee due to other circumstances.

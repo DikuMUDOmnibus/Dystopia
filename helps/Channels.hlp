@@ -1,0 +1,9 @@
+CHANNELS
+CHANNELS CONFIGURATION
+1
+Syntax: channels
+Syntax: channels +[channel]
+Syntax: channels -[channel]
+
+With no options, CHANNELS shows you your current channels.  With a plus or
+minus sign and an option, CHANNELS turns that channel on or off.

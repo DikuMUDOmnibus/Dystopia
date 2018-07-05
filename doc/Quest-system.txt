@@ -1,0 +1,44 @@
+This is a short introduction to setting up the quest system included in 
+this codebase.
+
+In the file quests.c you will find a function called do_createbase(), this 
+is the code that is called by using the admin command 'createbase 
+<big|small>'. You can change the minimum and maximum levels for 'big' and 
+'small' in that code.
+
+When you have create a full set of areas, or simply wish to test the 
+quest system, you should call first 'createbase small', then open 
+'../txt/questlist.txt'. This file contains a list of mob-vnums, which fits 
+the levelrange defined in the function, as well as a comment, telling what 
+area the mob was found in.. the command takes a while to complete, since 
+it runs through all the areas, checking for reset mobs, so don't
+run it with active players online.
+
+An example questlist.txt
+
+/* The rangers forest */
+  546, 560, 581,
+/* Hell */
+  11243, 11255, 11280,
+/* The Hole in the ground */
+  9993, 9994,
+
+What you want to do with this list, is insert it into the table in 
+get_rand_mob(), and get_rand_hard_mob() (the small and big mobs 
+respectivly). Those two functions, which are also found in quests.c 
+already have an example table, just delete that one, and insert the new 
+values. When someone picks a quest, a random vnum is chosen from those
+tables, so make sure to keep the lists updated when you add and remove areas.
+
+The only other type of quest you have to do something to enable, is 
+QT_MASS_KILL, which I think I'll let you figure out yourself, either that 
+or delete it, there is already a code example in quests.c in 
+get_lbound() and get_ubound().
+
+To make a questmaster, you just have to set the right quest_master 
+program using OLC, the 'quest' command while in mob-edit mode can be used 
+for that. There are already a few pre-defined quest programs, you can find 
+them in jobo_quest.c as well.
+
+
+Good luck with the quest system :)

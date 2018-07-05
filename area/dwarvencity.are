@@ -1,0 +1,4430 @@
+#AREADATA
+Name        Jobo      Dwarven City~
+Builders    Jobo~
+Music       default.mid~
+VNUMs       3501 3700
+Cvnum       3501
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#3501
+small centipede~
+a small centipede~
+A small centipede crawls along the floor.
+~
+~
+1 512 0
+97 5 0 41 0 0
+0 10
+S
+#3502
+brown rat~
+a brown rat~
+A brown rat scurries along the floor.
+~
+~
+1 32768 0
+104 0 0 14 0 0
+1 10
+S
+#3503
+black wombat~
+a wombat~
+An enormous black wombat flitters in the air.
+~
+~
+1 262144 0
+120 0 0 5 0 0
+1 10
+S
+#3504
+brown rat~
+a brown rat~
+A brown rat hisses as you approach.
+~
+~
+1 32768 0
+109 5 0 41 0 0
+2 5
+S
+#3505
+black widow spider~
+a black widow~
+A black widow sits silently on the floor.
+~
+~
+1 32768 0
+99 0 0 39 0 0
+2 10
+S
+#3506
+carrion crawler~
+a carrion crawler~
+A horrible carrion crawler is searching for prey.
+~
+~
+9 640 -200
+114 0 2 16 0 0
+0 8
+S
+#3507
+alligator reptile~
+an alligator~
+A fierce alligator floats here.
+~
+~
+73 8192 -100
+167 10 1 9 0 0
+2 5
+S
+#3508
+drow scout~
+a drow scout~
+A drow scout tries to hide in the shadows.
+~
+~
+1 262272 -1000
+140 0 4 1 0 0
+1 1
+S
+#3509
+dwarven dwarf sentry~
+a dwarven sentry~
+A dwarven sentry is guarding something.
+~
+~
+3 128 200
+180 20 2 10 0 0
+1 3
+S
+#3510
+displacer beast~
+a displacer beast~
+A displacer beast lurks in the darkness.
+~
+~
+1 49152 -300
+155 5 0 11 0 0
+0 5
+S
+#3511
+gem elemental~
+a gem elemental~
+A gem elemental stands here.
+~
+~
+1 128 0
+139 20 0 21 0 0
+0 0
+S
+#3512
+dwarven dwarf sage~
+the dwarven sage~
+An old dwarven sage sits here.
+~
+~
+3 8 0
+2000 0 0 33 0 0
+1 7
+S
+#3513
+gemstone dragon queen~
+The Gemstone Dragon-Queen~
+The Gemstone Dragon-Queen rests here.
+~
+~
+3 128 1000
+2000 0 0 23 0 0
+2 5
+S
+#3514
+gemstone dragon enchanter~
+The Gemstone Enchanter~
+The Gemstone Enchanter rests here.
+~
+~
+3 128 0
+2000 0 0 14 0 0
+1 5
+S
+#3515
+gemstone dragon armourer~
+The Gemstone Armourer~
+The Gemstone Armourer rests here.
+~
+~
+3 128 0
+2000 0 0 38 0 0
+1 5
+S
+#3516
+gemstone dragon smith~
+The Gemstone Smith~
+The Gemstone Smith rests here.
+~
+~
+3 128 0
+2000 0 0 26 0 0
+1 5
+S
+#3517
+gemstone dragon~
+a gemstone dragon~
+A gemstone dragon rests here.
+~
+~
+1 0 500
+450 25 4 97 0 0
+1 5
+S
+#3518
+gemstone dragon~
+A gemstone dragoness~
+A gemstone dragoness guards here.
+~
+~
+11 128 0
+420 0 0 29 0 0
+2 10
+S
+#3519
+An elite dwarf~
+an elite dwarf~
+An elite dwarven warrior stands here.
+~
+~
+3 672 500
+280 25 5 63 0 0
+1 3
+S
+#3520
+elite guard dwarven dwarf~
+An elite dwarf~
+An elite dwarven guard stands here.
+~
+~
+3 672 500
+275 20 4 42 0 0
+0 1
+S
+#3521
+dwarven dwarf miner~
+a dwarven miner~
+A dwarven miner is busy at work.
+~
+~
+1 544 100
+230 10 1 35 0 0
+1 7
+S
+#3522
+snotling slave~
+a snotling slave~
+A depraved snotling slave whines and snivels on the floor.
+~
+~
+9 0 -200
+55 0 0 27 0 0
+1 10
+S
+#3523
+durgaard ambassador~
+The Durgaard Ambassador~
+An important looking ambassador is waiting here.
+~
+~
+3 128 0
+2000 0 0 31 0 0
+1 0
+S
+#3524
+dwarven baker~
+the dwarven baker~
+The dwarven baker stands here.
+~
+~
+3 0 2000
+2000 20 0 19 0 0
+2 0
+S
+#3525
+dwarven smith~
+the dwarven smith~
+The dwarven smith stands here.
+~
+~
+3 0 0
+2000 0 0 6 0 0
+1 0
+S
+#3526
+dwarven weaponsmith~
+the dwarven weaponsmith~
+The dwarven weaponsmith stands here.
+~
+~
+3 0 0
+2000 0 0 25 0 0
+1 0
+S
+#3527
+dwarven armourer~
+the dwarven armourer~
+The dwarven armourer stands here.
+~
+~
+3 0 0
+2000 0 0 32 0 0
+1 0
+S
+#3528
+docile lizard mount~
+a lizard mount~
+A docile lizard mount is standing here.
+~
+~
+3 0 0
+277 5 4 8 0 0
+2 5
+S
+#3534
+dwarven citizen working~
+a dwarven citizen~
+A dwarven citizen is busy working here.
+~
+~
+1 0 0
+223 10 1 3 0 0
+1 0
+S
+#3535
+dwarven citizen relax~
+a dwarven citizen~
+A dwarven citizen is relaxing here.
+~
+~
+3 0 0
+235 10 1 11 0 0
+1 0
+S
+#3536
+dwarven elder~
+a dwarven elder~
+A dwarven elder is standing here.
+~
+~
+1 128 0
+266 15 2 14 0 0
+1 0
+S
+#3537
+dwarven toddler~
+a dwarven toddler~
+A dwarven toddler is playing on the ground.
+~
+~
+3 0 0
+219 8 0 26 0 0
+2 10
+S
+#3538
+dwarven guard~
+a dwarven guard~
+A dwarven guard is patrolling this area.
+~
+~
+3 512 200
+266 15 2 40 0 0
+1 0
+S
+#3539
+illthid slaver~
+an illthid slaver~
+A dwarven citizen is standing here.
+~
+~
+3 648 -500
+600 5 2 2 3 3
+2 6
+S
+#0
+
+
+
+#OBJECTS
+#3501
+crack tunnel~
+a small tunnel~
+A small tunnel leads into the western wall.~
+21 4 0
+3539 0 0 0
+1 0
+#3502
+crack tunnel~
+a small tunnel~
+A small tunnel leads into the eastern wall.~
+21 4 0
+3533 0 0 0
+1 0
+#3503
+tattered torn tapestry~
+a torn tapestry~
+A torn tapestry hangs on wall.~
+9 0 1
+0 0 0 0
+20 0
+E
+tapestry~
+The tapestry describes an epic battle between the sworn enemies of the
+Underdark - the dwarves and the dark elves, also known as the drow. 
+~
+~
+~
+0 0 0
+#3504
+corpse adventurer~
+the rotting corpse~
+The rotting corpse of a dead adventurer lies here.~
+17 0 0
+0 0 0 0
+1 0
+#3505
+gold coin~
+a gold coin~
+A shiny gold coin lies here.~
+6 0 1
+0 0 0 0
+1 0
+#3506
+folded note~
+a folded note~
+A folded note lies here.~
+10 0 1
+0 0 0 0
+1 0
+E
+note~
+Before you can enter the lower layers of the Underdark, you must
+find the hidden entrance. Search for the light, where no light shines.
+~
+~
+~
+0 0 0
+#3507
+rubble~
+some rubble~
+Some rubble lies here.~
+10 0 0
+0 0 0 0
+1 0
+#3508
+spiderweb web~
+the spiderweb~
+A spiderweb hangs here.~
+11 4 0
+200 0 0 0
+1 0
+#3509
+dead fly~
+a dead fly~
+A dead fly lies here.~
+10 0 1
+0 0 0 0
+1 0
+#3510
+mining pick~
+a short mining pick~
+A small mining pick lies here.~
+5 0 8193
+0 20 10 11
+3 0
+A
+1 3
+#3511
+scale carrion crawler~
+the scale of a carrion crawler~
+The scale of a carrion crawler lies here.~
+10 0 1
+0 0 0 0
+1 0
+#3512
+crack tunnel~
+a crack in the wall~
+A crack in the wall leads back into the Underdark.~
+21 0 0
+3579 0 0 0
+1 0
+#3513
+crack portal wall~
+a crack in the wall~
+A crack in the wall leading somewhere.~
+21 4 0
+3580 0 0 0
+1 0
+#3514
+apple tree~
+an apple tree~
+An apple tree stands here.~
+21 0 0
+8671 0 0 0
+1 0
+E
+oval~
+On the side of the apple tree is painted a huge oval symbol, almost as if
+it was it was intended as a doorway of some sort. 
+~
+~
+~
+0 0 0
+E
+symbol~
+On the side of the apple tree is painted a huge oval symbol, almost as if
+it was it was intended as a doorway of some sort. 
+~
+~
+~
+0 0 0
+#3515
+seashell~
+a polished seashell~
+A polished seashell lies here.~
+10 0 1
+0 0 0 0
+1 0
+#3516
+driftwood~
+a piece of driftwood~
+A piece of driftwood resides here.~
+10 0 1
+0 0 0 0
+1 0
+#3517
+cabinet~
+a cabinet~
+A cabinet hangs on the southern wall.~
+11 0 0
+200 0 0 0
+1 0
+#3518
+pale blue stone~
+a pale blue stone~
+A pale blue stone lies here.~
+10 2 1
+0 0 0 0
+1 0
+#3519
+cracked gemstone egg shell~
+a cracked gemstone egg~
+A cracked gemstone egg lies here.~
+10 0 1
+0 0 0 0
+30 0
+#3520
+gemstone egg~
+a gemstone egg~
+A gemstone egg lies here.~
+10 0 1
+0 0 0 0
+50 0
+#3521
+emerald claw~
+an emerald claw~
+An emerald claw lies here~
+5 0 8193
+4034 35 30 5
+1 0
+A
+19 7
+A
+18 7
+A
+5 2
+#3522
+diamond spur~
+a diamond spur~
+A diamond spur lies here.~
+5 0 8193
+15005 25 30 2
+1 0
+A
+19 7
+A
+18 7
+A
+2 3
+#3523
+gemstone amulet~
+a gemstone amulet~
+A gemstone amulet lies here~
+7 0 5
+10 0 0 0
+1 0
+A
+1 2
+A
+18 8
+A
+19 8
+A
+17 -10
+#3524
+gemstone shield~
+a gemstone shield~
+A gemstone shield lies here.~
+7 0 513
+10 0 0 0
+1 0
+A
+17 -10
+A
+18 8
+A
+19 8
+#3525
+gemstone bracer~
+a pair of gemstone bracers~
+A pair of gemstone bracers lies here.~
+7 0 4097
+10 0 0 0
+1 0
+A
+2 1
+A
+17 -10
+A
+18 8
+A
+19 8
+#3526
+gemstone pass~
+a gemstone pass~
+A gemstone pass lies here.~
+6 1 1
+0 0 0 0
+1 0
+#3527
+city gate key~
+the key to the citygate~
+The key to the citygate lies here.~
+13 0 1
+0 0 0 0
+10 0
+#3528
+goldcart cart wagon~
+a goldcart~
+A broken wagon rests on the floor.~
+11 0 0
+200 0 0 0
+1 0
+#3529
+golden nugget~
+a golden nugget~
+A golden nugget lies here.~
+6 0 1
+0 0 0 0
+1 0
+#3530
+coil rope~
+a coil of rope~
+A coil of rope lies here.~
+10 0 1
+0 0 0 0
+1 0
+#3531
+crack wall~
+a crack in the wall~
+A crack in the wall.~
+21 4 0
+7601 0 0 0
+1 0
+#3532
+mug dwarven ale~
+a mug of dwarven ale~
+A mug of dwarven ale rests on the floor.~
+12 0 1
+2 2 1 0
+1 0
+#3533
+dwarven bread~
+a loaf of dwarven bread~
+A loaf of dwarven bread lies here.~
+20 0 1
+50 'heal' 'refresh' 'energyflux'
+1 20
+#3534
+fungus cake~
+a piece of fungus cake~
+A piece of fungus cake lies here.~
+20 0 1
+100 'bless' 'darkblessing' 'frenzy'
+1 25
+#3535
+dwarven platemail~
+a fine suit of dwarven platemail~
+A fine suit of dwarven platemail lies here.~
+7 0 9
+25 0 0 9
+1 400
+A
+19 10
+A
+18 10
+A
+17 -25
+A
+1 2
+#3536
+dwarven helmet~
+a finely crafted dwarven helmet~
+A finely crafted dwarven helmet lies here.~
+7 0 17
+25 0 0 6
+1 400
+A
+19 10
+A
+18 10
+A
+17 -25
+A
+1 2
+#3537
+dwarven towershield~
+a dwarven towershield~
+A dwarven towershield lies here.~
+7 0 513
+25 0 0 0
+1 400
+A
+17 -25
+A
+19 10
+A
+18 10
+A
+1 2
+A
+24 5
+#3538
+dwarven battleaxe axe~
+a dwarven battleaxe~
+A dwarven battleaxe lies on the floor.~
+5 2 8193
+15043 20 40 3
+1 750
+#3539
+dwarven crossbow~
+a dwarven crossbow~
+A dwarven crossbow lies on the floor.~
+5 2 8193
+14034 50 20 6
+1 500
+A
+19 12
+A
+18 12
+A
+17 40
+A
+2 -4
+#3540
+combat boots~
+a pair of worndown combat boots~
+A pair of worndown combatboots lies here.~
+10 0 1
+0 0 0 0
+1 0
+#3541
+golden timekeeper~
+a golden timekeeper~
+A golden timekeeping device lies here.~
+6 2 1
+0 0 0 0
+1 0
+#3542
+box nails~
+a box of nails~
+A box of nails lies on the floor.~
+9 0 1
+0 0 0 0
+1 0
+#3543
+short table~
+a short table~
+A short table stands on the floor.~
+11 0 0
+200 0 0 0
+1 0
+#3544
+sheet paper~
+a sheet of paper~
+A sheet of paper lies on the floor.~
+10 0 1
+0 0 0 0
+1 0
+E
+paper~
+To the esteemed high-warren of Bantadin,
+ 
+Several drow patrols have been spotted in the 2nd layer, moving closer
+to our ancestral halls. The commanders in charge of the 2nd layer is
+ready to drive this invasion back at your orders.
+ 
+Yours in arms
+ 
+Captain Graknor
+~
+~
+~
+0 0 0
+#3545
+small dwarven cart~
+a small dwarven cart~
+A small dwarven cart rests on the floor.~
+11 0 1
+100 0 0 0
+80 0
+#3546
+mushfungus fungus~
+a mushfungi~
+A mushfungi grows here.~
+14 0 1
+10 0 0 0
+1 0
+#3547
+darkweed fungus~
+a darkweed fungus~
+A darkweed fungus grows here.~
+14 1 1
+1 0 0 1
+1 0
+#3631
+birdcage~
+a birdcage~
+A birdcage hangs from the ceiling.~
+9 0 0
+0 0 0 0
+1 0
+E
+cage~
+A small bird sits inside the cage, eating some corn. 
+~
+~
+~
+0 0 0
+#3632
+dwarven hammer~
+a dwarven hammer~
+A dwarven hammer lies here.~
+5 0 8193
+0 1 10 7
+1 0
+#3633
+wooden stool~
+a wooden stool~
+A wooden stool stands here.~
+9 0 1
+0 0 0 0
+40 0
+#3634
+mining pick~
+a mining pick~
+A mining pick stands against the wall.~
+5 0 8193
+0 2 20 11
+1 0
+#3635
+golden mirror~
+a golden mirror~
+A golden mirror stands here.~
+21 1 0
+3694 0 0 0
+1 0
+#3636
+fungus glowmoss~
+some glowmoss~
+Some glowmoss grows here.~
+14 0 1
+20 0 0 1
+1 0
+#3637
+treasure chest~
+a treasure chest~
+A treasure chest stands on the floor.~
+11 0 0
+200 13 0 0
+1 0
+#3638
+perfect topaz~
+a perfect topaz~
+A perfect topaz lies here.~
+6 2 1
+0 0 0 0
+1 0
+#3639
+platform~
+a platform~
+A platform stands in the center of the room.~
+11 0 0
+0 0 0 0
+1 0
+#3640
+battle axe~
+a wicked looking battle axe~
+A finely crafted battle axe lies here.~
+5 0 8192
+17000 25 60 3
+1 0
+#3641
+buckler dwarven~
+a dwarven buckler~
+A dwarven buckler crafted from truesteel hangs here.~
+7 0 513
+20 0 0 9
+1 0
+A
+19 10
+A
+18 10
+A
+1 5
+#3642
+gemstone egg stolen~
+a stolen gemstone egg~
+A stolen gemstone egg lies here.~
+14 0 1
+0 0 0 0
+1 0
+#3643
+wooden chest~
+a wooden chest~
+A battered old wooden chest stands against the wall.~
+11 0 1
+999 13 3644 0
+20 0
+#3644
+rusty key~
+a rusty old key~
+A rusty old key lies here.~
+13 0 1
+0 0 0 0
+1 0
+#3645
+ancient dwarven platemail~
+a suit of ancient dwarven platemail~
+A suit of ancient dwarven platemail lies here.~
+7 0 9
+20 0 0 9
+1 0
+A
+17 -25
+A
+1 5
+A
+19 10
+A
+18 10
+#0
+
+
+
+#ROOMDATA
+#3501
+#o(#gInto the Darkness#o)#n~
+Nothing but darkness greets you from the entrance to the Underdark, the
+home of the nether races. Foul drows, stern dwarves and beasts of
+unspeakable nature make their homes in these tunnels, and only fools or
+hardy adventurers dares to enter. 
+~
+12 8
+D4
+~
+~
+0 0 8706
+D5
+~
+~
+0 0 3502
+S
+#3502
+#o(#gNearing the Underdark#o)#n~
+A slightly rotten, wooden staircases leads back up to freedom, away from
+the gruelling darkness and silence of the Underdark. A narrow corridor leads
+its way north, deeper into the darkness. 
+~
+8 8
+D0
+~
+~
+0 0 3503
+D4
+~
+~
+0 0 3501
+S
+#3503
+#o(#gIntersecting Hallway / 1st layer of the Underdark#o)#n~
+With tunnels leading east, west and south, this T-section seems the
+natural meeting place for adventurers. A slight draft of air comes from the
+south, which is the direction of the exit back to the world above. 
+~
+8 8
+D1
+~
+~
+0 0 3511
+D2
+~
+~
+0 0 3502
+D3
+~
+~
+0 0 3504
+S
+#3504
+#o(#gA wide tunnel / 1st layer of the Underdark#o)#n~
+With corridors leading both east and west, there are plenty of options.
+Though how exactly anyone finds their way in this cursed maze of tunnels is
+a secret noone has shared with you.
+~
+8 8
+D1
+~
+~
+0 0 3503
+D3
+~
+~
+0 0 3505
+S
+#3505
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3508
+D1
+~
+~
+0 0 3504
+D2
+~
+~
+0 0 3506
+S
+#3506
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3505
+D2
+~
+~
+0 0 3507
+S
+#3507
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3506
+D2
+~
+~
+0 0 3509
+S
+#3508
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3509
+D2
+~
+~
+0 0 3505
+S
+#3509
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3510
+D2
+~
+~
+0 0 3508
+S
+#3510
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3521
+D2
+~
+~
+0 0 3509
+S
+#3511
+#o(#gA wide tunnel / 1st layer of the Underdark#o)#n~
+With corridors leading both east and west, there are plenty of options.
+Though how exactly anyone finds their way in this cursed maze of tunnels is
+a secret noone has shared with you. 
+~
+8 8
+D1
+~
+~
+0 0 3512
+D3
+~
+~
+0 0 3503
+S
+#3512
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3513
+D2
+~
+~
+0 0 3505
+D3
+~
+~
+0 0 3511
+S
+#3513
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3514
+D2
+~
+~
+0 0 3512
+S
+#3514
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3515
+D2
+~
+~
+0 0 3513
+S
+#3515
+#o(#gIntersecting Hallway / 1st layer of the Underdark#o)#n~
+Another T-section, with exits leading east, west and south. Miners must
+have used this section of the tunnels at one point, for discarded mining
+tools lines a section of the northern wall. 
+~
+8 8
+D1
+~
+~
+0 0 3516
+D2
+~
+~
+0 0 3514
+D3
+~
+~
+0 0 3517
+S
+#3516
+#o(#gA wide tunnel / 1st layer of the Underdark#o)#n~
+With corridors leading both east and west, there are plenty of options.
+Though how exactly anyone finds their way in this cursed maze of tunnels is
+a secret noone has shared with you. 
+~
+8 8
+D1
+~
+~
+0 0 3505
+D3
+~
+~
+0 0 3515
+S
+#3517
+#o(#gA wide tunnel / 1st layer of the Underdark#o)#n~
+With corridors leading both east and west, there are plenty of options.
+Though how exactly anyone finds their way in this cursed maze of tunnels is
+a secret noone has shared with you. 
+~
+8 8
+D1
+~
+~
+0 0 3515
+D3
+~
+~
+0 0 3509
+S
+#3518
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3520
+D1
+~
+~
+0 0 3519
+S
+#3519
+#o(#gSlooping Downwards#o)#n~
+To the west lies the first layer of the underdark, silently beckoning you
+to leave this cursed place. To the east a narrow staircase leads lower into
+the underdark. A vague draft of fresh air can be felt from the northwest,
+though it's hard to tell in this maze of corridors. 
+~
+12 8
+D3
+~
+~
+0 0 3518
+D5
+~
+~
+0 0 3577
+S
+#3520
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3521
+D2
+~
+~
+0 0 3518
+S
+#3521
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3522
+D2
+~
+~
+0 0 3520
+S
+#3522
+#o(#gA narrow tunnel / 1st layer of the Underdark#o)#n~
+The tunnel continues both north and south. The walls and ceiling of the
+tunnel is finely carved, and not a single speck of rock distinguishes this
+piece of the tunnel from any other place you have visited. You are surely
+lost. 
+~
+8 8
+D0
+~
+~
+0 0 3514
+D2
+~
+~
+0 0 3521
+S
+#3523
+#o(#gInto the Darkness#o)#n~
+Nothing but darkness greets you from the entrance to the Underdark, the
+home of the nether races. Foul drows, stern dwarvesand beasts of unspeakable
+nature make their homes in these tunnels, and only fools or hardy
+adventurers dares to enter. 
+~
+12 8
+D4
+~
+~
+0 0 8718
+D5
+~
+~
+0 0 3524
+S
+#3524
+#o(#gNearing the Underdark#o)#n~
+A slightly rotten, wooden staircases leads back up to freedom, away from
+the gruelling darkness and silence of the Underdark. A narrow corridor leads
+its way north, deeper into the darkness. 
+~
+8 8
+D1
+~
+~
+0 0 3525
+D4
+~
+~
+0 0 3523
+S
+#3525
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+To the north and south runs the outer tunnels of the Underdark, which
+according to rumors, should lead straight to the heart of darkness.
+Westwards lies the world above, and freedom from the evil of the Underdark. 
+~
+8 8
+D0
+~
+~
+0 0 3526
+D2
+~
+~
+0 0 3538
+D3
+~
+~
+0 0 3524
+S
+#3526
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+Slowburning torches lines the eastern and western walls - it seems you
+are not the only person exploring these passageways. The air seems less
+stale in this area of the tunnels, and a weak draft of air can be felt from
+the south. 
+~
+8 8
+D0
+~
+~
+0 0 3527
+D2
+~
+~
+0 0 3525
+S
+#3527
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+A flicker of light can be seen in the distance, seemingly coming from the
+northeast. The tunnel leads both in the southern and northen direction, with
+a weak draft of fresh air coming from the south. 
+~
+8 8
+D0
+~
+~
+0 0 3528
+D2
+~
+~
+0 0 3526
+S
+#3528
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The tunnel curves, and passages leads both south and east, each direction
+should be as good as any - the Underdark leaves no survivers, so your choice
+of direction shouldn't matter much. 
+~
+8 8
+D1
+~
+~
+0 0 3529
+D2
+~
+~
+0 0 3527
+S
+#3529
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The tunnel leads from the east to the west, with a slight curve
+southwards in the west. There are only a few lighted torches in this
+corridor, most of the torches on the wall has burned out long ago. 
+~
+8 8
+D1
+~
+~
+0 0 3530
+D3
+~
+~
+0 0 3528
+S
+#3530
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+A tapestry picturing a war between darkskinned elves and grim dwarves
+hangs on the northern wall - the corners are torn, and several dark
+splotches cover the faded picture. The tunnels continue east and west. 
+~
+8 8
+D1
+~
+~
+0 0 3531
+D3
+~
+~
+0 0 3529
+S
+#3531
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The tunnels of the Underdark leads both south and west, a glint of gold
+catches your eye to the south. A faint smell of something burning seems to
+be originating from somewhere nearby. 
+~
+8 8
+D2
+~
+~
+0 0 3532
+D3
+~
+~
+0 0 3530
+S
+#3532
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The corpse of a dead adventurer lies on the floor, and a glimmer of
+something shiny seems to be coming from under the corpse. The tunnel
+continues south and north. 
+~
+8 8
+D0
+~
+~
+0 0 3531
+D2
+~
+~
+0 0 3533
+S
+#3533
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+Torches lines both the western and eastern walls, and the floor of the
+tunnel is littered with rubble, perhaps from an earlier cave-in. Light seems
+to be coming from a crack in the western wall. 
+~
+8 8
+D0
+~
+~
+0 0 3532
+D2
+~
+~
+0 0 3534
+S
+#3534
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+To the north a faint hiss of smoke seems to be coming from the floor, and
+to the west nothing but tunnels for miles. A spiderweb hangs from the
+ceiling. 
+~
+8 8
+D0
+~
+~
+0 0 3533
+D3
+~
+~
+0 0 3535
+S
+#3535
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+To the east the tunnel seems to curve slightly northwards, but to the
+west the tunnels seems to go on for miles. It smells slightly of smoke, as
+if something was burning nearby. 
+~
+8 8
+D1
+~
+~
+0 0 3534
+D3
+~
+~
+0 0 3536
+S
+#3536
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The tunnel continues east and west. Water trickles slowly down the
+southern wall, an underground lake must run by south of here. The torches on
+the southern wall has all gone out, probably due to the water.
+~
+8 8
+D1
+~
+~
+0 0 3535
+D3
+~
+~
+0 0 3537
+S
+#3537
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The tunnel curves slightly, with corridors leading both north and east. A
+gloom seems to cover this part of the tunnel, and it's almost impossible to
+walk without stumbling over rubble. 
+~
+8 8
+D0
+~
+~
+0 0 3538
+D1
+~
+~
+0 0 3536
+S
+#3538
+#o(#gThe outer tunnels / 1st layer of the Underdark#o)#n~
+The tunnel continues north and south, the only real difference between
+the two paths is the light draft of air originating from the north.
+Footsteps from something small and manylegged is leading south, deeper into
+the Underdark. 
+~
+8 8
+D0
+~
+~
+0 0 3525
+D2
+~
+~
+0 0 3537
+S
+#3539
+#o(#gThe Hidden Gateway#o)#n~
+This small chamber has a crack in the eastern wall, which leads out to
+the first layer of the Underdark - a staircase leads down into the lower
+levels of the Underdark, beware the gruel. 
+~
+12 8
+D5
+~
+~
+0 0 3540
+S
+#3540
+#o(#gNearing the exit#o)#n~
+To the east lies the second layer of the Underdark, home to the vile race
+of the drow, and probably a passageway deeper into the darkness. Up from
+here lies the first layer of the Underdark, and a passageway back to
+freedom. 
+~
+12 8
+D1
+~
+~
+0 0 3541
+D4
+~
+~
+0 0 3539
+S
+#3541
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+The corridor seems like a paradise for miners, and you can't help wonder
+why there are no dwarves mining these corridors. The walls are glinting with
+gemstones and precious metals. 
+~
+8 8
+D1
+~
+~
+0 0 3542
+D3
+~
+~
+0 0 3540
+S
+#3542
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+With a narrow passageway going south, and the tunnel continuing both east
+and west, the choices are many. Something dark and sinister seems to be
+lurking to the south, so perhaps the passageways east and west are the
+safest bet. 
+~
+12 8
+D1
+~
+~
+0 0 3543
+D2
+~
+~
+0 0 3544
+D3
+~
+~
+0 0 3541
+S
+#3543
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+A slight draft of air can be felt from the west, but the corridor leading
+east beckons with it's own haunting sound of metal hitting stone. Someone,
+or something, is working in the tunnels. 
+~
+8 8
+D1
+~
+~
+0 0 3547
+D3
+~
+~
+0 0 3542
+S
+#3544
+#o(#gThe Gemstone Cavern / 2nd layer of the Underdark#o)#n~
+The corridor narrows down to the south, and you can't help wonder if the
+passageway was made so small for a reason. To the north lies the passage
+into the Underdark, yet something beckons you to travel father south. 
+~
+8 8
+D0
+~
+~
+0 0 3542
+D2
+~
+~
+0 0 3545
+S
+#3545
+#o(#gThe Gemstone Cavern / 2nd layer of the Underdark#o)#n~
+To the north is a tight passageway, which leads back into the Underdark,
+but to the east lies the gemstone caverns, believes by many to be nothing
+but a fairytale. Rumers of creatures made entirely of precious gemstones has
+reached the far corners of the world. 
+~
+8 8
+D0
+~
+~
+0 0 3544
+D1
+~
+~
+0 0 3546
+S
+#3546
+#o(#gThe Gemstone Cavern / 2nd layer of the Underdark#o)#n~
+The tunnel leads both east and west, with the Underdark to the west, and
+the gemstone cavern looming to the east. Stories of creatures made entirely
+of precious gemstones has lured many an adventurer to his death in these
+treacherous caverns. 
+~
+8 8
+D1
+~
+~
+0 0 3586
+D3
+~
+~
+0 0 3545
+S
+#3547
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+To the east lies the central cavern, and the location of the fabled
+Piller of the Dwarves. Many an adventurer has lost his or her life searching
+for the treasure rumered to be hidden below the pillar. 
+~
+8 8
+D1
+~
+~
+0 0 3548
+D3
+~
+~
+0 0 3543
+S
+#3548
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+To the west lies the corridoer leading deeper into the Underdark, away
+from the serenity of the Oval Room, and the great pillar created by the
+dwarven community. There is a light in the northern end of the Oval Room,
+probably a tunnel leading somewhere. 
+~
+8 8
+D0
+~
+~
+0 0 3549
+D2
+~
+~
+0 0 3555
+D3
+~
+~
+0 0 3547
+S
+#3549
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+A cabinet hangs on the western wall of the Oval Room, the doors are
+slightly ajar, allowing anyone to take a peek inside. A corridor to the
+northeast leads out from the Oval room. A similar corridor can be found to
+the southwest. 
+~
+8 8
+D1
+~
+~
+0 0 3550
+D2
+~
+~
+0 0 3548
+S
+#3550
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+To the north lies the entrace to the forbidden caves of the evil drow,
+and to the east and west one can see tunnels leading father into the
+Underdark. The great pillar stands in the center of the room, enlightening
+the room. 
+~
+12 8
+D0
+~
+~
+0 0 3581
+D1
+~
+~
+0 0 3551
+D3
+~
+~
+0 0 3549
+S
+#3551
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+South of here lies the entrance to the main corridors of the second layer
+of the Underdark, and west one can see the entrance to the drow caves. The
+great pillar is all that illuminates this huge cave. 
+~
+8 8
+D2
+~
+~
+0 0 3552
+D3
+~
+~
+0 0 3550
+S
+#3552
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+To the east a tunnel leads into the main corridors of this layer of the
+Underdark, and to the south one can make out the entrance to the Lake of
+Tears. A few specs of dust litters the floor, as if the clean-up crew
+suddenly had to leave in a hurry. 
+~
+8 8
+D0
+~
+~
+0 0 3551
+D1
+~
+~
+0 0 3573
+D2
+~
+~
+0 0 3553
+S
+#3553
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+A small shrine to some forgotten dwarven god still stands in this part of
+the Oval Room. Perhaps the great pillar was once part of a religious ritual
+of some sort. To the west lies the entrance to the Lake of Tears. 
+~
+8 8
+D0
+~
+~
+0 0 3552
+D3
+~
+~
+0 0 3554
+S
+#3554
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+From the light cast by the great pillar, one can see the reflection of
+some watery surface far to the south. Perhaps the rumors of the Lake of
+Tears is more than just rumors, or perhaps some beastly beast lairs deep in
+those caves. A pale light shines from the crack in the northen wall. 
+~
+8 8
+D1
+~
+~
+0 0 3553
+D2
+~
+~
+0 0 3556
+D3
+~
+~
+0 0 3555
+S
+#3555
+#o(#gThe Oval Room / 2nd layer of the Underdark#o)#n~
+The floor of the oval room has been swept clean of debris and dust just
+recently, and the great pillar shines with polish. Someone, probably the
+dwarves, still visit this place, and take care to keep it clean. 
+~
+8 8
+D0
+~
+~
+0 0 3548
+D1
+~
+~
+0 0 3554
+S
+#3556
+#o(#gMoist Tunnels / 2nd layer of the Underdark#o)#n~
+To the north lies the central caves and tunnels of the Underdark, and to
+the south, the Lake of Tears is reputed to be located. No map of the
+Underdark has ever been made, so this is based on hearsay alone. 
+~
+8 8
+D0
+~
+~
+0 0 3554
+D2
+~
+~
+0 0 3557
+S
+#3557
+#o(#gMoist Tunnels / 2nd layer of the Underdark#o)#n~
+The tunnel leads north, deeper into the Underdark, and south, towards the
+sea or perhaps an underground lake. The sound of water brushing lightly
+against the rocky shores can be heard in the distance. 
+~
+8 8
+D0
+~
+~
+0 0 3556
+D2
+~
+~
+0 0 3558
+S
+#3558
+#o(#gBy the Lake of Tears#o)#n~
+South of here lies the Lake of Tears, one of the largest underground
+lakes known to man. The tunnel leads northwards, deeper into the Underdark.
+By the lake stands a single apple tree, a large oval symbol painted on the
+side of the tree. 
+~
+12 8
+D0
+~
+~
+0 0 3557
+D2
+~
+~
+0 0 3559
+S
+#3559
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+To the north lies the beach, and the way back into the Underdark, south
+of here is a small whirlpool, which is slowly pulling you deeper into the
+waters. 
+~
+8 6
+D0
+~
+~
+0 0 3558
+D1
+~
+~
+0 0 3564
+D2
+~
+~
+0 0 3560
+D3
+~
+~
+0 0 3565
+S
+#3560
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+A small whirlpool is tugging you downwards, though you are able to
+resists its gentle pull. Something is glinting below the waves, drawing your
+attentions from the reptilans in the water. 
+~
+8 6
+D0
+~
+~
+0 0 3559
+D1
+~
+~
+0 0 3563
+D2
+~
+~
+0 0 3561
+D3
+~
+~
+0 0 3566
+D5
+~
+~
+0 0 3568
+S
+#3561
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+The waters are slowly pulling you northwards, where a small whirlpool is
+drawing everything deeper into the lake. The reptilian shapes of alligators
+can be seen to the northwest. 
+~
+8 6
+D0
+~
+~
+0 0 3560
+D1
+~
+~
+0 0 3562
+D3
+~
+~
+0 0 3567
+S
+#3562
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+The waters is strangely calm here, considering the whirlpool to the
+northwest. Small fish hurries by, darting between eachother in some joyful
+game. 
+~
+8 6
+D0
+~
+~
+0 0 3563
+D3
+~
+~
+0 0 3561
+S
+#3563
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+The waves of the lake brushes lightly against the eastern wall, slowly
+tearing away the rugged edges, and smoothing over the wall. Something large
+is resting deep below. 
+~
+8 6
+D0
+~
+~
+0 0 3564
+D2
+~
+~
+0 0 3562
+D3
+~
+~
+0 0 3560
+S
+#3564
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+The Lake of Tears is confined in a huge cave, the walls of which
+resembles a giant-sized chalice. In the murky waters, several long reptilian
+shapes can be seen. 
+~
+8 6
+D2
+~
+~
+0 0 3563
+D3
+~
+~
+0 0 3559
+S
+#3565
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+The waters are rising faster and faster, smashing against the cliffy
+sides of the wall. Pieces of driftwood is floating on the waves, probably
+from crates being smashed against the wall. 
+~
+8 6
+D1
+~
+~
+0 0 3559
+D2
+~
+~
+0 0 3566
+S
+#3566
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+To the east lies the whirlpool of the lake, which is turning
+counter-clockwise, creating a pulling force that can be felt even here. 
+~
+8 6
+D0
+~
+~
+0 0 3565
+D1
+~
+~
+0 0 3560
+D2
+~
+~
+0 0 3567
+S
+#3567
+#l(#LThe Lake of Tears / 2nd layer of the Underdark#l)#n~
+Far to the north lies the beach of the Lake of Tears, but before it can
+be reached, one must swim through reptile infested waters, evade the pulling
+powers of the whirlpool - no easy feat. 
+~
+8 6
+D0
+~
+~
+0 0 3566
+D1
+~
+~
+0 0 3561
+S
+#3568
+#l(#LBelow the Lake of Tears / 2nd layer of the Underdark#l)#n~
+Below the surface of the lake, the water is more still, and only the
+vague shockwaves from moving reptilians give any clue to the turbulent
+waters above. 
+~
+8 6
+D0
+~
+~
+0 0 3569
+D1
+~
+~
+0 0 3572
+D2
+~
+~
+0 0 3570
+D3
+~
+~
+0 0 3571
+D4
+~
+~
+0 0 3560
+S
+#3569
+#l(#LBelow the Lake of Tears / 2nd layer of the Underdark#l)#n~
+In this small alcove, deep below the surface of the Lake of Tears, only a
+vague shimmer of light can be seen, probably from some torch on the walls
+above. 
+~
+8 6
+D2
+~
+~
+0 0 3568
+S
+#3570
+#l(#LBelow the Lake of Tears / 2nd layer of the Underdark#l)#n~
+This hidden alcove would be impossible to spot from above, it's neatly
+tugged in, between to undersea cliffs. The waters are still and dark, making
+it possible to remain almost complete hidden from view. 
+~
+8 6
+D0
+~
+~
+0 0 3568
+S
+#3571
+#l(#LBelow the Lake of Tears / 2nd layer of the Underdark#l)#n~
+Seaweed drifts slowly by, as the chill waters of the undersea cools your
+body. To the east lies the center of the undersea, from where you can return
+to the surface. 
+~
+8 6
+D1
+~
+~
+0 0 3568
+S
+#3572
+#l(#LBelow the Lake of Tears / 2nd layer of the Underdark#l)#n~
+To the east lies the center of the Lake of Tears, and the undersea
+corridors connecting the undersea. Crabs are playing on the floor of the
+lake, seemingly competing over some small chunk of fishflesh. 
+~
+8 6
+D3
+~
+~
+0 0 3568
+S
+#3573
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+Just west of here lies the great pillar of the dwarves. A great oval
+room, empty except for the great pillar, wrought from a single huge stone.
+The sound of a hammer hitting stone can be heard in the distance. 
+~
+8 8
+D1
+~
+~
+0 0 3574
+D3
+~
+~
+0 0 3552
+S
+#3574
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+The tunnel continues east and west, and to the west a huge pillar of
+stone can be seen, in what seems a huge cavern. To the east lies just more
+dwarven build tunnels. 
+~
+8 8
+D1
+~
+~
+0 0 3575
+D3
+~
+~
+0 0 3573
+S
+#3575
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+To the north, a small sidepassage can be seen. The tunnel continues east
+and west, with a slight draft coming from the east. A glimmer of light can
+be seen to the north, up the slim passageway. 
+~
+8 8
+D0
+~
+~
+0 0 3578
+D1
+~
+~
+0 0 3576
+D3
+~
+~
+0 0 3574
+S
+#3576
+#o(#gMain Passage / 2nd layer of the Underdark#o)#n~
+Neatly carved pillers, created from stone, is supporting the ceiling of
+the tunnel, and the floor has been wiped for rubble and dust recently. The
+corridor relates a tale of activity, both with footprints and sounds from
+the west. 
+~
+8 8
+D1
+~
+~
+0 0 3577
+D3
+~
+~
+0 0 3575
+S
+#3577
+#o(#gSlooping Upwards#o)#n~
+To the west lies the second layer of the Underdark, home of the drow and
+the gemdragons. Up the staircase lies the first layer of the Underdark, and
+the passage back to the world above. 
+~
+8 8
+D3
+~
+~
+0 0 3576
+D4
+~
+~
+0 0 3519
+S
+#3578
+#o(#gA sidepassage / 2nd layer of the Underdark#o)#n~
+To the south lies the main passageway of the Underdark, which goes west
+to east, and to the north lies what seems the end of this short sidepassage.
+A heap of stone is blocking the passage in the distance. 
+~
+8 8
+D0
+~
+~
+0 0 3579
+D2
+~
+~
+0 0 3575
+S
+#3579
+#o(#gA deadend / 2nd layer of the Underdark#o)#n~
+The tunnel ends abruptly in a pile of rocks. A cavein must have caused
+the tunnel to collapse. A flicker of light comes from a crack in the
+northern wall. 
+~
+8 8
+D2
+~
+~
+0 0 3578
+S
+#3580
+#o(#gThe Sanctuary#o)#n~
+Hidden deep below the earth, in the far conor of the vile Underdark, lies
+this small cave. Hidden from the eyes of the drow and mind flayers, this is
+the sanctuary of Sten, the dwarven sage. A sign is planted in the floor. 
+~
+12 8
+E
+sign~
+If you wish to journey to the lower levels of the Underdark, you must
+first solve a quest for the old sage - only he can open the corridors that
+leads to the 3rd layer of the Underdark. 
+ 
+   Type 'qgain sage' to get his quest (help quest for details)
+~
+~
+~
+0 0 0
+S
+#3581
+#o(#gThe darkcaves / 2nd layer of the Underdark#o)#n~
+To the north lies the darkcaves, home to the drow and their beastly
+slaves. South from here lies the Underdark, and possible somewhere an exit
+out from this cursed place. 
+~
+8 8
+D0
+~
+~
+0 0 3582
+D2
+~
+~
+0 0 3550
+S
+#3582
+#o(#gThe darkcaves / 2nd layer of the Underdark#o)#n~
+As the corridor twists west and south, the shadows seems to grow darker,
+and the light more pale. Whispers can be heard in the darkness. 
+~
+8 8
+D2
+~
+~
+0 0 3581
+D3
+~
+~
+0 0 3583
+S
+#3583
+#o(#gThe darkcaves / 2nd layer of the Underdark#o)#n~
+The tunnels continue north and east, the first passage leading father
+into the darkcaves, and the corridor east leading back into the Underdark.
+The shadows seems to be stirring. 
+~
+8 8
+D0
+~
+~
+0 0 3584
+D1
+~
+~
+0 0 3582
+S
+#3584
+#o(#gThe Drow Invasion / 2nd layer of the Underdark#o)#n~
+A magical barrier prevents any access to the north, where the drow camp
+has been setup. Patrols of drow scouts slips silently south, invading the
+dwarven territory. 
+~
+8 8
+D2
+~
+~
+0 0 3583
+S
+#3585
+#o(#gThe Drow Invasion / 2nd layer of the Underdark#o)#n~
+A camp of dark elves resides here, ever so often sending a scouting party
+deep into dwarven territory. Tents, lizard mounts and wagons litters the
+floor of the cavern. 
+~
+262152 8
+D2
+~
+~
+0 0 3584
+S
+#3586
+#y+ #CThe Cavern of Gemstones #y+#n~
+Inside the great caven of the gemdragons, the floor is made entirely be a
+glassy substance, most likely sand which has been altered by the breath of
+the gemdragons. The cavern continues deeper to the east, and a tunnel west
+leads into the Underdark. 
+~
+12 10
+D1
+~
+~
+0 0 3587
+D3
+~
+~
+0 0 3546
+S
+#3587
+#y+ #CA Gemstone Corridor #y+#n~
+The cavern extends both to the east and west, with the Underdark safely
+away in the west. To the northeast and southeast, one can hear the clamour
+of working dragons, creating the gemstone items they are fabled for. 
+~
+8 10
+D1
+~
+~
+0 0 3588
+D3
+~
+~
+0 0 3586
+S
+#3588
+#y+ #CA Gemstone Corridor #y+#n~
+From this intersection, corridors leads west to the Underdark, north and
+south into two well-established gemdragon shops, and east, father into the
+realm of the gemdragons. 
+~
+8 10
+D0
+~
+~
+0 0 3593
+D1
+~
+~
+0 0 3589
+D2
+~
+~
+0 0 3594
+D3
+~
+~
+0 0 3587
+S
+#3589
+#y+ #CA Gemstone Corridor #y+#n~
+The golden sand below your feet stretches far to the east and west, one
+way leading back into the vile Underdark, and the other deeper into the
+cavern of the gemdragons. A throne of some sort can be seen far to the east.
+~
+8 10
+D1
+~
+~
+0 0 3590
+D3
+~
+~
+0 0 3588
+S
+#3590
+#y+ #CA Gemstone Corridor #y+#n~
+A flurry of activity can be seen far to the south, where the smaller
+female gemdragons scurry around in a huge cavern. A shop of some sort is
+located north of there, to the west lies the Underdark, and an enormous
+gemstone throne stands in the eastern alcove. 
+~
+8 10
+D0
+~
+~
+0 0 3595
+D1
+~
+~
+0 0 3591
+D2
+~
+~
+0 0 3596
+D3
+~
+~
+0 0 3589
+S
+#3591
+#y+ #CA Gemstone Corridor #y+#n~
+Standing in the magnificent gemstone throneroom, you can't help feeling a
+little awed and small. There are several hundred feet to the ceiling, and
+the wast cavern is large enough to hold several hundred gemstone dragons if
+needed. In the eastern end of the cavern stands the gemstone throne, where
+the queen of all gemstone dragons is holding court. 
+~
+8 10
+D1
+~
+~
+0 0 3592
+D3
+~
+~
+0 0 3590
+S
+#3592
+#y+ #CThe Gemstone Throne #y+#n~
+A huge gemstone throne resets on the floor, and the ancient dragon coiled
+around the throne must be the queen of all gemstone dragons. Bonfires are
+flaring everywhere, and a small gemstone imp is announcing to everyone and
+everything, that the Queen is searching for adventurers to undertake a quest
+for her. 
+~
+8 10
+D3
+~
+~
+0 0 3591
+S
+#3593
+#y+ #CThe Serpent Enchanter #y+#n~
+A wily serpent is spread out in this small alcove, with winged beings
+flittering here and there, helping the ancient wyrm spins it's web of
+enchantments. A sign can be seen on the eastern wall. 
+~
+8 10
+E
+sign~
+Welcome to the shop of the Serpent Enchanter. If you wish to see our
+goods, just type 'list', and use the 'buy' command to buy whatever you need.
+The Serpent Enchanter can help you with any enchantments you may need. 
+~
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3588
+S
+#3594
+#y+ #CThe Serpent Armourer #y+#n~
+In the lair of the Serpent Armourer, the sound of the forge is
+overwhelmning. Small draconians serve the huge opal dragon running the
+smithy, and a steady stream of fire is pured into the forge by servent
+dragons. A sign can be found on the western wall. 
+~
+8 10
+E
+sign~
+The Serpent Armourer welcomes you to the Serpent Smithy. You may use the
+'list' and 'buy' commands to browse and buy our gemstone goods. 
+~
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3588
+S
+#3595
+#y+ #CThe Serpent Smithy #y+#n~
+The huge serpent in this room, is crafting magnificent jeweled weapons,
+each worth a fortune in gemstones alone. A sign on the wall proclaims that
+the shop is open to anyone who has helped the dragonqueen. To the south lies
+the rest of the gemstone caverns. 
+~
+8 10
+D2
+~
+~
+0 0 3590
+S
+#3596
+#y+ #CA Gemstone Corridor #y+#n~
+Cracked eggshells litters the otherwise clean sand on the ceiling, and
+the whining of some avian beast can be be heard in the distance. To the
+south it would seem the hatchery of the gemdragons can be found. Perhaps
+it's not wise to approach the females guarding the eggs. 
+~
+8 10
+D0
+~
+~
+0 0 3590
+D2
+~
+~
+0 0 3597
+S
+#3597
+#y+ #CThe Chamber of Eggs #y+#n~
+To the south, west and east lies alcoves with eggs, and to the north lies
+the rest of the gemstone cavern. Fierce dragoness'es are guarding the
+eggchambers, and the cry of a few hatchlings can be hard from every alcove. 
+~
+8 10
+D0
+~
+~
+0 0 3596
+D1
+~
+~
+0 0 3599
+D2
+~
+~
+0 0 3600
+D3
+~
+~
+0 0 3598
+S
+#3598
+#y+ #CThe Chamber of Eggs #y+#n~
+The remains of a dead dwarf lies on the floor, the first meal for a
+gemstone hatchling. A pair of cracked eggshells lies between the yet
+unhatched eggs. The air is extremely hot and breating air makes your lounges
+burn. 
+~
+8 10
+D1
+~
+~
+0 0 3597
+S
+#3599
+#y+ #CThe Chamber of Eggs #y+#n~
+The air is extremly hot in the eggchamber, probably due to the dragoness
+constantly breathing a fiery gas into the air. Golden eggs rests on the
+floor, protected by the aggressive dragonesses. 
+~
+8 10
+D3
+~
+~
+0 0 3597
+S
+#3600
+#y+ #CThe Chamber of Eggs #y+#n~
+In the southern alcove of the chamber of eggs, there are only a few eggs
+left, most seems to have hatched and left the nest. A few bones from their
+first meal can be seen below the sandy surface of the cavern. 
+~
+8 10
+D0
+~
+~
+0 0 3597
+S
+#3601
+#o(#gInside the great pillar#o)#n~
+Inside the great pillar there are magical gates leading in all four
+directions, all leading back into the 2nd layer of the Underdark. A
+staircase leads deeper into the Underdark, down deep into the 3rd layer. 
+~
+8 8
+D0
+~
+~
+0 0 3550
+D1
+~
+~
+0 0 3552
+D2
+~
+~
+0 0 3554
+D3
+~
+~
+0 0 3548
+D5
+~
+~
+0 0 3602
+S
+#3602
+#o(#gNorth of Bantadin / 3rd layer of the Underdark#o)#n~
+A staircase leads back up to the second layer of the Underdark, and a
+corridor leads south, to the city of the dwarves. A steel gate can be seen
+to the south, probably guarded by fierce dwarven soldiers. Perhaps the
+staircase back up isn't such a bad choice. 
+~
+8 8
+D2
+~
+~
+0 0 3603
+D4
+~
+~
+0 0 3601
+S
+#3603
+#o(#gNorth of Bantadin / 3rd layer of the Underdark#o)#n~
+South of here lies the fabled city of the deepdwarves - Bantadin, the
+last home of the dwarves. A pair of steelgates blocks the passage south, but
+the vast corridor north, which leads up to the second layer of the Underdark
+seems unobstructed. 
+~
+8 8
+T
+>enter<~
+A voice booms '#yNone shall pass!#n'.
+~
+~
+all~
+262144 0 0
+D0
+~
+~
+0 0 3602
+D2
+~
+door~
+103 3527 3604
+S
+#3604
+#o(#gLancers Lane / City of Bantadin#o)#n~
+Looming just north of you is the great gates of Bantadin. More than 50
+feet tall, the gates are the tallest construction in the city, and has
+withstood drow and goblin armies for centuries. Elite dwarven warriors are
+patrolling the length of the gate, armed with mithrill axes and full body
+platemail. 
+~
+8 8
+D0
+~
+~
+103 3527 3603
+D1
+~
+~
+0 0 3605
+D3
+~
+~
+0 0 3606
+S
+#3605
+#o(#gLancers Lane / City of Bantadin#o)#n~
+The gruff working song of toiling miners can be heard and felt, coming
+somewhere northeast of here, and the great gates of Bantadin looms just
+northwest of this tunnel corridor. Dwarven merchants are busily walking
+past, some with carts filled with goods, and others with stacks of official
+looking papers. 
+~
+8 8
+D1
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3604
+S
+#3606
+#o(#gLancers Lane / City of Bantadin#o)#n~
+The Lancers Lane continues east and west, with the great gates of
+Bantadin just northeast of here. The sound of working dwarven miners can be
+heard to the northwest, and a noise commotion can be heard somewhere west of
+here. 
+~
+8 8
+D1
+~
+~
+0 0 3604
+D3
+~
+~
+0 0 3615
+S
+#3607
+#o(#gWoodworkers Lane / City of Bantadin#o)#n~
+In this cross, pathways leads in all directions. North lies the eastern
+excavation wing, where dwarves are toiling with the harder metals, and to
+the south lies the Woodwokers Lane. Just east of here is a small guardhouse,
+and the Lancers Lane, which leads to the exit of the city, continues west
+from here. 
+~
+8 8
+D0
+~
+~
+0 0 3608
+D1
+~
+~
+0 0 3609
+D2
+~
+~
+0 0 3610
+D3
+~
+~
+0 0 3605
+S
+#3608
+#o(#gEastern Excavation Wing / 3rd layer of the Underdark#o)#n~
+This is the entrance to the eastern excavation wing, where dwarves toil
+with the hard work of brining true dwarven steel to the dwarven smiths. Only
+the finest ore can be used, so most of the impure ore mined by the dwarves
+is simply dumped outside the city, where orcs, goblins and other
+deepdwelling races live. 
+~
+12 8
+D0
+~
+~
+0 0 3689
+D2
+~
+~
+0 0 3607
+S
+#3609
+#o(#gA Guardhouse / City of Bantadin#o)#n~
+A small desk stands against the wall, piled with paperwork. The only
+illumination in the guardhouse is a small candle on the desk, which has
+almost burned down. A seemling important dwarf is patiently waiting for
+someone to return. 
+~
+8 8
+D3
+~
+~
+0 0 3607
+S
+#3610
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3607
+D2
+~
+~
+0 0 3611
+S
+#3611
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3610
+D1
+~
+~
+0 0 3612
+D2
+~
+~
+0 0 3624
+S
+#3612
+#o(#gSilver Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3618
+D1
+~
+~
+0 0 3613
+D2
+~
+~
+0 0 3619
+D3
+~
+~
+0 0 3611
+S
+#3613
+#o(#gSilver Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3620
+D1
+~
+~
+0 0 3614
+D2
+~
+~
+0 0 3621
+D3
+~
+~
+0 0 3612
+S
+#3614
+#o(#gSilver Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3622
+D2
+~
+~
+0 0 3623
+D3
+~
+~
+0 0 3613
+S
+#3615
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+The merchant lane continues south of here, and the western excavation
+wing lies just a few paces north. A packed guardhouse lies to the west, from
+where much yelling and cursing can be heard. 
+~
+8 8
+D0
+~
+~
+0 0 3617
+D1
+~
+~
+0 0 3606
+D2
+~
+~
+0 0 3637
+D3
+~
+~
+0 0 3616
+S
+#3616
+#o(#gA Guardhouse / City of Bantadin#o)#n~
+Inside the guardhouse, chaos has erupted. It seems a drow invasion has
+begun in the upper layers, and the guards are discussion what actions to
+take. Paper lies in huge stacks on the floor, keeping tack of who enters and
+leaves the city of Bantadin, and what goods are imported and exported. 
+~
+8 8
+D1
+~
+~
+0 0 3615
+S
+#3617
+#o(#gWestern Excavation Wing / 3rd layer of the Underdark#o)#n~
+This is the entrace to the western excavation wing, which lies to the
+north. To the south lies the main city, where merchants and smiths practice
+the craft of the dwarves. Gold is plentiful in the dwarven mines, and
+several young dwarves are at work brining the precious metal to the
+goldsmiths in town. 
+~
+12 8
+D0
+~
+~
+0 0 3677
+D2
+~
+~
+0 0 3615
+S
+#3618
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3612
+S
+#3619
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3612
+S
+#3620
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3613
+S
+#3621
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3613
+S
+#3622
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3614
+S
+#3623
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3614
+S
+#3624
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3625
+S
+#3625
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3624
+D1
+~
+~
+0 0 3627
+D2
+~
+~
+0 0 3626
+S
+#3626
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3636
+S
+#3627
+#o(#gGolden Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3634
+D1
+~
+~
+0 0 3628
+D2
+~
+~
+0 0 3635
+D3
+~
+~
+0 0 3625
+S
+#3628
+#o(#gGolden Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3632
+D1
+~
+~
+0 0 3629
+D2
+~
+~
+0 0 3633
+D3
+~
+~
+0 0 3627
+S
+#3629
+#o(#gGolden Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3630
+D2
+~
+~
+0 0 3631
+D3
+~
+~
+0 0 3628
+S
+#3630
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3629
+S
+#3631
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3629
+S
+#3632
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3628
+S
+#3633
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3628
+S
+#3634
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3627
+S
+#3635
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3627
+S
+#3636
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3626
+D2
+~
+~
+0 0 3661
+S
+#3637
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+As Merchants Lane continues north and south, dwarves are scurrying
+southwards, to the living areas which are located southwest of here. Miners
+are trudging both to and from work, since the mines are open both day and
+night. 
+~
+8 8
+D0
+~
+~
+0 0 3615
+D2
+~
+~
+0 0 3638
+S
+#3638
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+To the west lies one of the living areas, which most dwarves have build
+their homes. North and south the main street, Merchants Lane, leads either
+to the mines or deeper into the city of Bantadin. Another sidepassage can be
+seen south of here, which leads to another section of the living areas. 
+~
+8 8
+D0
+~
+~
+0 0 3637
+D2
+~
+~
+0 0 3639
+D3
+~
+~
+0 0 3643
+S
+#3639
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3638
+D2
+~
+~
+0 0 3640
+S
+#3640
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3639
+D2
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3646
+S
+#3641
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3640
+D2
+~
+~
+0 0 3642
+S
+#3642
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3682
+S
+#3643
+#o(#gSteel Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3659
+D1
+~
+~
+0 0 3638
+D2
+~
+~
+0 0 3660
+D3
+~
+~
+0 0 3644
+S
+#3644
+#o(#gSteel Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3657
+D1
+~
+~
+0 0 3643
+D2
+~
+~
+0 0 3658
+D3
+~
+~
+0 0 3645
+S
+#3645
+#o(#gSteel Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3655
+D1
+~
+~
+0 0 3644
+D2
+~
+~
+0 0 3656
+S
+#3646
+#o(#gIron Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3653
+D1
+~
+~
+0 0 3640
+D2
+~
+~
+0 0 3654
+D3
+~
+~
+0 0 3647
+S
+#3647
+#o(#gIron Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3651
+D1
+~
+~
+0 0 3646
+D2
+~
+~
+0 0 3652
+D3
+~
+~
+0 0 3648
+S
+#3648
+#o(#gIron Avenue / City of Bantadin#o)#n~
+~
+8 8
+D0
+~
+~
+0 0 3649
+D1
+~
+~
+0 0 3647
+D2
+~
+~
+0 0 3650
+S
+#3649
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3648
+S
+#3650
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3648
+S
+#3651
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3647
+S
+#3652
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3647
+S
+#3653
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3646
+S
+#3654
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3646
+D4
+~
+~
+0 0 3693
+S
+#3655
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3645
+S
+#3656
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3645
+S
+#3657
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3644
+S
+#3658
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3644
+S
+#3659
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D2
+~
+~
+0 0 3643
+S
+#3660
+#o(#gA dwarven home#o)#n~
+~
+8 0
+D0
+~
+~
+0 0 3643
+S
+#3661
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+This is the end of the Woodworkers Lane, which leads from the city gates
+to here, at the fungus caves, where the dwarves grow several different
+fungi, used for food, brewing beer and smoking. To the east, west and south
+lies different fungus caves. 
+~
+8 8
+D0
+~
+~
+0 0 3636
+D1
+~
+~
+0 0 3662
+D2
+~
+~
+0 0 3663
+D3
+~
+~
+0 0 3664
+S
+#3662
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+A sign on the wall prohibits any lizards or serpents from entering the
+eastern alcove, which should contain the fields of mushfungi, a eatable
+fungus which is also the prefered food of many subterranean lizards. 
+~
+8 8
+D1
+~
+~
+0 0 3672
+D3
+~
+~
+0 0 3661
+S
+#3663
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+The cave is filled with fungi of all kinds, from the rare glowmoss to the
+common cavefungus. The dwarves use these fungi as food, spice, intoxicant,
+and many other things. Some dwarven bread is even baked on fungi flour. 
+~
+8 10
+D0
+~
+~
+0 0 3661
+D1
+~
+~
+0 0 3665
+D2
+~
+~
+0 0 3667
+D3
+~
+~
+0 0 3666
+S
+#3664
+#o(#gWoodworkers Lane / City of Bantadin #o)#n~
+As the Woodworkers Lane narrows into the slim entrance to the western
+fungus cave, it grows wider to the east, where a corridor will take you
+northwards, into Bantadin. The moss growing on the walls gives a bright
+green light, which is enough to illuminate the entire corridor. 
+~
+8 8
+D1
+~
+~
+0 0 3661
+D3
+~
+~
+0 0 3668
+S
+#3665
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+In the eastern part of the fungus cave, the red-topped mushrooms are
+planted, which are used for brewing some of the strongest dwarven ale. One
+should never attempt to eat these fungi, nor try to brew this ale without
+dwarven help. 
+~
+8 10
+D3
+~
+~
+0 0 3663
+S
+#3666
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+In the western part of the funguscaves, one can find the common
+cavefungus, which is used as a base in most dwarven food. It has a sweat
+taste, and can be used in sauces, bread and boiled dishes.
+~
+8 10
+D1
+~
+~
+0 0 3663
+S
+#3667
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+Glowmoss and pink fungi grows in this cave, all are eatable, but perhaps
+only by dwarfs. The glowmoss emits a faint grenish light, which is the sole
+source of illumination in this cave. 
+~
+8 10
+D0
+~
+~
+0 0 3663
+S
+#3668
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+The western fungus cave grows a wide range of fungi, though most are used
+as weed for the dwarven pipes. Several of the fungi growing in these caves
+are illegal in the human settlements, and cannot be imported. Dwarves, being
+a stronger breed, doesn't seem to have any problems smoking these fungi. 
+~
+8 10
+D0
+~
+~
+0 0 3669
+D1
+~
+~
+0 0 3664
+D2
+~
+~
+0 0 3670
+D3
+~
+~
+0 0 3671
+S
+#3669
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+Water trickles down the limestone walls, bringing nourishment to the
+plants of shadows growing in the soft earth. Lizard shit and excrements
+coming from the dwarven sewers are used as food for these fungi, which draws
+on the strength of smell so it can become the strong dwarven pipeweed. 
+~
+8 10
+D2
+~
+~
+0 0 3668
+S
+#3670
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+Long rows of neatly planted fungus are spread across the floor, some of
+the rows are even growing up the wall. There is no natural illumination in
+this alcove, and a sign on the wall warns visitors of using any lightsource,
+since it will ruin the strenght of the harvest. 
+~
+8 10
+D0
+~
+~
+0 0 3668
+S
+#3671
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+The dwarves of Bantadin are very proud of the pipeweed, and it is not
+without reason. The strength and taste of their weed is unmatched, even by
+the finest weeds found above ground. The main reason could be these caves,
+which gives the fungi full protection from sunlight, and that special
+Underdark radiation, which causes many of the fungi to radiate a soft glow. 
+~
+8 10
+D1
+~
+~
+0 0 3668
+S
+#3672
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+To the east lies the center of the mushfungi caves, and to the west lies
+the corridor back to Bantadin. Crates are stacked on top of eachother, each
+containing almost a hundred pounds of freshly harvested mushfungi, ready to
+be transported to the citys granery. 
+ 
+~
+8 10
+E
+crates~
+The crates are filled with freshly harvested mushfungi. 
+~
+~
+~
+0 0 0
+D1
+~
+~
+0 0 3673
+D3
+~
+~
+0 0 3662
+S
+#3673
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+With enormous patches of planted mushfungi to the east, south and north,
+the dwarven community should be able to keep the food production up for
+centuries, at least if anyone can survive on fungus alone. This is probably
+the least exciting of the fungus caves, as the mushfungi is just a plain
+brown fungus with no glow, taste or "special" affect. 
+~
+8 10
+D0
+~
+~
+0 0 3674
+D1
+~
+~
+0 0 3676
+D2
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3672
+S
+#3674
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+Rows upon rows of mushfungi grows in this northern harvest field, and
+several young dwarves are busy planting and harvesting the fungi. The
+average fungus takes no more than 2 weeks to grow to full size after it has
+been planted, so the production cycle is very short. 
+~
+8 10
+D2
+~
+~
+0 0 3673
+S
+#3675
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+As with all the fields in the mushfungi cave, there is nothing here
+except long rows of the large brown fungus which makes up most of the food
+in the city of Bantadin. 
+~
+8 10
+D0
+~
+~
+0 0 3673
+S
+#3676
+#y+ #CThe Fungus Caves / 3rd layer of the Underdark #y+#n~
+Several young dwarves are busy harvesting the lifeblood of the dwarven
+community. The large brown fungi known as mushfungus, is the only fungus
+growing in this cave, where lanterns hangs from the ceiling, since the fungi
+itself doesn't illuminate the cave. 
+~
+8 10
+D3
+~
+~
+0 0 3673
+S
+#3677
+#o(#gWestern Excavation Wing / 3rd layer of the Underdark#o)#n~
+The real excavation starts to the west, this is where dwarven miners come
+to take a break from the hard work. Food and drink as well as several extra
+tools can be found scattered around the room. To the south lies the entrance
+to the western excavation wing. 
+~
+8 8
+D2
+~
+~
+0 0 3617
+D3
+~
+~
+0 0 3678
+S
+#3678
+#o(#gWestern Excavation Wing / 3rd layer of the Underdark#o)#n~
+A birdcage hangs from the ceiling - the dwarves use these birds to know
+if the air is breathable in the tunnels; if the bird dies, it's about time
+getting out of the tunnel. The tunnel continues east and west, but there
+seems to be gold enough right here to keep a pack of dwarven miners busy. 
+~
+8 8
+D1
+~
+~
+0 0 3677
+D3
+~
+~
+0 0 3679
+S
+#3679
+#o(#gWestern Excavation Wing / 3rd layer of the Underdark#o)#n~
+As the excavation tunnel continue east and west, a goldcart is undergoing
+reperations, one of the wheels has broken, and a team of dwarves are busy
+doing the repairs. 
+~
+8 8
+D1
+~
+~
+0 0 3678
+D3
+~
+~
+0 0 3680
+S
+#3680
+#o(#gWestern Excavation Wing / 3rd layer of the Underdark#o)#n~
+Rich on gold, the tunnels continue east and west. Light is almost
+unneeded in these tunnels, as the small amount of light from the torches on
+the wall, is reflected a thousandfoll in the golden ore, which is present
+everywhere. 
+~
+8 8
+D1
+~
+~
+0 0 3679
+D3
+~
+~
+0 0 3681
+S
+#3681
+#o(#gWestern Excavation Wing / 3rd layer of the Underdark#o)#n~
+This is the end of the current excavation, though it's obvious even to
+the untrained that this ore is far from depleted. Dwarves are busy mining
+the gold, and carts are driving back and forth between the city and the
+excavation point. 
+~
+8 8
+D1
+~
+~
+0 0 3680
+S
+#3682
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+The Merchants Lane is the most busy of dwarven streets, since it's home
+to most of the shops in Bantadin. Weapons, armour, food and special dwarven
+spells can be bought for gold, and the dour dwarves seems to lighten
+somewhat at the prospect of buying a new axe or getting their hands of a new
+suit of platemail. 
+~
+8 8
+D1
+~
+~
+0 0 3642
+D3
+~
+~
+0 0 3683
+S
+#3683
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+As Merchants Lane continues east and west, the smell of newly baked bread
+is coming from the north, where the bakers shop is currently open. To the
+south lies the weapon store, where most dwarves come to get their axes
+sharpended or re-bought, should their old axe be lost in combat. 
+~
+8 8
+D0
+~
+~
+0 0 3685
+D1
+~
+~
+0 0 3682
+D2
+~
+~
+0 0 3686
+D3
+~
+~
+0 0 3684
+S
+#3684
+#o(#gMerchants Lane / City of Bantadin#o)#n~
+In the busy section of the Merchant Lane, several dwarves are walking
+past eachother, carrying crates and pulling carts filled with goods. To the
+north lies Smithy's Shop, the store of an old adventuring dwarf, who's
+skills at enhancing weapons is must sought. To the south lies the dwarven
+armoury, from where several crates are currently being moved out and placed
+in carts. 
+~
+8 8
+D0
+~
+~
+0 0 3687
+D1
+~
+~
+0 0 3683
+D2
+~
+~
+0 0 3688
+S
+#3685
+#o(#gThe Bakers Shop#o)#n~
+Baskets with freshbaked bread line the shelves of thist store, and a few
+dwarven maids are busy shaping dough into bread, so the master baker herself
+can put them in the oven. Dwarves doesn't seem to hindered by a huge
+imagination, so all the bread in the store looks practically the same,
+making it easy to decide what to get. 
+~
+8 0
+D2
+~
+~
+0 0 3683
+S
+#3686
+#o(#gThe Weapon Store#o)#n~
+A gruff looking dwarf is sharpening the edge of his huge battleaxe.
+Inside the weapon store, the walls are portraied with several dwarven
+weapons, and even though most of these weapons are axes, a few swords and
+projectile weapons can be found on display. 
+~
+8 0
+D0
+~
+~
+0 0 3683
+S
+#3687
+#o(#gSmithy's Shop#o)#n~
+The smithy is hot as the beach in summer, and more humid than the
+thickest patch jungle. Steam erupts from great barrels of water, as hot iron
+is plunged below the surface of the dark waters. The constant drum of
+hammers hitting metal makes it hard to talk without having to shout at the
+top of ones voice. There is a sign hanging on the wall. 
+~
+8 0
+E
+sign~
+Armour and weapons enhanced, cost is 500 goldcrowns, no credit!
+ 
+type 'buy enhance [item]' to get the enhancement.
+~
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3684
+S
+#3688
+#o(#gThe Dwarven Armoury#o)#n~
+Several crates filled with suits of platemail, stacks of shields and
+several large axes is currently being loaded into carts, and shipped of to
+the dwarven army, which is currently fighting the drow hordes. The dwarven
+armourer is busy ordering dwarven workers around, but takes time to serve
+the occasional customer. 
+~
+8 0
+D0
+~
+~
+0 0 3684
+S
+#3689
+#o(#gEastern Excavation Wing / 3rd layer of the Underdark#o)#n~
+The few dwarves in this room is busy doing nothing. To the east lies the
+actual excavation site, and this is only the room used in the brief break
+periods, where dwarves are allowed to relax. Besides a few wooden stools,
+nothing special can be found in this room. 
+~
+8 8
+D1
+~
+~
+0 0 3690
+D2
+~
+~
+0 0 3608
+S
+#3690
+#o(#gEastern Excavation Wing / 3rd layer of the Underdark#o)#n~
+As the tunnel continiue both east and west, many dwarves are busy
+extracting the pure dwarven ore from the walls, which is later refined into
+dwarven truesteel. 
+~
+8 8
+D1
+~
+~
+0 0 3691
+D3
+~
+~
+0 0 3689
+S
+#3691
+#o(#gEastern Excavation Wing / 3rd layer of the Underdark#o)#n~
+The working song of the dwarves is bouncing back and forth between the
+walls, as the deep voices of the little people grows louder. The tunnel
+continue east and west, though it seems to be ending a few paces east of
+here. 
+~
+8 8
+D1
+~
+~
+0 0 3692
+D3
+~
+~
+0 0 3690
+S
+#3692
+#o(#gEastern Excavation Wing / 3rd layer of the Underdark#o)#n~
+This part of the excavation site is not completed yet, and several
+dwarven miners are busy clearing rubble and dirt, so others can continue
+working the tunnels. Noone seems to be working on extracting ore in this
+section of the mine. 
+~
+8 8
+D3
+~
+~
+0 0 3691
+S
+#3693
+#o(#gThe Secret Chamber#o)#n~
+~
+8 0
+D5
+~
+~
+0 0 3654
+S
+#3694
+#C<#c+#C>#GThe Treasury / 4th layer of the Underdark#C<#c+#C>#n~
+The secret treasure room of the deepdwarves is said to be home to many
+dwarven relics. Magnificent dwarven platemail, swords and axes hangs on the
+wall of these halls, and ancient paintings of forgotten dwarven gods can be
+found next to huge battle axes. 
+~
+262152 0
+D0
+~
+~
+0 0 3695
+D1
+~
+~
+0 0 3697
+D2
+~
+~
+0 0 3696
+D3
+~
+~
+0 0 3698
+S
+#3695
+#C<#c+#C>#GThe Treasury / 4th layer of the Underdark#C<#c+#C>#n~
+In the northen end of the dwarven treasury, one can find weapons of all
+sorts, ranging from polearms like the awl pike, to finely crafted ornamental
+daggers and dirks. A tapestry picturing a dwarven smithy at work, hangs on
+the eastern wall. 
+~
+262152 0
+D2
+~
+~
+0 0 3694
+S
+#3696
+#C<#c+#C>#GThe Treasury / 4th layer of the Underdark#C<#c+#C>#n~
+The southern alcove in the treasury contains gold and jewels - treasury
+chest upon treasure chest is stacked on the floor, each containing riches
+beyond the imagination of most human kings. 
+~
+262152 0
+D0
+~
+~
+0 0 3694
+S
+#3697
+#C<#c+#C>#GThe Treasury / 4th layer of the Underdark#C<#c+#C>#n~
+In the eastern alcove of the treasury, many finely crafted arrows,
+ballista arrows, crossbow bolts and other ranged projectiles are epicted.
+Weapons of mass destruction are painted on rough canvas, and put on display.
+Diamond-tipped crossbow bolts seems the most extragavant of the displayed
+weapons. 
+~
+262152 0
+D3
+~
+~
+0 0 3694
+S
+#3698
+#C<#c+#C>#GThe Treasury / 4th layer of the Underdark#C<#c+#C>#n~
+In the western alcove a single platform stands in the center of the room.
+On top of the platform lies a wicked dual-bladed battleaxe, with runes of
+power engraved on the shaft. A shimmering forcefield surrounds the platform,
+preventing anyone from taking the axe. 
+~
+262152 0
+D1
+~
+~
+0 0 3694
+S
+#0
+
+
+
+#SPECIALS
+Q 3512 questspec_dwarvensage
+Q 3513 questspec_gemqueen
+Z 3514 shopspec_gemenchanter
+Z 3515 shopspec_gemdragon
+Z 3516 shopspec_gemdragon
+D 3522 deathspec_snotling
+Q 3523 questspec_durgaard
+Z 3524 shopspec_generic
+Z 3525 shopspec_smithy
+Z 3526 shopspec_generic
+Z 3527 shopspec_generic
+D 3539 deathspec_illthid
+S
+
+
+
+#RESETS
+M 0 3501 1 3503
+M 0 3502 1 3503
+M 0 3504 1 3504
+M 0 3503 1 3504
+M 0 3502 1 3505
+M 0 3504 1 3505
+M 0 3506 1 3506
+G 0 3511 0
+M 0 3504 1 3507
+M 0 3504 1 3508
+M 0 3503 1 3508
+M 0 3502 1 3509
+M 0 3502 1 3509
+M 0 3501 1 3510
+M 0 3501 1 3510
+M 0 3503 1 3511
+M 0 3503 1 3511
+M 0 3506 1 3512
+M 0 3502 1 3513
+M 0 3502 1 3514
+O 0 3510 0 3515
+M 0 3504 1 3515
+M 0 3504 1 3516
+M 0 3501 1 3516
+M 0 3501 1 3517
+M 0 3502 1 3517
+M 0 3506 1 3518
+M 0 3501 1 3520
+M 0 3502 1 3521
+M 0 3506 1 3522
+M 0 3501 1 3525
+M 0 3506 1 3526
+G 0 3511 0
+M 0 3502 1 3527
+M 0 3502 1 3527
+M 0 3503 1 3528
+M 0 3503 1 3529
+O 0 3503 0 3530
+M 0 3504 1 3530
+M 0 3504 1 3530
+M 0 3501 1 3531
+M 0 3502 1 3531
+O 0 3504 0 3532
+P 0 3505 0 3504
+P 0 3506 0 3504
+M 0 3505 1 3532
+O 0 3501 0 3533
+M 0 3505 1 3533
+O 0 3508 0 3534
+P 0 3509 0 3508
+M 0 3505 1 3534
+M 0 3505 1 3535
+M 0 3506 1 3536
+O 0 3507 0 3537
+M 0 3502 1 3537
+M 0 3504 1 3537
+M 0 3502 1 3538
+M 0 3501 1 3538
+O 0 3502 0 3539
+M 0 3510 1 3541
+M 0 3510 1 3543
+M 0 3510 1 3543
+M 0 3511 1 3544
+M 0 3511 1 3545
+M 0 3511 1 3546
+M 0 3510 1 3547
+M 0 3509 1 3548
+O 0 3517 0 3549
+P 0 3518 0 3517
+M 0 3509 1 3550
+M 0 3510 1 3551
+M 0 3509 1 3552
+M 0 3510 1 3553
+M 0 3509 1 3554
+M 0 3510 1 3554
+O 0 3531 0 3554
+M 0 3509 1 3556
+O 0 3514 0 3558
+M 0 3507 1 3559
+M 0 3507 1 3560
+M 0 3507 1 3561
+M 0 3507 1 3562
+M 0 3507 1 3563
+M 0 3507 1 3564
+O 0 3516 0 3565
+M 0 3507 1 3565
+M 0 3507 1 3566
+M 0 3507 1 3567
+O 0 3515 0 3568
+M 0 3510 1 3573
+M 0 3509 1 3574
+M 0 3510 1 3575
+M 0 3509 1 3576
+M 0 3509 1 3578
+O 0 3513 0 3579
+M 0 3510 1 3579
+O 0 3512 0 3580
+M 0 3512 1 3580
+M 0 3510 1 3582
+M 0 3508 1 3585
+M 0 3508 1 3585
+M 0 3508 1 3585
+M 0 3508 1 3585
+M 0 3517 1 3587
+M 0 3517 1 3588
+M 0 3517 1 3589
+M 0 3517 1 3590
+M 0 3517 1 3591
+M 0 3513 1 3592
+M 0 3514 1 3593
+M 0 3515 1 3594
+G 0 3524 0
+G 0 3523 0
+G 0 3525 0
+M 0 3516 1 3595
+G 0 3521 0
+G 0 3522 0
+O 0 3520 0 3598
+M 0 3518 1 3598
+O 0 3520 0 3599
+M 0 3518 1 3599
+O 0 3520 0 3600
+M 0 3518 1 3600
+M 0 3519 1 3603
+M 0 3520 1 3603
+G 0 3527 0
+M 0 3534 1 3605
+M 0 3534 1 3605
+M 0 3538 1 3605
+O 0 3544 0 3605
+M 0 3534 1 3606
+M 0 3536 1 3606
+M 0 3523 1 3609
+M 0 3538 1 3609
+M 0 3538 1 3609
+M 0 3538 1 3616
+M 0 3538 1 3616
+M 0 3528 1 3616
+M 0 3536 1 3618
+M 0 3537 1 3618
+M 0 3535 1 3619
+O 0 3532 0 3620
+O 0 3532 0 3620
+M 0 3535 1 3620
+M 0 3535 1 3620
+M 0 3535 1 3621
+O 0 3543 0 3621
+P 0 3542 0 3543
+M 0 3537 1 3623
+M 0 3535 1 3623
+M 0 3534 1 3624
+M 0 3534 1 3624
+M 0 3528 1 3624
+M 0 3536 1 3626
+M 0 3534 1 3626
+M 0 3538 1 3626
+M 0 3535 1 3630
+M 0 3535 1 3631
+M 0 3535 1 3631
+M 0 3535 1 3632
+M 0 3535 1 3633
+M 0 3535 1 3633
+M 0 3535 1 3634
+M 0 3537 1 3634
+G 0 3644 0
+O 0 3643 0 3634
+P 0 3645 0 3643
+M 0 3535 1 3635
+M 0 3539 1 3636
+M 0 3538 1 3637
+M 0 3536 1 3638
+M 0 3536 1 3638
+G 0 3541 0
+M 0 3528 1 3639
+M 0 3538 1 3640
+M 0 3534 1 3641
+M 0 3534 1 3641
+M 0 3534 1 3641
+M 0 3528 1 3641
+M 0 3535 1 3650
+M 0 3535 1 3651
+M 0 3535 1 3651
+M 0 3535 1 3653
+M 0 3537 1 3653
+M 0 3537 1 3654
+M 0 3535 1 3654
+M 0 3535 1 3654
+M 0 3537 1 3655
+M 0 3535 1 3655
+M 0 3535 1 3656
+M 0 3537 1 3659
+M 0 3537 1 3659
+M 0 3535 1 3659
+O 0 3540 0 3659
+M 0 3535 1 3660
+M 0 3535 1 3660
+M 0 3535 1 3660
+M 0 3519 1 3661
+M 0 3519 1 3661
+O 0 3636 0 3667
+O 0 3636 0 3667
+O 0 3547 0 3669
+O 0 3547 0 3670
+O 0 3547 0 3671
+O 0 3546 0 3674
+O 0 3546 0 3674
+O 0 3546 0 3675
+O 0 3546 0 3675
+O 0 3546 0 3676
+O 0 3546 0 3676
+O 0 3632 0 3677
+M 0 3521 1 3677
+O 0 3631 0 3678
+M 0 3521 1 3678
+M 0 3521 1 3678
+O 0 3528 0 3679
+P 0 3529 0 3528
+P 0 3530 0 3528
+M 0 3521 1 3679
+M 0 3521 1 3679
+M 0 3521 1 3680
+M 0 3521 1 3680
+M 0 3521 1 3681
+M 0 3521 1 3681
+M 0 3538 1 3683
+O 0 3545 0 3683
+M 0 3524 1 3685
+G 0 3533 0
+G 0 3534 0
+M 0 3526 1 3686
+G 0 3538 0
+G 0 3539 0
+M 0 3525 1 3687
+M 0 3527 1 3688
+G 0 3535 0
+G 0 3536 0
+G 0 3537 0
+M 0 3521 1 3689
+M 0 3521 1 3689
+O 0 3633 0 3689
+M 0 3521 1 3690
+M 0 3521 1 3690
+M 0 3521 1 3691
+M 0 3521 1 3691
+M 0 3521 1 3692
+M 0 3521 1 3692
+O 0 3634 0 3692
+O 0 3635 0 3693
+M 0 3522 1 3694
+O 0 3637 0 3696
+P 0 3638 0 3637
+O 0 3639 0 3698
+P 0 3640 0 3639
+S
+
+
+
+#$

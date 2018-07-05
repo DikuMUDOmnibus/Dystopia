@@ -1,0 +1,19 @@
+CHAINEXAMPLES
+CHAINEXAMPLES WARLOCK
+1
+This page lists some of the more common chain spells used by warlocks.
+No more than 2 spells are chained in these examples, feel free to make
+the chains longer if you want. In the examples '%1' means the target,
+and if you create an alias for the spells, you can just use %1, and
+the alias will substitute the real target for you.
+
+Global-Healing          Local-Room-Damage      Booster-Spell
+=====================================================================
+winit                   winit                  winit
+wtarget global person   wtarget local room     wtarget local person
+wtype heal              wtype damage           wtype affect
+wfocus %1               wfocus %1              wfocus %1
+wchain                  wchain                 wcast
+wtype heal              wtype damage
+wfocus %1               wfocus %1
+wcast                   wcast

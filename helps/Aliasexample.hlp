@@ -1,0 +1,20 @@
+ALIASEXAMPLE
+ALIASEXAMPLE CONFIGURATION
+-1
+These are a few examples on using aliases.
+
+Should you wish to costumize your say command, all you have to do is
+override the say command with a custom pose like this
+
+alias say pose chitters '##P@1#n'
+
+Now when you enter 'say Hello there', everyone else will just see
+John chitters '#PHello there#n'.
+
+You may wish to alias your drug abuse, in which case doing the following
+would do the trick. Getting the drugs from your bag, preparing it, and
+then taking it.
+
+alias dodrugs get stimpack bag:open stimpack:attach stimpack self
+
+Remember, aliases can be your friend, and will save you a lot of typing.

@@ -1,0 +1,14 @@
+WATER DOME
+'WATER DOME' WATERDOME GIANT
+1
+This evolve can be gained by any giant which has first gained the evolve known
+as '@@stream of water@', and it opposes the evolve known as '@@liquify@'. Only
+one of these two evolves can be gained.
+
+This evolve allows the giant to create a huge dome of dampening water, which
+will prevent any attempts to recall from this room. The water dome will also
+block any direct scrying attempts into the room.
+
+The same command that summons the water dome can be used to dispell it.
+
+syntax: waterdome [off]

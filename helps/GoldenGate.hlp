@@ -1,0 +1,19 @@
+GOLDEN GATE
+'GOLDEN GATE' ESSENCE GIANT
+1
+Giant shamans can learn two new yellow spells, if they pick the right evolves.
+These two spells are called Golden Gate and Essence.
+
+Golden Gate requires the sacrifice of a rare or sentient item, which is used
+to conjure forth three beams of golden energy. These beams will strike down
+anyone close to the caster, pinning them to the room, making it impossible
+to move out of the room, as well as reduce the victims armour class. If the
+caster is fighting someone, that person will be more likely to be hit by the
+golden beams of energy.
+
+Essence also requires the sacrifice of a rare or sentient item. This spell
+allows the caster to transform the item into a direct link with a player,
+giving the caster insight into that players actions for a brief period.
+
+Syntax: cast 'golden gate'
+Syntax: cast essence [victim]
